@@ -1,0 +1,1966 @@
+Symbol	Description
+00001	Cheung Kong (Holdings) Ltd
+00002	CLP Holdings Ltd
+00003	Hong Kong and China Gas Co. Ltd
+00004	Wharf (Holdings) Ltd
+00005	HSBC Holdings plc
+00006	Power Asset Holdings
+00007	Hoifu Energy
+00008	PCCW Ltd
+00009	Mandarin Entertainment (Holdings) Ltd
+00010	Hang Lung Group Ltd
+00011	Hang Seng Bank Ltd
+00012	Henderson Land Development Co. Ltd
+00014	Hysan Development Co. Ltd
+00015	Vantage International (Holdings) Ltd
+00016	Sun Hung Kai Properties Ltd
+00017	New World Development Co. Ltd
+00018	Oriental Press Group Ltd
+00019	Swire Pacific Ltd 'A'
+00020	Wheelock and Co. Ltd
+00021	Beauforte Investors Corporation Ltd
+00022	Mexan Ltd
+00023	Bank of East Asia Ltd
+00024	Burwill Holdings Ltd
+00025	Chevalier International Holdings Ltd
+00026	China Motor Bus Co. Ltd
+00027	Galaxy Entertainment Group Ltd
+00028	Tian An China Investments Co. Ltd
+00029	Dynamic Holdings Ltd
+00030	ABC Communications Ltd
+00031	China Aerospace International Holdings Ltd
+00032	Cross-Harbour (Holdings) Ltd
+00033	Elec & Eltek International Holdings Ltd
+00034	Kowloon Development Co. Ltd
+00035	Far East Consortium International Ltd
+00036	Far East Technology International Ltd
+00037	Far East Hotels & Entertainment Ltd
+00038	First Tractor Co Ltd
+00039	Wealthmark International (Holdings) Ltd
+00040	Gold Peak Industries (Holdings) Ltd
+00041	Great Eagle Holdings Ltd
+00042	Northeast Electric Development Co. Ltd
+00043	C. P. Pokphand Co. Ltd
+00044	HAECO
+00045	Hongkong and Shanghai Hotels Ltd
+00046	Computer And Technologies Holdings Ltd
+00047	Hop Hing Holdings Ltd
+00048	C Auto Int Deco
+00050	Hong Kong Ferry (Holdings) Co. Ltd
+00051	Harbour Centre Development Ltd
+00052	Fairwood Holdings Ltd
+00053	Guoco Group Ltd
+00054	Hopewell Holdings Ltd
+00055	Chung Tai Printing Holdings Ltd
+00056	Allied Properties (HK) Ltd
+00057	Chen Hsong Holdings Ltd
+00058	Sunway International Holdings Ltd
+00059	Skyfame Realty (Holdings) Ltd
+00060	Four Seas Food Investment Holdings Ltd
+00061	Venture International Investment Holdings Ltd
+00062	Transport International Holdings Ltd
+00063	Winfoong International Ltd
+00064	Get Nice Holdings Ltd
+00065	Pacific Century Insurance Holdings Ltd
+00066	MTR Corporation Ltd
+00067	Lumena Resources
+00068	Lee Hing Development Ltd
+00069	Shangri-La Asia Ltd
+00070	Massive Resources International Corporation Ltd
+00071	Miramar Hotel & Investment Co. Ltd
+00072	King Pacific International Holdings Ltd
+00073	Alpha General (holdings)
+00075	Y. T. Realty Group Ltd
+00076	South Sea Petroleum Holdings Ltd
+00077	AMS Public Transport Holdings Ltd
+00078	Regal Hotels International Holdings Ltd
+00079	Century Legend (Holdings) Ltd
+00080	Shaw Brothers (Hong Kong) Ltd
+00081	Shell Electric Mfg (Holdings) Co. Ltd
+00082	Yanion International Holdings Ltd
+00083	Sino Land Co. Ltd
+00084	Stelux Holdings International Ltd
+00085	China Electronics Corporation Holdings Co. Ltd
+00086	Sun Hung Kai & Co. Ltd
+00087	Swire Pacific Ltd 'B'
+00088	Tai Cheung Holdings Ltd
+00089	Tai Sang Land Development Ltd
+00090	Gold Wo International Holdings
+00091	New Smart Holdings Ltd
+00092	Champion Technology Holdings Ltd
+00093	Termbray Industries International (Holdings) Ltd
+00094	Greenheart Group Limited
+00095	New Heritage Holdings Ltd
+00096	Wing Lung Bank Ltd
+00097	Henderson Investment Ltd
+00098	Xingfa Aluminium Holdings Ltd
+00099	Wong's International (Holdings) Ltd
+00100	Clear Media Ltd
+00101	Hang Lung Properties Ltd
+00102	Arnhold Holdings Ltd
+00103	Shougang Concord Century Holdings Ltd
+00104	Asia Commercial Holdings Ltd
+00105	Associated International Hotels Ltd
+00106	Shenzhen High-Tech Holdings Ltd
+00107	Sichuan Expressway Co. Ltd
+00108	Buildmore International Ltd
+00109	Wonderful World Holdings Ltd
+00110	Fortune Telecom Holdings Ltd
+00111	Hantec Investment Holdings Ltd
+00112	Chi Cheung Investment Co. Ltd
+00113	Dickson Concepts (International) Ltd
+00114	Herald Holdings Ltd
+00115	Grand Field Group Holdings Ltd
+00116	Chow Sang Sang Holdings International Ltd
+00117	Eyang Holdings Group
+00118	Cosmos Machinery Enterprises Ltd
+00119	Poly (Hong Kong) Investments Ltd
+00120	Cosmopolitan International Holdings Ltd
+00121	Chia Tai Enterprises International Ltd
+00122	Crocodile Garments Ltd
+00123	Yuexiu Property
+00124	Kingway Brewery Holdings Ltd
+00125	Sun Hing Vision Group Holdings Ltd
+00126	Tak Sing Alliance Holdings Ltd
+00127	Chinese Estates Holdings Ltd
+00128	ENM Holdings Ltd
+00129	Asia Standard International Group Ltd
+00130	Moiselle International Holdings Ltd
+00131	Cheuk Nang (Holdings) Ltd
+00132	China Investments Holdings Ltd
+00133	China Merchants China Direct Investments Ltd
+00135	Kunlun Energy
+00136	Mascotte Holdings Ltd
+00137	Jinhui Holdings Co. Ltd
+00138	CCT Telecom Holdings Ltd
+00139	139 Holdings Ltd
+00141	Great China Holdings Ltd
+00142	First Pacific Co. Ltd
+00143	Global Tech (Holdings) Ltd
+00144	China Merchants Holdings (International) Co. Ltd
+00145	Hong Kong Building and Loan Agency Ltd
+00146	Tai Ping Carpets International Ltd
+00147	Graneagle Holdings Ltd
+00148	Kingboard Chemical Holdings Ltd
+00149	China Velocity Group Ltd
+00151	Want Want China Holdings Ltd
+00152	Shenzhen International Holdings Ltd
+00153	QPL International Holdings Ltd Warrants 2007
+00154	Beijing Development (Hong Kong) Ltd
+00155	China Solar Energy Holdings Ltd
+00156	Lippo China Resources Ltd
+00157	Natural Beauty Bio-Technology Ltd
+00158	Melbourne Enterprises Ltd
+00159	Wah Nam International Holdings Ltd
+00160	Hon Kwok Land Investment Co. Ltd
+00161	CATIC Shenzhen Holdings Ltd
+00162	China Golden Development Holdings Ltd
+00163	Emperor International Holdings Ltd
+00164	Premium Land Ltd
+00165	China Everbright Ltd
+00166	New Times Group Holdings Ltd
+00167	IDT International Ltd
+00168	Tsingtao Brewery Co. Ltd
+00169	China Fair Land Holdings Ltd
+00171	Silver Grant International Industries Ltd
+00172	Goldbond Group Holdings Ltd
+00173	K. Wah International Holdings Ltd
+00174	Kee Shing (Holdings) Ltd
+00175	Geely Automobile Holdings Ltd
+00176	United Pacific Industries Ltd
+00177	Jiangsu Expressway Co. Ltd
+00178	Sa Sa International Holdings Ltd
+00179	Johnson Electric Holdings Ltd
+00180	Kader Holdings Co. Ltd
+00181	Fujian Holdings Ltd
+00182	China WindPower Group Ltd
+00183	CITIC International Financial Holdings Ltd
+00184	Keck Seng Investments (Hong Kong) Ltd
+00185	China Credit Holdings Ltd
+00186	Grande Holdings Ltd
+00187	Beiren Printing Machinery Holdings Ltd
+00188	SW Kingsway Capital Holdings Ltd
+00189	Dongyue Group Ltd
+00190	Hong Kong Construction (Holdings) Ltd
+00191	Lai Sun Garment (International) Ltd
+00193	Capital Estate Ltd
+00194	Liu Chong Hing Investment Ltd
+00195	Grand Hotel Holdings A
+00196	Honghua Group Ltd
+00197	Heng Tai Consumables Group Ltd
+00198	SMI Corporation Ltd
+00199	Macau Prime Properties Holdings Ltd
+00200	Melco International Development Ltd
+00201	Magnificent Estates Ltd
+00202	Interchina Holdings Co. Ltd
+00204	China Investment Development
+00205	SEEC Media Group Ltd
+00206	ITC Corporation Ltd - Preference
+00207	Hong Kong Parkview Group Ltd
+00208	Polytec Asset Holdings Ltd
+00209	Winshine Entertainment & Media
+00210	Daphne International
+00211	Styland Holdings
+00212	Nanyang Holdings Ltd
+00213	National Electronics Holdings Ltd
+00214	Asia Orient Holdings Ltd
+00215	Hutchison Telecommunications
+00216	Chinney Investments Ltd
+00217	China Chengtong Development Group Ltd
+00218	Shenyin Wanguo (H.K.) Ltd
+00219	Shun Ho Technology Holdings Ltd
+00220	Uni-President China Holdings Ltd
+00221	LeRoi Holdings Ltd
+00222	Min Xin Holdings Ltd
+00223	Kenfair International (Holdings) Ltd
+00224	Pioneer Global Group Ltd
+00225	Pokfulam Development Co. Ltd
+00226	Lippo Ltd
+00227	First Shanghai Investments Ltd
+00228	Hon Po Group (Lobster King) Ltd
+00229	Raymond Industrial Ltd
+00230	Minmetals Land
+00231	Dynamic Global Holdings Ltd
+00232	AVIC International
+00233	Mingyuan Medicare Development Co. Ltd
+00234	New Century Group Hong Kong Ltd
+00235	China Strategic Holdings Ltd
+00236	San Miguel Brewery Hong Kong Ltd
+00237	Safety Godown Co. Ltd
+00238	Lei Shing Hong Ltd
+00239	Pak Fah Yeow International Ltd
+00240	Build King Holdings Ltd
+00241	CITIC 21CN Co. Ltd
+00242	Shun Tak Holdings Ltd
+00243	QPL International Holdings Ltd
+00244	Sincere Co. Ltd
+00245	Landune International Ltd
+00246	Henderson China Holdings Limtied
+00247	Tsim Sha Tsui Properties Ltd
+00248	HKC International Holdings Ltd
+00250	Sino-i Technology Ltd
+00251	S E A Holdings Ltd
+00252	Southeast Asia Properties & Finance Ltd
+00253	Shun Ho Resources Holdings Ltd
+00254	eCyberChina Holdings Ltd
+00255	Lung Kee (Bermuda) Holdings Ltd
+00256	China Haidian Holdings Ltd
+00257	China Everbright International Ltd
+00258	Tomson Group Ltd
+00259	Yeebo (International Holdings) Ltd
+00260	Sino Gas Group Ltd
+00261	CCT Tech International Ltd
+00262	Deson Development International Holdings Ltd
+00263	Poly Investments Holdings Ltd
+00264	Chanco International Group Ltd
+00265	South China Holdings Ltd
+00266	Tian Teck Land Ltd
+00267	CITIC Pacific Ltd
+00268	Kingdee International Software Group Co. Ltd
+00269	Seapower Resources International Ltd
+00270	Guangdong Investment Ltd
+00271	Dan Form Holdings Co. Ltd
+00272	Shui On Land
+00273	Willie International Holdings Ltd
+00274	Global Green Tech Group Ltd
+00275	Hanny Holdings Ltd
+00276	Mongolia Energy
+00277	Tern Properties Co. Ltd
+00278	Wah Ha Realty Co. Ltd
+00279	Freeman Corporation Ltd
+00280	King Fook Holdings Ltd
+00281	Rivera (Holdings) Ltd
+00282	Next Media Ltd
+00285	BYD Electronic International Company Ltd
+00286	G-Prop (Holdings) Ltd
+00287	Winfair Investment Co. Ltd
+00288	Berjaya Holdings (HK) Ltd
+00289	Wing On Company International Ltd
+00290	China Conservational Power Holdings Ltd
+00291	China Resources Enterprise Ltd
+00292	Asia Standard Hotel Group Ltd
+00293	Cathay Pacific Airways Ltd
+00294	Yangtzekiang Garment Ltd
+00295	Kong Sun Holdings Ltd
+00296	Emperor Entertainment Hotel Ltd
+00297	Sinofert Holdings Ltd
+00298	Chuang's China Investments Ltd
+00299	SinoCom Software Group Limited
+00300	Shenji Group Kunming Machine
+00303	VTech Holdings Ltd
+00305	Magnum International Holdings Ltd
+00306	Kwoon Chung Bus Holdings Ltd
+00307	Tidetime Sun (Group) Ltd
+00308	China Travel International Investment Hong Kong Ltd
+00309	Lo's Enviro-Pro Holdings Ltd
+00310	Prosperity Investment Holdings Ltd
+00311	Luen Thai Holdings Ltd
+00312	Lamex Holdings
+00313	Dickson Group Holdings Ltd
+00315	SmarTone Telecommunications Holdings Ltd
+00316	Orient Overseas (International) Ltd
+00317	Guangzhou Shipyard International Co. Ltd
+00318	Vongroup Ltd
+00320	Computime Group Ltd
+00321	Texwinca Holdings Ltd
+00322	Tingyi (Cayman Islands) Holdings Corp.
+00323	Maanshan Iron & Steel Co. Ltd
+00326	China Star Entertainment Ltd
+00327	Shanxi Central Pharmaceutical Intl Ltd
+00328	Alco Holdings Ltd
+00329	Golden Dragon Group (Holdings) Ltd
+00330	Esprit Holdings Ltd
+00331	China Resources Peoples Telephone
+00332	Ngai Lik Industrial Holdings Ltd
+00333	Top Form International Ltd
+00334	TCL Display
+00335	Upbest Group Ltd
+00336	Huabao International Holdings Ltd
+00337	Cec International Holdings Ltd W0309
+00338	Sinopec Shanghai Petrochemical Co. Ltd
+00339	Earnest Investments Holdings Ltd
+00340	China Mining Resources Group Ltd
+00341	Cafe de Coral Holdings Ltd
+00342	NewOcean Energy Holdings Ltd
+00343	Culturecom Holdings Ltd
+00345	Vitasoy International Holdings Ltd
+00346	Sino Union Petroleum & Chemical International Ltd
+00347	Angang New Steel Co. Ltd
+00348	Lung Cheong International Holdings Ltd
+00351	Asia Energy Logistics
+00352	Fortune Sun (China) Holdings Ltd
+00353	Aurora Global Investment Holdings Ltd
+00354	Chinasoft International Ltd
+00355	Century City International Holdings Ltd
+00356	DT Capital Limited
+00357	Hainan Meilan International Airport Co. Ltd
+00358	Jiangxi Copper Co. Ltd
+00359	China Haisheng Juice Holdings Co. Ltd
+00360	New Focus Auto Tech Holdings Ltd
+00361	Sino Golf Holdings Ltd
+00362	Daqing Petroleum and Chemical Group Ltd
+00363	Shanghai Industrial Holdings Ltd
+00364	Huafeng Textile International Group Ltd
+00365	Sun East Technology (Holdings) Ltd
+00366	Luks Industrial (Group) Ltd
+00367	Chuang's Consortium International Ltd
+00368	Sinotrans Shipping Ltd
+00369	USI Holdings Ltd
+00370	China Best Group Holding Ltd
+00371	Shang Hua Holdings Ltd
+00372	ITC Corporation Ltd
+00373	Allied Group Ltd
+00374	Four Seas Mercantile Holdings Ltd
+00375	YGM Trading Ltd
+00376	Asia TeleMedia Ltd
+00377	New Island Printing Holdings Ltd
+00378	Ciam Group
+00379	PME Group Ltd
+00380	World Trade Bun Kee Ltd
+00381	Kiu Hung International Holdings Ltd
+00382	Welling
+00383	COL Capital Ltd
+00384	China Gas Holdings Ltd
+00385	Chinney Alliance Group Ltd
+00386	Sinopec
+00387	Leeport (Holdings) Ltd
+00388	Hong Kong Exchanges and Clearing Ltd
+00389	Moulin Global Eyecare Holdings Ltd
+00390	China Railway Group Ltd
+00391	Mei Ah Entertainment Group Ltd
+00392	Beijing Enterprises Holdings Ltd
+00393	Glorious Sun Enterprises Ltd
+00395	Asia Zirconium Ltd
+00396	Gold-Face Holdings Ltd
+00397	Town Health Medical Technology Holdings Co. Ltd
+00398	Oriental Watch Holdings Ltd
+00399	Far East Pharmaceutical Technology Co. Ltd
+00400	Cogobuy
+00401	401 Holdings
+00402	Ming Hing Holdings Ltd
+00403	Starlite Holdings Ltd
+00404	Hsin Chong Construction Group Ltd
+00405	GZI Real Estate Investment Trust
+00406	Yau Lee Holdings Ltd
+00408	Yip's Chemical Holdings Ltd
+00410	SOHO China Ltd
+00411	Lam Soon (Hong Kong) Ltd
+00412	China Innovative Finance Group Limited
+00413	South China Industries Ltd
+00416	Bank of Jinzhou
+00417	Tse Sui Luen Jewellery (International) Ltd
+00418	Founder Holdings Ltd
+00419	Jiuhao Health
+00420	Fountain Set (Holdings) Ltd
+00422	Vietnam Manufacturing and Export Processing Ltd
+00423	Hong Kong Economic Times Holdings Ltd
+00425	Minth Group Ltd
+00426	One Media Group Ltd
+00428	Harmony Asset Limited
+00430	Oriental Explorer Holdings Ltd
+00431	Greater China Holdings Ltd
+00432	Pacific Century Premium Developments Ltd
+00433	Sun Man Tai Holdings Co. Ltd
+00434	Boyaa
+00435	Sunlight Real Estate Investment Trust
+00436	
+00438	IRICO Group Electronics Co. Ltd
+00439	Climax International Co. Ltd
+00440	Dah Sing Financial Holdings Ltd
+00442	KTL International
+00444	Sincere Watch (Hong Kong) Ltd
+00445	China Fire Safety Enterprise Group Holdings Ltd
+00449	Chigo Holding Ltd
+00450	Hung Hing Printing Group Ltd
+00451	Same Time Holdings Ltd
+00455	Yunnan Enterprises Holdings Ltd
+00456	New Rank City Development
+00458	Tristate Holdings Ltd
+00459	Midland ICI Ltd
+00460	Sihuan Pharmaceutical Holdings Group Ltd
+00462	Linfair Holdings Ltd
+00464	Kenford Group Holdings Ltd
+00465	Ford Motor Credit Co. 7.2% Notes 2007
+00467	United Energy
+00468	
+00469	General Motors Acceptance Corp 1000n0207
+00471	Global Flex Holdings Ltd
+00472	MACRO-LINK International Holdings Ltd
+00474	Winbox International (Holdings) Ltd
+00475	Noble Jewelry Holdings Ltd
+00476	China Elegance (Holdings) Ltd
+00479	Cil Holdings
+00480	HKR International Ltd
+00482	Sandmartin International Holdings Ltd
+00483	Bauhaus International (Holdings) Ltd
+00484	
+00485	Starlight International Holdings Ltd
+00486	RUSAL
+00487	Macau Success Ltd
+00488	Lai Sun Development Co. Ltd
+00489	Dongfeng Motor Group Co. Ltd
+00491	See Corporation Ltd
+00493	GOME Electrical Appliances Holding Ltd
+00494	Li & Fung Ltd
+00495	Paladin Ltd
+00496	Kasen International Holdings Ltd
+00497	Capital Strategic Investment Ltd
+00498	PYI Corporation Ltd
+00499	HyComm Wireless Ltd
+00500	DVN (Holdings) Ltd
+00503	China Paradise Electronics Retail Ltd
+00505	Xingye Copper International Group Ltd
+00506	China Foods
+00508	Chevalier iTech Holdings Ltd
+00509	Lg China Fund
+00510	Cash Financial Services Ltd
+00511	Television Broadcasts Ltd
+00512	MAXX Bioscience Holdings Ltd
+00513	Continental Holdings Ltd
+00515	TC Interconnect Holdings Ltd
+00517	COSCO International Holdings Ltd
+00518	Tungtex (Holdings) Co. Ltd
+00519	Applied International Holdings Ltd
+00520	
+00521	Shougang Concord Technology Holdings Ltd
+00522	ASM Pacific Technology Ltd
+00524	e-Kong Group Ltd
+00525	Guangshen Railway Co. Ltd
+00526	Magician Industries (Holdings) Ltd
+00527	Galaxy Semi-Conductor Holdings Ltd
+00528	General Motors Acceptance Corp 100 N0207
+00529	SiS International Holdings Ltd
+00530	Fortuna International Holdings Ltd
+00531	Samson Holding Ltd
+00532	Wong's Kong King International (Holdings) Ltd
+00533	Goldlion Holdings Ltd
+00535	Frasers Property (China) Ltd
+00536	Tradelink Electronic Commerce Ltd
+00538	Ajisen (China) Holdings Ltd
+00539	Victory City International Holdings Ltd
+00540	Thai-Asia Fund Ltd
+00542	Morning Star Resources Ltd
+00543	Pacific Online Ltd
+00544	Daido Group Ltd
+00546	Fufeng Group Ltd.  
+00547	Sun Innovation Holdings Ltd
+00548	Shenzhen Expressway Co. Ltd
+00550	Recruit Holdings
+00551	Yue Yuen Industrial (Holdings) Ltd
+00552	China Communications Services
+00553	Nanjing Panda Electronic Co. Ltd
+00554	Hans Energy Co. Ltd
+00555	REXLot Holdings Limited
+00556	Pan Asia Environmental Protection Group Ltd
+00557	City e-Solutions Ltd
+00558	L.K. Technology Holdings Ltd.
+00559	Hua Yi Copper Holdings Ltd
+00560	Chu Kong Shipping Development Co. Ltd
+00563	Neo-China Group (Holdings) Ltd
+00564	Champion Technology Holdings Ltd Warrants 2007
+00565	Art Textile Technology International Co. Ltd
+00566	RBI Holdings Ltd
+00567	Daisho Microline Holdings Ltd
+00568	Shandong Molong Petroleum Machinery Co. Ltd
+00569	Kith Holdings W0406
+00570	Wing Shan International Ltd
+00571	eSun Holdings Ltd
+00572	Spread Prospects Holdings Ltd
+00573	Hanny Holdings W0204
+00574	Pashun Pharma
+00575	Regent Pacific Group Ltd
+00576	Zhejiang Expressway Co. Ltd
+00577	Paul Y. Engineering Group Ltd
+00578	Everbest Century Holdings Ltd
+00579	Beijing Jingneng Clean Energy
+00580	Sun.King Power Electronics Group Ltd
+00581	China Oriental Group Co. Ltd
+00582	Greenfield Chemical Holdings Ltd
+00583	SCMP Group Ltd
+00585	Imagi International Holdings Ltd
+00586	Conch Venture
+00587	Hua Han Bio-Pharmaceutical Holdings Ltd
+00588	Beijing North Star Co. Ltd
+00589	Ports Design Ltd
+00590	Luk Fook Holdings (International) Ltd
+00591	China High Precision Automation Ltd
+00592	Bossini International Holdings Ltd
+00593	Quality HealthCare Asia Ltd
+00595	AV Concept Holdings Ltd
+00596	China Online (bermuda) Ltd W0306
+00598	Sinotrans Ltd
+00599	E. Bon Holdings Ltd
+00600	Honesty Treasure International Holdings Ltd
+00601	Group Sense (International) Ltd
+00602	Kingboard Chemical Holdings Ltd W0312
+00603	Nippon Asia Investments Holdings Ltd
+00604	Shenzhen Investment Ltd
+00605	K.P.I. Co. Ltd
+00606	China Agri-Industries
+00607	Warderly International Holdings Ltd
+00608	High Fashion International Ltd
+00609	Qpl International Holdings Ltd W0401
+00610	Wai Kee Holdings Ltd
+00611	Tack Hsin Holdings Ltd
+00612	China Investment Fund Co. Ltd
+00613	Yugang International Ltd
+00616	Easyknit Enterprises Holdings Ltd
+00617	Paliburg Holdings Ltd
+00618	EC-Founder (Holdings) Co. Ltd
+00619	South China Brokerage Co. Ltd
+00620	UDL Holdings Ltd
+00621	Taung Gold International Ltd
+00622	
+00623	SNP Leefung Holdings Ltd
+00625	Reef CCT Reit
+00626	Public Financial Holdings Ltd
+00627	U-RIGHT International Holdings Ltd
+00628	Teem Foundation Group Ltd
+00629	Yue Da Holdings Ltd
+00630	Jackin International Holdings Ltd
+00631	Wing Shing International Holdings Ltd Warrants 2007
+00632	China Merchants DiChain (Asia) Ltd
+00633	China All Access
+00635	Playmates Holdings Ltd
+00636	Fubon Bank Ltd
+00637	Lee Kee Holdings Ltd
+00638	Kin Yat Holdings Ltd
+00639	Fushan International Energy Group Ltd
+00640	Harmony Asset W0205
+00641	Fong's Industries Co. Ltd
+00643	Carry Wealth Holdings Ltd
+00645	KTP Holdings Ltd
+00646	China Environmental Technology
+00647	Joyce Boutique Holdings Ltd
+00648	Softbank Investment International (Strategic) Ltd
+00650	Shun Cheong Holdings Ltd
+00651	Wonson International Holdings Ltd
+00653	Bonjour Holdings Ltd
+00655	Hongkong Chinese Ltd
+00656	Fosun International
+00657	G-Vision International (Holdings) Ltd
+00658	China High Speed Transmission Equipment Group Ltd
+00659	NWS Holdings Ltd
+00660	Nority International Group Ltd
+00661	China National Resources Development Holdings Ltd
+00662	Asia Financial Holdings Ltd
+00663	Swank International Manufacturing Co. Ltd
+00665	Taifook Securities Group Ltd
+00666	Yu Ming Investments Ltd
+00668	Hong Kong Catering Management Ltd
+00669	Techtronic Industries Co. Ltd
+00670	China Eastern Airlines Corporation Ltd
+00672	Barclays Asian Selection Fund Ltd-aseans
+00673	China HealthCare Holdings Ltd
+00674	United Power Investment Ltd
+00675	K & P International Holdings Ltd
+00676	Pegasus International Holdings Ltd
+00677	Golden Resources Development International Ltd
+00678	Star Cruises Ltd
+00679	Asia Tele-Net And Technology Corporation Ltd
+00680	Nan Hai Corporation Ltd
+00681	Chinese People Gas Holdings Co. Ltd
+00682	Chaoda Modern Agriculture (Holdings) Ltd
+00683	Kerry Properties Ltd
+00684	Allan International Holdings Ltd
+00685	Ming Pao Enterprise Corporation Ltd
+00686	Gay Giano International Group Ltd
+00687	Tysan Holdings Ltd
+00688	China Overseas Land & Investment Ltd
+00689	Great Wall Cybertech Ltd
+00690	Uni-Bio Science Group Ltd
+00691	Shanshui Cement
+00692	Ching Hing (Holdings) Ltd
+00693	Tan Chong International Ltd
+00694	Beijing Capital International Airport Co. Ltd
+00695	Dongwu Cement Ltd
+00696	TravelSky Technology Ltd
+00697	Shougang Concord International Enterprises Co. Ltd
+00698	Tongda Group Holdings Ltd
+00699	Chia Hsin Cement Greater China Holding Corporation
+00700	Tencent Holdings Ltd
+00701	CNT Group Ltd
+00702	Genesis Energy Holdings Ltd
+00703	Innovo Leisure Recreation Holdings Ltd
+00704	Frankie Dominion International Ltd
+00705	Zhongda International Holdings Ltd Warrants 2006
+00706	FinTronics Holdings Co. Ltd
+00707	Co-Prosperity Holdings Ltd
+00708	New Media Group Holdings Ltd
+00709	Giordano International Ltd
+00710	Varitronix International Ltd
+00711	Chun Wo Holdings Ltd
+00712	China Resources Cement Holdings Ltd
+00713	World Houseware (Holdings) Ltd
+00715	Hutchison Harbour Ring Ltd
+00716	Singamas Container Holdings Ltd
+00717	Emperor Capital Group Ltd
+00718	Bestway International Holdings Ltd
+00719	Shandong Xinhua Pharmaceutical Co. Ltd
+00720	Wo Kee Hong (Holdings) Ltd
+00721	Comtec Solar Systems Group Limited
+00722	Delta Networks Inc
+00723	Anex International Holdings Ltd
+00724	Semtech International Holdings Ltd
+00725	Perennial International Ltd
+00726	South East Group Ltd
+00727	VXL Capital Ltd
+00728	China Telecom Corporation Ltd
+00729	Carico Holdings Ltd
+00730	Shougang Concord Grand (Group) Ltd
+00731	Samson Paper Holdings Ltd
+00732	Truly International Holdings Ltd
+00733	Hopefluent Group Holdings Ltd
+00735	China Power New Energy
+00736	Northern International Holdings Ltd
+00737	Hopewell Highway Infrastructure Ltd
+00738	Le Saunda Holdings Ltd
+00743	Asia Cement Holdings
+00745	Wing Hong (Holdings) Ltd
+00746	Lee & Man Holding Ltd
+00747	Shenyang Public Utility Holdings Co. Ltd
+00750	China Singyes Solar Tech
+00751	Skyworth Digital Holdings Ltd
+00752	Pico Far East Holdings Ltd
+00753	Air China Ltd
+00754	Hopson Development Holdings Ltd
+00755	Shanghai Zendai Property Ltd
+00756	Iquorum Cybernet W0404
+00757	Solargiga Energy Holdings Ltd
+00758	Junefield Department Store Group Ltd
+00759	CEC International Holdings Ltd
+00760	Tomorrow International Holdings Ltd
+00761	Peking Apparel International Group Ltd
+00762	China Unicom Ltd
+00763	ZTE Corporation
+00764	Eternity Investment Limited
+00765	Perfectech International Holdings Ltd
+00766	Sino Prosper Holdings Ltd
+00767	Pacific Plywood Holdings Ltd
+00768	UBA Investments Ltd
+00769	China Rare Earth Holdings Ltd
+00770	Shanghai Growth
+00771	Automated Systems Holdings Ltd
+00772	
+00775	CK Life Sciences Int (Holdings) Inc
+00776	JF Household Furnishings
+00777	NetDragon Websoft Inc
+00778	Fortune REIT
+00784	
+00787	
+00789	Artini China Company Ltd
+00794	Come Sure Group
+00798	
+00799	
+00800	A8 Digital Music Holdings Ltd
+00801	Golden Meditech Company Ltd
+00802	RCG
+00803	Prosperity International Holdings Ltd
+00804	Pinestone
+00805	
+00806	Value Partners Group Ltd
+00808	Prosperity Real Estate Investment Trust
+00809	Global Bio-chem Technology Group Co. Ltd
+00810	China Treasure (Greater China) Investments Ltd
+00811	Xinhua Winshare
+00812	Tanrich Financial Holdings Ltd
+00813	Shimao Property Holdings Ltd
+00814	Beijing Jingkelong Co Ltd
+00815	Chi Group
+00816	Huadian Fuxin Energy Corp
+00817	Franshion Properties
+00818	Hi Sun Technology (China) Ltd
+00819	Tianneng Power International Ltd
+00820	HSBC Dragon Fund
+00821	Barclays Asian Selection F Ltd H K Fund
+00822	Barclays Asian Selection F Ltd Indo Fund
+00823	The Link Real Estate Investment Trust
+00825	Barclays Asian Selection F Ltd Phil Fund
+00826	Tiangong International Company
+00827	Barclays Asian Selection F Ltd Se Asia F
+00828	Dynasty Fine Wines Group Ltd
+00829	Shenguan Holdings Group Ltd
+00830	
+00831	
+00832	korea 1990 Trust The-beneficial Cert.
+00833	Alltronics Holdings Ltd
+00834	China Kangda Food Company Limited
+00835	Nubrands Group Holdings Ltd
+00836	China Resources Power Holdings Co. Ltd
+00837	China Pharmaceutical Ent & Inv Corp W0110
+00838	EVA Precision Industrial Holdings Ltd
+00839	
+00840	Xinjiang Tianye Water Saving Irrigation System Company Ltd
+00841	Asia Cassava Resources Holdings Ltd
+00842	
+00844	
+00845	Artfield Group W0403
+00846	Mingfa Group Co Ltd
+00847	
+00848	Prc-6.125% Notes 100 Due 2003
+00850	Wing Shing International Holdings Ltd
+00851	MAE Holdings Ltd
+00852	Good Fellow Group W0112
+00853	Global Tech (holdings) W0408
+00854	Willas Array
+00855	China Water Affairs Group Ltd
+00856	VST Holdings Ltd
+00857	PetroChina Co. Ltd
+00858	Extrawell Pharmaceutical Holdings Ltd
+00859	Henry Group Holdings Ltd
+00860	Ming Fung Jewellery Group Ltd
+00861	Digital China Holdings Ltd
+00862	New World Mobile Holdings Ltd
+00863	
+00864	
+00865	First Mobile Group Holdings Limited
+00866	SUNDAY Communications Ltd
+00867	Thornton Tiger Fund
+00868	Xinyi Glass Holdings Ltd
+00869	Playmates Toys Ltd
+00871	
+00872	Cable & Wireless Plc-us$1000 Bond 2003
+00873	
+00874	Guangzhou Pharmaceutical Co. Ltd
+00875	Corasia Group
+00876	Wing Lee Holdings Ltd
+00877	Asian Development Bank 6.125% Bonds 2004
+00878	Soundwill Holdings Ltd
+00880	SJM Holdings Ltd
+00881	Jf Japan Otc Fund Inc.
+00882	Tianjin Development Holdings Ltd
+00883	CNOOC Ltd
+00884	Cifi Hold
+00885	Forefront International Holdings Ltd
+00886	Silver Base Group Holdings Ltd
+00887	Cable & Wireless Plc-us$10000 Bond 2003
+00888	RoadShow Holdings Ltd
+00889	Datronix Holdings Ltd
+00891	Trinity Ltd
+00893	China Vanadium Titano-Magnetite Mining Co Ltd
+00894	Man Yue International Holdings Ltd
+00895	Dongjiang Environment
+00896	Hanison Construction Holdings Ltd
+00897	Wai Yuen Tong Medicine Holdings Ltd
+00898	Multifield International Holdings Ltd
+00899	Asia Resources Holdings Ltd
+00900	Aeon Credit Service (Asia) Co. Ltd
+00901	Eagleride Inv
+00902	Huaneng Power International Inc
+00903	TPV Technology Ltd
+00904	China Green (Holdings) Ltd
+00905	Apex Capital Ltd
+00906	CPMC Holdings Ltd
+00907	Elegance International Holdings Ltd
+00908	Jiuzhou Development Co. Ltd
+00909	Zhongda International Holdings Ltd
+00910	Good Fellow Group Ltd
+00911	Hangfat Ginseng
+00912	Suga International Holdings Ltd
+00913	Unity Inv Hold
+00914	Anhui Conch Cement Co. Ltd
+00915	Linmark Group Ltd
+00916	China Longyuan Power
+00918	Takson Holdings Ltd
+00919	Modern Beauty Salon Holdings Ltd
+00921	Hisense Kelon
+00922	Vision Tech International Holdings Ltd
+00923	Integrated Waste Solutions
+00925	Peaktop International Holdings Ltd
+00926	Egana Jewellery & Pearls Ltd
+00927	Fujikon Industrial Holdings Ltd
+00928	Tack Fat Group International Ltd
+00929	IPE Group Ltd
+00931	Artel Solutions Group Holdings Ltd
+00932	RM Group
+00933	First Sign International Holdings Ltd
+00934	Sinopec Kantons Holdings Ltd
+00935	
+00936	Eagle Legend Asia Limited
+00938	Man Sang International Ltd
+00939	China Construction Bank Corporation
+00940	
+00941	China Mobile Ltd
+00943	eForce Holdings Ltd
+00945	Manulife Financial Corporation
+00947	Province Of Ontario-7 1/4% N2005-100
+00948	Province Of Ontario-7 1/4% N2005-1000
+00950	
+00951	
+00952	Quam Ltd
+00953	Meike Ltd
+00954	
+00956	Baden-wurttemberg L-finance Nv 1000b2003
+00958	Huaneng Renewables Ltd
+00959	A-Max Holdings Ltd
+00960	Longfor Properties Co Ltd
+00966	China Taiping
+00967	Citc Seoul Access Trust
+00968	Xinyi Solar Holdings
+00969	Hua Lien International (Holding) Co. Ltd
+00970	Jade Dynasty Group Ltd
+00973	Province Of Ontario 61/4% Dm100000 N2004
+00974	SKL
+00975	Hk & Shanghai Banking Corp Hk$1000000n03
+00976	Chiho-Tiande Group Ltd
+00978	Tonic Industries Holdings Ltd
+00979	Green Energy Group Ltd
+00980	Lianhua Supermarket Holdings Co. Ltd
+00981	Semiconductor Manufacturing International Corporation
+00982	iOne Holdings Ltd
+00983	Shui On Construction and Materials Ltd
+00984	AEON Stores (Hong Kong) Co. Ltd
+00985	China Sci-Tech Holdings Ltd
+00986	Nam Hing Holdings Ltd
+00987	J.I.C. Technology Co. Ltd
+00988	Sun's Group Ltd
+00989	Ground Properties Company
+00990	Theme International Holdings Ltd
+00991	Datang International Power Generation Co. Ltd
+00992	Lenovo Group Ltd
+00993	Simsen International Corporation Ltd
+00994	Win Win Way Construction Holdings
+00995	Anhui Expressway Co. Ltd
+00996	CASH Retail Management Group Ltd
+00997	Decca Holdings Ltd
+00998	China CITIC Bank Corp Ltd
+00999	I.T Ltd
+01000	Beijing Media Corporation Ltd
+01001	Van Shung Chong Holdings Ltd
+01002	V.S. International Group Ltd
+01003	GFT Holdings Ltd
+01004	Rising Development Holdings Limited
+01005	Matrix Holdings Ltd
+01006	China Corn Oil
+01007	People's Republic Of China 6 1/2% B2004
+01008	Brilliant CIR
+01009	
+01010	PacMOS Technologies Holdings Ltd
+01011	Regal Hotels International Holdings Ltd Warrants 2007
+01013	Plus Holdings Ltd
+01019	
+01020	
+01021	
+01022	
+01023	
+01026	
+01027	Jicheng Umbrella Holdings Ltd
+01028	
+01029	
+01030	Future Land Holdings
+01031	Golden Resorts Group Ltd
+01033	Sinopec Yizheng Chemical Fibre Co. Ltd
+01035	
+01036	Winsor Properties Holdings Ltd
+01037	Daiwa Associate Holdings Ltd
+01038	Cheung Kong Infrastructure Holdings Ltd
+01039	
+01041	Fulbond Holdings Ltd
+01043	Coslight Technology International Group Ltd
+01044	Hengan International Group Co. Ltd
+01045	APT Satellite Holdings Ltd
+01046	Universe International Holdings Ltd
+01047	Ngai Hing Hong Co. Ltd
+01048	Novo Group Limited
+01049	Celestial Asia Securities Holdings Ltd
+01050	Karrie International Holdings Ltd
+01051	Smart Rich Energy Finance (Holdings) Ltd
+01052	Yuexiu Transport Infrastructure
+01053	Chongqing Iron & Steel Co. Ltd
+01055	China Southern Airlines Co. Ltd
+01057	Zhejiang Shibao Company
+01058	Guangdong Tannery Ltd
+01059	Kantone Holdings Ltd
+01060	Shanghai Allied Cement Ltd
+01061	Hinet Holdings W0302
+01062	New Capital International Investment Ltd
+01063	SunCorp Technologies Ltd
+01064	Zhong Hua International Holdings Ltd
+01065	Tianjin Capital Environmental Protection Co. Ltd
+01066	Weigao Group
+01068	China Yurun Food Group Ltd
+01069	
+01070	TCL Multimedia Technology Holdings Ltd
+01071	Huadian Power International Corporation Ltd
+01072	Dongfang Electrical Machinery Co. Ltd
+01073	China Agrotech Holdings Ltd
+01075	Capinfo
+01076	First Natural Foods Holdings Ltd
+01079	
+01080	Shengli Pipe
+01082	
+01083	Panva Gas Holdings Ltd
+01085	Hengxin Technology Ltd
+01086	Goodbaby International Holding
+01087	
+01088	China Shenhua Energy Co. Ltd
+01089	
+01090	
+01091	CITIC DAMENG
+01093	China Pharmaceutical Group Ltd
+01094	Sunny Global Holdings Ltd
+01096	
+01097	i-CABLE Communications Ltd
+01098	Road King Infrastructure Ltd
+01099	Sinopharm Group Co Ltd
+01100	Mainland Headwear Holdings Ltd
+01101	China Rongsheng Heavy Industries Group Ltd
+01102	
+01103	Shanghai Tonva
+01104	Shanghai Merchants Holdings Ltd
+01105	Sing Tao News Corporation Ltd
+01106	
+01107	
+01108	Luoyang Glass Co Ltd
+01109	China Resources Land Ltd
+01110	China National Aviation Co. Ltd.
+01111	Chong Hing Bank Limited
+01112	
+01113	
+01114	Brilliance China Automotive Holdings Ltd
+01115	Tibet 5100 Water Resources Holdings Ltd
+01116	Mayer Holdings Ltd
+01117	China Modern Dairy Holdings
+01118	Golik Holdings Ltd
+01120	Arts Optical International Holdings Ltd
+01121	BAOFENGMODERN
+01122	Qingling Motors Co. Ltd
+01123	China-Hongkong Photo Products Holdings Ltd
+01124	Coastal Greenland Ltd
+01125	Lai Fung Holdings Ltd
+01126	Dream International Ltd
+01127	
+01128	Wynn Macau Ltd
+01129	Sky Hawk Computer Group Holdings Ltd
+01130	Benefun International Holdings Ltd
+01131	Kwong Hing International Holdings (Bermuda) Ltd
+01132	Golden Harvest Entertainment (Holdings) Ltd
+01133	Harbin Power Equipment Co. Ltd
+01135	Asia Satellite Telecommunications Holdings Ltd
+01137	City Telecom (H.K.) Ltd
+01138	China Shipping Development Co. Ltd
+01139	Victory Group
+01140	Concepta Investments Ltd
+01141	Xin Corporation Ltd
+01142	Rontex International Holdings Ltd
+01143	
+01145	
+01146	
+01148	
+01149	Broad Intelligence Int'l Pharmaceutical Holdings Ltd
+01150	Milan Station Ltd
+01151	
+01152	
+01155	Centron Telecom
+01157	Zoomlion
+01159	Karce International Holdings Co. Ltd
+01160	Grand Investment International Ltd
+01161	Water Oasis Group Ltd
+01164	Vital BioTech Holdings Ltd
+01165	
+01166	Solartech International Holdings Ltd
+01168	Sinolink Worldwide Holdings Ltd
+01169	Haier Electronics Group Co. Ltd
+01170	Kingmaker Footwear Holdings Ltd
+01171	Yanzhou Coal Mining Co. Ltd
+01172	Midas International Holdings Ltd
+01173	Veeko International Holdings Ltd
+01174	Pacific Andes International Holdings Ltd
+01175	FU JI Food and Catering Services Holdings Ltd
+01176	Nam Fong International Holdings Ltd
+01177	Sino Biopharmaceutical Ltd
+01178	Vitop Bioenergy Holdings Ltd
+01180	LifeTec Group Ltd
+01181	
+01182	Foundation Group Ltd
+01184	S.A.S. Dragon Holdings Ltd
+01185	China Energine
+01186	Value Partners China Greenchip Fund Ltd
+01187	Pearl River Tyre (Holdings) Ltd
+01188	Hybrid Kinetic Group Limited
+01189	Wing On Travel (Holdings) Ltd
+01190	Bakers Group International Holding Ltd
+01191	Yueshou Environmental Holdings
+01192	Titan Petrochemicals Group Ltd
+01193	China Resources Gas
+01194	China Precious Metal Resources
+01195	Sinotronics Holdings Ltd
+01196	Cheong Ming Investments Ltd
+01197	China Hengshi Foundation
+01198	Chitaly Holdings Ltd
+01199	COSCO Pacific Ltd
+01200	Midland Holdings Ltd
+01201	Kith Holdings Ltd
+01202	Chengdu PUTIAN Telecommunications Cable Co. Ltd
+01203	Guangnan (Holdings) Ltd
+01205	CITIC Resources Holdings Ltd
+01206	
+01207	SRE Group Limited
+01208	Minmetals Resources Ltd
+01210	
+01211	BYD Co. Ltd
+01212	Lifestyle International Holdings Ltd
+01213	Mobicon Group Ltd
+01215	Guo Xin Group Ltd
+01216	
+01217	Sino Technology Investments Co. Ltd
+01218	Easyknit International Holdings Ltd
+01219	
+01220	Ocean Grand Holdings
+01221	Sino Hotels (Holdings) Ltd
+01222	Wang On Group Ltd
+01223	Symphony Holdings Ltd
+01224	C C Land Holdings
+01225	Lerado Group (Holding) Co. Ltd
+01226	Garron International Ltd
+01227	China Financial Industry Investment Fund Ltd
+01228	Tak Shun Technology Group Ltd
+01229	Artfield Group Ltd
+01230	
+01231	Deutsche Bank AG - Nikkei 225 Index European Wts Jun 2007 A
+01232	
+01233	
+01234	China Lilang Ltd
+01235	Deutsche Bank AG - Nikkei 225 Index Euro Put Wts Jun 2007 B
+01236	Qianlong Technology International
+01237	Merry Garden Ltd
+01238	Powerlong Real Estate Holdings Ltd
+01239	
+01240	Sunley Holdings Ltd
+01241	
+01243	Wang On PPT
+01245	UBS AG - Esprit European Warrants Sep 2007
+01246	UBS AG - HSBC European Put Warrants Apr 2007
+01247	UBS AG - Jiangxi Copper European Warrants Dec 2007
+01249	
+01250	Jin Cai Holdings Co Ltd
+01251	
+01252	Goldman Sachs SP (Asia) - Foxconn European Wts Mar 2007 A
+01253	Broad Greenstate International Company Limited
+01255	
+01257	
+01258	China Nonferrous Mining
+01259	Prince Frog International
+01260	J P Morgan Int'l Der. Ltd. - Foxconn European Wts Mar 2007
+01262	Chine Lifestyle Food & Beverage
+01263	SGA Societe Generale Acceptance N.V. - BOCHK Eu Wts Mar 07 B
+01265	
+01266	
+01268	SGA Societe Generale Acceptance N.V. - N225 Euro Wts Mar 07C
+01269	Macquarie Bank Ltd. - BOCHK European Warrants May 2007
+01270	
+01271	SGA Societe Generale Acceptance N.V. - N225 Eu Put Wt Mar07E
+01272	Macquarie Bank Ltd. - CHALCO European Warrants May 2007
+01273	Macquarie Bank Ltd. - Jiangxi Copper European Wts May 2007
+01275	BNP Paribas Arbit Issu B.V. - BOCHK European Wts Mar 2007
+01277	BNP Paribas Arbit Issu B.V. - HSBC European Wts Apr 2007
+01278	
+01280	SGA Societe Generale Acceptance N.V. - CHALCO Eur Wt Apr 07B
+01281	SGA Societe Generale Acceptance N.V. - CK(H) Euro Wts Mar 07
+01282	
+01285	
+01288	Agricultural Bank of China Ltd
+01289	Wuxi Sunlit Science Limited
+01290	
+01292	
+01293	Baoxin Auto Group Limited
+01296	
+01297	SGA Societe Generale Acceptance N.V. - CP&CC Euro Wts Mar 07
+01298	Techcomp (Holdings)
+01299	SGA Societe Generale Acceptance N.V. - HSI Euro Wts Mar 07 B
+01300	SGA Societe Generale Acceptance N.V. - HSBC Eur Wts Apr 2008
+01301	HK Bank - HKEx European Warrants Mar 2007
+01302	Lifetech Scientific Corporation
+01303	
+01305	
+01308	Deutsche Bank AG - China Mobile European Warrants Mar 2007
+01310	
+01312	
+01313	China Resources Cement Holdings Ltd
+01314	Tsui Wah Holding
+01315	
+01316	Nexteer
+01317	China Maple Leaf Educational Systems Limited
+01318	J P Morgan Int'l Der. Ltd. - HS Bank European Wts Mar 2007
+01319	J P Morgan Int'l Der. Ltd. - JX Copper European Wts Mar 2007
+01321	J P Morgan Int'l Der. Ltd. - PICC P&C European Wts Mar 2007
+01322	J P Morgan Int'l Der. Ltd. - Sh Petrochem Euro Wts Mar 2007
+01323	
+01326	Pegasus Ent
+01327	Time2u International Holding Limited
+01328	International Elite Ltd
+01329	
+01330	SGA Societe Generale Acceptance N.V. - HSBC Eur Wts Apr 07 A
+01332	Qualipak International
+01333	BOCI Asia Ltd. - CNOOC European Warrants Jun 2007
+01335	BOCI Asia Ltd. - Kingboard European Warrants Jun 2007
+01336	New China Life Insurance Company
+01337	
+01338	Macquarie Bank Ltd. - HSBC European Put Warrants Mar 2007
+01339	Fortis Bank S.A./N.V. - Bank of EA European Wts Jul 2007
+01340	Fortis Bank S.A./N.V. - China Mobile European Wts Sep 2007
+01341	Clear Lift
+01345	
+01347	
+01348	
+01349	
+01350	Goldman Sachs SP (Asia) - Foxconn European Put Wts Mar 2007
+01353	
+01355	Macquarie Bank Ltd. - Zijin Mining European Wts Apr 2007
+01357	Citigroup Global Mkt H Inc. - HSBC European Wts Mar 2007
+01358	Citigroup Global Mkt H Inc. - HSBC European Wts Apr 2007 B
+01359	China Cinda
+01360	
+01361	SGA Societe Generale Acceptance N.V. - PetCh Eur Wts Apr 08
+01362	SiS Mobile Holdings Limited
+01363	CTEG
+01365	
+01366	Jiangnan Group Ltd
+01367	Hanbo Enterprises Holdings Limited
+01368	Xtep International Holdings Ltd
+01369	
+01370	Calyon Fin P (G) Ltd. - Agile Ppt European Warrants Mar 2007
+01371	China Lotsyn
+01372	Citigroup Global Mkt H Inc. - Ch Mobile Eur Put Wts Apr 2007
+01373	Calyon Fin P (G) Ltd. - Zijin Mining European Wts Mar 2007
+01375	Central China Securities
+01378	China Hong Gqiao
+01380	SGA Societe Generale Acceptance N.V. - SHK Ppt Eu Wt Apr 07A
+01381	
+01382	Pacific Textiles Holdings Ltd
+01383	Hong Long Holdings Ltd
+01385	
+01386	Walker Group Holdings Ltd
+01387	Renhe Commercial Holdings
+01388	Embry Holdings Ltd
+01389	Major Holding
+01393	Hidili Industry International Devt Ltd
+01395	Ell Env
+01396	Hydoo International
+01397	Baguio Green
+01398	Industrial and Commercial Bank of China Ltd
+01399	Scud Group Ltd
+01400	Wang Tai Holdings
+01415	Cowell e Holdings Inc
+01417	
+01418	
+01419	Human Health
+01420	Chuan Holdings Limited
+01421	King Bostrike
+01426	
+01428	
+01430	Sushuang Gas
+01431	
+01432	
+01437	
+01439	
+01443	
+01446	
+01447	SFK Construction Holdings
+01448	
+01450	
+01452	Denox Environmental & Technology Holdings
+01456	
+01458	
+01459	Jujiang Cons
+01460	
+01461	
+01462	Nga Chun Holdings Company
+01466	Man Sang Jewellery Holdings
+01468	
+01469	Get Nice Finance Company Limited
+01470	Tic Tac
+01475	
+01476	
+01478	
+01480	Yan Tat Group
+01482	
+01483	
+01486	C Cheng Holdings Limited
+01487	
+01488	
+01492	China ZhongDi Dairy Holdings Company
+01495	Jiyi Household International Holdings
+01496	AP Rentals Holdings Limited
+01498	
+01499	Leap Holdings Group
+01500	
+01508	China Reinsurance (Group) Corporation
+01509	
+01513	
+01515	Phoenix Health
+01518	
+01520	Runaway Global
+01522	
+01523	
+01526	
+01527	Zhejiang Tengy Environmental Technology
+01528	
+01530	
+01532	China Partytime Culture Holdings
+01533	
+01536	
+01537	
+01538	Zhong Ao Home Group
+01539	Synergy Group
+01543	
+01546	
+01547	
+01548	Genscript Biotech Corporation
+01549	Ever Harvest Group Holdings
+01551	
+01552	
+01555	MIE Holdings Corporation
+01556	Chinney Kin Wing Holdings
+01557	KH GP Holdings
+01558	YiChang HEC ChangJiang Pharmaceutical
+01559	Kwan On Holdings
+01560	
+01561	Manfield Chem
+01565	Virscend Education Company Limited
+01566	China Animation Characters Company
+01568	Sundart Holdings Limited
+01569	Minsheng EDU
+01570	Weiye Holdings Limited
+01571	Xin Point Hold
+01572	China Art Fin
+01573	China Unienergy Group Ltd
+01575	Morris Holdings Limited
+01577	
+01578	
+01579	
+01580	Da Sen Holdings Group
+01581	Progressive Path Group
+01583	
+01585	
+01586	China Leon
+01588	
+01589	China Logistics Property Holdings
+01590	
+01591	Shun Wo Group Holdings
+01596	
+01599	
+01600	
+01606	
+01608	Vpower Group
+01609	
+01610	COFCO Meat Holdings Limited
+01611	Pantronics Holdings
+01612	Vincent Med
+01613	
+01616	Silverman Holdings Ltd
+01617	Nanfang Communication Holdings Limited
+01618	MCC
+01619	Tianhe Chemicals Group Limited
+01622	
+01623	
+01626	
+01627	Able Engineering Holdings Limited
+01628	Ford Motor Credit Company 10 N0201
+01629	MENGKE Holdings
+01630	Kin Shing Holdings
+01631	
+01632	Foodwise Holding
+01633	Sheung Yue Group Holdings Limited
+01635	
+01636	CMRU
+01637	SH Group Holdings
+01638	Kaisa Group
+01639	AKM Industrial
+01647	Shis Limited
+01649	
+01651	
+01655	
+01656	
+01658	
+01660	Sanroc International
+01661	
+01662	Yee Hop Holdings Limited
+01663	Sino Harbour Property Group Limited
+01666	Republic Of Italy 100n0205
+01667	Milestone Build
+01668	China South City Holdings Ltd
+01669	
+01673	
+01676	
+01677	
+01678	
+01679	Risecomm Group Holdings
+01680	
+01681	
+01682	Highlight China IoT International Ltd
+01683	LC Group Holdings Limited
+01685	Boer Power Holdings Ltd
+01689	
+01693	
+01695	
+01696	
+01697	
+01698	Toyota Motor Credit Corporation 100 N0305
+01699	China Putian Food Ltd
+01700	
+01702	Dongguang Chemical Limited
+01706	
+01707	Geotech Holdings Limited
+01708	
+01709	
+01710	
+01717	Ausnutria
+01718	Wan Kei Group Holdings
+01720	
+01722	
+01727	
+01728	Zhentong Auto Services Holding
+01730	
+01733	Winsway
+01738	
+01766	CSR Corporation Limited
+01771	
+01776	GF Sec
+01777	Fantasia Holdings Group Co Ltd
+01778	Colour Life Services Group
+01786	CRCC High-Tech Equipment
+01788	
+01789	
+01798	Datang Corp Renewable Power
+01799	
+01800	China Communications Construction Co Ltd
+01803	
+01808	Tai-I International Holdings Ltd
+01811	CGN Meiya Power Holdings
+01812	CHENMING PAPER
+01813	KWG Property Holding Ltd
+01816	
+01818	Zhaojin Mining Industry Co. Ltd
+01819	
+01822	
+01823	Huayu Expressway
+01826	
+01828	Dah Chong Hong Holding Ltd
+01829	CMEC
+01830	
+01831	
+01836	Stella International Holdings Ltd
+01838	China Properties Group Ltd
+01848	China Aircraft Leasing Group
+01856	Ernest Borel Holdings Limited
+01858	
+01862	Sino Gold Mining
+01863	Sijia Group Co Ltd
+01866	Neo-Neon Holdings Ltd
+01868	Neo-Neon Holdings Ltd
+01878	SouthGobi Energy Resources
+01881	Regal Real Estate Investment Trust
+01882	Haitian International Holdings Ltd
+01883	Citic Telecom International Holdings
+01884	Eprint Group
+01885	
+01886	China Huiyuan Juice Group Ltd
+01888	Kingboard Laminates Holdings Ltd
+01889	Wuyi International Pharmaceutical Co. Ltd
+01893	China National Materials Company Ltd
+01898	China Coal Energy Co. Ltd
+01899	Xingda International Holdings Ltd
+01900	China ITS (Holdings) Co Ltd
+01908	South West Eco Development
+01910	Samsonite International SA
+01913	Prada SPA
+01918	
+01919	China COSCO Holdings Co. Ltd
+01928	Sands China Ltd
+01929	Chow Tai Fook
+01932	CPM Group Limited
+01938	Chu Kong Pipe
+01958	
+01962	
+01963	
+01966	China SCE PPT
+01970	IMAX China Holding
+01972	Swire Properties Ltd
+01975	
+01979	
+01980	
+01982	
+01985	
+01986	Tsaker Chemical Group Ltd
+01988	Minsheng Bank Corp
+01989	Pine Care Group Limited
+01991	TA Yang Group Holdings Ltd
+01993	Asiaray Media Group Limited
+01997	
+01998	Flyke International Holdings Ltd
+01999	Man Wah Holdings Limited
+02000	SIM Technology Group Ltd
+02001	
+02002	China Sunshine Paper Holdings Company Ltd
+02005	Lijun International Pharmaceutical (Holding) Co. Ltd
+02006	Shanghai Jin Jiang Int'l Hotels (Group) Co. Ltd
+02007	Country Garden Holdings Company Ltd
+02008	Phoenix Satellite Television Holdings
+02009	BBMG Corp
+02010	RUINIAN
+02011	Kee
+02012	
+02014	Ozner Water International
+02016	
+02017	Chanhigh Holdings
+02018	AAC Acoustic Technologies Holdings Inc.
+02020	Anta Sports
+02022	
+02023	
+02025	
+02028	Jolimark
+02030	
+02031	
+02033	
+02038	Foxconn International Holdings Ltd
+02039	CIMC
+02066	
+02068	China Aluminum Intl
+02078	
+02080	
+02083	
+02086	Advanced Card
+02088	Xiwang Sugar Holdings Co. Ltd
+02098	
+02099	
+02100	Baioo
+02111	Best Pacific International Holdings
+02112	
+02113	
+02118	Credit Suisse - BOC HK Euro (AR) Wts Jan 2007
+02120	SGA Societe Generale Acceptance N.V. - N225 Eu Put Wt Jun07B
+02121	
+02122	ABN AMRO Bank N.V. - China Telecom European Wts Oct 2006
+02123	
+02128	ABN AMRO Bank N.V. - CC Bank European Warrants Sep 2006 B
+02133	China Polymetallic Mining
+02136	Lifestyle China Group Limited
+02138	Union Medical Healthcare Limited
+02166	
+02178	Macquarie Bank Ltd. - China Life European Wts Mar 2007 B
+02183	Lifestyle PPT
+02186	Luye Pharma Group Ltd
+02188	
+02193	KBC Fin Products Int'l Ltd. - ICBC European Wts Jul 2007 G
+02196	Shanghai Fosun
+02198	SGA Societe Generale Acceptance N.V. - Ch Tel Eur Wt Oct 06
+02199	Regina Miracle International
+02200	Hosa International
+02202	China Vanke Co Limited
+02203	Top Dynamic International
+02208	Macquarie Bank Ltd. - HSBC European Warrants Mar 2007 B
+02211	Jintian Pharm
+02212	Future Bright Mining Holdings Limited
+02213	
+02218	Credit Suisse-sinopec Corp Ec0111
+02221	New Concepts Holdings Limited
+02222	NVC Lighting Holding Ltd
+02223	Macquarie Bank Ltd. - Foxconn European Warrants Jun 2007
+02225	Kakiko Group Limited
+02226	
+02227	
+02228	Credit Suisse-new World Dev Ec0112
+02229	Deutsche Bank AG - BankComm European Warrants Jul 2007 B
+02232	Credit Suisse-new World Dev Ep0111
+02233	West China Cement Ltd
+02236	Wison Engineering Services
+02238	Guangzhou Automobile
+02239	
+02255	SGA Societe Generale Acceptance N.V. - HSI Eu Put Wt Mar 07D
+02266	Lis Enterprise
+02268	
+02269	
+02277	Macquarie Bank Ltd-hutchison Ec0110
+02278	KBC Fin Products Int'l Ltd. - HSI Euro Put Wts Mar 2007 F
+02280	HC International
+02281	Goldman Sachs SP (Asia) - Hutchison European Wts Oct 2006
+02282	MGM China Holdings Ltd
+02283	Macquarie Bank Ltd. - HKEx European Put Warrants May 2007
+02286	
+02288	SGA Societe Generale Acceptance N.V. - Ping An Eur Wt Apr 07
+02289	
+02293	
+02298	Cosmo Lady (China) Holdings
+02299	Billion Industrial Holdings Lim
+02300	AMVIG Holdings
+02302	United Metals Holdings Ltd
+02303	
+02307	Kam Hing International Holdings Ltd
+02308	
+02309	Birmingham International Holdings
+02310	Kwang Sung Electronics H.K. Co. Ltd
+02312	China Finance Leasing
+02313	Shenzhou International Group Holdings Ltd
+02314	Lee & Man Paper Manufacturing Ltd
+02317	Vedan International (Holdings) Ltd
+02318	Ping An Insurance (Group) Co. of China Ltd
+02319	Mengniu Dairy
+02320	Hop Fung Group Holdings Ltd
+02322	Sam Woo Holdings Ltd
+02323	Topsearch International Holdings Ltd
+02324	Sino Katalytics Investment Corporation
+02326	BEP International Holdings Ltd
+02327	Jiwa Bio-Pharm Holdings Ltd
+02328	PICC Property and Casualty Co. Ltd
+02329	
+02330	Quaypoint Corporation
+02331	Li Ning Co. Ltd
+02333	Great Wall Motor Co. Ltd
+02336	Sunlink International Holdings Ltd
+02337	United Strength Power Holdings
+02338	Weichai Power Co. Ltd
+02339	Norstar Founders Group Ltd
+02340	Synergis Holdings Ltd
+02341	EcoGreen Fine Chemicals Group Ltd
+02342	Comba Telecom Systems Holdings Ltd
+02343	Pacific Basin Shipping Ltd
+02345	Shanghai Prime Machinery Co. Ltd
+02348	Dawnrays Pharmaceutical (Holdings) Ltd
+02349	Wah Yuen Holdings Ltd
+02355	Baoye Group Co. Ltd
+02356	Dah Sing Banking Group Ltd
+02357	AviChina Industry & Technology Co. Ltd
+02358	Mitsumaru East Kit (Holdings) Ltd
+02362	Signal Media and Communications Holdings Ltd
+02366	SMI Culture Group Holdings Ltd
+02368	Eagle Nice (International) Holdings Ltd
+02369	China Wireless Technologies Ltd
+02371	ZZNode Technologies Co. Ltd
+02378	
+02379	Zhongtian International Ltd
+02380	China Power International Development Ltd
+02382	Sunny Optical Technology (Group) Ltd
+02383	TOM Group Ltd
+02386	
+02388	BOC Hong Kong (Holdings) Ltd
+02389	Wang Sing International Holdings Group Ltd
+02393	Yestar International
+02398	Good Friend International Holdings Inc.
+02399	
+02468	Goldman Sachs SP (Asia) - N225 Index Euro Wts Mar 2007
+02488	
+02588	
+02600	Aluminum Corporation of China Ltd
+02601	China Pacific Insurance (Group) Co Ltd
+02607	
+02608	
+02611	
+02623	
+02628	China Life Insurance Co. Ltd
+02633	Nam Tai Electronic & Electrical Products Ltd
+02638	
+02662	Fittec International Group Ltd
+02663	
+02666	Universal Medical Financial
+02668	Pak Tak International Ltd
+02669	China Overseas Property Holdings
+02678	Texhong Textile Group Ltd
+02686	Chen Xing
+02688	XinAo Gas Holdings Ltd
+02689	Nine Dragons Paper (Holdings) Ltd
+02698	Weiqiao Textile Co. Ltd
+02699	
+02700	Smart Union Group (Holdings) Ltd
+02708	
+02722	Chongqing Machinery & Electric Ltd
+02727	Shanghai Electric Group Co. Ltd
+02728	Shinhint Acoustic Link Holdings Ltd
+02738	
+02768	
+02777	Guangzhou R&F Properties Co. Ltd
+02778	Champion Real Estate Investment Trust
+02788	Yorkey Optical International (Cayman) Ltd
+02789	
+02799	
+02800	Tracker Fund of Hong Kong
+02801	Chang Hwa Commerciai Bank
+02802	iShares EM Asia
+02803	Lyxoretf Rafius
+02805	
+02808	
+02811	
+02819	ABF Hong Kong Bond Index Fund
+02821	ABF Pan Asia Bond Index
+02822	CSOP A50 ETF
+02823	iShares FTSE A50 China Index ETF
+02824	
+02825	
+02827	Wise CSI200 EFT
+02828	Hang Seng H-Share Index ETF
+02832	
+02833	Hang Seng Index ETF
+02834	
+02835	
+02836	iShares BSE SENSEX India Index
+02838	Hang Seng FTSE China 25 Index
+02840	SPDR GOLD TRUST
+02843	
+02846	iShares CSI 300 A-Share Index
+02847	
+02848	
+02858	
+02863	Golden Faith Group Holdings
+02866	China Shipping Container Lines
+02868	Beijing Capital Land Ltd
+02869	
+02877	China Shineway Pharmaceutical Group Ltd
+02878	Solomon Systech (International) Ltd
+02880	Dalian Port (PDA) Co. Ltd
+02882	Ocean Grand Chemicals Holdings Ltd
+02883	China Oilfield Services Ltd
+02886	
+02888	Standard Chartered PLC
+02889	China Special Steel Holdings Co. Ltd
+02898	Long Far Pharmaceutical Holdings Ltd
+02899	Zijin Mining Group Co. Ltd
+02906	
+02912	
+02914	
+02915	
+02918	
+03007	X DBFXIC25
+03008	
+03010	
+03012	
+03015	X DBSPCNXNIFTY
+03016	
+03019	
+03020	
+03021	
+03024	
+03027	
+03036	
+03040	
+03041	
+03043	X DBMSCIPACEXJ
+03046	VALUE CHINA ETF
+03048	X DBMSCIBRAZIL
+03049	X DBMSCIBRAZIL
+03055	
+03056	
+03060	
+03065	
+03070	Ping An of China CSI HK Dividend ETF
+03073	
+03074	
+03080	
+03081	VALUE GOLD ETF
+03082	
+03084	Value Japan ETF
+03085	
+03086	
+03087	X DBFTSEVIET
+03092	
+03095	
+03097	
+03099	
+03100	
+03101	Vanguard FTSE Developed Europe ETF
+03102	
+03107	
+03110	
+03115	
+03116	
+03118	
+03120	
+03121	
+03122	
+03126	
+03127	
+03128	
+03129	
+03132	
+03135	
+03136	
+03137	
+03140	
+03141	
+03143	
+03145	
+03146	
+03147	CSOP Chinext
+03149	
+03150	
+03155	
+03156	
+03157	
+03160	
+03161	
+03162	
+03165	
+03167	
+03170	
+03171	
+03173	
+03175	
+03177	
+03180	
+03188	CAM CSI300
+03199	
+03300	China Glass Holdings Ltd
+03301	
+03303	Jutal Offshore Oil Services Ltd
+03306	
+03308	Golden Eagle Retail Group Ltd
+03311	China State Construction International Holdings Ltd
+03313	Meadville Holdings
+03315	Goldpac Group
+03318	China Flavors and Fragrances Co. Ltd
+03320	
+03322	Win Hanverky Holdings Ltd
+03323	China National Building Material Co. Ltd
+03326	Perfect Group International Holdings
+03328	Bank of Communications Co. Ltd
+03329	
+03330	Lingbao Gold Co. Ltd
+03331	Vinda International Holdings Ltd
+03332	
+03333	Evergrande
+03335	DBA Telecommunication (Asia) Holdings Ltd
+03336	Ju Teng International Holdings Ltd
+03337	Anton Oilfield Services Group
+03339	Lonking
+03344	Addchance Holdings Ltd
+03355	Advanced Semiconductor Manufacturing Corporation Ltd -H Shs
+03358	
+03360	
+03363	
+03366	Huali Holdings (Group) Ltd
+03368	Parkson Retail Group Ltd
+03369	
+03377	Sino-Ocean Land Holdings
+03378	Xiamen International Port Co. Ltd
+03380	
+03382	Tianjin Port Development Holdings Ltd
+03383	Agile Property Holdings Ltd
+03389	Hengdeli Holding
+03393	Wasion Meters Group Ltd
+03395	
+03396	
+03398	China Ting Group Holdings Ltd
+03399	Guangdong Nan Yue Logistics Co. Ltd
+03600	Modern Dental Group Limited
+03606	
+03608	
+03618	Chongqing Rural Commerical Bank Ltd
+03623	
+03626	
+03628	KBC Fin Products Int'l Ltd - Ping An European Wts Oct 2006
+03633	Macquarie Bank Ltd - HKEx European Warrants Oct 2006 A
+03636	KBC Fin Products Int'l Ltd - Ch Life Euro Put Wts Oct 2006
+03638	Deutsche Bank AG - China Mobile European Warrants Oct 2006 A
+03639	Deutsche Bank AG - Nikkei 225 Index European Wts Mar 2007 A
+03663	Xiezhong International
+03666	Macquarie Bank Ltd - HSI European Put Warrants Oct 2006 B
+03669	China Yongda Automobiles
+03678	Holly Futures Co
+03683	CC Rabobank B.A. - Hutchison European Warrants Apr 2007
+03686	Cliffordml
+03688	
+03689	KBC Fin Products Int'l Ltd - HSBC European Put Wts Oct 2006
+03698	Deutsche Bank AG - HSI European Warrants Oct 2006 C
+03708	Yat Sing Holdings Limited
+03709	
+03728	
+03737	
+03738	
+03768	
+03773	NNK Group Limited
+03777	
+03778	
+03788	
+03789	Royal Deluxe
+03799	Dali Foods Group Company
+03800	GCL-Poly Energy
+03808	Sinotruk (Hong Kong) Ltd
+03813	ABN AMRO Bank N.V. - Sinopec Corp European Wts Nov 2006 C
+03816	KFM Kingdom Holdings
+03818	China Dongxiang (Group) Ltd
+03822	Sam Woo Cons
+03823	Macquarie Bank Ltd - HSI European Warrants Nov 2006
+03828	Macquarie Bank Ltd - Denway European Warrants Nov 2006
+03830	Macquarie Bank Ltd - JX Copper European Warrants Jul 2007
+03833	SGA Societe Generale Acceptance N.V. - PetCh Eu Wt Nov 06 A
+03836	
+03838	HK Bank - Jiangxi Copper European Warrants Jan 2007
+03839	Chia Tai Enterprises International
+03848	
+03866	
+03869	
+03878	
+03882	Skylight Holdings
+03883	KBC Fin Products Int'l Ltd - HSBC European Wts Dec 2006 C
+03886	Macquarie Bank Ltd - Ch Life European Warrants Dec 2007 B
+03888	Kingsoft
+03889	KBC Fin Products Int'l Ltd - Ch Life Euro Wts Nov 2006 A
+03893	
+03898	Zhuzhou CSR Times Electric Ltd
+03899	Enric Energy Equipment Holdings Ltd
+03900	Greentown China Holdings Ltd
+03903	Hanhua Financial Holding
+03908	China International Capital Corporation
+03918	Nagacorp Ltd
+03919	
+03933	The United Laboratories International Holdings Ltd
+03939	Wanguo International Mining
+03948	Inner Mongolia Coal
+03958	
+03963	China Rongzhong Financial Holdings
+03966	
+03968	China Merchants Bank Co
+03969	
+03983	China Bluechemical Ltd
+03988	Bank of China Ltd
+03989	Hembly International Holdings Ltd
+03993	China Molybdenum Ltd
+03996	China Energy Engineering Corporation
+03998	Bosideng International Holdings Ltd
+03999	DaChan Food (Asia) Ltd
+04228	
+04231	
+06030	
+06033	
+06038	
+06060	ZhongAn Online P & C Insurance
+06066	
+06068	
+06080	Wing Chi Holdings
+06083	
+06088	Foxconn Interconnect Technology Limited
+06090	
+06099	
+06108	New Ray Medic
+06113	
+06116	Shanghai La Chapelle Fashion
+06118	
+06122	
+06123	
+06128	Earthasia International Holdings Limited
+06133	
+06136	
+06138	
+06139	
+06161	Target Insurance Limited
+06163	Gemilang International
+06166	
+06168	
+06169	China YuHua Education Corp
+06178	
+06183	
+06188	Beijing Digital Telecom Co Ltd
+06189	
+06196	
+06198	
+06288	
+06388	
+06808	Sun Art Retail Group Ltd
+06816	
+06818	
+06822	Kings Flair
+06823	
+06826	
+06828	
+06830	
+06833	Sinco Pharmaceuticals Holdings
+06836	
+06837	
+06838	
+06839	
+06858	
+06863	Huishan Dairy
+06865	Flat Glass
+06866	Zuoli Kechuang Micro-finance
+06868	
+06869	
+06877	
+06878	Differ Group Holding
+06880	
+06881	
+06882	
+06885	
+06886	
+06888	
+06889	Dynam Japan Holdings
+06893	
+06896	
+06898	
+06899	Ourgame International Holdings Limited
+07200	CSOP Hang Seng Dly
+07202	
+07205	
+07210	
+07221	
+07222	
+07225	
+07228	Samsung HSCEI Dly
+07230	
+07231	
+07242	
+07261	
+07267	
+07288	CSOP Hang Seng CHN Enp Idx Dly
+07300	CSOP Hang Seng Dly
+07302	
+07312	
+07315	
+07321	
+07322	
+07328	
+07331	
+07335	
+07336	
+07341	
+07362	
+07388	
+09010	
+09074	
+09081	
+09115	
+09146	
+09155	
+09170	
+09834	
+09836	
+09846	
+09847	

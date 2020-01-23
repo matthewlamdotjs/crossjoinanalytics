@@ -1,0 +1,15 @@
+Symbol	Description
+RS	Canola
+RS.C	Canola Continuation
+RSF20	Canola {Jan 20}
+RSF21	Canola {Jan 21}
+RSF22	Canola {Jan 22}
+RSH20	Canola {Mar 20}
+RSH21	Canola {Mar 21}
+RSH22	Canola {Mar 22}
+RSK20	Canola {May 20}
+RSK21	Canola {May 21}
+RSN20	Canola {Jul 20}
+RSN21	Canola {Jul 21}
+RSX20	Canola {Nov 20}
+RSX21	Canola {Nov 21}

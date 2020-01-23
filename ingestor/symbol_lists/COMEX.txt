@@ -1,0 +1,304 @@
+Symbol	Description
+AL	Aluminum
+AL.C	Aluminum Continuation
+ALF20	Aluminum {Jan 20}
+ALF21	Aluminum {Jan 21}
+ALG20	Aluminum {Feb 20}
+ALG21	Aluminum {Feb 21}
+ALH20	Aluminum {Mar 20}
+ALH21	Aluminum {Mar 21}
+ALJ20	Aluminum {Apr 20}
+ALJ21	Aluminum {Apr 21}
+ALK20	Aluminum {May 20}
+ALK21	Aluminum {May 21}
+ALM20	Aluminum {Jun 20}
+ALM21	Aluminum {Jun 21}
+ALN20	Aluminum {Jul 20}
+ALN21	Aluminum {Jul 21}
+ALQ20	Aluminum {Aug 20}
+ALQ21	Aluminum {Aug 21}
+ALU20	Aluminum {Sep 20}
+ALU21	Aluminum {Sep 21}
+ALV20	Aluminum {Oct 20}
+ALV21	Aluminum {Oct 21}
+ALX20	Aluminum {Nov 20}
+ALX21	Aluminum {Nov 21}
+ALZ19	Aluminum {Dec 19}
+ALZ20	Aluminum {Dec 20}
+ALZ21	Aluminum {Dec 21}
+GA.C	Gold Shanghai USD Continuation
+GAF20	Gold Shanghai USD {Jan 20}
+GAG20	Gold Shanghai USD {Feb 20}
+GAH20	Gold Shanghai USD {Mar 20}
+GAJ20	Gold Shanghai USD {Apr 20}
+GAM20	Gold Shanghai USD {Jun 20}
+GAQ20	Gold Shanghai USD {Aug 20}
+GAV20	Gold Shanghai USD {Oct 20}
+GAZ19	Gold Shanghai USD {Dec 19}
+GAZ20	Gold Shanghai USD {Dec 20}
+GC	Gold
+GC.C	Gold Continuation
+GCF20	Gold {Jan 20}
+GCG20	Gold {Feb 20}
+GCG21	Gold {Feb 21}
+GCH20	Gold {Mar 20}
+GCJ20	Gold {Apr 20}
+GCJ21	Gold {Apr 21}
+GCM20	Gold {Jun 20}
+GCM21	Gold {Jun 21}
+GCM22	Gold {Jun 22}
+GCM23	Gold {Jun 23}
+GCM24	Gold {Jun 24}
+GCM25	Gold {Jun 25}
+GCQ20	Gold {Aug 20}
+GCQ21	Gold {Aug 21}
+GCV20	Gold {Oct 20}
+GCV21	Gold {Oct 21}
+GCZ19	Gold {Dec 19}
+GCZ20	Gold {Dec 20}
+GCZ21	Gold {Dec 21}
+GCZ22	Gold {Dec 22}
+GCZ23	Gold {Dec 23}
+GCZ24	Gold {Dec 24}
+GCZ25	Gold {Dec 25}
+GQ.C	Gold Shanghai CNH Continuation
+GQF20	Gold Shanghai CNH {Jan 20}
+GQG20	Gold Shanghai CNH {Feb 20}
+GQH20	Gold Shanghai CNH {Mar 20}
+GQJ20	Gold Shanghai CNH {Apr 20}
+GQM20	Gold Shanghai CNH {Jun 20}
+GQQ20	Gold Shanghai CNH {Aug 20}
+GQV20	Gold Shanghai CNH {Oct 20}
+GQZ19	Gold Shanghai CNH {Dec 19}
+GQZ20	Gold Shanghai CNH {Dec 20}
+GR.C	Gold Micro Continuation
+GRG20	Gold Micro {Feb 20}
+GRG21	Gold Micro {Feb 21}
+GRJ20	Gold Micro {Apr 20}
+GRJ21	Gold Micro {Apr 21}
+GRM20	Gold Micro {Jun 20}
+GRM21	Gold Micro {Jun 21}
+GRQ20	Gold Micro {Aug 20}
+GRQ21	Gold Micro {Aug 21}
+GRV20	Gold Micro {Oct 20}
+GRV21	Gold Micro {Oct 21}
+GRZ19	Gold Micro {Dec 19}
+GRZ20	Gold Micro {Dec 20}
+GRZ21	Gold Micro {Dec 21}
+GW.C	Gold Kilo Continuation
+GWF20	Gold Kilo {Jan 20}
+GWG20	Gold Kilo {Feb 20}
+GWH20	Gold Kilo {Mar 20}
+GWJ20	Gold Kilo {Apr 20}
+GWM20	Gold Kilo {Jun 20}
+GWQ20	Gold Kilo {Aug 20}
+GWV20	Gold Kilo {Oct 20}
+GWZ20	Gold Kilo {Dec 20}
+HG	High Grade Copper
+HG.C	High Grade Copper Continuation
+HGF20	High Grade Copper {Jan 20}
+HGF21	High Grade Copper {Jan 21}
+HGG20	High Grade Copper {Feb 20}
+HGG21	High Grade Copper {Feb 21}
+HGH20	High Grade Copper {Mar 20}
+HGH21	High Grade Copper {Mar 21}
+HGH22	High Grade Copper {Mar 22}
+HGH23	High Grade Copper {Mar 23}
+HGH24	High Grade Copper {Mar 24}
+HGJ20	High Grade Copper {Apr 20}
+HGJ21	High Grade Copper {Apr 21}
+HGK20	High Grade Copper {May 20}
+HGK21	High Grade Copper {May 21}
+HGK22	High Grade Copper {May 22}
+HGK23	High Grade Copper {May 23}
+HGK24	High Grade Copper {May 24}
+HGM20	High Grade Copper {Jun 20}
+HGM21	High Grade Copper {Jun 21}
+HGN20	High Grade Copper {Jul 20}
+HGN21	High Grade Copper {Jul 21}
+HGN22	High Grade Copper {Jul 22}
+HGN23	High Grade Copper {Jul 23}
+HGN24	High Grade Copper {Jul 24}
+HGQ20	High Grade Copper {Aug 20}
+HGQ21	High Grade Copper {Aug 21}
+HGU20	High Grade Copper {Sep 20}
+HGU21	High Grade Copper {Sep 21}
+HGU22	High Grade Copper {Sep 22}
+HGU23	High Grade Copper {Sep 23}
+HGU24	High Grade Copper {Sep 24}
+HGV20	High Grade Copper {Oct 20}
+HGV21	High Grade Copper {Oct 21}
+HGX20	High Grade Copper {Nov 20}
+HGX21	High Grade Copper {Nov 21}
+HGZ19	High Grade Copper {Dec 19}
+HGZ20	High Grade Copper {Dec 20}
+HGZ21	High Grade Copper {Dec 21}
+HGZ22	High Grade Copper {Dec 22}
+HGZ23	High Grade Copper {Dec 23}
+HGZ24	High Grade Copper {Dec 24}
+HJ.C	High Grade Copper(F) Continuation
+HJF20	High Grade Copper(F) {Jan 20}
+HJF21	High Grade Copper(F) {Jan 21}
+HJG20	High Grade Copper(F) {Feb 20}
+HJG21	High Grade Copper(F) {Feb 21}
+HJH20	High Grade Copper(F) {Mar 20}
+HJH21	High Grade Copper(F) {Mar 21}
+HJH22	High Grade Copper(F) {Mar 22}
+HJH23	High Grade Copper(F) {Mar 23}
+HJH24	High Grade Copper(F) {Mar 24}
+HJJ20	High Grade Copper(F) {Apr 20}
+HJJ21	High Grade Copper(F) {Apr 21}
+HJK20	High Grade Copper(F) {May 20}
+HJK21	High Grade Copper(F) {May 21}
+HJK22	High Grade Copper(F) {May 22}
+HJK23	High Grade Copper(F) {May 23}
+HJK24	High Grade Copper(F) {May 24}
+HJM20	High Grade Copper(F) {Jun 20}
+HJM21	High Grade Copper(F) {Jun 21}
+HJN20	High Grade Copper(F) {Jul 20}
+HJN21	High Grade Copper(F) {Jul 21}
+HJN22	High Grade Copper(F) {Jul 22}
+HJN23	High Grade Copper(F) {Jul 23}
+HJN24	High Grade Copper(F) {Jul 24}
+HJQ20	High Grade Copper(F) {Aug 20}
+HJQ21	High Grade Copper(F) {Aug 21}
+HJU20	High Grade Copper(F) {Sep 20}
+HJU21	High Grade Copper(F) {Sep 21}
+HJU22	High Grade Copper(F) {Sep 22}
+HJU23	High Grade Copper(F) {Sep 23}
+HJU24	High Grade Copper(F) {Sep 24}
+HJV20	High Grade Copper(F) {Oct 20}
+HJV21	High Grade Copper(F) {Oct 21}
+HJX20	High Grade Copper(F) {Nov 20}
+HJX21	High Grade Copper(F) {Nov 21}
+HJZ19	High Grade Copper(F) {Dec 19}
+HJZ20	High Grade Copper(F) {Dec 20}
+HJZ21	High Grade Copper(F) {Dec 21}
+HJZ22	High Grade Copper(F) {Dec 22}
+HJZ23	High Grade Copper(F) {Dec 23}
+HJZ24	High Grade Copper(F) {Dec 24}
+LD.C	Lead Continuation
+LDF20	Lead {Jan 20}
+LDG20	Lead {Feb 20}
+LDH20	Lead {Mar 20}
+LDJ20	Lead {Apr 20}
+LDK20	Lead {May 20}
+LDM20	Lead {Jun 20}
+LDN20	Lead {Jul 20}
+LDQ20	Lead {Aug 20}
+LDU20	Lead {Sep 20}
+LDV20	Lead {Oct 20}
+LDX20	Lead {Nov 20}
+LDZ19	Lead {Dec 19}
+LDZ20	Lead {Dec 20}
+QC.C	Copper Mini Continuation
+QCF20	Copper Mini {Jan 20}
+QCF21	Copper Mini {Jan 21}
+QCG20	Copper Mini {Feb 20}
+QCG21	Copper Mini {Feb 21}
+QCH20	Copper Mini {Mar 20}
+QCH21	Copper Mini {Mar 21}
+QCH22	Copper Mini {Mar 22}
+QCH23	Copper Mini {Mar 23}
+QCH24	Copper Mini {Mar 24}
+QCJ20	Copper Mini {Apr 20}
+QCJ21	Copper Mini {Apr 21}
+QCK20	Copper Mini {May 20}
+QCK21	Copper Mini {May 21}
+QCK22	Copper Mini {May 22}
+QCK23	Copper Mini {May 23}
+QCK24	Copper Mini {May 24}
+QCM20	Copper Mini {Jun 20}
+QCM21	Copper Mini {Jun 21}
+QCN20	Copper Mini {Jul 20}
+QCN21	Copper Mini {Jul 21}
+QCN22	Copper Mini {Jul 22}
+QCN23	Copper Mini {Jul 23}
+QCN24	Copper Mini {Jul 24}
+QCQ20	Copper Mini {Aug 20}
+QCQ21	Copper Mini {Aug 21}
+QCU20	Copper Mini {Sep 20}
+QCU21	Copper Mini {Sep 21}
+QCU22	Copper Mini {Sep 22}
+QCU23	Copper Mini {Sep 23}
+QCU24	Copper Mini {Sep 24}
+QCV20	Copper Mini {Oct 20}
+QCV21	Copper Mini {Oct 21}
+QCX20	Copper Mini {Nov 20}
+QCX21	Copper Mini {Nov 21}
+QCZ20	Copper Mini {Dec 20}
+QCZ21	Copper Mini {Dec 21}
+QCZ22	Copper Mini {Dec 22}
+QCZ23	Copper Mini {Dec 23}
+QCZ24	Copper Mini {Dec 24}
+QI.C	Silver Mini Continuation
+QIF20	Silver Mini {Jan 20}
+QIF21	Silver Mini {Jan 21}
+QIH20	Silver Mini {Mar 20}
+QIH21	Silver Mini {Mar 21}
+QIK20	Silver Mini {May 20}
+QIK21	Silver Mini {May 21}
+QIN20	Silver Mini {Jul 20}
+QIN21	Silver Mini {Jul 21}
+QIU20	Silver Mini {Sep 20}
+QIU21	Silver Mini {Sep 21}
+QIZ20	Silver Mini {Dec 20}
+QIZ21	Silver Mini {Dec 21}
+QO.C	Gold Mini Continuation
+QOG20	Gold Mini {Feb 20}
+QOG21	Gold Mini {Feb 21}
+QOJ20	Gold Mini {Apr 20}
+QOJ21	Gold Mini {Apr 21}
+QOM20	Gold Mini {Jun 20}
+QOM21	Gold Mini {Jun 21}
+QOQ20	Gold Mini {Aug 20}
+QOQ21	Gold Mini {Aug 21}
+QOV20	Gold Mini {Oct 20}
+QOV21	Gold Mini {Oct 21}
+QOZ20	Gold Mini {Dec 20}
+QOZ21	Gold Mini {Dec 21}
+SI	Silver
+SI.C	Silver Continuation
+SIF20	Silver {Jan 20}
+SIF21	Silver {Jan 21}
+SIG20	Silver {Feb 20}
+SIH20	Silver {Mar 20}
+SIH21	Silver {Mar 21}
+SIK20	Silver {May 20}
+SIK21	Silver {May 21}
+SIN20	Silver {Jul 20}
+SIN21	Silver {Jul 21}
+SIN22	Silver {Jul 22}
+SIN23	Silver {Jul 23}
+SIN24	Silver {Jul 24}
+SIU20	Silver {Sep 20}
+SIU21	Silver {Sep 21}
+SIZ19	Silver {Dec 19}
+SIZ20	Silver {Dec 20}
+SIZ21	Silver {Dec 21}
+SIZ22	Silver {Dec 22}
+SIZ23	Silver {Dec 23}
+SIZ24	Silver {Dec 24}
+SO.C	Silver Micro Continuation
+SOF20	Silver Micro {Jan 20}
+SOG20	Silver Micro {Feb 20}
+SOH20	Silver Micro {Mar 20}
+SOK20	Silver Micro {May 20}
+SON20	Silver Micro {Jul 20}
+SOU20	Silver Micro {Sep 20}
+SOZ19	Silver Micro {Dec 19}
+SOZ20	Silver Micro {Dec 20}
+ZA.C	Zinc Continuation
+ZAF20	Zinc {Jan 20}
+ZAG20	Zinc {Feb 20}
+ZAH20	Zinc {Mar 20}
+ZAJ20	Zinc {Apr 20}
+ZAK20	Zinc {May 20}
+ZAM20	Zinc {Jun 20}
+ZAN20	Zinc {Jul 20}
+ZAQ20	Zinc {Aug 20}
+ZAU20	Zinc {Sep 20}
+ZAV20	Zinc {Oct 20}
+ZAX20	Zinc {Nov 20}
+ZAZ19	Zinc {Dec 19}
+ZAZ20	Zinc {Dec 20}

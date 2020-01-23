@@ -1,0 +1,3945 @@
+Symbol	Description
+14D	1414 Degrees Limited
+14DO	1414 Degrees Limited
+1AD	Adalta Limited
+1ADO	Adalta Limited
+1AG	Alterra Limited
+1AL	Oneall International Limited
+1ST	1st Available Ltd
+2BE	Tubi Limited
+360	Life360 Inc.
+3DA	Amaero International Ltd
+3DP	Pointerra Limited
+3PL	3p Learning Limited..
+4CE	Force Commodities Limited
+4DS	4ds Memory Limited
+5GN	5g Networks Limited
+88E	88 Energy Limited
+8CO	8common Limited
+8COO	8common Limited
+8EC	8ip Emerging Companies Limited
+8IH	8i Holdings Ltd
+8VI	8vic Holdings Limited
+9SP	9 Spokes International Limited
+A1G	African Gold Limited
+A1M	Aic Mines Limited
+A200	A200
+A2B	A2b Australia Limited
+A2M	The A2 Milk Company Limited
+A2MKOA	The A2 Milk Company Limited
+A2MKOC	The A2 Milk Company Limited
+A2MKOG	The A2 Milk Company Limited
+A2MKOH	The A2 Milk Company Limited
+A2MKOR	The A2 Milk Company Limited
+A2MKOT	The A2 Milk Company Limited
+A2MKOU	The A2 Milk Company Limited
+A3D	Aurora Labs Limited
+A3DO	Aurora Labs Limited
+A40	Alliance Mineral Assets Limited
+A4N	Alpha Hpa Limited
+AAA	Betashares Australian High Interest Cash
+AAC	Australian Agricultural Company Ltd
+AACKOB	Australian Agricultural Company Limited.
+AAJ	Aruma Resources Limited
+AAP	Australian Agricultural Projects Limited
+AAR	Anglo Australian Resources NL
+AB1	Animoca Brands Corporation Limited
+AB1O	Animoca Brands Corporation Limited
+ABA	Auswide Bank Ltd
+ABC	Adelaide Brighton Ltd
+ABCKOA	Adelaide Brighton Limited
+ABCKOC	Adelaide Brighton Limited
+ABCKOQ	Adelaide Brighton Limited
+ABL	Abilene Oil And Gas Limited
+ABP	Abacus Property Group
+ABR	American Pacific Borate & Lithium Limited
+ABT	Abundant Produce Limited
+ABV	Advanced Braking Technology Ltd
+ABW	Aurora Buy Write Income Trust
+ABX	Abelle Ltd
+AC8	Auscann Group Holdings Ltd
+ACB	A-Cap Resources Ltd
+ACDC	Etfs Battery Tech & Lithium
+ACF	Acumen Capital Property Securities Fund
+ACP	Audalia Resources Limited
+ACQ	Acorn Capital Investment Fund Limited
+ACR	Acrux Ltd
+ACS	Accent Resources NL
+ACW	Actinogen Ltd
+AD1	Applydirect Limited
+AD8	Audinate Group Limited
+ADA	Adacel Technologies Ltd
+ADD	Adavale Resources Ltd
+ADH	Adairs Limited
+ADI	Adelphi Energy Ltd
+ADJ	Adslot Ltd
+ADN	Adelaide Resources Ltd
+ADNOB	Andromeda Metals Limited
+ADO	
+ADOO	Anteo Diagnostics Limited
+ADR	Adherium Limited
+ADT	Advent Ltd
+ADV	Australian Development Capital Fund
+ADX	Audax Resources Ltd
+ADXOB	Adx Energy Ltd
+ADY	Admiralty Resources NL
+AEB	Algae.tec Limited
+AEBO	Algae.tec Limited
+AEE	Aura Energy Ltd
+AEF	Australian Ethical Investments Ltd
+AEG	Absolute Equity Performance Fund Limited
+AEI	Aeris Technologies Ltd
+AER	Aeeris Ltd
+AEV	Avenira Limited
+AFA	ASF Group Ltd
+AFG	Allco Finance Group Ltd
+AFI	Australian Foundation Invest Ltd
+AFL	Australian Pure Fruits Ltd
+AFP	Aft Pharmaceuticals Limited
+AFR	African Energy Resources (Guernsey) Ltd
+AFT	AFT Corporation Ltd
+AGD	Austral Gold Ltd
+AGE	Alligator Energy Limited
+AGG	Anglogold Ashanti Ltd (Sth Afr CUFS)
+AGH	Australian Growth Properties
+AGI	Ainsworth Game Technology Ltd
+AGJ	Agricultural Land Trust
+AGL	AGL Energy Limited
+AGLBOA	Agl Energy Limited.
+AGLKOC	Agl Energy Limited.
+AGLKOD	Agl Energy Limited.
+AGLKOF	Agl Energy Limited.
+AGLKOQ	Agl Energy Limited.
+AGLKOR	Agl Energy Limited.
+AGLKOS	Agl Energy Limited.
+AGM	Allegiance Mining NL
+AGR	Aguia Resources Limited
+AGS	Alliance Resources Ltd
+AGVT	AGVT
+AGX1	AGX1
+AGY	Argosy Minerals Inc (CUFS)
+AGYO	Argosy Minerals Limited
+AHF	Australian Dairy Farms Group
+AHK	Ark Mines Limited
+AHL	Ahalife Holdings Limited
+AHN	Athena Resources Ltd
+AHQ	Allegiance Coal Limited
+AHX	Apiam Animal Health Limited
+AHY	Asaleo Care Limited
+AHZ	Allied Healthcare Group Ltd
+AHZO	Admedus Ltd
+AIA	Auckland International Airport Ltd
+AIB	Aurora Infrastructure Buy Write Income Trust
+AIQ	Alternative Investment Trust
+AIR	Astivita Renewables Limited
+AIS	Automotive Industrial & Mining Supplies
+AIV	Activex Ltd
+AIY	Authorised Investment Fund Ltd
+AIYOB	Authorised Investment Fund Limited
+AIZ	Air New Zealand Ltd
+AJC	Acacia Coal Limited
+AJJ	Asian Centre For Liver Diseases And Transplantation Limited
+AJL	AJ Lucas Group Ltd
+AJM	Altura Mining Limited
+AJMOB	Altura Mining Limited
+AJQ	Armour Energy Limited
+AJX	Alexium International Group Limited
+AJY	Asaplus Resources Limited
+AKG	AKG
+AKM	Aspire Mining Limited
+AKN	Auking Mining Limited
+AKP	Audio Pixels Holdings Limited
+AL8	Alderan Resources Limited
+ALC	Alcidion Group Limited
+ALF	Australian Leaders Fund Ltd
+ALG	Applied Learning Ltd t/over
+ALGKOB	Ardent Leisure Group Limited
+ALGKOC	Ardent Leisure Group Limited
+ALGKOR	Ardent Leisure Group Limited
+ALI	Argo Global Listed Infrastructure Limited
+ALK	Alkane Exploration Ltd
+ALL	Aristocrat Leisure Ltd
+ALLKOA	Aristocrat Leisure Limited
+ALLKOC	Aristocrat Leisure Limited
+ALLKOD	Aristocrat Leisure Limited
+ALLKOG	Aristocrat Leisure Limited
+ALLKOP	Aristocrat Leisure Limited
+ALLKOQ	Aristocrat Leisure Limited
+ALLKOR	Aristocrat Leisure Limited
+ALQ	Als Limited
+ALQKOB	Als Limited
+ALQKOC	Als Limited
+ALQKOD	Als Limited
+ALQKOE	Als Limited
+ALQKOR	Als Limited
+ALQKOS	Als Limited
+ALQKOU	Als Limited
+ALT	Analytica Ltd
+ALU	Altium Ltd
+ALUKOA	Altium Limited
+ALUKOB	Altium Limited
+ALUKOP	Altium Limited
+ALUKOS	Altium Limited
+ALX	Allstate Explorations NL
+ALXKOA	Atlas Arteria
+ALXKOB	Atlas Arteria
+ALXKOQ	Atlas Arteria
+ALXKOR	Atlas Arteria
+ALXKOS	Atlas Arteria
+ALY	Alchemy Resources Ltd
+AMA	Allomak Ltd
+AMB	Ambition Group Ltd
+AMC	Amcor Ltd
+AMCBOE	Amcor Limited
+AMCKOD	Amcor Limited
+AMCKOE	Amcor Limited
+AMCKOG	Amcor Plc
+AMCKOQ	Amcor Limited
+AMCKOR	Amcor Limited
+AMCKOS	Amcor Limited
+AMD	Arrow Minerals Ltd
+AME	Austmet Resources Ltd
+AMG	Alcaston Mining NL
+AMH	AMCIL Ltd
+AMI	Aurelia Metals Limited
+AML	AMRAD Corporation Ltd
+AMN	Agrimin Limited
+AMO	Ambertech Ltd
+AMP	AMP Ltd
+AMPBOC	Amp Limited
+AMPBOI	Amp Limited
+AMPKOA	Amp Limited
+AMPKOB	Amp Limited
+AMPKOE	Amp Limited
+AMPKOF	Amp Limited
+AMPKOP	Amp Limited
+AMPKOS	Amp Limited
+AMPKOT	Amp Limited
+AMPKOV	Amp Limited
+AMPLOA	Amp Limited
+AMPLOC	Amp Limited
+AMPLOQ	Amp Limited
+AMPLOR	Amp Limited
+AMPLOU	Amp Limited
+AMPLOV	Amp Limited
+AMPPA	Amp Limited
+AMPPB	Amp Limited
+AMS	Allied Mining & Processing Nl
+AMT	Advanced Surgical Design & Manufacture Ltd
+AMX	Ampella Mining Ltd
+ANA	Ansila Energy Nl
+ANG	Austin Engineering Ltd
+ANL	Anaconda Nickel Nl
+ANN	Ansell Ltd
+ANNKOB	Ansell Limited
+ANNKOP	Ansell Limited
+ANNKOR	Ansell Limited
+ANO	Advanced Nanotechnology Ltd
+ANP	Antisense Therapeutics Ltd
+ANQ	Anaeco Ltd
+ANR	Anatara Lifesciences Ltd
+ANS	Austsino Resources Group Limited
+ANW	Ausnico Limited
+ANZ	Australia & NZ Banking Group Ltd
+ANZBOD	Australia And New Zealand Banking Group Limited
+ANZBOF	Australia And New Zealand Banking Group Limited
+ANZBOJ	Australia And New Zealand Banking Group Limited
+ANZBOK	Australia And New Zealand Banking Group Limited
+ANZBOZ	Australia And New Zealand Banking Group Limited
+ANZKOA	Australia And New Zealand Banking Group Limited
+ANZKOB	Australia And New Zealand Banking Group Limited
+ANZKOC	Australia And New Zealand Banking Group Limited
+ANZKOF	Australia And New Zealand Banking Group Limited
+ANZKOG	Australia And New Zealand Banking Group Limited
+ANZKOH	Australia And New Zealand Banking Group Limited
+ANZKOI	Australia And New Zealand Banking Group Limited
+ANZKOK	Australia And New Zealand Banking Group Limited
+ANZKOM	Australia And New Zealand Banking Group Limited
+ANZKON	Australia And New Zealand Banking Group Limited
+ANZKOQ	Australia And New Zealand Banking Group Limited
+ANZKOS	Australia And New Zealand Banking Group Limited
+ANZKOT	Australia And New Zealand Banking Group Limited
+ANZKOV	Australia And New Zealand Banking Group Limited
+ANZKOX	Australia And New Zealand Banking Group Limited
+ANZKOY	Australia And New Zealand Banking Group Limited
+ANZLOA	Australia And New Zealand Banking Group Limited
+ANZLOB	Australia And New Zealand Banking Group Limited
+ANZLOC	Australia And New Zealand Banking Group Limited
+ANZLOF	Australia And New Zealand Banking Group Limited
+ANZLOG	Australia And New Zealand Banking Group Limited
+ANZLOP	Australia And New Zealand Banking Group Limited
+ANZLOQ	Australia And New Zealand Banking Group Limited
+ANZLOR	Australia And New Zealand Banking Group Limited
+ANZLOS	Australia And New Zealand Banking Group Limited
+ANZMOS	Australia And New Zealand Banking Group Limited
+ANZMOT	Australia And New Zealand Banking Group Limited
+ANZPD	Australia And New Zealand Banking Group Limited
+ANZPE	Australia And New Zealand Banking Group Limited
+ANZPF	Australia And New Zealand Banking Group Limited
+ANZPG	Australia And New Zealand Banking Group Limited
+ANZPH	Australia And New Zealand Banking Group Limited
+AO1	Assetowl Limited
+AOA	
+AOF	AMP Office Trust
+AON	Apollo Minerals Ltd
+AOP	Apollo Life Sciences Ltd
+AOU	Auroch Minerals Nl
+AOW	American Patriot Oil & Gas Limited
+APA	Australian Pipeline Trust
+APAKOB	Apa Group
+APAKOQ	Apa Group
+APAKOR	Apa Group
+APC	Australian Potash Limited
+APCOB	Australian Potash Limited
+APD	APN Property Group Ltd
+APE	AP Eagers Holdings Ltd
+APG	Austpac Gold Resources NL
+APH	Ascent Pharmahealth Ltd
+API	Australian Pharmaceutical Ind Ltd
+APL	Australian Plantation Timber Ltd
+APT	Afterpay Touch Group Limited
+APTKOA	Afterpay Touch Group Limited
+APTKOC	Afterpay Touch Group Limited
+APTKOE	Afterpay Touch Group Limited
+APTKOF	Afterpay Touch Group Limited
+APTKOH	Afterpay Touch Group Limited
+APTKOK	Afterpay Touch Group Limited
+APTKOQ	Afterpay Touch Group Limited
+APTKOU	Afterpay Touch Group Limited
+APTKOV	Afterpay Touch Group Limited
+APV	Access Providers Ltd
+APW	Aims Property Securities Fund
+APX	Appen Limited
+APXKOA	Appen Limited
+APXKOG	Appen Limited
+APXKOH	Appen Limited
+APXKOJ	Appen Limited
+APZ	Aspen Group
+AQC	Australian Pacific Coal Limited
+AQD	AusQuest Ltd
+AQDOC	Ausquest Limited
+AQG	Alacer Gold Corp
+AQI	Alicanto Minerals Limited
+AQR	Aussie Q Resources Ltd
+AQS	Aquis Entertainment Limited
+AQX	Alice Queen Limited
+AQZ	Alliance Aviation Services Limited
+AR9	Archtis Limited
+ARA	Ariadne Australia Ltd
+ARB	Arb Corporation Limited.
+ARBKOA	Arb Corporation Limited.
+ARBKOB	Arb Corporation Limited.
+ARC	Amalg Resources Nl
+ARCO	Australian Rural Capital Limited
+ARD	Argent Minerials Lts
+ARDOA	Argent Minerals Limited
+ARDOB	Argent Minerals Limited
+ARE	Argonaut Resources NL
+ARF	Arena Reit
+ARG	Argo Investments Ltd
+ARL	Austrim
+ARM	Aurora Minerals Ltd
+ARN	Arnotts Ltd t/over Campbell Soup Co
+ARO	Astro Diamond Mines NL
+ARQ	ARC Energy Ltd
+ARS	Alt Resources Limited
+ARU	Arafura Resources NL
+ARV	Artemis Resources Ltd
+AS1	Angel Seafood Holdings Ltd
+ASB	Austal Ltd
+ASG	Autosports Group Limited.
+ASH	Ashley Services Group Limited
+ASIA	Betashares Asia Technology Tigers
+ASN	Anson Resources Limited
+ASP	Aspermont Ltd
+ASQ	Asset Loans Ltd
+AST	Ausnet Services
+ASTKOA	Ausnet Services Limited
+ASTKOB	Ausnet Services Limited
+ASW	Advanced Share Registry Ltd
+ASX	Australian Stock Exchange Ltd
+ASXKOA	Asx Limited
+ASXKOB	Asx Limited
+ASXKOE	Asx Limited
+ASXKOP	Asx Limited
+ASXKOR	Asx Limited
+ASXKOS	Asx Limited
+ASXKOU	Asx Limited
+ATA	Atc Alloys Ltd
+ATC	Advantage Telecommunications Ltd
+ATH	Atech Holdings Ltd
+ATL	Auto Enterprises Ltd
+ATM	Aneka Tambang (Persero) Tbk (Indo)
+ATP	Atlas Pacific Ltd
+ATR	Astron Ltd
+ATS	Australis Oil & Gas Limited
+ATU	Atrum Coal Nl
+ATUO	Atrum Coal Limited
+ATX	Austminex Ltd
+AU1	Ausnet Financial Services Limited
+AU1OA	The Agency Group Australia Ltd
+AU8	Aumake International Limited
+AUB	Austbrokers Holdings Ltd
+AUC	Ausgold Limited
+AUDS	Betashares Strong Australian Dollar
+AUH	Australian Healthcare Technology Ltd
+AUI	Australian United Investment Ltd
+AUL	Australian United Gold Ltd
+AULOD	Austar Gold Limited
+AUMF	Ishares Edge Msci Australia Multifactor Etf
+AUP	Aurora Property Income Trust
+AUQ	Alara Uranium Ltd
+AUR	Auris Minerals Limited
+AUROC	Auris Minerals Limited
+AUST	Betashares Managed Risk Australian Share Fund (man
+AUT	Aurora Oil & Gas Ltd
+AUZ	Australian Mines Ltd
+AV1	Adveritas Limited
+AV1O	Adveritas Limited
+AVA	Aviva Corporation Ltd
+AVC	Australian Visual Communications
+AVE	Aevum Ltd
+AVG	Australian Vintage Ltd t/over by SWS
+AVH	Avita Medical Ltd
+AVJ	AV Jennings Homes Ltd
+AVL	Anvil Mining Nl
+AVN	Avon Resources Ltd
+AVQ	Axiom Mining Ltd
+AVW	Avira Energy Limited
+AVZ	Avonlea Minerals Ltd
+AVZO	Avz Minerals Limited
+AWC	Alumina Ltd
+AWCKOA	Alumina Limited
+AWCKOB	Alumina Limited
+AWCKOD	Alumina Limited
+AWCKOF	Alumina Limited
+AWCKOI	Alumina Limited
+AWCKOJ	Alumina Limited
+AWCKOP	Alumina Limited
+AWCKOR	Alumina Limited
+AWCKOS	Alumina Limited
+AWCKOT	Alumina Limited
+AWCKOU	Alumina Limited
+AWCKOX	Alumina Limited
+AWN	Arowana International Limited
+AWV	Anova Metals Limited
+AWY	Australian Whisky Holdings Limited
+AX1	Accent Group Limited
+AX8	Accelerate Resources Limited
+AXE	Archer Exploration Ltd
+AXI	Axiom Properties Ltd
+AXL	Aucxis
+AXLHA	Axsesstoday Limited
+AXT	Argo Exploration Ltd
+AYF	Australian Enhanced Income Fund
+AYI	A1 Investments & Resources Ltd
+AYM	Altius Mining Limited
+AYR	Alloy Resources Ltd
+AYS	Amaysim Australia Limited
+AYUHB	Australian Unity Limited
+AYUHC	Australian Unity Limited
+AYUHD	Australian Unity Limited
+AZI	Alta Zinc Limited
+AZJ	Aurizon Holdings Limited
+AZJKOA	Aurizon Holdings Limited
+AZJKOB	Aurizon Holdings Limited
+AZJKOE	Aurizon Holdings Limited
+AZJKOP	Aurizon Holdings Limited
+AZJKOQ	Aurizon Holdings Limited
+AZJKOS	Aurizon Holdings Limited
+AZJKOT	Aurizon Holdings Limited
+AZM	Azumah Resources Ltd
+AZS	Azure Minerals Ltd
+AZV	Azure Healthcare Limited
+AZY	Antipa Minerals Limited
+B2Y	Bounty Mining Limited
+BAF	Blue Sky Alternatives Access Fund Limited
+BAL	Bellamys Australia Limited
+BAP	Burson Group Limited
+BAPKOB	Bapcor Limited
+BAPKOC	Bapcor Limited
+BAPKOQ	Bapcor Limited
+BAPKOR	Bapcor Limited
+BAR	Barra Resources ltd
+BAS	Bass Strait Oil Company Ltd
+BASOB	Bass Oil Limited
+BAT	Battery Minerals Limited
+BATO	Battery Minerals Limited
+BBC	Babcock & Brown Communities Group
+BBL	Brisbane Broncos Ltd
+BBN	Baby Bunting Group Limited
+BBOZ	Betashares Australian Equities Strong Bear Hedge F
+BBUS	Betashares U.s. Equities Strong Bear Fund
+BBX	BBX Holdings Ltd
+BC8	Black Cat Syndicate Limited
+BCB	Bowen Coking Coal Limited
+BCC	Buccaneer Energy Ltd
+BCI	BC Iron Ltd
+BCK	Brockman Mining Limited
+BCN	Beacon Minerals Ltd
+BCNOB	Beacon Minerals Limited
+BCT	Bluechiip Limited
+BD1	Bard1 Life Sciences Limited
+BDA	Bod Australia Limited
+BDC	Bardoc Gold Limited
+BDG	Bendigo Mining Ltd
+BDI	Blina Diamonds NL
+BEAR	Betashares Australian Equities Bear Hedge Fund
+BEE	Broo Ltd
+BEL	Bentley International Ltd
+BEM	Blackearth Minerals Nl
+BEN	Bendigo Bank Ltd
+BENHB	Bendigo And Adelaide Bank Limited
+BENKOB	Bendigo And Adelaide Bank Limited
+BENKOC	Bendigo And Adelaide Bank Limited
+BENKOG	Bendigo And Adelaide Bank Limited
+BENKOR	Bendigo And Adelaide Bank Limited
+BENKOS	Bendigo And Adelaide Bank Limited
+BENKOT	Bendigo And Adelaide Bank Limited
+BENPE	Bendigo And Adelaide Bank Limited
+BENPF	Bendigo And Adelaide Bank Limited
+BENPG	Bendigo And Adelaide Bank Limited
+BET	Belmont Holdings Ltd
+BFC	Beston Global Food Company Limited
+BFG	Bell Financial Group Ltd
+BGA	Bega Cheese Limited
+BGL	Bigair Group Ltd
+BGP	Briscoe Group Australasia Limited
+BGT	Bio-gene Technology Ltd
+BHD	Benjamin Hornigold Limited
+BHDO	Benjamin Hornigold Limited
+BHL	Bidvest Plc
+BHP	BHP Billiton Ltd
+BHPBOE	Bhp Group Limited
+BHPKOB	Bhp Billiton Limited
+BHPKOC	Bhp Billiton Limited
+BHPKOF	Bhp Billiton Limited
+BHPKOH	Bhp Billiton Limited
+BHPKOI	Bhp Billiton Limited
+BHPKOK	Bhp Billiton Limited
+BHPKOL	Bhp Billiton Limited
+BHPKOM	Bhp Billiton Limited
+BHPKON	Bhp Billiton Limited
+BHPKOP	Bhp Billiton Limited
+BHPKOR	Bhp Billiton Limited
+BHPKOW	Bhp Billiton Limited
+BHPLOC	Bhp Billiton Limited
+BHPLOJ	Bhp Billiton Limited
+BHPLON	Bhp Billiton Limited
+BHPLOP	Bhp Billiton Limited
+BHPLOS	Bhp Billiton Limited
+BHPLOT	Bhp Billiton Limited
+BHPLOV	Bhp Billiton Limited
+BHPLOW	Bhp Billiton Limited
+BHPLOX	Bhp Billiton Limited
+BHPLOY	Bhp Billiton Limited
+BHPMOD	Bhp Billiton Limited
+BHPMOT	Bhp Group Limited
+BHPMOU	Bhp Group Limited
+BHPMOV	Bhp Group Limited
+BID	Bidenergy Limited
+BILL	Ishares Core Cash
+BIN	Bingo Industries Limited
+BINKOC	Bingo Industries Limited
+BINKOD	Bingo Industries Limited
+BINKOE	Bingo Industries Limited
+BINKOG	Bingo Industries Limited
+BIQ	Buildingiq Inc
+BIR	Burswood
+BIS	
+BIT	Biotron Ltd
+BKI	Brickworks Investment Company Ltd
+BKL	Blackmores Laboratories Ltd
+BKLKOA	Blackmores Limited
+BKLKOP	Blackmores Limited
+BKLKOQ	Blackmores Limited
+BKM	BKM Management Ltd
+BKT	Black Rock Mining Limited
+BKW	Brickworks Ltd
+BKWKOA	Brickworks Limited
+BKWKOB	Brickworks Limited
+BKY	Berkeley Resources Ltd
+BLA	Blue Sky Alternative Investments Limited
+BLD	Boral Ltd
+BLDBOA	Boral Limited.
+BLDBOZ	Boral Limited.
+BLDKOA	Boral Limited.
+BLDKOE	Boral Limited.
+BLDKOP	Boral Limited.
+BLDKOQ	Boral Limited.
+BLG	Blugass Ltd
+BLK	Blackham Resources Ltd
+BLKOB	Blackham Resources Limited
+BLT	Benitec Ltd
+BLU	Bluefreeway Ltd
+BLV	Bligh Ventures
+BLX	Beacon Lighting Group Limited
+BLY	Boart Longyear Ltd
+BLYO	Boart Longyear Limited
+BLZ	Blaze International Ltd
+BLZO	BLZO
+BMG	Brazilian Metals Group Limited.
+BMH	Baumart Holdings Limited
+BMN	Bannerman Resources Ltd
+BNKS	Betashares Global Banks Etf - Currency Hedged
+BNL	Balkans Gold Ltd
+BNO	Bionomics Ltd
+BNR	Bulletin Resources Limited
+BOA	Boadicea Resources Limited
+BOC	Bougainville Copper Ltd (PNG)
+BOE	Boss Energy Ltd
+BOL	Boom Logistics Ltd
+BOND	Spdr S&p/asx Australian Bond Fund
+BOQ	Bank of Queensland Ltd
+BOQBOB	Bank Of Queensland Limited.
+BOQBOC	Bank Of Queensland Limited.
+BOQBOY	Bank Of Queensland Limited.
+BOQKOD	Bank Of Queensland Limited.
+BOQKOE	Bank Of Queensland Limited.
+BOQKOF	Bank Of Queensland Limited.
+BOQKOP	Bank Of Queensland Limited.
+BOQKOR	Bank Of Queensland Limited.
+BOQKOS	Bank Of Queensland Limited.
+BOQPE	Bank Of Queensland Limited.
+BOT	Botanix Pharmaceuticals Ltd
+BPG	Byte Power Group Ltd
+BPH	BioPharmica Ltd
+BPL	Broken Hill Prospecting Limited
+BPLRA	Broken Hill Prospecting Limited
+BPP	Babylon Pump & Power Limited
+BPT	Beach Petroleum Ltd
+BPTKOA	Beach Energy Limited
+BPTKOB	Beach Energy Limited
+BPTKOC	Beach Energy Limited
+BPTKOP	Beach Energy Limited
+BPTKOQ	Beach Energy Limited
+BPTKOR	Beach Energy Limited
+BRB	Breaker Resources Nl
+BRG	Breville Group Ltd
+BRGKOC	Breville Group Limited
+BRGKOD	Breville Group Limited
+BRGKOG	Breville Group Limited
+BRI	Breakwater Island Trust
+BRK	BreakFree Ltd
+BRKOA	Brookside Energy Limited
+BRL	Brl Hardy
+BRN	Brainchip Holdings Ltd
+BRU	Buru Energy Ltd
+BRV	Big River Gold Ltd
+BRVO	Big River Gold Ltd
+BSA	Broadcast Services Australia Ltd
+BSE	BSE
+BSL	BlueScope Steel Ltd
+BSLBOA	Bluescope Steel Limited
+BSLKOA	Bluescope Steel Limited
+BSLKOB	Bluescope Steel Limited
+BSLKOC	Bluescope Steel Limited
+BSLKOF	Bluescope Steel Limited
+BSLKOG	Bluescope Steel Limited
+BSLKOP	Bluescope Steel Limited
+BSLKOS	Bluescope Steel Limited
+BSM	Bass Metals Ltd
+BSMOC	Bass Metals Ltd
+BSN	Bisan Ltd
+BSP	Black Star Petroleum Limited
+BSR	Bassari Resources Ltd
+BSX	Blackstone Minerals Limited
+BTC	BioTech Capital Ltd
+BTH	Bigtincan Holdings Limited
+BTI	Bailador Technology Investments Limited
+BTK	Botai Technology Limited
+BUB	Bubs Australia Limited
+BUD	Buddy Platform Ltd
+BUG	Buderim Ginger Ltd
+BUX	Buxton Resources Ltd
+BUY	Bounty Oil & Gas NL
+BVS	Bravura Solutions Limited.
+BVSKOA	Bravura Solutions Limited.
+BVSKOB	Bravura Solutions Limited.
+BVSKOC	Bravura Solutions Limited.
+BVSKOD	Bravura Solutions Limited.
+BVSKOE	Bravura Solutions Limited.
+BWF	Blackwall Property Funds Limited
+BWP	Bunnings Warehouse Property Trust
+BWR	Blackwall Property Trust
+BWX	Bwx Limited
+BXB	Brambles Ltd
+BXBKOA	Brambles Limited
+BXBKOB	Brambles Limited
+BXBKOC	Brambles Limited
+BXBKOQ	Brambles Limited
+BXBKOR	Brambles Limited
+BXBKOS	Brambles Limited
+BXN	Bioxyne Limited
+BYE	Byron Energy Limited
+BYH	Bryah Resources Limited
+BYHO	Bryah Resources Limited
+BYI	Beyond International Ltd
+C6C	Copper Mountain Mining Corporation
+CA8	Coassets Limited.
+CAA	Capral Aluminium Ltd
+CAD	Caeneus Minerals Ltd
+CADO	Caeneus Minerals Ltd
+CAE	Cannindah Resources Limited
+CAF	Centrepoint Alliance Ltd
+CAG	Cape Range Wireless Ltd
+CAI	Casinos Austria International
+CAJ	Capitol Health Ltd
+CAM	Clime Capital Ltd
+CAMG	Clime Capital Limited
+CAN	Cann Group Limited
+CAP	Carpentaria Exploration Ltd
+CAQ	Cell Aquaculture Ltd
+CAR	Carsales.com Limited.
+CARKOB	Carsales.com Limited.
+CARKOD	Carsales.com Limited.
+CARKOQ	Carsales.com Limited.
+CARKOR	Carsales.com Limited.
+CAT	Catuity Inc (USA)
+CAU	CollTech Australia Ltd
+CAV	Carnavale Resources Ltd
+CAVOA	Carnavale Resources Limited
+CAY	Canyon Resources Ltd
+CAZ	Cazaly Resources Ltd
+CBA	Commonwealth Bank Ltd
+CBABOF	Commonwealth Bank Of Australia.
+CBABOG	Commonwealth Bank Of Australia.
+CBAKOA	Commonwealth Bank Of Australia.
+CBAKOC	Commonwealth Bank Of Australia.
+CBAKOE	Commonwealth Bank Of Australia.
+CBAKOF	Commonwealth Bank Of Australia.
+CBAKOG	Commonwealth Bank Of Australia.
+CBAKOI	Commonwealth Bank Of Australia.
+CBAKOJ	Commonwealth Bank Of Australia.
+CBAKOK	Commonwealth Bank Of Australia.
+CBAKOM	Commonwealth Bank Of Australia.
+CBAKON	Commonwealth Bank Of Australia.
+CBAKOP	Commonwealth Bank Of Australia.
+CBAKOR	Commonwealth Bank Of Australia.
+CBAKOS	Commonwealth Bank Of Australia.
+CBAKOU	Commonwealth Bank Of Australia.
+CBAKOY	Commonwealth Bank Of Australia.
+CBAKOZ	Commonwealth Bank Of Australia.
+CBALOL	Commonwealth Bank Of Australia.
+CBALOM	Commonwealth Bank Of Australia.
+CBALOP	Commonwealth Bank Of Australia.
+CBALOQ	Commonwealth Bank Of Australia.
+CBALOS	Commonwealth Bank Of Australia.
+CBALOT	Commonwealth Bank Of Australia.
+CBALOW	Commonwealth Bank Of Australia.
+CBAMOP	Commonwealth Bank Of Australia.
+CBAPD	Commonwealth Bank Of Australia.
+CBAPE	Commonwealth Bank Of Australia.
+CBAPF	Commonwealth Bank Of Australia.
+CBAPG	Commonwealth Bank Of Australia.
+CBAPH	Commonwealth Bank Of Australia.
+CBAPI	Commonwealth Bank Of Australia.
+CBR	Constellation Brands Inc (US nCHESS)
+CBY	Canterbury Resources Limited
+CCA	Chimpchange Limited
+CCE	Clinical Cell Culture Ltd
+CCG	Commschoice Group Limited
+CCJ	County Coal Limited
+CCL	Coca-Cola Amatil Ltd
+CCLKOB	Coca-cola Amatil Limited
+CCLKOC	Coca-cola Amatil Limited
+CCLKOD	Coca-cola Amatil Limited
+CCLKOP	Coca-cola Amatil Limited
+CCLKOS	Coca-cola Amatil Limited
+CCP	Credit Corp Group Ltd
+CCPKOA	Credit Corp Group Limited
+CCPKOC	Credit Corp Group Limited
+CCPKOD	Credit Corp Group Limited
+CCV	Cash Converters International Ltd
+CCX	City Chic Collective Limited
+CCZ	Castillo Copper Limited
+CD1	Cordish Dixon Private Equity Fund I
+CD2	Cordish Dixon Private Equity Fund Ii
+CD3	Cordish Dixon Private Equity Fund Iii
+CDA	Codan Ltd
+CDD	Cardno Ltd
+CDDKOQ	Cardno Limited
+CDDKOR	Cardno Limited
+CDH	Chongherr Investments Ltd
+CDM	Cadence Capital Ltd
+CDP	Carindale Property Trust
+CDT	Castle Minerals Ltd
+CDU	CuDeco Ltd
+CDV	Cardinal Resources Limited
+CDX	CDS Technologies Ltd
+CDXO	Cardiex Limited
+CDY	Cellmid Limited
+CE1	Calima Energy Limited
+CEL	CEL
+CEN	Central Australian Phosphate Limited
+CETF	Vaneck Vectors Chinaamc A-share?
+CFE	Cape Lambert Iron Ore Ltd
+CFO	Cfoam Limited
+CG1	Carbonxt Group Limited
+CGA	Contango Asset Management Limited
+CGB	Cann Global Limited
+CGC	Consolidated Gaming Corporation
+CGCKOA	Costa Group Holdings Limited
+CGCKOP	Costa Group Holdings Limited
+CGCKOQ	Costa Group Holdings Limited
+CGCKOR	Costa Group Holdings Limited
+CGF	Challenger Financial Services Group
+CGFBOB	Challenger Limited
+CGFKOA	Challenger Limited
+CGFKOC	Challenger Limited
+CGFKOD	Challenger Limited
+CGFKOF	Challenger Limited
+CGFKOP	Challenger Limited
+CGFKOR	Challenger Limited
+CGFPA	Challenger Limited
+CGFPB	Challenger Limited
+CGL	The Citadel Group Limited
+CGM	Cougar Metals NL
+CGN	Crater Gold Mining Limited
+CGO	CPT Global Ltd
+CGR	Careers Multilist Limited
+CGS	Cogstate Ltd
+CHC	Charter Hall Group
+CHCKOA	Charter Hall Group
+CHCKOB	Charter Hall Group
+CHCKOC	Charter Hall Group
+CHCKOD	Charter Hall Group
+CHCKOE	Charter Hall Group
+CHCKOP	Charter Hall Group
+CHCKOT	Charter Hall Group
+CHK	Cohiba Minerals Limited
+CHKO	Cohiba Minerals Limited
+CHN	Chalice Gold Mines Ltd
+CHZ	Chesser Resources Ltd
+CI1	Credit Intelligence Ltd
+CIA	Champion Iron Limited
+CIE	Contango Income Generator Limited
+CII	CI Resources Ltd
+CIM	Cimic Group Limited
+CIMKOA	Cimic Group Limited
+CIMKOC	Cimic Group Limited
+CIMKOF	Cimic Group Limited
+CIMKOH	Cimic Group Limited
+CIMKOQ	Cimic Group Limited
+CIMKOR	Cimic Group Limited
+CIMKOS	Cimic Group Limited
+CIMKOT	Cimic Group Limited
+CIN	Carlton Investments Ltd
+CINPA	Carlton Investments PA
+CIO	Connected Io Limited
+CIP	Centuria Industrial Reit
+CIW	Clime Investment Management Ltd
+CKA	Cokal Limited
+CKF	Collins Foods Limited
+CKFKOA	Collins Foods Limited
+CL1	Class Limited
+CL8	Collaborate Corporation Limited
+CLA	Celsius Coal Limited
+CLB	Creatable Media Ltd
+CLBO	Candy Club Holdings Limited
+CLF	Community Life Ltd
+CLH	Collection House Ltd
+CLI	Challenger International
+CLQ	Clean Teq Holdings Ltd
+CLT	Cellnet Group Ltd
+CLV	Clover Corporation Ltd
+CLW	Charter Hall Long Wale Reit
+CLWN	Charter Hall Long Wale Reit
+CLX	CTI Logistics Ltd
+CLZ	Classic Minerals Ltd
+CM1	Coolgardie Minerals Limited
+CM8	Crowd Mobile Limited
+CMA	Centuria Metropolitan Reit
+CMC	China Magnesium Corporation Limited
+CMD	Cassius Mining Limited
+CML	Coles Myer Ltd
+CMM	Capricorn Metals Ltd
+CMP	Compumedics Ltd
+CMW	Cromwell Corporation Ltd
+CMWKOA	Cromwell Property Group
+CMWKOB	Cromwell Property Group
+CMWKOC	Cromwell Property Group
+CNB	Canberra Investment Corporation Ltd
+CNEW	Vaneck Vectors China New Economy
+CNI	Centuria Capital Limited
+CNJ	Conico Ltd
+CNJO	Conico Ltd
+CNL	CNL
+CNLO	CNLO
+CNU	Chorus Limited
+CNW	Cirrus Networks Holdings Limited
+COB	Cobalt Blue Holdings Limited
+COBO	Cobalt Blue Holdings Limited
+COE	Cooper Energy Ltd
+COEKOA	Cooper Energy Limited
+COEKOC	Cooper Energy Limited
+COG	Consolidated Operations Group Limited
+COH	Cochlear Ltd
+COHKOA	Cochlear Limited
+COHKOD	Cochlear Limited
+COHKOE	Cochlear Limited
+COHKOS	Cochlear Limited
+COHKOU	Cochlear Limited
+COI	Comet Ridge Ltd
+COL	Coles Group Limited.
+COLKOA	Coles Group Limited.
+COLKOB	Coles Group Limited.
+COLKOC	Coles Group Limited.
+COLKOD	Coles Group Limited.
+COLKOP	Coles Group Limited.
+COO	Cosmos Ltd
+CORE	Etfs Morningstar Global Technology
+COY	Coppermoly Ltd
+CP1	Cannpal Animal Therapeutics Limited
+CPH	CPH Investment corp
+CPHO	Creso Pharma Limited
+CPT	Capital Intelligence Ltd
+CPU	Computershare Ltd
+CPUBOA	Computershare Limited.
+CPUBOZ	Computershare Limited.
+CPUKOA	Computershare Limited.
+CPUKOC	Computershare Limited.
+CPUKOP	Computershare Limited.
+CPUKOQ	Computershare Limited.
+CPUKOR	Computershare Limited.
+CPV	Clearvue Technologies Limited
+CQE	Charter Hall Education Trust
+CQR	Charter Hall Retail Reit
+CR1	Constellation Resources Limited
+CR1O	Constellation Resources Limited
+CRB	Carbine Resources Ltd
+CRED	Betashares Australian Investment Grade Corporate B
+CRL	Comet Resources Ltd
+CRM	Carbon Minerals NL (CRMCA)
+CRN	Coronado Global Resources Inc.
+CRO	Cirralto Limited
+CRS	Croesus Mining NL
+CSD	Consolidated Tin Mines Ltd
+CSE	Copper Strike Ltd
+CSL	CSL Ltd
+CSLKOB	Csl Limited
+CSLKOC	Csl Limited
+CSLKOE	Csl Limited
+CSLKOF	Csl Limited
+CSLKOG	Csl Limited
+CSLKOI	Csl Limited
+CSLKOJ	Csl Limited
+CSLKOP	Csl Limited
+CSLKOS	Csl Limited
+CSLKOY	Csl Limited
+CSLKOZ	Csl Limited
+CSLMOP	Csl Limited
+CSLMOQ	Csl Limited
+CSLMOR	Csl Limited
+CSR	CSR Ltd
+CSRKOC	Csr Limited
+CSRKOD	Csr Limited
+CSRKOQ	Csr Limited
+CSS	Clean Seas Tuna Ltd
+CSSG	Clean Seas Seafood Limited
+CSV	CSG Ltd
+CT1	Ccp Technologies Limited
+CTD	Corporate Travel Management Limited
+CTDKOA	Corporate Travel Management Limited
+CTDKOI	Corporate Travel Management Limited
+CTDKOQ	Corporate Travel Management Limited
+CTE	Cryosite Ltd
+CTM	Centaurus Metals Limited
+CTMOC	Centaurus Metals Limited
+CTO	Citigold Corporation Ltd
+CTP	Central Petroleum Ltd
+CTX	Caltex Australia Ltd
+CTXBOA	Caltex Australia Limited
+CTXKOA	Caltex Australia Limited
+CTXKOB	Caltex Australia Limited
+CTXKOC	Caltex Australia Limited
+CUE	Cue Energy Resources Ltd
+CUL	Cullen Resources Ltd
+CUP	Countplus Limited
+CURE	Etfs S&p Biotech
+CUV	Clinuvel Pharmaceuticals Ltd
+CUVKOB	Clinuvel Pharmaceuticals Limited
+CUVKOD	Clinuvel Pharmaceuticals Limited
+CUX	Crossland Uranium Mines Ltd
+CV1	Cv Check Ltd
+CVC	CVC Ltd
+CVCG	Cvc Limited
+CVF	Contrarian Value Fund Limited
+CVL	Clearview Capital
+CVN	Carnarvon Petroleum Ltd
+CVS	Cervantes Seafood Ltd
+CVT	Covata Limited
+CVV	Caravel Minerals Limited
+CVW	Clearview Wealth Limited
+CWL	Chant West Holdings Limited
+CWN	Crown Ltd
+CWNBOC	Crown Resorts Limited
+CWNBOE	Crown Resorts Limited
+CWNHB	Crown Resorts Limited
+CWNKOB	Crown Limited
+CWNKOC	Crown Limited
+CWNKOF	Crown Resorts Limited
+CWNKOP	Crown Limited
+CWP	Cedar Woods Properties Ltd
+CWX	Carawine Resources Limited
+CWY	Cleanaway Waste Management Limited
+CWYKOC	Cleanaway Waste Management Limited
+CWYKOD	Cleanaway Waste Management Limited
+CWYKOE	Cleanaway Waste Management Limited
+CWYKOF	Cleanaway Waste Management Limited
+CWYKOP	Cleanaway Waste Management Limited
+CWYKOQ	Cleanaway Waste Management Limited
+CWYKOS	Cleanaway Waste Management Limited
+CWZ	Cashwerkz Limited
+CXL	Central Exchange Ltd
+CXM	Centrex Mentals Ltd
+CXO	Core Exploration Limited
+CXU	
+CXX	Cradle Resources Limited
+CXZ	Connexion Media Limited
+CY5	Cygnus Gold Limited
+CYC	Cyclopharm Ltd
+CYG	Coventry Group Ltd
+CYL	Catalyst Metals Ltd
+CYLOA	Catalyst Metals Limited
+CYM	Cyprium Metals Limited
+CYP	Cynata Therapeutics Limited
+CYQ	Cycliq Group Ltd
+CZI	Cassini Resources Limited
+CZL	Consolidated Zinc Limited
+CZN	Corazon Mining Limited
+CZNO	Corazon Mining Limited
+CZR	Coziron Resources Ltd
+D13	Department 13 International Ltd
+D2O	Duxton Water Limited
+DAF	Discovery Africa Limited
+DAU	Dampier Gold Limited
+DAV	Davenport Resources Limited
+DAVO	Davenport Resources Limited
+DBBF	DBBF
+DBF	Duxton Broadacre Farms Limited
+DCC	Digital Cc Limited
+DCG	Decmil Group Limited
+DCL	Data & Commerce
+DCN	Dacian Gold Limited
+DDD	3D Resources Ltd
+DDR	Dicker Data Limited
+DDT	DataDot Technology Ltd
+DEG	De Grey Mining Ltd
+DEM	De.mem Limited
+DEV	Devex Resources Limited
+DFM	Dongfang Modern Agriculture Holding Group Limited
+DGGF	DGGF
+DGH	Desane Group Holdings Ltd
+DGO	Drummond Gold Ltd
+DGR	D'Aguilar Gold Ltd
+DHG	Domain Holdings Australia Limited.
+DHGKOB	Domain Holdings Australia Limited.
+DHGKOP	Domain Holdings Australia Limited.
+DHGKOR	Domain Holdings Australia Limited.
+DHHF	DHHF
+DHR	Dark Horse Resources Limited
+DIV	Ubs Iq Morningstar Australia Dividend Yield
+DJRE	Spdr??dow Jones??global Real Estate Fund
+DJW	Djerriwarth Investments Ltd
+DJXKOA	Djia Mini E-cbot
+DJXKOB	DJXKOB
+DJXKOC	DJXKOC
+DJXKOF	DJXKOF
+DJXKOG	DJXKOG
+DJXKOH	DJXKOH
+DJXKOM	DJXKOM
+DJXKON	DJXKON
+DJXKOQ	Djia Mini E-cbot
+DJXKOZ	DJXKOZ
+DJXMOP	DJXMOP
+DJXMOQ	DJXMOQ
+DJXMOR	DJXMOR
+DJXMOS	DJXMOS
+DKM	Duketon Mining Limited
+DLC	DLC
+DME	Dome Gold Mines Limited
+DMG	Dragon Gold Mountain Ltd
+DMKT	DMKT
+DMP	Domino's Pizza Australia NZ Ltd
+DMPKOB	Dominos Pizza Enterprises Limited
+DMPKOP	Dominos Pizza Enterprises Limited
+DMPKOQ	Dominos Pizza Enterprises Limited
+DMPKOT	Dominos Pizza Enterprises Limited
+DMPKOU	Dominos Pizza Enterprises Limited
+DNA	Donaco International Limited
+DNK	Danakali Limited
+DOR	Doriemus Plc
+DOW	Downer EDI Ltd
+DOWKOA	Downer Edi Limited
+DOWKOB	Downer Edi Limited
+DOWKOD	Downer Edi Limited
+DOWKOF	Downer Edi Limited
+DOWKOP	Downer Edi Limited
+DOWKOR	Downer Edi Limited
+DOWKOT	Downer Edi Limited
+DRE	Dalrymple Resources Nl
+DRO	Droneshield Limited
+DRUG	Betashares Global Healthcare Etf - Currency Hedged
+DRX	Diatreme Resources Ltd
+DSE	Dropsuite Limited
+DTC	Damstra Holdings Limited
+DTI	Dti Group Ltd
+DTL	Data#3 Ltd
+DTM	Dart Mining NL
+DTR	Dateline Resources Limited
+DTS	Dragontail Systems Limited
+DTZ	Dotz Nano Limited
+DUB	Dubber Corporation Limited
+DUI	Diversified United Investment Ltd
+DVL	Dorsavi Ltd
+DVN	Devine Ltd
+DW8	Dawine Ltd
+DW8O	Digital Wine Ventures Limited
+DWS	DWS Advanced Business Solutions Ltd
+DXB	Dimerix Limited
+DXN	The Data Exchange Network Limited
+DXNO	The Data Exchange Network Limited
+DXNOA	Dxn Limited
+DXS	Dexus Property Group
+DXSKOA	Dexus Property Group
+DXSKOB	Dexus Property Group
+DXSKOC	Dexus
+DXSKOP	Dexus Property Group
+DXSKOQ	Dexus Property Group
+DXSKOR	Dexus Property Group
+DYL	Deep Yellow Ltd
+DYLO	Deep Yellow Limited
+DZZF	DZZF
+E25	Element 25 Limited
+E2E	Eon Nrg Limited
+E2EOA	Eon Nrg Limited
+E2M	E2 Metals Limited
+EAF	East Africa Resources Limited
+EAI	Ellerston Asian Investment Limited
+EAS	Easton Investments Limited
+EAX	Energy Action Limited
+EBG	Eumundi Group Ltd
+EBO	Ebos Group Limited
+ECF	Elanor Commercial Property Fund
+ECG	Ecargo Holdings Limited
+ECL	Excelsior Capital Ltd
+ECP	E Corp
+ECS	ECSI Ltd
+ECT	Environmental Clean Technologies Limited.
+ECX	Eclipx Group Limited
+ED1	Evans Dixon Limited
+EDC	Eildon Capital Limited
+EDE	Eden Energy Ltd
+EDEOB	Eden Innovations Ltd
+EEG	Empire Energy Group Limited
+EER	East Energy Resources Ltd
+EEU	Betashares Euro Etf
+EFE	Eastern Iron Ltd
+EFF	Evans & Partners Australian Flagship Fund
+EGD	Evans & Partners Global Disruption Fund
+EGF	Ellerston Gems Fund
+EGG	Enero Group Limited
+EGH	Eureka Group Holdings Limited
+EGI	eGlobal International
+EGL	Environmental Group Ltd (The)
+EGN	EGN
+EGR	Ecograf Limited
+EGY	Energy Technologies Limited
+EHE	Estia Health Limited
+EHEKOD	Estia Health Limited
+EHEKOE	Estia Health Limited
+EHEKOQ	Estia Health Limited
+EHH	Eagle Health Holdings Limited
+EHL	Emeco Holdings Ltd
+EHLKOC	Emeco Holdings Limited
+EHLKOD	Emeco Holdings Limited
+EHX	Ehr Resources Limited
+EIGA	EIGA
+EINC	EINC
+ELD	ELD
+ELE	Elmore Ltd
+ELK	ELK Petroleum Ltd
+ELO	Elmo Software Limited
+ELS	Equity Long / Short Strategies Fund (the)
+ELSO	Elsight Limited
+ELT	Elementos Limited
+ELX	Ellex Medical Lasers Ltd
+EM1	Emerge Gaming Limited
+EM1O	Emerge Gaming Limited
+EM2	Eagle Mountain Mining Limited
+EMB	Embelton Ltd
+EME	Energy Metals Ltd
+EMH	European Metals Holdings Limited
+EMKT	Vaneck Vectors Msci Multifactor Emerging Markets E
+EML	Emerchants Limited
+EMMG	EMMG
+EMN	Euro Manganese Inc
+EMP	Emperor Mines Ltd
+EMPOC	Emperor Energy Limited
+EMR	Emerald Oil & Gas NL
+EMU	EMU Nickel NL
+EMUCA	Emu Nl
+EMV	Emvision Medical Devices Limited
+EN1	Engage:bdr Limited
+EN1O	Engage:bdr Limited
+ENA	Ensurance Ltd
+ENB	Eneabba Gas Ltd
+ENE	Energy Developments Ltd
+ENN	Elanor Investors Group
+ENR	Encounter Resources Ltd
+ENT	
+ENX	Enegex Nl
+EOF	Ecofibre Limited
+EOL	Energy One Ltd
+EOS	Electro Optic Systems Holdings Ltd
+EPA	Ephraim Resources Limited
+EPD	Empired Ltd
+EPM	Eclipse Metals Limited.
+EQE	Equus Mining Limited
+EQT	Equity Trustees Ltd
+EQX	Eqitx Ltd
+ERA	Energy Resources of Australia Ltd
+ERF	Elanor Retail Property Fund
+ERG	ERG Ltd
+ERL	Empire Resources Ltd
+ERM	Emmerson Resources Ltd
+ERX	Emperor Range Group Limited
+ESE	Esense-lab Ltd
+ESGI	Vaneck Vectors Msci International Sustainable Equi
+ESH	Esports Mogul Asia Pacific Limited
+ESK	Etherstack Plc
+ESL	Earth Sanctuaries Ltd
+ESR	Estrella Resources Limited
+ESRO	Estrella Resources Limited
+ESTX	Anz Etfs Euro Stoxx 50
+ETF	ETF
+ETHI	Betashares Global Sustainability Leaders
+ETPMAG	Etfs Physical Silver
+ETPMPD	Etfs Physical Palladium
+ETPMPM	Etfs Physical Pm Basket
+ETPMPT	Etfs Physical Platinum
+EUC	European Cobalt Ltd
+EUR	Euraust Ltd
+EVE	Energy Ventures Ltd
+EVN	Evolution Mining Limited
+EVNKOA	Evolution Mining Limited
+EVNKOB	Evolution Mining Limited
+EVNKOC	Evolution Mining Limited
+EVNKOP	Evolution Mining Limited
+EVNKOQ	Evolution Mining Limited
+EVO	Evolve Education Group Limited
+EVS	Envirosuite Limited
+EVT	Event Hospitality And Entertainment Ltd
+EVZ	Envirozel Ltd
+EWC	Energy World Corporation Ltd
+EX1	Exopharm Limited
+EX20	Betashares Australian Ex-20 Portfolio Diversifier
+EXL	Excel Coal Ltd
+EXO	Ennox Group Ltd
+EXP	Experience Co Limited
+EXR	Elixir Petroleum Ltd
+EXROA	Elixir Petroleum Limited
+EZL	Euroz Ltd
+F100	F100
+FAIR	Betashares Australian Sustainability Leaders
+FAM	Family Insights Group Limited
+FAMO	Family Insights Group Limited
+FAR	First Australian Resources Ltd
+FAU	First Au Limited
+FAUO	First Au Limited
+FBR	Fastbrick Robotics Ltd
+FBU	Fletcher Building Ltd
+FBUKOA	Fletcher Building Limited
+FBUKOC	Fletcher Building Limited
+FBUKOP	Fletcher Building Limited
+FBUKOQ	Fletcher Building Limited
+FCG	Frontier Capital Group Limited
+FCL	Futuris Corporation Ltd
+FCT	Firstwave Cloud Technology Limited
+FDIV	Vaneck Vectors S&p/asx Franked Dividend
+FDM	Freedom Oil And Gas Ltd
+FDV	Frontier Digital Ventures Limited
+FDX	Frontier Diamonds Ltd
+FE8	Faster Enterprises Ltd
+FEI	Fe Investments Group Limited
+FEL	Fe Limited
+FEX	Fenix Resources Ltd
+FFC	Farmaforce Limited
+FFG	Fatfish Internet Group Ltd
+FFI	FFI Holdings Ltd
+FFL	Freedom Group
+FFR	Firefly Resources Limited
+FGG	Future Generation Global Investment Company Limited
+FGO	Flamingo Ai Limited
+FGR	First Graphite Limited
+FGROC	First Graphite Limited
+FGX	Future Generation Investment Fund Limited
+FHS	Freehill Mining Limited.
+FHSO	Freehill Mining Limited.
+FID	Fiducian Group Limited
+FIG	Freedom Insurance Group Ltd
+FIJ	Fiji Kava Limited
+FIN	Aii S&p/asx 200 Financials
+FINOA	Fin Resources Limited
+FLC	Fluence Corporation Limited
+FLN	Freelancer Limited
+FLOT	Vaneck Vectors Australian Floating Rate
+FLT	Flight Centre Ltd
+FLTBOZ	Flight Centre Travel Group Limited
+FLTKOB	Flight Centre Travel Group Limited
+FLTKOD	Flight Centre Travel Group Limited
+FLTKOQ	Flight Centre Travel Group Limited
+FLTKOR	Flight Centre Travel Group Limited
+FMG	Fortescue Metals Group Ltd
+FMGBOS	Fortescue Metals Group Ltd
+FMGKOC	Fortescue Metals Group Ltd
+FMGKOE	Fortescue Metals Group Ltd
+FMGKOF	Fortescue Metals Group Ltd
+FMGKOG	Fortescue Metals Group Ltd
+FMGKOI	Fortescue Metals Group Ltd
+FMGKOK	Fortescue Metals Group Ltd
+FMGKOL	Fortescue Metals Group Ltd
+FMGKOM	Fortescue Metals Group Ltd
+FMGKOQ	Fortescue Metals Group Ltd
+FMGKOT	Fortescue Metals Group Ltd
+FMGKOV	Fortescue Metals Group Ltd
+FMGKOY	Fortescue Metals Group Ltd
+FMGKOZ	Fortescue Metals Group Ltd
+FMGMOA	Fortescue Metals Group Ltd
+FMGMOB	Fortescue Metals Group Ltd
+FMGMOC	Fortescue Metals Group Ltd
+FML	Focus Minerals Ltd
+FMS	Flinders Mines Ltd
+FNP	Freedom Nutritional Products Ltd
+FNT	Frontier Resources Ltd
+FOD	The Food Revolution Group Limited
+FOOD	Betashares Global Agriculture Companies Etf - Curr
+FOR	Forager Australian Shares Fund
+FPC	Fat Prophets Global Contrarian Fund Ltd
+FPH	Fisher & Paykel Healthcare Corp Ltd
+FPL	Fremont Petroleum Corporation Limited
+FPLOB	Fremont Petroleum Corporation Limited
+FPP	Fat Prophets Global Property Fund
+FRI	Finbar International Ltd
+FRM	Farm Pride Foods Ltd
+FRN	Fraser Range Metals Group Ltd
+FRX	Flexiroam Limited
+FRXO	Flexiroam Limited
+FSA	FSA Group Ltd
+FSF	Fonterra Shareholders Fund
+FSG	Field Solutions Holdings Limited
+FSI	Flagship Investments Limited
+FTC	Fintech Chain Limited
+FTT	Factor Therapeutics Limited
+FTZ	Fertoz Limited
+FUEL	Betashares Global Energy Companies - Currency Hedg
+FUN	Funtastic Ltd
+FWD	Fleetwood Corporation Ltd
+FXEKOC	FXEKOC
+FXEKOD	FXEKOD
+FXEKOG	FXEKOG
+FXEKOQ	Currency Warrant Aud/eur
+FXEKOS	Currency Warrant Aud/eur
+FXEKOV	FXEKOV
+FXL	Flexigroup Ltd
+FXPKOB	FXPKOB
+FXPKOD	FXPKOD
+FXPKOF	FXPKOF
+FXPKOG	FXPKOG
+FXPKOQ	Currency Warrant Aud/gbp
+FXPKOR	FXPKOR
+FXPKOT	FXPKOT
+FXPKOU	FXPKOU
+FXPKOV	FXPKOV
+FXUKOA	Currency Warrant Aus/usd.
+FXUKOB	Currency Warrant Aus/usd.
+FXUKOD	Currency Warrant Aus/usd.
+FXUKOE	Currency Warrant Aus/usd.
+FXUKOG	Currency Warrant Aus/usd.
+FXUKON	FXUKON
+FXUKOX	Currency Warrant Aus/usd.
+FXUKOY	Currency Warrant Aus/usd.
+FXUKOZ	Currency Warrant Aus/usd.
+FXUMOQ	FXUMOQ
+FXUMOS	FXUMOS
+FXUMOT	FXUMOT
+FXUMOU	FXUMOU
+FXUMOX	FXUMOX
+FXUQOP	FXUQOP
+FXYKOE	FXYKOE
+FXYKOF	FXYKOF
+FXYKOP	Currency Warrant Aud/jpy
+FXYKOR	FXYKOR
+FXYKOS	FXYKOS
+FXYKOU	FXYKOU
+FXYKOY	FXYKOY
+FXZKOA	FXZKOA
+FXZKOB	FXZKOB
+FXZKOD	FXZKOD
+FXZKOE	FXZKOE
+FXZKOP	Currency Warrant Aud/nzd
+FXZKOQ	FXZKOQ
+FXZKOS	FXZKOS
+FYI	FYI
+FZO	Family Zone Cyber Safety Limited
+FZR	Fitzroy River Corporation Ltd
+G1A	Galena Mining Limited
+G88	Golden Mile Resources Ltd
+GAL	Galicia Energy Corporation Ltd
+GAP	Gale Pacific Ltd
+GAS	GasNet Australia Group
+GBA	Grandbridge Ltd
+GBE	Globe Uranium Ltd
+GBM	Greater Bendigo Mines Ltd
+GBP	Global Petroleum Ltd
+GBR	G Retail Ltd
+GBZ	GBM Resources Ltd
+GC1	Glennon Small Companies Limited
+GCI	Gryphon Capital Income Trust
+GCR	Golden Cross Resources Ltd
+GCY	Gascoyne Resources Limited
+GDF	Garda Diversified Property Fund
+GDG	Generation Development Group Limited
+GDI	Gdi Property Group
+GDX	Vaneck Vectors Gold Miners
+GDXKOA	GDXKOA
+GEAR	Betashares Geared Australian Equity
+GED	Golden Deeps Ltd
+GEM	G8 Education Limited
+GEMKOA	G8 Education Limited
+GEMKOD	G8 Education Limited
+GES	Genesis Resources Limited
+GEV	Global Energy Ventures Ltd
+GFI	Global Fortune Investment Limited
+GFL	Global Masters Fund Ltd
+GGE	Grand Gulf Energy Ltd
+GGG	Gold Company Ltd
+GGUS	Betashares Geared U.s. Equity Fund - Currency Hedg
+GGX	Gas2Grid Ltd
+GIB	Gibb River Diamonds Limited
+GID	Gi Dynamics Inc
+GLA	Gladiator Resources Ltd
+GLB	Globe International Ltd
+GLE	GLG Corp Ltd
+GLH	Global Health Ltd
+GLIN	Amp Global Infrastructure Securities (unhedged)
+GLL	Galilee Energy Limited
+GLN	Gleneagle Gold Ltd
+GLV	Global Vanadium Limited
+GMA	Genworth Mortgage Insurance Australia Limited
+GMAKOA	Genworth Mortgage Insurance Australia Limited
+GMAKOC	Genworth Mortgage Insurance Australia Limited
+GMC	Gulf Minerals Corporation Ltd
+GMD	Genesis Minerals Ltd
+GME	GME Resources Ltd
+GMG	Goodman Group
+GMGKOB	Goodman Group
+GMGKOD	Goodman Group
+GMGKOE	Goodman Group
+GMGKOS	Goodman Group
+GMGKOT	Goodman Group
+GML	Gateway Mining NL
+GMN	Gold Mountain Limited
+GMR	Golden Rim Resoures Ltd
+GMV	G Medical Innovations Holdings Limited
+GNC	GrainCorp Ltd
+GNCKOC	Graincorp Limited
+GNCKOD	Graincorp Limited
+GNCKOF	Graincorp Limited
+GNE	Genesis Energy Limited
+GNG	Gr Engineering Services Limited
+GNM	Gujarat NRE Minerals Ltd
+GNMOA	Great Northern Minerals Limited
+GNMOB	Great Northern Minerals Limited
+GNX	Genex Power Limited
+GO2	The Go2 People Ltd
+GOLD	Etfs Physical Gold
+GOO	Gooroo Ventures Limited
+GOR	Gold Road Resources Limited
+GOVT	Spdr??s&p?/asx Australian Government Bond Fund
+GOW	Gowing Bros Ltd
+GOZ	Growthpoint Properties Australia
+GPR	Geopacific Resources NL
+GPS	Gps Alliance Holdings Limited
+GPT	General Property Trust
+GPTKOC	Gpt Group
+GPTKOD	Gpt Group
+GPTKOP	Gpt Group
+GPTKOR	Gpt Group
+GPTKOS	Gpt Group
+GPX	Graphex Mining Limited
+GRB	Gage Road Brewing Co Ltd
+GRL	Gawler Resources Ltd
+GRR	Grange Resources Ltd
+GRV	Greenvale Mining NL
+GSBG20	Australian Government Treasury Bonds
+GSBG23	Australian Government Treasury Bonds
+GSBG24	Australian Government Treasury Bonds
+GSBG25	Australian Government Treasury Bonds
+GSBG26	Australian Government Treasury Bonds
+GSBG27	Australian Government Treasury Bonds
+GSBG29	Australian Government Treasury Bonds
+GSBG33	Australian Government Treasury Bonds
+GSBG37	Australian Government Treasury Bonds
+GSBK31	GSBK31
+GSBK35	Australian Government Treasury Bonds
+GSBK39	Australian Government Treasury Bonds
+GSBM22	Australian Government Treasury Bonds
+GSBU20	Australian Government Treasury Bonds
+GSBU22	GSBU22
+GSBU27	Australian Government Treasury Bonds
+GSBU28	Australian Government Treasury Bonds
+GSBU29	GSBU29
+GSIC22	Australian Government Treasury Indexed Bonds
+GSIC50	GSIC50
+GSIO20	Australian Government Treasury Indexed Bonds
+GSIO35	Australian Government Treasury Indexed Bonds
+GSIO40	Australian Government Treasury Indexed Bonds
+GSIQ25	Australian Government Treasury Indexed Bonds
+GSIQ30	Australian Government Treasury Indexed Bonds
+GSIU27	Australian Government Treasury Indexed Bonds
+GSM	Golden State Mining Limited
+GSN	Great Southern Mining Limited
+GSNOA	Great Southern Mining Limited
+GSS	Genetic Signatures Limited
+GSW	Getswift Limited
+GTE	Great Western Exploration Ltd
+GTEOA	Great Western Exploration Limited.
+GTG	Genetic Technologies Ltd
+GTK	Gentrack Group Limited
+GTN	GTN Resources Ltd
+GTR	GTI Resources Ltd
+GUD	GUD Holdings Ltd
+GUL	Gullewa Ltd
+GVF	Global Value Fund Limited
+GWA	Gwa Group Limited.
+GWAKOP	Gwa Group Limited.
+GWAKOQ	Gwa Group Limited.
+GWR	Golden West Resources Ltd
+GXY	Galaxy Resources Ltd
+GXYKOA	Galaxy Resources Limited
+HACK	Betashares Global Cybersecurity
+HAS	Hastings Rare Metals Ltd
+HASO	Hastings Rare Metals Ltd
+HAV	Havilah Resources NL
+HAW	Hawthorn Resources Ltd
+HCD	Huadu City Development Ltd
+HCH	Hot Chili Limited
+HCT	Holista Colltech Limited
+HE8	Helios Energy Ltd
+HE8OA	Helios Energy Ltd
+HEUR	Betashares Wisdomtree Europe (currency Hedged)
+HFR	Highfield Resources Limited
+HGH	Heartland Group Holdings Limited
+HGL	Hudson Investment Group Ltd
+HGM	High Grade Metals Limited
+HGO	Hillgrove Resources Ltd
+HHM	Hampton Hill Mining NL
+HHY	Hastings High Yield Fund
+HIL	Hills Industries Ltd
+HIP	Hyperion Flagship Investments Ltd
+HIPOA	Hipo Resources Limited
+HIT	Hitech Group Australia Ltd
+HJPN	Betashares Wisdomtree Japan (currency Hedged)
+HLA	Healthia Limited
+HLO	Helloworld Limited
+HLS	Hillcrest Litigation Services Ltd
+HLSKOB	Healius Limited
+HLSKOC	Healius Ltd
+HLSKOD	Healius Limited
+HLSKOF	Healius Ltd
+HLSKOQ	Healius Ltd
+HLSKOR	Healius Ltd
+HLSKOS	Healius Ltd
+HLSKOT	Healius Ltd
+HLX	Helix Resources Ltd
+HM1	Hearts And Minds Investments Limited
+HMC	Hydromet Corporation Ltd
+HMD	Heramed Limited
+HML	Hamill Resources
+HMO	Hearmeout Limited
+HMX	Hammer Metals Limited
+HMXOD	Hammer Metals Limited
+HNG	HGL Ltd
+HNR	Hannans Reward NL
+HOG	Hawkley Oil And Gas Limited
+HOR	Horseshoe Metals Limited
+HOT	Hotcopper Holdings Limited
+HPI	Hotel Property Investments
+HPR	High Peak Royalties Limited
+HRL	Hot Rock
+HRN	Horizon Gold Limited
+HRR	Heron Resources Ltd
+HRZ	Horizon Energy Investment Group
+HSC	Hudson Securities Corporation Ltd
+HSN	Hansen Technologies Ltd
+HSXKOB	HSXKOB
+HSXKOC	HSXKOC
+HSXKOD	HSXKOD
+HSXKOE	HSXKOE
+HSXKOP	HSXKOP
+HSXKOS	HSXKOS
+HSXKOT	HSXKOT
+HSXKOU	HSXKOU
+HSXKOV	HSXKOV
+HT1	Ht&e Limited
+HT8	Harris Technology Group Limited
+HTA	Hutchison Telecommunications (Aust)
+HUB	Hub24 Limited
+HUO	Huon Aquaculture Group Limited
+HVN	Harvey Norman Holdings Ltd
+HVNKOB	Harvey Norman Holdings Limited
+HVNKOC	Harvey Norman Holdings Limited
+HVNKOE	Harvey Norman Holdings Limited
+HVNKOQ	Harvey Norman Holdings Limited
+HVNKOS	Harvey Norman Holdings Limited
+HVNKOW	Harvey Norman Holdings Limited
+HVST	Betashares Australian Dividend Harvester Fund (man
+HWH	Houston We Have Limited
+HWK	Hawkstone Mining Limited
+HXG	Hexagon Resources Limited
+HYD	Hydrix Limited
+HZN	Horizon Oil Ltd
+HZR	Hazer Group Limited
+IAA	Ishares Asia 50
+IAF	Ishares Core Composite Bond
+IAG	Insurance Australia Group Ltd
+IAGBOA	Insurance Australia Group Limited
+IAGBOZ	Insurance Australia Group Limited
+IAGKOA	Insurance Australia Group Limited
+IAGKOE	Insurance Australia Group Limited
+IAGKOF	Insurance Australia Group Limited
+IAGKOP	Insurance Australia Group Limited
+IAGKOQ	Insurance Australia Group Limited
+IAGKOR	Insurance Australia Group Limited
+IAGPD	Insurance Australia Group Limited
+IAM	Intiger Group Limited
+IAP	Investec Australia Property Fund
+IB8	Ibosses Corporation Limited
+IBC	Ironbark Capital Ltd
+IBG	Ironbark Gold Ltd
+IBN	Ibuynew Group Limited
+IBX	Imagion Biosystems Limited
+IBXO	Imagion Biosystems Limited
+ICE	ICE Corporation Ltd
+ICG	Inca Minerals Limited
+ICGO	Inca Minerals Limited
+ICI	Icandy Interactive Limited
+ICIO	Icandy Interactive Limited
+ICN	Icon Energy Ltd
+ICQ	Icar Asia Limited
+ICS	ICSGlobal Ltd
+ICT	Incitec
+ICU	Isentric Limited
+ID8	Identitii Limited
+IDA	Indiana Resources Limited
+IDT	Institute of Drug Technology Aust
+IDX	Indexshares Fund The
+IDZ	Indoor Skydive Australia Group Limited
+IEC	Intra Energy Corporation Limited
+IEL	Idp Education Limited
+IEM	Ishares Msci Emerging Markets
+IEQ	International Equities Corp Ltd
+IEU	Ishares Europe
+IFL	IOOF Holdings Ltd
+IFLKOB	Ioof Holdings Limited
+IFLKOC	Ioof Holdings Limited
+IFLKOD	Ioof Holdings Limited
+IFLKOE	Ioof Holdings Limited
+IFLKOP	Ioof Holdings Limited
+IFLKOQ	Ioof Holdings Limited
+IFM	Infomedia Ltd
+IFN	IFN
+IFNKOE	Infigen Energy
+IFRA	Vaneck Vectors Ftse Global Infrastructure (hedged)
+IFT	Infratil Limited.
+IGB	Ishares Treasury
+IGE	Integrated Green Energy Solutions Ltd
+IGL	International Goldfields Ltd
+IGN	Ignite Limited
+IGO	Independence Group NL
+IGOKOB	Independence Group Nl
+IGOKOC	Independence Group Nl
+IGOKOD	Independence Group Nl
+IGOKOQ	Independence Group Nl
+IGOKOT	Independence Group Nl
+IHCB	Ishares Core Global Corporate Bond (aud Hedged)
+IHD	Ishares S&p/asx Dividend Opportunities
+IHEB	Ishares J.p. Morgan Usd Emerging Markets Bond (aud
+IHHY	Ishares Global High Yield Bond (aud Hedged)?
+IHL	Impression Healthcare Limited
+IHLOB	Impression Healthcare Limited
+IHOO	Ishares Global 100 Aud Hedged
+IHR	Intellihr Holdings Limited
+IHVV	Ishares S&p 500 Aud Hedged
+IHWL	Ishares Core Msci World All Cap (aud Hedged)?
+IJH	Ishares Core S&p Mid-cap
+IJP	Ishares Msci Japan
+IJR	Ishares Core S&p Small-cap
+IKE	Ikegps Group Limited
+IKO	Ishares Msci South Korea Capped
+IKW	Ikwezi Mining Limited
+ILB	Ishares Government Inflation
+ILC	Ishares S&p/asx 20
+ILU	Iluka Resources Ltd
+ILUKOA	Iluka Resources Limited
+ILUKOD	Iluka Resources Limited
+ILUKOF	Iluka Resources Limited
+ILUKOG	Iluka Resources Limited
+ILUKOH	Iluka Resources Limited
+ILUKOP	Iluka Resources Limited
+ILUKOQ	Iluka Resources Limited
+ILUKOS	Iluka Resources Limited
+ILUKOT	Iluka Resources Limited
+ILUKOY	Iluka Resources Limited
+IMA	Image Resources NL
+IMC	
+IMD	Imdex Ltd
+IME	Imexhs Limited
+IMF	IMF (Australia) Ltd
+IMFHA	Bentham Imf Limited
+IMM	Immutep Limited
+IMPQ	IMPQ
+IMR	Imricor Medical Systems Inc.
+IMS	Impelus Limited
+IMU	Imugene Ltd
+IMUOA	Imugene Limited
+IMUOB	Imugene Limited
+IMUOC	Imugene Limited
+INA	Ingenia Communities Group
+INCM	Betashares Global Income Leaders
+INF	Infosentials
+ING	Inghams Group Limited
+INGKOA	Inghams Group Limited
+INGKOC	Inghams Group Limited
+INGKOP	Inghams Group Limited
+INGKOQ	Inghams Group Limited
+INGKOR	Inghams Group Limited
+INIF	INIF
+INK	Indago Energy Limited
+INP	Innamincka Petroleum Ltd
+INR	India Nre Minerals Ltd
+INV	InvestorInfo Ltd
+IOD	Iodm Limited
+IOO	Ishares Global 100
+IOT	Iot Group Limited
+IOZ	Ishares Core S&p/asx 200
+IP1	Integrated Payment Technologies Limited
+IPB	Ipb Petroleum Limited
+IPC	Imperial Pacific Limited
+IPD	Impedimed Ltd
+IPH	Ipoh
+IPHKOA	Iph Limited
+IPHKOB	Iph Limited
+IPHKOD	Iph Limited
+IPL	Incitec Pivot Ltd
+IPLKOA	Incitec Pivot Limited
+IPLKOC	Incitec Pivot Limited
+IPLKOF	Incitec Pivot Limited
+IPLKOG	Incitec Pivot Limited
+IPLKOP	Incitec Pivot Limited
+IPLKOQ	Incitec Pivot Limited
+IPLKOR	Incitec Pivot Limited
+IPLKOS	Incitec Pivot Limited
+IPLKOU	Incitec Pivot Limited
+IPT	Impact Minerals Ltd
+IPTOA	Impact Minerals Limited
+IQ3	Iq3corp Limited
+IRD	Iron Road Ltd
+IRE	IRESS Market Technology Ltd
+IREKOA	Iress Limited
+IREKOC	Iress Limited
+IREKOR	Iress Limited
+IRI	Integrated Research Ltd
+IS3	I Synergy Group Limited
+ISD	Isentia Group Limited
+ISEC	Ishares Enhanced Cash
+ISO	Ishares S&p/asx Small Ordinaries
+ISU	Iselect Limited.
+ISX	Isignthis Ltd
+ITG	Intega Group Limited
+ITW	Ishares Msci Taiwan
+IVC	InvoCare Ltd
+IVCKOA	Invocare Limited
+IVCKOC	Invocare Limited
+IVCKOE	Invocare Limited
+IVCKOP	Invocare Limited
+IVCKOS	Invocare Limited
+IVCKOU	Invocare Limited
+IVE	Ishares Msci Eafe
+IVO	Invigor Group Limited
+IVQ	Invitrocue Limited
+IVR	IVR
+IVROA	Investigator Resources Ltd
+IVT	Inventis Ltd
+IVV	Ishares Core S&p 500
+IVX	Invion Limited
+IVZ	Invictus Energy Ltd
+IWLD	Ishares Core Msci World All Cap
+IXC	Invex Therapeutics Ltd
+IXI	Ishares Global Consumer Staples
+IXJ	Ishares Global Healthcare
+IXU	Ixup Limited
+IZZ	Ishares China Large-cap
+JAL	Jameson Resources Ltd
+JAN	Janison Education Group Limited
+JAT	
+JAY	Jayride Group Limited
+JBH	JB Hi-Fi Ltd
+JBHKOA	Jb Hi-fi Limited
+JBHKOD	Jb Hi-fi Limited
+JBHKOE	Jb Hi-fi Limited
+JBHKOH	Jb Hi-fi Limited
+JBHKOP	Jb Hi-fi Limited
+JBHKOV	Jb Hi-fi Limited
+JBHKOW	Jb Hi-fi Limited
+JCI	Jc International Group Limited
+JCS	Jcurve Solutions Ltd
+JDR	Jadar Lithium Limited
+JHC	Japara Healthcare Limited
+JHG	Janus Henderson Group Plc
+JHGKOA	Janus Henderson Group Plc
+JHGKOD	Janus Henderson Group Plc
+JHGKOP	Janus Henderson Group Plc
+JHGKOR	Janus Henderson Group Plc
+JHL	Jayex Healthcare Limited
+JHX	James Hardie Industries NV (CUFS)
+JHXKOB	James Hardie Industries Plc
+JHXKOC	James Hardie Industries Plc
+JHXKOE	James Hardie Industries Plc
+JHXKOT	James Hardie Industries Plc
+JHXKOU	James Hardie Industries Plc
+JIN	JIN
+JINKOP	Jumbo Interactive Limited
+JIP	Jack-in Group Limited
+JJF	Jiajiafu Modern Agriculture Limited
+JKA	Jacka Resources Limited
+JKAOC	Jacka Resources Limited
+JLG	Johns Lyng Group Limited
+JMS	Jupiter Mines Ltd
+JPR	Jupiter Energy Ltd
+JRL	Jindalee Resources Ltd
+JRV	Jervois Mining Ltd
+JXT	Jaxsta Ltd
+JYC	Joyce Corporation Ltd
+K2F	K2fly Limited
+K2FOA	K2fly Limited
+KAI	Kairos Minerals Limited
+KAM	K2 Asset Management Holdings Ltd
+KAR	Karoon Gas Australia Ltd
+KARKOR	Karoon Gas Australia Limited
+KARKOU	Karoon Gas Australia Limited
+KARKOV	Karoon Gas Australia Limited
+KAS	Kasbah Resources Ltd
+KAT	Katana Capital Ltd
+KBC	Keybridge Capital Ltd
+KBCPA	Keybridge Capital Limited
+KCN	Kingsgate Consolidated Ltd
+KEY	Key Petroleum Ltd
+KFE	Kogi Iron Limited
+KFEOA	Kogi Iron Limited
+KGD	Kula Gold Limited
+KGL	Kentor Gold Ltd
+KGM	Kalnorth Gold Mines Limited
+KGN	Kogan.com Ltd
+KIN	Kin Mining Nl
+KIS	King Island Scheelite Ltd
+KISO	King Island Scheelite Limited
+KKC	Kkr Credit Income Fund
+KKL	Kollakorn Corporation Limited
+KKO	Kinetiko Energy Ltd
+KLA	Koala Corporation Australia
+KLL	Kalium Lakes Limited
+KLO	Kingsland Global Ltd
+KLR	Kaili Resources Limited
+KMD	Kathmandu Holdings Limited
+KME	Kip McGrath Education Centres
+KMT	Kopore Metals Limited
+KNH	Koon Holdings Ltd
+KNM	Kneomedia Limited
+KNO	Knosys Limited
+KOR	Korab Resources Ltd
+KOV	Korvest Ltd
+KP2	Kore Potash Plc
+KPC	Kazakhstan Potash Corporation Limited
+KPE	Kina Petroleum Corporation
+KPG	Kelly Partners Group Holdings Limited
+KPO	Kalina Power Limited
+KPT	Kangaroo Island Plantation Timbers Ltd
+KRM	Kingsrose Mining Ltd
+KRR	King River Resources Limited
+KRROB	King River Resources Limited
+KRS	Kresta Holdings Ltd
+KSC	K&S Corporation Ltd
+KSL	Kina Securities Limited
+KSM	Kingstream Steel
+KSN	Kingston Resources Limited
+KSS	Kleos Space S.a
+KTA	Krakatoa Resources Limited
+KTAOC	Krakatoa Resources Limited
+KTD	Keytone Dairy Corporation Limited
+KTE	K2 Energy Ltd
+KTG	K-tig Limited
+KTGOB	K-tig Limited
+KWR	Kingwest Resources Limited
+KYK	Kyckr Limited
+KZA	Kazia Therapeutics Limited
+KZAO	Kazia Therapeutics Limited
+KZR	Kalamazoo Resources Limited
+LAA	Latam Autos Limited
+LAAO	Latam Autos Limited
+LAM	Laramide Resources Ltd
+LAU	Lindsay Australia Ltd
+LAW	Lawfinance Limited
+LBL	Laserbond Ltd
+LBT	Labtech Systems Ltd
+LCD	Latitude Consolidated Limited
+LCE	London City Equities Ltd
+LCK	Leigh Creek Energy Limited
+LCL	Lighting Corporation Ltd
+LCLOA	LCLOA
+LCLOB	LCLOB
+LCM	Logicamms Ltd
+LCT	Living Cell Technologies Ltd
+LCY	Legacy Iron Ore Ltd
+LEG	Legend Mining Ltd
+LEP	ALE Property Group
+LER	LER
+LEX	Lefroy Exploration Limited
+LGR	Lanka Graphite Limited
+LHB	Lionhub Group Limited
+LHBO	Lionhub Group Limited
+LHM	Land & Homes Group Limited
+LHMO	Land & Homes Group Limited
+LI3	Lithium Consolidated Mineral Exploration Limited
+LIC	Lifestyles Communities Ltd
+LIN	Lindian Resources Ltd
+LIO	Lion Energy Ltd
+LIT	Lithium Australia Nl
+LITCE	Lithium Australia Nl
+LITO	Lithium Australia Nl
+LKE	Lake Resources NL
+LKEOB	Lake Resources N.l.
+LKO	Lakes Oil NL
+LLC	Lend Lease Corporation Ltd
+LLCKOA	Lend Lease Group
+LLCKOB	Lend Lease Group
+LLCKOC	Lend Lease Group
+LLCKOE	Lend Lease Group
+LLCKOP	Lend Lease Group
+LLCKOR	Lend Lease Group
+LLCKOV	Lend Lease Group
+LLO	Lion One Metals Limited
+LME	L&m Energy Limited
+LMG	Latrobe Magnesium Ltd
+LML	Lincoln Minerals Ltd
+LMW	LandMark White Ltd
+LNG	Liquefied Natural Gas Ltd
+LNGKOR	Liquefied Natural Gas Limited
+LNGKOS	Liquefied Natural Gas Limited
+LNK	Link Administration Holdings Limited
+LNKKOA	Link Administration Holdings Limited
+LNKKOC	Link Administration Holdings Limited
+LNKKOD	Link Administration Holdings Limited
+LNKKOE	Link Administration Holdings Limited
+LNKKOP	Link Administration Holdings Limited
+LNKKOQ	Link Administration Holdings Limited
+LNU	Linius Technologies Limited
+LNY	Laneway Resources Ltd
+LOM	Lonrho Mining Ltd
+LON	Longtable Group Limited
+LOT	Lotus Resources Limited
+LOV	Lovisa Holdings Limited
+LPD	Lepidico Ltd
+LPDOA	Lepidico Ltd
+LPDOB	Lepidico Ltd
+LPE	Locality Planning Energy Holdings Ltd
+LPI	Lithium Power International Limited
+LRM	Lustrum Minerals Ltd
+LRS	Latin Resources Limited
+LRT	Lowell Resources Fund
+LSA	Lachlan Star Ltd
+LSF	L1 Long Short Fund Limited
+LSH	Lifespot Health Ltd
+LSR	Lodestar Minerals Ltd
+LSX	Lion Selection Group Limited.
+LSXOA	Lion Selection Group Limited.
+LTR	Liontown Resources Ltd
+LVE	Love Group Global Ltd
+LVH	Livehire Limited
+LVT	Livetiles Limited
+LYC	Lynas Corporation Ltd
+LYCKOA	Lynas Corporation Limited
+LYCKOB	Lynas Corporation Limited
+LYCKOC	Lynas Corporation Limited
+LYCKOP	Lynas Corporation Limited
+LYCKOQ	Lynas Corporation Limited
+LYCKOS	Lynas Corporation Limited
+LYCKOT	Lynas Corporation Limited
+LYL	Lycopodium Ltd
+M7T	Mach7 Technologies Limited
+M8S	M8 Sustainable Limited
+MA1	Monash Absolute Investment Company Limited
+MA1OA	Monash Absolute Investment Company Limited
+MAD	Maverick Drilling And Exploration Limited
+MAG	Magellan Petroleum Australia Ltd
+MAGO	Magmatic Resources Limited
+MAGOA	Magmatic Resources Limited
+MAH	Macmahon Holdings Ltd
+MAI	Mainstreambpo Limited
+MAM	Aii S&p/asx 300 Metals & Mining
+MAN	Magna Mining Ltd
+MAQ	Macquarie Telecom Group Ltd
+MAR	Malachite Resources NL
+MAT	Matine Ltd t/over
+MAU	Magnetic Resources NL
+MAUCA	Magnetic Resources Nl
+MAX	Milliniums Alternatives Fund
+MAY	Mayne Group Ltd
+MBK	Metal Bank Limited
+MBLHB	MBLHB
+MBLPA	
+MBM	Mobecom Limited
+MCA	Medica Holdings
+MCE	Matrix Composites & Engineering Limited
+MCH	Murchison Holdings Ltd
+MCM	Mc Mining Limited
+MCP	McPhersons Ltd
+MCR	Mincor Resources NL
+MCT	Metalicity Limited
+MCX	Mariner Corporation Limited
+MCY	Mighty River Power Limited.
+MDC	McConnell Dowell Corporation
+MDI	Middle Island Resources Limited
+MDR	Medadvisor Limited
+MDX	Mindax Ltd
+MEA	Media Corporation Australia
+MEB	Medibio Limited
+MEBOB	Medibio Limited
+MEC	Morphic Ethical Equities Fund Limited
+MED	Merlin Diamonds Limited
+MEDOB	Merlin Diamonds Limited
+MEI	Meteoric Resources NL
+MEL	Metgasco Ltd
+MEM	Memphasys Limited.
+MEP	Minotaur Exploration Ltd
+MEU	Maramota Energy Ltd
+MEY	Marenica Energy Ltd
+MEZ	Meridian Energy Limited
+MFD	Mayfield Childcare Limited
+MFF	Magellan Flagship Fund Ltd
+MFG	Magellan Financial Group
+MFGKOB	Magellan Financial Group Limited
+MFGKOC	Magellan Financial Group Limited
+MFGKOD	Magellan Financial Group Limited
+MFGKOP	Magellan Financial Group Limited
+MFGKOQ	Magellan Financial Group Limited
+MFGKOR	Magellan Financial Group Limited
+MFGKOS	Magellan Financial Group Limited
+MFGKOU	Magellan Financial Group Limited
+MGC	Mg Unit Trust
+MGE	Magellan Global Equities Fund
+MGG	Magellan Global Trust
+MGGBOC	Magellan Global Trust
+MGGBOD	Magellan Global Trust
+MGL	Magontec Limited
+MGR	Mirvac Group
+MGRKOC	Mirvac Group
+MGRKOD	Mirvac Group
+MGRKOQ	Mirvac Group
+MGT	Magnetite Mines Limited.
+MGTOC	Magnetite Mines Limited.
+MGU	Magnum Gold NL
+MGUO	Magnum Mining And Exploration Limited
+MGV	Musgrave Minerals Limited
+MGX	Mount Gibson Iron Ltd
+MGXKOJ	Mount Gibson Iron Limited
+MGXKON	Mount Gibson Iron Limited
+MGZ	Medigard Ltd
+MHC	Manhattan Corporation Limited
+MHD	Millennium Limited
+MHG	Magellan Global Equities Fund (currency Hedged)
+MHH	Magellan High Conviction Trust
+MHI	Merchant House International Ltd
+MHJ	Michael Hill International Limited
+MICH	MICH
+MIG	Macquarie Infrastructure Group
+MIH	Mnc Media Investment Ltd
+MIL	Magnesium International Ltd
+MIN	Mineral Resources Ltd
+MINKOB	Mineral Resources Limited
+MINKOC	Mineral Resources Limited
+MINKOF	Mineral Resources Limited
+MINKOP	Mineral Resources Limited
+MINKOV	Mineral Resources Limited
+MINKOW	Mineral Resources Limited
+MIO	Miclyn Express Offshore Limited
+MIR	Mirrabooka Investments Ltd
+MJC	Mejority Capital Limited
+MKG	Mako Gold Limited
+MKGO	Mako Gold Limited
+MLD	Maca Limited
+MLL	Mali Lithium Limited
+MLLOA	Mali Lithium Limited
+MLM	Metallica Minerals Ltd
+MLS	Metals Australia Ltd
+MLSOA	Metals Australia Ltd
+MLT	Milton Corporation Ltd
+MLX	Metals X Ltd
+MME	MTM Entertainment Trust
+MMI	Metro Mining Limited
+MMJ	Mmj Phytotech Limited
+MML	Medusa Mining Ltd
+MMLKOQ	Medusa Mining Limited
+MMLKOV	Medusa Mining Limited
+MMM	Marley Spoon Ag
+MMR	Mec Resources Ltd
+MMS	McMillan Shakespeare Ltd
+MMSKOA	Mcmillan Shakespeare Limited
+MMSKOC	Mcmillan Shakespeare Limited
+MMSKOE	Mcmillan Shakespeare Limited
+MNB	Minbos Resources Limited
+MNC	Metminco Ltd
+MNCOA	Metminco Limited
+MNCOB	Metminco Limited
+MND	Monadelphous Group Ltd
+MNDKOB	Monadelphous Group Limited
+MNDKOC	Monadelphous Group Limited
+MNDKOD	Monadelphous Group Limited
+MNDKOP	Monadelphous Group Limited
+MNDKOQ	Monadelphous Group Limited
+MNDKOT	Monadelphous Group Limited
+MNF	My Net Fone Ltd
+MNRS	Global Gold Miners Etf - Currency Hedged
+MNS	Milnes Holdings
+MNW	Mint Wireless Ltd
+MNY	Money3 Corporation Ltd
+MOAT	Vaneck Vectors Morningstar Wide?moat
+MOB	Mobile Innovations Ltd
+MOC	Mortgage Choice Ltd
+MOE	Moto Goldmines Ltd
+MOGL	MOGL
+MOH	Moho Resources Limited
+MOHO	Moho Resources Limited
+MONY	Ubs Iq Cash
+MOQ	Montech Holdings Limited
+MOT	Motopia Limited
+MOY	Millennium Minerals Ltd
+MOZ	Mozambi Coal Limited
+MP1	Megaport Limited
+MPH	Magna Pacific (Holdings) Ltd
+MPL	Medibank Private Limited
+MPLKOA	Medibank Private Limited
+MPLKOC	Medibank Private Limited
+MPLKOE	Medibank Private Limited
+MPLKOP	Medibank Private Limited
+MPLKOQ	Medibank Private Limited
+MPLKOS	Medibank Private Limited
+MPO	Molopo Australia Ltd
+MPP	Metro Performance Glass Limited
+MPR	Macquarie ProLogis Trust
+MPW	Msl Solutions Limited
+MPX	Mustera Property Group Limited
+MQG	Macquarie Group Ltd
+MQGBOC	Macquarie Group Limited
+MQGBOD	Macquarie Group Limited
+MQGBOE	Macquarie Group Limited
+MQGKOB	Macquarie Group Limited
+MQGKOC	Macquarie Group Limited
+MQGKOD	Macquarie Group Limited
+MQGKOE	Macquarie Group Limited
+MQGKOG	Macquarie Group Limited
+MQGKOI	Macquarie Group Limited
+MQGKOK	Macquarie Group Limited
+MQGKOL	Macquarie Group Limited
+MQGKON	Macquarie Group Limited
+MQGKOS	Macquarie Group Limited
+MQGKOT	Macquarie Group Limited
+MQGKOV	Macquarie Group Limited
+MQGKOX	Macquarie Group Limited
+MQGKOY	Macquarie Group Limited
+MQGKOZ	Macquarie Group Limited
+MQGLOC	Macquarie Group Limited
+MQGLOE	Macquarie Group Limited
+MQGLOF	Macquarie Group Limited
+MQGLOP	Macquarie Group Limited
+MQGLOR	Macquarie Group Limited
+MQGLOS	Macquarie Group Limited
+MQGLOU	Macquarie Group Limited
+MQGMOA	Macquarie Group Limited
+MQGPB	Macquarie Group Limited
+MQGPC	Macquarie Group Limited
+MQGPD	Macquarie Group Limited
+MQR	Marquee Resources Limited
+MQRO	Marquee Resources Limited
+MRC	Mineral Commodities Ltd
+MRD	Mount Ridley Mines Limited
+MRG	Murray River Organics Group Limited
+MRL	Miller's Retail Ltd
+MRM	Mermaid Marine Australia Ltd
+MRQ	Mrg Metals Limited
+MRQOA	Mrg Metals Limited
+MRQOB	Mrg Metals Limited
+MRR	Minrex Resources Nl
+MRV	Moreton Resources Ltd
+MRZ	Mirvac Real Estate Investment Trust
+MSB	Mesoblast Ltd
+MSBKOQ	Mesoblast Limited
+MSBKOR	Mesoblast Limited
+MSBKOS	Mesoblast Limited
+MSE	Metalsearch Limited
+MSG	Mcs Services Limited
+MSI	Multistack International Ltd
+MSM	Msm Corporation International Ltd
+MSR	Manas Resources Ltd
+MSTR	MSTR
+MSV	Mitchell Services Limited
+MTB	Mount Burgess Mining NL
+MTC	Metalstech Limited
+MTH	Mithril Resources Ltd
+MTL	Manalto Limited
+MTO	Moto Goldmines Ltd
+MTS	Metcash Ltd
+MTSKOB	Metcash Limited
+MTSKOE	Metcash Limited
+MTSKOQ	Metcash Limited
+MTSKOR	Metcash Limited
+MTSKOS	Metcash Limited
+MVA	Vaneck Vectors Australian?property
+MVB	Vaneck Vectors Australian Banks
+MVE	Vaneck Vectors S&p/asx Midcap
+MVF	Monash Ivf Group Limited
+MVOL	Ishares Edge Msci Australia Minimum Volatility
+MVP	Medical Developments International
+MVR	Vaneck Vectors Australian Resources
+MVS	Vaneck Vectors Small Cap Dividend?payers
+MVTHA	Mercantile Investment Company Ltd
+MVW	Vaneck Vectors Australian Equal Weight
+MWR	MGM Wireless Ltd
+MWY	Midway Limited
+MX1	Micro-x Limited
+MXC	Mgc Pharmaceuticals Ltd
+MXI	MaxiTRA Industries Ltd
+MXR	Maximus Resources Ltd
+MXT	Mcp Master Income Trust
+MXUPA	MXU
+MYE	Mastermyne Group Limited
+MYL	Myanmar Metals Limited
+MYQ	Myfiziq Limited
+MYR	Myer Holdings Limited
+MYRKOB	Myer Holdings Limited
+MYRKOP	Myer Holdings Limited
+MYRKOQ	Myer Holdings Limited
+MYRKOR	Myer Holdings Limited
+MYRKOS	Myer Holdings Limited
+MYS	Mystate Limited
+MYX	MYX
+MYXKOQ	Mayne Pharma Group Limited
+MYXKOR	Mayne Pharma Group Limited
+MZI	Matilda Zircon Limited
+MZZ	Matador Mining Limited
+MZZO	Matador Mining Limited
+N1H	N1 Holdings Limited
+NAB	National Australia Bank Ltd
+NABBOF	National Australia Bank Limited
+NABBOG	National Australia Bank Limited
+NABBOI	National Australia Bank Limited
+NABHA	NABHA
+NABKOB	National Australia Bank Limited
+NABKOE	National Australia Bank Limited
+NABKOG	National Australia Bank Limited
+NABKOH	National Australia Bank Limited
+NABKOI	National Australia Bank Limited
+NABKOL	National Australia Bank Limited
+NABKOM	National Australia Bank Limited
+NABKON	National Australia Bank Limited
+NABKOO	National Australia Bank Limited
+NABKOP	National Australia Bank Limited
+NABKOQ	National Australia Bank Limited
+NABKOR	National Australia Bank Limited
+NABKOS	National Australia Bank Limited
+NABKOT	National Australia Bank Limited
+NABKOU	National Australia Bank Limited
+NABKOV	National Australia Bank Limited
+NABLOA	National Australia Bank Limited
+NABLOB	National Australia Bank Limited
+NABLOE	National Australia Bank Limited
+NABLOF	National Australia Bank Limited
+NABLOP	National Australia Bank Limited
+NABLOR	National Australia Bank Limited
+NABLOS	National Australia Bank Limited
+NABLOT	National Australia Bank Limited
+NABLOU	National Australia Bank Limited
+NABLOV	National Australia Bank Limited
+NABMOA	National Australia Bank Limited
+NABMOQ	National Australia Bank Limited
+NABPB	National Australia Bank Limited
+NABPC	National Australia Bank Limited
+NABPD	National Australia Bank Limited
+NABPE	National Australia Bank Limited
+NABPF	National Australia Bank Limited
+NAC	Naos Absolute Opportunities Company Limited
+NAE	New Age Exploration Ltd
+NAG	
+NAM	Namoi Cotton Co-operative Ltd
+NAN	Nanosonics Ltd
+NANKOA	Nanosonics Limited
+NANKOB	Nanosonics Limited
+NANKOC	Nanosonics Limited
+NANKOD	Nanosonics Limited
+NANKOQ	Nanosonics Limited
+NBI	Nb Global Corporate Income Trust
+NC6	Nanollose Limited
+NC6O	Nanollose Limited
+NCC	Naos Emerging Opportunities Company Limited
+NCCOB	Naos Emerging Opportunities Company Limited
+NCK	Nick Scali Ltd
+NCL	Netccentric Limited
+NCM	Newcrest Mining Ltd
+NCMKOC	Newcrest Mining Limited
+NCMKOD	Newcrest Mining Limited
+NCMKOH	Newcrest Mining Limited
+NCMKOJ	Newcrest Mining Limited
+NCMKOK	Newcrest Mining Limited
+NCMKOL	Newcrest Mining Limited
+NCMKOM	Newcrest Mining Limited
+NCMKOR	Newcrest Mining Limited
+NCMKOS	Newcrest Mining Limited
+NCMKOU	Newcrest Mining Limited
+NCMKOZ	Newcrest Mining Limited
+NCMLOB	Newcrest Mining Limited
+NCMLOF	Newcrest Mining Limited
+NCMLOP	Newcrest Mining Limited
+NCMLOQ	Newcrest Mining Limited
+NCMLOR	Newcrest Mining Limited
+NCMLOT	Newcrest Mining Limited
+NCMLOU	Newcrest Mining Limited
+NCMMOP	Newcrest Mining Limited
+NCMMOQ	Newcrest Mining Limited
+NCR	Nucoal Resources Nl
+NCZ	New Century Resources Limited
+NDIA	NDIA
+NDQ	Betashares Nasdaq 100
+NDXKOA	Nasdaq 100 E-mini
+NDXKOC	NDXKOC
+NDXKOD	NDXKOD
+NDXKOE	NDXKOE
+NDXKOF	NDXKOF
+NDXKOH	NDXKOH
+NDXKON	NDXKON
+NDXKOS	Nasdaq 100 E-mini
+NDXKOV	NDXKOV
+NDXKOX	NDXKOX
+NDXKOY	NDXKOY
+NDXMOA	NDXMOA
+NDXMOQ	NDXMOQ
+NDXMOR	NDXMOR
+NEA	Nearmap Ltd
+NEAKOA	Nearmap Ltd
+NEAKOE	Nearmap Ltd
+NEAKOF	Nearmap Ltd
+NEAKOH	Nearmap Ltd
+NEC	Nine Entertainment Co Holdings Ltd
+NECKOC	Nine Entertainment Co. Holdings Limited
+NECKOD	Nine Entertainment Co. Holdings Limited
+NECKOQ	Nine Entertainment Co. Holdings Limited
+NECKOR	Nine Entertainment Co. Holdings Limited
+NES	Nelson Resources Limited.
+NET	Netlinkz Limited
+NEU	Neuren Pharmaceuticals Ltd
+NEW	New Energy Solar
+NFNG	NFNG
+NGE	New Guinea Energy Ltd
+NGI	Navigator Global Investments Limited
+NGY	Nuenergy Capital Ltd
+NHC	New Hope Corporation Ltd
+NHF	Nib Holdings Ltd
+NHFKOA	Nib Holdings Limited
+NHFKOB	Nib Holdings Limited
+NHFKOC	Nib Holdings Limited
+NHFKOD	Nib Holdings Limited
+NHFKOP	Nib Holdings Limited
+NHFKOQ	Nib Holdings Limited
+NHFKOR	Nib Holdings Limited
+NHL	Nova Health Ltd
+NI2KOD	NI2KOD
+NI2KOE	NI2KOE
+NI2KOF	NI2KOF
+NI2KOP	NI2KOP
+NI2KOR	NI2KOR
+NI2KOV	NI2KOV
+NIC	Nickel Mines Limited
+NIU	Niuminco Group Limited
+NME	Nex Metals Exploration Ltd
+NMI	Northern Mining Ltd
+NML	Navarre Minerals Limited
+NMT	Neometals Ltd
+NNW	99 Wuxian Limited
+NOR	Norwood Systems Limited
+NOROA	Norwood Systems Limited
+NOV	Novatti Group Limited
+NOX	Noxopharm Limited
+NSB	Neuroscientific Biopharmaceuticals Ltd
+NSC	Naos Small Cap Opportunities Company Limited
+NSE	New Standard Energy Ltd
+NSR	National Storage Reit
+NSRKOA	National Storage Reit
+NSRKOB	National Storage Reit
+NST	Northern Star Resources Ltd
+NSTKOA	Northern Star Resources Ltd
+NSTKOC	Northern Star Resources Ltd
+NSTKOE	Northern Star Resources Ltd
+NSTKOR	Northern Star Resources Ltd
+NSTKOT	Northern Star Resources Ltd
+NSX	X Ltd
+NTD	National Tyre & Wheel Limited
+NTI	Neurotech International Limited
+NTIO	Neurotech International Limited
+NTL	New Talisman Gold Mines Limited
+NTLOB	New Talisman Gold Mines Limited
+NTM	Northern Manganese Limited
+NTO	Nitro Software Limited
+NTU	Northen Uranium Ltd
+NUC	Nuchev Limited
+NUF	NuFarm Ltd
+NUFKOA	Nufarm Limited
+NUFKOB	Nufarm Limited
+NUFKOD	Nufarm Limited
+NUFKOG	Nufarm Limited
+NUFKOP	Nufarm Limited
+NUFKOS	Nufarm Limited
+NUH	Nuheara Limited
+NUS	Nusantara Resources Limited
+NUSOA	Nusantara Resources Limited
+NVA	Nova Minerals Limited
+NVAO	Nova Minerals Limited
+NVL	National Veterinary Care Ltd
+NVO	Nvoi Ltd
+NVU	Nanoveu Limited
+NVX	Novonix Limited
+NWC	New World Cobalt Limited
+NWE	Norwest Energy NL
+NWF	Newfield Resources Limited
+NWH	NRW Holdings Ltd
+NWHKOC	Nrw Holdings Limited
+NWHKOD	Nrw Holdings Limited
+NWHKOE	Nrw Holdings Limited
+NWL	New Tel
+NWM	Norwest Minerals Limited
+NWS	News Corporation
+NWSLV	NEWS CORP-PREFD
+NXE	New Energy Minerals Ltd
+NXEOA	New Energy Minerals Ltd
+NXEOB	New Energy Minerals Ltd
+NXM	Nexus Minerals Limited
+NXS	Nexus Energy Ltd
+NXT	Nextdc Limited
+NXTKOA	Nextdc Limited
+NXTKOB	Nextdc Limited
+NXTKOC	Nextdc Limited
+NXTKOE	Nextdc Limited
+NXTKOF	Nextdc Limited
+NXTKOG	Nextdc Limited
+NXTKOR	Nextdc Limited
+NYR	Nyrada Inc.
+NZC	Nzuri Copper Limited
+NZK	New Zealand King Salmon Investments Limited
+NZM	Nzme Limited
+NZS	New Zealand Coastal Seafoods Limited
+OAR	Oakdale Resources Limited
+OARO	Oakdale Resources Limited
+OAU	Ora Gold Limited
+OBJ	OBJ Ltd
+OBM	Ora Banda Mining Ltd
+OCA	Oil Company Of Australia
+OCC	Orthocell Limited
+OCL	Objective Corporation Ltd
+ODA	Orcoda Limited
+ODM	Odin Metals Limited
+ODY	Odyssey Energy Ltd
+OEC	Orbital Corporation Ltd
+OEL	Ottoman Energy Ltd
+OEQ	Orion Equities Ltd
+OEX	Oilex NL
+OFX	Ozforex Group Limited
+OFXKOA	Ozforex Group Limited
+OFXKOE	Ozforex Group Limited
+OFXKOQ	Ozforex Group Limited
+OFXKOR	Ozforex Group Limited
+OGA	Ocean Grown Abalone Limited
+OGC	Oceanagold Corporation
+OGX	Orinoco Gold Limited
+OGXOD	Orinoco Gold Limited
+OIL	Optiscan Imaging Ltd
+OKJ	Oakajee Corporation Ltd
+OKJO	Oakajee Corporation Limited
+OKR	Okapi Resources Limited
+OKU	Oklo Uranium Ltd
+OLH	Oldfields Holdings Ltd
+OLI	Olivers Real Food Limited
+OLL	Openlearning Limited
+OLV	Otherlevels Holdings Limited
+OMH	OM Holdings Ltd
+OML	Ooh!media Limited
+OMLKOA	Ooh!media Limited
+OMLKOC	Ooh!media Limited
+ONE	Oneview Healthcare Plc
+ONT	1300 Smiles Ltd
+ONX	Orminex Ltd
+OOK	Ookami Limited
+OOO	Betashares Crude Oil Index Etf - Currency Hedged (
+OPC	Optima Corporation Ltd
+OPH	Ophir High Conviction Fund
+OPL	Orchard Petroleum Ltd
+OPT	Opthea Limited
+OPY	Openpay Group Ltd
+ORA	Orora Limited
+ORAKOA	Orora Limited
+ORAKOC	Orora Limited
+ORAKOP	Orora Limited
+ORAKOQ	Orora Limited
+ORE	Orocobre Ltd
+OREKOA	Orocobre Limited
+OREKOC	Orocobre Limited
+ORG	Origin Energy Ltd
+ORGBOA	Origin Energy Limited
+ORGBOB	Origin Energy Limited
+ORGBOC	Origin Energy Limited
+ORGKOB	Origin Energy Limited
+ORGKOC	Origin Energy Limited
+ORGKOD	Origin Energy Limited
+ORGKOQ	Origin Energy Limited
+ORGKOS	Origin Energy Limited
+ORI	Orica Ltd
+ORIKOB	Orica Limited
+ORIKOC	Orica Limited
+ORIKOD	Orica Limited
+ORIKOR	Orica Limited
+ORIKOT	Orica Limited
+ORM	Orion Metals Limited
+ORN	ORN
+ORR	Orecorp Limited
+OSH	Oil Search Ltd (PNG)
+OSHKOA	Oil Search Limited
+OSHKOC	Oil Search Limited
+OSHKOD	Oil Search Limited
+OSHKOP	Oil Search Limited
+OSHKOQ	Oil Search Limited
+OSHKOT	Oil Search Limited
+OSL	Oncosil Medical Ltd
+OSP	Osprey Medical Inc
+OSX	Osteopore Limited
+OTR	Otter Gold Mines
+OTW	Over The Wire Holdings Limited
+OVH	Onevue Holdings Limited
+OVL	Oro Verde Limited
+OVN	Oventus Medical Limited
+OVT	Ovato Limited
+OXX	Octanex N.l.
+OZF	Spdr??s&p?/asx 200 Financials Ex A-reit Fund
+OZG	Ozgrowth Ltd
+OZL	OZ Minerals
+OZLKOA	Oz Minerals Limited
+OZLKOB	Oz Minerals Limited
+OZLKOD	Oz Minerals Limited
+OZLKOE	Oz Minerals Limited
+OZLKOP	Oz Minerals Limited
+OZR	Spdr??s&p?/asx 200 Resources Fund
+P2P	P2p Transport Limited
+PAA	PharmAust Ltd
+PAB	Patrys Ltd
+PAC	Pacsoft Ltd
+PAF	Pm Capital Asian Opportunities Fund Limited
+PAI	Platinum Asia Investments Limited
+PAK	Pacific American Coal Limited
+PAL	Palla Pharma Limited
+PAN	Panoramic Resources Ltd
+PAR	Paradigm Biopharmaceuticals Limited..
+PBH	Pointsbet Holdings Limited
+PBP	Probiotec Ltd
+PBX	Pacific Bauxite Limited
+PCG	PCH Group Ltd
+PCH	Property Connect Holdings Limited
+PCI	Perpetual Credit Income Trust
+PCK	Painchek Ltd
+PCL	Pancontinental Oil & Gas NL
+PDI	Predictive Discovery Limited
+PDIOA	Predictive Discovery Limited
+PDL	Petra Diamonds Ltd
+PDLKOB	Pendal Group Limited
+PDN	Paladin Resources Ltd
+PDZ	Prairie Downs Metals Ltd
+PE1	Pengana Private Equity Trust
+PEC	Perpetual Resources Limited
+PEK	Peak Resources Ltd
+PEKOC	Peak Resources Limited
+PEL	Pelican Resources Ltd
+PEN	Peninsula Minerals Ltd
+PENRB	Peninsula Energy Limited
+PET	Peters MacGregor Investments Ltd
+PEX	Peel Exploration Ltd
+PFG	Prime Financial Group Ltd
+PFP	WC Penfold
+PG1	Pearl Global Limited
+PG1OB	Pearl Global Limited
+PGC	Paragon Care Ltd
+PGF	Pm Capital Global Opportunities Fund Limited
+PGG	Partners Group Global Income Fund
+PGH	Pact Group Holdings Ltd
+PGI	Panterra Gold Limited
+PGL	Progen Industries Ltd
+PGM	Platina Resources Ltd
+PGR	The Pas Group Limited
+PGX	Primero Group Limited
+PGY	Pilot Energy Limited
+PIA	Prudential Investment Company Of Australia
+PIC	Perpetual Equity Investment Company Limited
+PIL	Pilbara Mines NL.
+PIN	Pinchme.com Inc.
+PIO	Pioneer Nickel Ltd
+PIQ	Proteomics International Laboratories Ltd
+PKD	Parkd Ltd
+PKO	Peak Oil & Gas Limited
+PKOOA	Peako Limited
+PKS	Pks Holdings Limited
+PL8	Plato Income Maximiser Limited.
+PLC	Plc Financial Solutions Limited
+PLL	Poltech International
+PLS	Pilbara Minerals Limited
+PLUS	Vaneck Vectors Australian Corporate Bond Plus
+PLX	Plexus International
+PM1	Pure Minerals Limited
+PM8	Pensana Metals Ltd
+PMC	Platinum Capital Ltd
+PME	Pro Medicus Ltd
+PMEKOC	Pro Medicus Limited
+PMEKOD	Pro Medicus Limited
+PMEKOE	Pro Medicus Limited
+PMGOLD	Perth Mint Gold
+PMV	Premier Investments Ltd
+PMVKOA	Premier Investments Limited
+PMVKOC	Premier Investments Limited
+PMVKOR	Premier Investments Limited
+PMVKOS	Premier Investments Limited
+PMY	Pacifico Minerals Limited
+PMYO	Pacifico Minerals Limited
+PNC	Pioneer Credit Limited
+PNI	Pinnacle Investment Management Group Ltd
+PNL	Paringa Resources Limited
+PNN	PeppinNini Minerals Ltd
+PNR	Pacific Niugini Minerals Ltd
+PNV	Polynovo Limited
+PNVKOB	Polynovo Limited
+PNW	Pacific Star Network Ltd
+PNX	Phoenix Copper Ltd
+PO3	Purifloh Limited
+POD	Podium Minerals Limited
+PODO	Podium Minerals Limited
+POS	Poseidon Nickel Ltd
+POU	Betashares British Pound
+POW	Protean Wave Energy Ltd
+PPC	Peet & Company Ltd
+PPCHA	Peet Limited
+PPCHB	Peet Limited
+PPE	People Infrastructure Ltd
+PPG	Pro-Pac Packaging Ltd
+PPH	Pan Pharmaceuticals
+PPK	Plaspak Group Ltd
+PPL	Park Plaza Kemayan
+PPS	Praemium Ltd
+PPT	Perpetual Trustees Australia Ltd
+PPTKOB	Perpetual Limited
+PPTKOC	Perpetual Limited
+PPY	Papyrus Australia Ltd
+PRM	Plenty River Mining Corporation Ltd
+PRMOA	Prominence Energy Nl
+PRN	Pelsart Resources Nl
+PRNKOB	Perenti Global Limited
+PRNKOC	Perenti Global Limited
+PRO	Prophecy International Holdings Ltd
+PRT	Prime Television Ltd
+PRU	Perseus Mining Ltd
+PRX	Prime Retail Group unit/ord
+PRZ	Primary Resources Ltd
+PSA	Petsec Energy Ltd
+PSC	Prospect Resources Limited
+PSI	Pacific Strategic Investments Ltd
+PSL	Panaseer
+PSLOC	Paterson Resources Ltd
+PSM	Peninsula Mines Limited
+PSMO	Peninsula Mines Limited
+PSQ	Pacific Smiles Group Limited
+PSZ	Ps&c Limited
+PTB	PTB Group Ltd
+PTL	Pental Limited
+PTM	Platinum Asset Management Ltd
+PTMKOB	Platinum Asset Management Limited
+PTMKOC	Platinum Asset Management Limited
+PTMKOP	Platinum Asset Management Limited
+PTMKOS	Platinum Asset Management Limited
+PTR	Petratherm Ltd
+PTX	Prescient Therapeutics Limited
+PTXOC	Prescient Therapeutics Limited
+PUA	Pure Alumina Limited
+PUAOC	Pure Alumina Limited
+PUR	Purus Energy Ltd
+PUROA	Pursuit Minerals Ltd
+PVE	Po Valley Energy Ltd
+PVL	Powerhouse Ventures Limited
+PVS	Pivotal Systems Corporation Inc.
+PWG	Primewest
+PWH	Pwr Holdings Limited
+PWL	Powerwrap Limited
+PWN	Potash West Nl
+PWNCA	Potash West Nl
+PXS	Pharmaxis Ltd
+PXX	Polarx Limited
+PYC	Phylogica Ltd
+PYG	Paygroup Limited
+QAG	Betashares Agriculture Etf - Currency Hedged (synt
+QAN	Qantas Airways Ltd
+QANBOC	Qantas Airways Limited
+QANBOD	Qantas Airways Limited
+QANKOB	Qantas Airways Limited
+QANKOC	Qantas Airways Limited
+QANKOD	Qantas Airways Limited
+QANKOF	Qantas Airways Limited
+QANKOQ	Qantas Airways Limited
+QANKOS	Qantas Airways Limited
+QANKOV	Qantas Airways Limited
+QANKOW	Qantas Airways Limited
+QAU	Betashares Gold Bullion Etf - Currency Hedged
+QBE	QBE Insurance Group Ltd
+QBEBOE	Qbe Insurance Group Limited
+QBEKOA	Qbe Insurance Group Limited
+QBEKOC	Qbe Insurance Group Limited
+QBEKOG	Qbe Insurance Group Limited
+QBEKOH	Qbe Insurance Group Limited
+QBEKOP	Qbe Insurance Group Limited
+QBEKOQ	Qbe Insurance Group Limited
+QBEKOT	Qbe Insurance Group Limited
+QBEKOW	Qbe Insurance Group Limited
+QBELOA	Qbe Insurance Group Limited
+QBELOC	Qbe Insurance Group Limited
+QBELOE	Qbe Insurance Group Limited
+QBELOF	Qbe Insurance Group Limited
+QBELOJ	Qbe Insurance Group Limited
+QBELOP	Qbe Insurance Group Limited
+QBELOS	Qbe Insurance Group Limited
+QBELOT	Qbe Insurance Group Limited
+QBELOV	Qbe Insurance Group Limited
+QCB	Betashares Commodities Basket Etf - Currency Hedge
+QEM	Qem Limited
+QFE	Quickfee Limited
+QFN	Betashares S&p/asx 200 Financials Sector
+QFY	Quantify Technology Holdings Limited
+QFYOB	Quantify Technology Holdings Limited
+QGL	Quantum Graphite Limited
+QHAL	Vaneck Vectors Msci World Ex-australia Quality Hed
+QHL	Quickstep Holdings Ltd
+QIP	Qantm Intellectual Property Limited
+QLTY	Betashares Global Quality Leaders
+QMIX	Spdr??msci World Quality Mix Fund
+QMS	Qms Media Limited
+QOZ	Betashares Ftse Rafi Australia 200
+QPON	Betashares Australian Bank Senior Floating Rate Bo
+QPR	Quattro Plus Real Estate
+QRE	Betashares S&p/asx 200 Resources Sector
+QRI	Qualitas Real Estate Income Fund
+QSS	Questus Ltd
+QST	Quest Investments Ltd
+QTG	QTG
+QTM	Quantum Energy Ltd
+QUAL	Vaneck Vectors Msci World Ex-australia Quality
+QUB	Qube Logistics
+QUBHA	Qube Holdings Limited
+QUBKOA	Qube Holdings Limited
+QUBKOB	Qube Holdings Limited
+QUBKOC	Qube Holdings Limited
+QUE	Queste Communications Ltd
+QUS	Betashares Ftse Rafi U.s. 1000?
+QVE	Qv Equities Limited
+R3D	Redchip International Limited
+RAC	Reinsurance Australia Corporation
+RAG	Ragnar Metals Limited
+RAN	Range International Limited
+RAP	Resapp Health Limited
+RARI	Russell Australian Responsible Investment
+RBD	Restaurant Brands New Zealand Limited
+RBL	Rib Loc Group
+RBR	Rubicon Resources Ltd
+RBTZ	Betashares Global Robotics And Artificial Intellig
+RBX	Resources Base Ltd
+RCB	Russell Australian Select Corporate Bond Etf
+RCE	Recce Limited
+RCL	Repco Corporation Ltd
+RCLO	Readcloud Limited
+RCO	Royalco Resources Ltd
+RCP	Redbank Copper Limited
+RCT	Reef Casino Trust
+RCW	Rightcrowd Limited
+RD1	Registry Direct Limited
+RDC	Redcape Hotel Group
+RDF	Redflex Holdings Ltd
+RDG	Resource Development Group Limited
+RDH	Redhill Education Limited
+RDM	Red Metal Ltd
+RDN	Raiden Resources Limited
+RDS	Redstone Resources Ltd
+RDSOB	Redstone Resources Limited
+RDV	Russell High Dividend Australian Shares
+RDY	Readytech Holdings Limited
+RE1	Resa Group Limited
+REA	realestate.com.au Ltd
+REAKOA	Rea Group Ltd
+REAKOB	Rea Group Ltd
+REAKOF	Rea Group Ltd
+REAKOR	Rea Group Ltd
+RED	Red 5 Ltd
+REE	Rarex Limited
+REF	Reverse Corp Ltd
+REG	RG Capital Radio
+REGKOA	Regis Healthcare Limited
+REGKOB	Regis Healthcare Limited
+REH	Reece Australia Ltd
+REIT	REIT
+RENT	Amp Capital Global Property Securities (unhedged)
+RES	Resource Generation Ltd
+REV	Revenir Ltd
+REX	Regional Express Holdings Ltd
+REY	Rey Resources Ltd
+REZ	Resources & Energy Group Limited
+RF1	Regal Investment Fund
+RFF	Rural Funds Group
+RFG	Retail Food Group Ltd
+RFN	Reffind Limited
+RFR	Rafaella Resources Ltd.
+RFRO	Rafaella Resources Ltd.
+RFT	Rectifier Technologies Ltd
+RFX	Redflow Limited
+RGB	Russell Australian Government Bond
+RGI	Roto-gro International Limited
+RGL	Ruralco Holdings Ltd
+RGS	Regeneus Ltd
+RHC	Ramsay Health Care Ltd
+RHCKOA	Ramsay Health Care Limited
+RHCKOC	Ramsay Health Care Limited
+RHCKOP	Ramsay Health Care Limited
+RHCKOQ	Ramsay Health Care Limited
+RHCPA	Ramsay Health Care Ltd
+RHI	Red Hill Iron Ltd
+RHP	Rhype Limited
+RHT	Resonance Health Ltd
+RHY	Rhythm Biosciences Limited
+RIC	Ridley Corporation Ltd
+RIE	Riedel Resources Limited
+RIM	Rimfire Pacific Mining NL
+RIMOB	Rimfire Pacific Mining Nl
+RIMOC	Rimfire Pacific Mining Nl
+RINC	RINC
+RIO	Rio Tinto Ltd
+RIOBOE	Rio Tinto Limited
+RIOBOF	Rio Tinto Limited
+RIOKOA	Rio Tinto Limited
+RIOKOB	Rio Tinto Limited
+RIOKOC	Rio Tinto Limited
+RIOKOE	Rio Tinto Limited
+RIOKOF	Rio Tinto Limited
+RIOKOG	Rio Tinto Limited
+RIOKOH	Rio Tinto Limited
+RIOKOL	Rio Tinto Limited
+RIOKOO	Rio Tinto Limited
+RIOKOP	Rio Tinto Limited
+RIOKOQ	Rio Tinto Limited
+RIOKOR	Rio Tinto Limited
+RIOKOU	Rio Tinto Limited
+RIOKOV	Rio Tinto Limited
+RIOLOA	Rio Tinto Limited
+RIOLOB	Rio Tinto Limited
+RIOLOC	Rio Tinto Limited
+RIOLOI	Rio Tinto Limited
+RIOLOP	Rio Tinto Limited
+RIOLOT	Rio Tinto Limited
+RIOMOP	Rio Tinto Limited
+RIOMOQ	Rio Tinto Limited
+RIOMOR	Rio Tinto Limited
+RKN	Reckon Ltd
+RLC	Revere Mining
+RLCO	Reedy Lagoon Corporation Limited
+RLE	Real Energy Corporation Limited
+RLEOB	Real Energy Corporation Limited
+RLG	Rcl Group
+RLGO	Roolife Group Ltd
+RLT	Renergen Limited
+RMC	RIMCapital Ltd
+RMD	ResMed Inc (USA CUFS)
+RMDKOE	Resmed Inc
+RMDKOP	Resmed Inc
+RMG	RMG Ltd
+RMI	Resource Mining Corporation Ltd
+RML	Rusina Mining NL
+RMLOA	Resolution Minerals Ltd
+RMP	Red Emperor Resources NL
+RMS	Ramelius Resources Ltd
+RMT	RMA Energy Ltd
+RMX	Red Mountain Mining Limited
+RMY	Rma Global Limited
+RND	Rand Mining NL
+RNE	Renu Energy Limited
+RNL	Rision Limited
+RNO	Rhinomed Limited
+RNT	Rent.com.au Limited
+RNU	Renaissance Uranium Limited
+RNX	Renegade Exploration Limited
+RNY	Reckson New York Property Trust
+ROBO	Etfs Robo Global Robotics & Automation
+ROG	Red Sky Energy Ltd
+ROO	Roots Sustainable Agricultural Technologies Ltd
+ROOO	Roots Sustainable Agricultural Technologies Ltd
+RPG	Raptis Group Ltd
+RPM	Roma Petroleum NL
+RPMO	Rpm Automotive Group Limited
+RRL	Regis Resources NL
+RRLKOB	Regis Resources Limited
+RRLKOD	Regis Resources Limited
+RRLKOR	Regis Resources Limited
+RSG	Resolute Mining Ltd
+RSGKOA	Resolute Mining Limited
+RSGKOB	Resolute Mining Limited
+RSGKOD	Resolute Mining Limited
+RSGKOP	Resolute Mining Limited
+RSGKOQ	Resolute Mining Limited
+RSGKOR	Resolute Mining Limited
+RSH	Respiri Limited
+RSM	Russell Australian Semi-government Bond
+RTE	Retech Technology Co. Limited
+RTG	Rtg Mining Inc.
+RTR	Rumble Resources Limited
+RUB	Rubicor Group Ltd
+RUL	Runge Ltd
+RVR	Red River Resources Ltd
+RVS	Revasum Inc.
+RWC	Reliance Worldwide Corporation Limited
+RWCKOA	Reliance Worldwide Corporation Limited
+RWD	Reward Minerals Ltd
+RWDOA	Reward Minerals Ltd
+RXH	Rewardle Holdings Limited
+RXL	Rox Resources Ltd
+RXM	Rex Minerals Ltd
+RXP	Rxp Services Limited
+RYD	Ryder Capital Limited
+RYDOA	Ryder Capital Limited
+RZI	Raiz Invest Limited
+S2R	S2 Resources Ltd
+S32	South32 Limited
+S32BOC	South32 Limited
+S32BOE	South32 Limited
+S32KOB	South32 Limited
+S32KOC	South32 Limited
+S32KOE	South32 Limited
+S32KOG	South32 Limited
+S32KOH	South32 Limited
+S32KOR	South32 Limited
+S32KOS	South32 Limited
+S32KOT	South32 Limited
+S32KOU	South32 Limited
+S66	Star Combo Pharma Limited
+SAM	Siv Asset Management Limited
+SAN	Sagalio Energy Limited
+SAR	Saracen Mineral Holdings Ltd
+SARKOA	Saracen Mineral Holdings Limited
+SARKOB	Saracen Mineral Holdings Limited
+SARKOE	Saracen Mineral Holdings Limited
+SARKOP	Saracen Mineral Holdings Limited
+SARKOR	Saracen Mineral Holdings Limited
+SAS	Sky And Space Global Ltd
+SAU	Southern Gold Ltd
+SBI	Sterling Biofuels International Ltd
+SBKHB	Suncorp-metway Limited .
+SBM	St Barbara Mines Ltd
+SBR	Sabre Resources Ltd
+SBU	Siburan Resources Limited
+SBW	Shekel Brainweigh Ltd
+SCG	Scentre Group
+SCGBOD	Scentre Group
+SCGBOE	Scentre Group
+SCGKOB	Scentre Group
+SCGKOD	Scentre Group
+SCGKOP	Scentre Group
+SCGKOQ	Scentre Group
+SCI	Silver City Minerals Limited
+SCL	Schrole Group Ltd
+SCN	Scorpion Minerals Limited
+SCP	Shopping Centres Australasia Property Group
+SCPKOA	Shopping Centres Australasia Property Group
+SCPKOC	Shopping Centres Australasia Property Group
+SCPKOD	Shopping Centres Australasia Property Group
+SCPKOQ	Shopping Centres Australasia Property Group
+SCPKOR	Shopping Centres Australasia Property Group
+SCT	Scout Security Limited
+SCU	Stemcell United Limited
+SDA	Speedcast International Limited
+SDAKOO	Speedcast International Limited
+SDF	Steadfast Group Limited
+SDG	Sunland Group Ltd
+SDI	SDI Ltd
+SDL	Sundance Resources Ltd
+SDV	Scidev Ltd
+SDX	Sienna Cancer Diagnostics Limited
+SE1	Sensera Limited
+SEC	Spheria Emerging Companies Limited
+SEI	Speciality Metals International Limited
+SEK	Seek Ltd
+SEKKOA	Seek Limited
+SEKKOB	Seek Limited
+SEKKOP	Seek Limited
+SEKKOR	Seek Limited
+SEKKOS	Seek Limited
+SEKQOA	Seek Limited
+SELF	SELF
+SEN	Senetas Corporation Ltd
+SEQ	Southern Equity Holdings
+SER	Strategic Energy Resources Ltd
+SES	Solar Energy Systems
+SF1	Stemify Limited
+SFC	Schaffer Corporation Ltd
+SFG	St Francis Group Ltd
+SFGO	Seafarms Group Limited
+SFM	Santa Fe Minerals Ltd
+SFR	Sandfire Resources NL
+SFRKOD	Sandfire Resources Nl
+SFRKOF	Sandfire Resources Nl
+SFRKOL	Sandfire Resources Nl
+SFRKOQ	Sandfire Resources Nl
+SFRKOR	Sandfire Resources Nl
+SFRKOS	Sandfire Resources Nl
+SFRKOT	Sandfire Resources Nl
+SFRKOV	Sandfire Resources Nl
+SFX	Sheffield Resources Limited
+SFY	Spdr S&p/asx 50
+SGC	Sydney Gas Company Nl
+SGCOA	Sacgasco Limited
+SGF	Sg Fleet Group Limited
+SGH	Slater & Gordon Ltd
+SGI	Signature Capital Investments Limited
+SGLLV	Ricegrowers Limited
+SGM	Sims Group Ltd
+SGMKOB	Sims Metal Management Limited
+SGMKOC	Sims Metal Management Limited
+SGMKOI	Sims Metal Management Limited
+SGMKOP	Sims Metal Management Limited
+SGMKOQ	Sims Metal Management Limited
+SGMKOT	Sims Metal Management Limited
+SGO	Stream Group Limited
+SGP	Stockland
+SGPKOA	Stockland
+SGPKOC	Stockland
+SGPKOF	Stockland
+SGPKOP	Stockland
+SGPKOQ	Stockland
+SGQ	St George Mining Limited
+SGQOB	St George Mining Limited
+SGR	The Star Entertainment Group Limited
+SGRKOB	The Star Entertainment Group Limited
+SGRKOC	The Star Entertainment Group Limited
+SGRKOE	The Star Entertainment Group Limited
+SGRKOQ	The Star Entertainment Group Limited
+SGRKOR	The Star Entertainment Group Limited
+SGRKOS	The Star Entertainment Group Limited
+SGU	Success Resources Global Ltd
+SHE	Stonehenge Metals Ltd
+SHH	Shree Minerals Limited
+SHI	Shine Metals Limited
+SHJ	Shine Corporate Ltd
+SHK	Stone Resources Australia Limited
+SHL	Sonic Healthcare Ltd
+SHLKOA	Sonic Healthcare Limited
+SHLKOQ	Sonic Healthcare Limited
+SHLKOR	Sonic Healthcare Limited
+SHM	Shriro Holdings Limited
+SHO	Sportshero Limited
+SHU	Shenhua International Limited
+SHV	Select Harvests Ltd
+SI6	Six Sigma Metals Limited
+SI6OC	Six Sigma Metals Limited
+SIG	Sigma Company Ltd
+SIGKOB	Sigma Healthcare Limited
+SIH	Sihayo Gold Limited
+SIL	Smiles Inclusive Limited
+SIO	Simonds Group Limited
+SIQ	Smartgroup Corporation Ltd
+SIQKOB	Smartgroup Corporation Ltd
+SIQKOC	Smartgroup Corporation Ltd
+SIS	Simble Solutions Limited
+SIT	SIT
+SIV	Silver Chef Ltd
+SIX	Sprintex Limited
+SKC	Sky City Entertainment Group Ltd
+SKF	Skyfii Ltd
+SKI	Spark Infrastructure Group
+SKIKOA	Spark Infrastructure Group
+SKIKOB	Spark Infrastructure Group
+SKIKOD	Spark Infrastructure Group
+SKIKOQ	Spark Infrastructure Group
+SKIKOR	Spark Infrastructure Group
+SKN	Skansen Holdings
+SKNOA	Skin Elements Limited
+SKO	Serko Limited
+SKP	Skyland Petroleum Limited
+SKT	Sky Network Television Ltd
+SKY	Skydome Holdings Ltd
+SL1	Symbol Mining Limited
+SL1O	Symbol Mining Limited
+SLC	Softlaw Corporation Ltd
+SLF	Spdr??s&p?/asx 200 Listed Property Fund
+SLK	Sealink Travel Group Limited
+SLM	Salmat Ltd
+SLR	Silver Lake Resources Ltd
+SLX	Silex Systems Ltd
+SLZ	Sultan Resources Ltd
+SM1	Synlait Milk Limited
+SM8	Shark Mitigation Systems Limited
+SMC	Strategic Minerals Corporation NL
+SMD	Syndicated Metals Ltd
+SMG	Soon Mining Limited
+SMI	Santana Minerals Limited
+SMLL	Betashares Australian Small Companies Select
+SMN	Structural Monitoring Systems Plc
+SMP	Smartpay Holdings Limited
+SMR	Stanmore Coal Limited
+SMX	SMS Management & Technology Ltd
+SNC	Sandon Capital Investments Limited
+SND	Saunders International Ltd
+SNL	Supply Network Ltd
+SNS	Sensen Networks Limited
+SNZ	Summerset Group Holdings Limited
+SO4	Salt Lake Potash Limited
+SOL	Washington H Soul Pattison & Co Ltd
+SOM	SomnoMed Ltd
+SOP	Sml Corporation Limited
+SOPOA	Synertec Corporation Limited
+SOR	Strategic Elements Limited
+SP3	Spectur Limited
+SP3O	Spectur Limited
+SPFKOB	S&p 500 Emini Futures
+SPFKOC	S&p 500 Emini Futures
+SPFKOD	S&p 500 Emini Futures
+SPFKOE	S&p 500 Emini Futures
+SPFKOF	S&p 500 Emini Futures
+SPFKOH	S&p 500 Emini Futures
+SPFKOI	S&p 500 Emini Futures
+SPFKOJ	SPFKOJ
+SPFKOK	SPFKOK
+SPFKOQ	S&p 500 Emini Futures
+SPFKOR	S&p 500 Emini Futures
+SPFKOT	S&p 500 Emini Futures
+SPFKOV	S&p 500 Emini Futures
+SPFMOA	SPFMOA
+SPFMOQ	SPFMOQ
+SPFMOR	SPFMOR
+SPK	Spark New Zealand Limited
+SPL	Starpharma Holdings Ltd
+SPQ	Superior Resources Ltd
+SPT	Spotless Group Ltd
+SPX	Spinifex Gold Nl
+SPY	Spdr??s&p 500? Etf Trust
+SPZ	Smart Parking Limited
+SRG	Sydney Roads Group
+SRH	Saferoads Holdings Ltd
+SRI	Sipa Resources Ltd
+SRK	Strike Resources Ltd
+SRN	Surefire Resources Nl
+SRV	Servcorp Ltd
+SRY	Story-i Limited
+SRZ	Stellar Resources Ltd
+SRZO	Stellar Resources Limited
+SSG	Shaver Shop Group Limited
+SSL	Sietel Ltd
+SSLPA	Sietel PA
+SSM	Service Stream Ltd
+SSMKOB	Service Stream Limited
+SSMKOC	Service Stream Limited
+SSMKOD	Service Stream Limited
+SSMKOQ	Service Stream Limited
+SSMKOR	Service Stream Limited
+SSO	Spdr??s&p?/asx Small Ordinaries
+SST	Steamships Trading Company Ltd (PNG)
+ST1	Spirit Telecom Limited
+STA	Strandline Resources Limited
+STC	Stem Cell Sciences PLC
+STG	Staging Connections Group Ltd
+STM	Sunstone Metals Ltd
+STN	Southern Titanium Nl
+STO	Santos Ltd
+STOKOA	Santos Limited
+STOKOB	Santos Limited
+STOKOC	Santos Limited
+STOKOE	Santos Limited
+STOKOF	Santos Limited
+STOKOP	Santos Limited
+STOKOQ	Santos Limited
+STOKOR	Santos Limited
+STOKOS	Santos Limited
+STOKOV	Santos Limited
+STW	Spdr?s&p/asx 200
+STX	Strike Oil Ltd
+SUD	Suda Ltd
+SUDOC	Suda Pharmaceuticals Ltd
+SUDOD	Suda Pharmaceuticals Ltd
+SUH	Southern Hemisphere Mining Limited
+SUL	Super Cheap Auto Group Ltd
+SULKOC	Super Retail Group Limited
+SULKOP	Super Retail Group Limited
+SULKOQ	Super Retail Group Limited
+SUM	Sumatra Copper & Gold Plc
+SUN	Suncorp-Metway Ltd
+SUNBOD	Suncorp Group Limited
+SUNBOZ	Suncorp Group Limited
+SUNKOB	Suncorp Group Limited
+SUNKOC	Suncorp Group Limited
+SUNKOE	Suncorp Group Limited
+SUNKOP	Suncorp Group Limited
+SUNKOQ	Suncorp Group Limited
+SUNKOS	Suncorp Group Limited
+SUNPE	Suncorp Group Limited
+SUNPF	Suncorp Group Limited
+SUNPG	Suncorp Group Limited
+SUNPH	Suncorp Group Limited
+SUP	SuperSorb Environmental NL
+SVA	Simavita Limited
+SVD	Scandivanadium Ltd
+SVH	Silver Heritage Group Limited
+SVL	Silver Mines Ltd
+SVLOB	Silver Mines Limited
+SVM	Sovereign Metals Ltd
+SVS	Sunvest Corporation Ltd
+SVW	Seven Group Holdings Limited
+SVY	Stavely Minerals Limited
+SW1	Swift Networks Group Limited
+SWF	Selfwealth Limited
+SWK	Swick Mining Services Ltd
+SWM	Seven West Media Limited
+SWMKOB	Seven West Media Limited
+SWMKOD	Seven West Media Limited
+SWMKOR	Seven West Media Limited
+SWTZ	SWTZ
+SXA	Strata-x Energy Limited
+SXE	Southern Cross Electrical Engineering Ltd
+SXL	Southern Cross Media Group
+SXLKOB	Southern Cross Media Group Limited
+SXLKOC	Southern Cross Media Group Limited
+SXX	Southern Cross Exploration NL
+SXY	Senex Energy Limited
+SYA	Sayona Mining Limited
+SYAOB	Sayona Mining Limited
+SYD	Sydney Airport
+SYDBOB	Sydney Airport
+SYDKOB	Sydney Airport
+SYDKOD	Sydney Airport
+SYDKOR	Sydney Airport
+SYDKOS	Sydney Airport
+SYI	Spdr Msci Australia Select High Dividend Yield Fun
+SYR	Syrah Resources Ltd
+SYT	Syntonic Limited
+SZL	Sezzle Inc.
+T3D	333d Limited
+TAH	Tabcorp Holdings Ltd
+TAHBOD	Tabcorp Holdings Limited
+TAHBOF	Tabcorp Holdings Limited
+TAHKOA	Tabcorp Holdings Limited
+TAHKOC	Tabcorp Holdings Limited
+TAHKOD	Tabcorp Holdings Limited
+TAHKOP	Tabcorp Holdings Limited
+TAHKOT	Tabcorp Holdings Limited
+TAM	Tanami Gold NL
+TAO	Tao Commodities Ltd
+TAOO	Tao Commodities Ltd
+TAP	Tap Oil Ltd
+TAR	Taruga Gold Limited
+TAS	Tasman Resources NL
+TASOC	Tasman Resources Ltd
+TBL	3D Global
+TBR	Tribune Resources NL
+TCL	Transurban Group
+TCLKOB	Transurban Group
+TCLKOD	Transurban Group
+TCLKOR	Transurban Group
+TCLKOS	Transurban Group
+TCN	Techniche Ltd
+TCO	Transmetro Corporation Ltd
+TD1	Tali Digital Limited
+TDI	Tidewater Investments Ltd
+TDL	Tbg Diagnostics Limited
+TDO	3D Oil Ltd
+TECH	Etfs Global Core Infrastructure
+TEG	Triangle Energy (global) Limited
+TEGO	Triangle Energy (global) Limited
+TEK	Thorney Technologies Ltd
+TER	Terrain Australia Ltd
+TFL	Tasfoods Limited
+TGA	Thorn Group Limited
+TGF	Tianshan Goldfields Ltd
+TGG	Templeton Global Growth Fund Ltd
+TGH	Tegel Group Holdings Limited
+TGM	Theta Gold Mines Limited
+TGMO	Theta Gold Mines Limited
+TGN	Tungsten Mining Nl
+TGO	Trimantium Growthops Limited
+TGP	Trafalgar Corporate Group
+TGR	Tassal Group Ltd
+TGS	Tiger Resources Ltd
+THC	The Hydroponics Company Limited
+THCO	The Hydroponics Company Limited
+THD	Thred Limited
+THR	Thor Mining Plc
+TIA	Tian An Australia Limited
+TIE	Tietto Minerals Limited
+TIG	Tigers Realm Coal Limited
+TIN	Tnt Mines Limited
+TIP	Teaminvest Private Group Limited
+TKF	Tikforce Limited
+TKL	Traka Resources Ltd
+TKM	Trek Metals Limited
+TLG	Talga Gold Limited
+TLM	Talisman Mining Ltd
+TLS	Telstra Corporation Ltd
+TLSKOA	Telstra Corporation Limited.
+TLSKOB	Telstra Corporation Limited.
+TLSKOC	Telstra Corporation Limited.
+TLSKOG	Telstra Corporation Limited.
+TLSKOH	Telstra Corporation Limited.
+TLSKOJ	Telstra Corporation Limited.
+TLSKOK	Telstra Corporation Limited.
+TLSKOL	Telstra Corporation Limited.
+TLSKOM	Telstra Corporation Limited.
+TLSKOP	Telstra Corporation Limited.
+TLSKOQ	Telstra Corporation Limited.
+TLSKOR	Telstra Corporation Limited.
+TLSKOS	Telstra Corporation Limited.
+TLSKOT	Telstra Corporation Limited.
+TLSKOV	Telstra Corporation Limited.
+TLSKOW	Telstra Corporation Limited.
+TLSKOY	Telstra Corporation Limited.
+TLSKOZ	Telstra Corporation Limited.
+TLSLOA	Telstra Corporation Limited.
+TLSLOB	Telstra Corporation Limited.
+TLSLOD	Telstra Corporation Limited.
+TLSLOG	Telstra Corporation Limited.
+TLSLOH	Telstra Corporation Limited.
+TLSLOP	Telstra Corporation Limited.
+TLSLOS	Telstra Corporation Limited.
+TLSLOT	Telstra Corporation Limited.
+TLSLOU	Telstra Corporation Limited.
+TLSLOV	Telstra Corporation Limited.
+TLT	Tourism & Leisure Trust
+TLX	Telix Pharmaceuticals Limited
+TMG	Trigg Mining Ltd.
+TMGO	Trigg Mining Ltd.
+TMK	Tamaska Oil And Gas Ltd
+TML	Timah Resources Limited
+TMR	Tamaya Resources Ltd
+TMT	Tyndall Meridian Trust
+TMTO	Technology Metals Australia Limited
+TMX	Terrain Minerals Ltd
+TMZ	Thomson Resources Limited
+TNE	Technology One Ltd
+TNEKOA	Technology One Limited
+TNEKOB	Technology One Limited
+TNEKOD	Technology One Limited
+TNG	Tennant Creek Gold Ltd
+TNK	Think Childcare And Education Limited
+TNP	Tango Petroleum Limited
+TNR	Torian Resources Nl
+TNT	Tesserent Limited
+TNY	Tennyson Networks Holdings
+TOE	Toro Energy Ltd
+TOM	Tomizone Ltd
+TON	Triton Gold Limited
+TONOD	Triton Minerals Ltd
+TOP	Thorney Opportunities Ltd
+TOT	360 Capital Total Return Fund
+TOU	Tlou Energy Limited
+TPC	Tel Pacific Ltd
+TPD	Talon Petroleum Limited
+TPM	Tpg Telecom Limited
+TPMKOB	Tpg Telecom Limited
+TPMKOC	Tpg Telecom Limited
+TPMKOD	Tpg Telecom Limited
+TPMKOE	Tpg Telecom Limited
+TPO	Tian Poh Resources Limited
+TPP	Tempo Australia Ltd
+TPS	Threat Protect Australia Limited
+TPW	Temple & Webster Group Ltd
+TRA	Turners Automotive Group Limited
+TRL	Tanga Resources Limited
+TRLOC	Tanga Resources Limited
+TRM	Truscott Mining Corporation Ltd
+TRS	Reject Shop Ltd (The)
+TRSKOQ	The Reject Shop Limited
+TRT	Tuart Resources
+TRTO	Todd River Resources Limited
+TRY	Troy Resources NL
+TSC	Twenty Seven Co. Limited
+TSL	Titanium Sands Limited
+TTA	TTA Holdings Ltd
+TTB	Total Brain Limited
+TTI	Traffic Technologies Ltd
+TTL	Thin Technologies
+TTM	Titan Minerals Limited
+TTT	Tritton Resources Ltd
+TTTO	Titomic Limited
+TV2	Tv2u International Limited
+TV2OA	Tv2u International Limited
+TWD	Tamawood Ltd
+TWE	Treasury Wine Estates Limited
+TWEKOA	Treasury Wine Estates Limited
+TWEKOD	Treasury Wine Estates Limited
+TWEKOR	Treasury Wine Estates Limited
+TWEKOT	Treasury Wine Estates Limited
+TWR	Tower Ltd
+TYM	Tymlez Group Limited
+TYMO	Tymlez Group Limited
+TYR	Tyro Payments Limited
+TYX	Tyranna Resources Limited
+TYXOC	Tyranna Resources Limited
+TZL	TZ Ltd
+TZN	Terramin Australia Ltd
+UBA	Ubs Iq Msci Australia Ethical
+UBE	Ubs Iq Msci Europe Ethical?
+UBI	Universal Biosensors Ltd
+UBJ	Ubs Iq Msci Japan Ethical?
+UBN	Urbanise.com Limited
+UBP	Ubs Iq Msci Asia Apex 50 Ethical
+UBU	Ubs Iq Msci Usa Ethical?
+UBW	Ubs Iq Msci World Ex-australia Ethical
+UCM	USCOM Ltd
+UCW	Undercoverwear Ltd
+UMAX	Betashares S&p 500 Yield Maximiser Fund
+UNL	United Networks Limited
+UNV	Universal Coal Plc
+UOS	United Overseas Australia Ltd
+URF	Us Masters Residential Property Fund
+URFHB	Us Masters Residential Property Fund
+URFHC	Us Masters Residential Property Fund
+URFPA	Us Masters Residential Property Fund
+URW	Unibail-rodamco-westfield
+USD	Betashares U.s. Dollar
+UTR	Ultracharge Limited
+UUL	United Uranium Ltd
+UUV	Uuv Aquabotix Ltd
+UWL	Uniti Wireless Limited
+VACF	Vanguard Australian Corporate Fixed Interest Index
+VAE	Vanguard Ftse Asia Ex Japan Shares Index?
+VAF	Vanguard Australian Fixed Interest Index
+VAH	Virgin Australia Holdings Limited
+VAHHA	Virgin Australia Holdings Limited
+VAL	Valor Resources Limited
+VALOB	Valor Resources Limited
+VAN	Vango Mining Limited
+VANOB	Vango Mining Limited
+VAP	Vanguard Australian Property Securities Index Fund
+VAR	Variscan Mines Limited
+VAROA	Variscan Mines Limited
+VAS	Vanguard Australian Shares Index
+VBLD	Vanguard Global Infrastructure Index
+VBND	Vanguard Global Aggregate Bond Index (hedged)
+VBS	Vectus Biosystems Limited
+VCF	Vanguard?international Credit Securities Index (he
+VCX	Vicinity Centres
+VCXKOB	Vicinity Centres
+VCXKOC	Vicinity Centres
+VCXKOD	Vicinity Centres
+VDBA	Vanguard Diversified Balanced Index
+VDCO	Vanguard Diversified Conservative
+VDGR	Vanguard Diversified Growth
+VDHG	Vanguard Diversified High Growth
+VEA	Veda Advantage Ltd
+VEC	Vector Capital Ltd
+VEE	Veem Ltd
+VEFI	Vanguard Ethically Conscious Global Aggregate Bond
+VEN	Vintage Energy Ltd
+VEQ	Vanguard Ftse Europe Shares
+VESG	Vanguard Ethically Conscious International Shares
+VEU	Vanguard All-world Ex-us Shares Index Etf
+VG1	Vgi Partners Global Investments Limited
+VG8	Vgi Partners Asian Investments Limited
+VGAD	Vanguard Msci Index International Shares (hedged)
+VGB	Vanguard Australian Government Bond Index
+VGE	Vanguard Ftse Emerging Markets Shares
+VGI	Vista Group International Limited
+VGL	Volante Group Ltd
+VGMF	VGMF
+VGS	Vanguard Msci Index International Shares
+VHT	Volpara Health Technologies Limited
+VHY	Vanguard Australian Shares High Yield
+VHYBOK	VHYBOK
+VIA	ViaGold Capital Ltd
+VIC	Victory Mines Limited
+VICOA	Victory Mines Limited
+VIF	Vanguard International Fixed Interest Index (hedge
+VIG	Victor Group Holdings Limited
+VII	Vietnam Industrial Investments Ltd
+VIP	Voltage IP Ltd
+VISM	Vanguard Msci International Small Companies Index
+VIV	Vivid Technology Limited
+VKA	Viking Ashanti Limited
+VLC	Vanguard Msci Australian Large Companies Index
+VLS	Vita Life Sciences
+VLT	Vault Intelligence Limited
+VMC	Venus Metals Corporation Limited
+VMG	VDM Group Ltd
+VMIN	Vanguard Global Minimum Volatility Active
+VML	Vital Metals Ltd
+VMS	Venture Minerals Ltd
+VMSOB	Venture Minerals Limited
+VMT	Vmoto Ltd
+VMX	Valmec Limited
+VMY	Vimy Resources Limited
+VN8	Vonex Limited..
+VN8O	Vonex Limited..
+VOC	Vocus Communications Limited
+VOCKOB	Vocus Communications Limited
+VOCKOF	Vocus Communications Limited
+VOCKOG	Vocus Group Limited
+VOCKOH	Vocus Group Limited
+VOCKOJ	Vocus Group Limited
+VOCKOP	Vocus Communications Limited
+VOCKOR	Vocus Group Limited
+VOCKOS	Vocus Group Limited
+VOL	Victory Offices Limited
+VOR	Voyager Resources Limited
+VP7	Velocity Property Group Limited
+VPC	Velpic Limited
+VPR	Volt Power Group Limited
+VR1	Vection Technologies Ltd
+VR8	Vanadium Resources Limited
+VR8OA	Vanadium Resources Limited
+VRC	Volt Resources Limited
+VRL	Village Roadshow Ltd
+VRS	Veris Limited
+VRT	Virtus Health Limited
+VRTKOA	Virtus Health Limited
+VRTKOC	Virtus Health Limited
+VRTKOD	Virtus Health Limited
+VRTKOP	Virtus Health Limited
+VRTKOQ	Virtus Health Limited
+VRTKOS	Virtus Health Limited
+VRX	Ventnor Resources Ltd
+VSO	Vanguard Msci Australian Small Companies Index
+VTG	Vita Group Ltd
+VTH	Vitalharvest Freehold Trust
+VTI	Virotec International Ltd
+VTS	Vanguard U.s. Total Market Shares Index
+VUK	Virgin Money Uk Plc
+VUKKOC	Virgin Money Uk Plc
+VUKKOD	Virgin Money Uk Plc
+VUKKOG	Virgin Money Uk Plc
+VUKKOH	Virgin Money Uk Plc
+VUKKOI	Virgin Money Uk Plc
+VUKKOP	Virgin Money Uk Plc
+VUKKOS	Virgin Money Uk Plc
+VUL	Valhalla Uranium Ltd
+VULO	Vulcan Energy Resources Limited
+VVA	Viva Leisure Limited
+VVLU	Vanguard Global Value Equity Active
+VVR	Viva Energy Reit
+VXR	
+VYS	Vysarn Limited
+WAA	Wam Active Ltd
+WAF	West African Resources Limited
+WAM	WAM Capital Ltd
+WAT	Waterco Ltd
+WAX	WAX
+WBA	Webster Ltd
+WBAPA	Webster PA
+WBC	Westpac Banking Corporation
+WBCBOF	Westpac Banking Corporation
+WBCBOG	Westpac Banking Corporation
+WBCBOI	Westpac Banking Corporation
+WBCBOY	Westpac Banking Corporation
+WBCKOA	Westpac Banking Corporation
+WBCKOB	Westpac Banking Corporation
+WBCKOD	Westpac Banking Corporation
+WBCKOF	Westpac Banking Corporation
+WBCKOG	Westpac Banking Corporation
+WBCKOJ	Westpac Banking Corporation
+WBCKOK	Westpac Banking Corporation
+WBCKOL	Westpac Banking Corporation
+WBCKOP	Westpac Banking Corporation
+WBCKOT	Westpac Banking Corporation
+WBCKOV	Westpac Banking Corporation
+WBCKOW	Westpac Banking Corporation
+WBCKOX	Westpac Banking Corporation
+WBCLOA	Westpac Banking Corporation
+WBCLOB	Westpac Banking Corporation
+WBCLOC	Westpac Banking Corporation
+WBCLOP	Westpac Banking Corporation
+WBCLOR	Westpac Banking Corporation
+WBCLOS	Westpac Banking Corporation
+WBCLOT	Westpac Banking Corporation
+WBCLOU	Westpac Banking Corporation
+WBCLOV	Westpac Banking Corporation
+WBCMOP	Westpac Banking Corporation
+WBCMOQ	Westpac Banking Corporation
+WBCMOR	Westpac Banking Corporation
+WBCMOS	Westpac Banking Corporation
+WBCPE	Westpac Banking Corporation
+WBCPF	Westpac Banking Corporation
+WBCPG	Westpac Banking Corporation
+WBCPH	Westpac Banking Corporation
+WBCPI	Westpac Banking Corporation
+WBE	Whitebark Energy Ltd
+WBEO	Whitebark Energy Ltd
+WBT	Weebit Nano Ltd
+WCMQ	WCMQ
+WCN	White Cliff Nickel Ltd
+WCNOD	White Cliff Minerals Limited
+WCNOE	White Cliff Minerals Limited
+WDIV	Spdr??s&p??global Dividend Fund
+WDMF	Ishares Edge Msci World Multifactor
+WEB	Webjet Ltd
+WEBKOB	Webjet Limited
+WEBKOE	Webjet Limited
+WEBKOQ	Webjet Limited
+WEBKOR	Webjet Limited
+WEC	White Energy Company Ltd
+WEL	Winchester Energy Ltd
+WEMG	Spdr??s&p??emerging Markets Fund
+WES	Wesfarmers Ltd
+WESKOA	Wesfarmers Limited
+WESKOC	Wesfarmers Limited
+WESKOD	Wesfarmers Limited
+WESKOE	Wesfarmers Limited
+WESKOH	Wesfarmers Limited
+WESKOP	Wesfarmers Limited
+WESKOQ	Wesfarmers Limited
+WESKOR	Wesfarmers Limited
+WESKOT	Wesfarmers Limited
+WESKOU	Wesfarmers Limited
+WESLOA	Wesfarmers Limited
+WESLOE	Wesfarmers Limited
+WESLOF	Wesfarmers Limited
+WESLOG	Wesfarmers Limited
+WESLOP	Wesfarmers Limited
+WESLOQ	Wesfarmers Limited
+WESLOR	Wesfarmers Limited
+WESLOS	Wesfarmers Limited
+WESLOT	Wesfarmers Limited
+WFE	Winmar Resources Limited
+WGB	Wam Global Limited
+WGN	Wagners Holding Company Limited
+WGO	Waratah Gold Ltd
+WGX	Westgold Resources Limited.
+WHA	Wattle Health Australia Limited
+WHC	Whitehaven Coal Ltd
+WHCKOC	Whitehaven Coal Limited
+WHCKOD	Whitehaven Coal Limited
+WHCKOE	Whitehaven Coal Limited
+WHCKOP	Whitehaven Coal Limited
+WHCKOR	Whitehaven Coal Limited
+WHCKOS	Whitehaven Coal Limited
+WHCKOW	Whitehaven Coal Limited
+WHCKOY	Whitehaven Coal Limited
+WHF	Whitefield Ltd
+WHFPA	Whitefield PA
+WHFPB	Whitefield Limited
+WHK	Whitehawk Limited
+WIC	Westoz Investment Company Limited
+WJA	Wameja Limited
+WKT	Walkabout Resources Ltd
+WKTOA	Walkabout Resources Ltd
+WLC	Wollongong Coal Limited
+WLD	Wellard Limited
+WLE	Wam Leaders
+WMI	Wam Microcap Limited
+WML	Westcoast Mining Ltd
+WMLOA	Woomera Mining Limited
+WNB	Wellness And Beauty Solutions Limited
+WND	Windlab Limited
+WNR	Wingara Ag Ltd
+WNS	World.Net Services Ltd
+WOA	Wide Open Agriculture Ltd
+WOAO	Wide Open Agriculture Ltd
+WOR	WorleyParsons Ltd
+WORKOA	Worleyparsons Limited
+WORKOB	Worleyparsons Limited
+WORKOC	Worleyparsons Limited
+WORKOR	Worleyparsons Limited
+WORKOS	Worleyparsons Limited
+WORKOV	Worleyparsons Limited
+WOW	Woolworths Ltd
+WOWKOB	Woolworths Limited
+WOWKOC	Woolworths Limited
+WOWKOD	Woolworths Limited
+WOWKOF	Woolworths Limited
+WOWKOP	Woolworths Limited
+WOWKOS	Woolworths Limited
+WOWKOU	Woolworths Limited
+WPG	Western Plains Gold Ltd
+WPL	Woodside Petroleum Ltd
+WPLBOF	Woodside Petroleum Ltd
+WPLKOA	Woodside Petroleum Limited
+WPLKOB	Woodside Petroleum Limited
+WPLKOC	Woodside Petroleum Limited
+WPLKOE	Woodside Petroleum Limited
+WPLKOF	Woodside Petroleum Limited
+WPLKOG	Woodside Petroleum Limited
+WPLKOH	Woodside Petroleum Limited
+WPLKOK	Woodside Petroleum Limited
+WPLKOR	Woodside Petroleum Limited
+WPLKOS	Woodside Petroleum Limited
+WPLKOU	Woodside Petroleum Limited
+WPLKOV	Woodside Petroleum Limited
+WPLKOX	Woodside Petroleum Limited
+WPLKOY	Woodside Petroleum Limited
+WPLLOB	Woodside Petroleum Limited
+WPLLOD	Woodside Petroleum Limited
+WPLLOH	Woodside Petroleum Limited
+WPLLOI	Woodside Petroleum Limited
+WPLLOP	Woodside Petroleum Limited
+WPLLOQ	Woodside Petroleum Limited
+WPLLOT	Woodside Petroleum Limited
+WPLLOU	Woodside Petroleum Limited
+WPLLOV	Woodside Petroleum Limited
+WPLQOP	Woodside Petroleum Limited
+WPP	Wpp Aunz Ltd
+WQG	Wcm Global Growth Limited
+WRLD	Betashares Managed Risk Global Share Fund
+WRM	White Rock Minerals Limited
+WRMO	White Rock Minerals Limited
+WSA	Western Areas NL
+WSAKOA	Western Areas Nl
+WSAKOB	Western Areas Nl
+WSAKOQ	Western Areas Limited
+WSAKOR	Western Areas Limited
+WSI	Weststar Industrial Limited
+WSP	White Sands Petroleum Ltd
+WTC	Wisetech Global Limited
+WTCKOC	Wisetech Global Limited
+WTCKOF	Wisetech Global Limited
+WTCKOP	Wisetech Global Limited
+WTCKOQ	Wisetech Global Limited
+WTCKOT	Wisetech Global Limited
+WTCKOV	Wisetech Global Limited
+WTL	Wt Financial Group Limited
+WVOL	Ishares Edge Msci World Minimum Volatility
+WWG	WWG
+WWI	West Wits Mining Ltd
+WXHG	Spdr??s&p??world Ex-australia (hedged) Fund
+WXOZ	Spdr??s&p??world Ex-australia Fund
+WZR	Wisr Limited
+XAE	
+XAF	S&P/ASX All Australian 50
+XAM	Xanadu Mines Limited
+XAO	ASX All Ordinaries
+XARO	XARO
+XAT	S&P/ASX All Australian 200
+XBK	
+XBN	
+XBT	
+XBW	S&P/ASX Buy-Write Index
+XCD	Xceed Capital Ltd
+XDI	
+XDJ	S&P/ASX 200 Consumer Discretionary
+XEC	
+XEJ	S&P/ASX 200 Energy
+XET	
+XEW	
+XF1	Xref Limited
+XFD	
+XFJ	S&P/ASX 200 Financials
+XFL	S&P/ASX 50
+XFT	
+XGD	S&P/ASX All Ordinaries Gold
+XHJ	S&P/ASX 200 Health Care
+XIJ	S&P/ASX 200 Information Technology
+XIN	
+XJO	S&P/ASX 200
+XJOBOC	XJOBOC
+XJOBOD	XJOBOD
+XJOBOG	XJOBOG
+XJOBOI	XJOBOI
+XJOBOK	XJOBOK
+XJOBOL	XJOBOL
+XJOBOM	XJOBOM
+XJOKOA	XJOKOA
+XJOKOB	XJOKOB
+XJOKOD	XJOKOD
+XJOKOE	XJOKOE
+XJOKOF	XJOKOF
+XJOKOG	XJOKOG
+XJOKOK	XJOKOK
+XJOKON	XJOKON
+XJOKOP	XJOKOP
+XJOKOQ	XJOKOQ
+XJOKOR	XJOKOR
+XJOKOS	XJOKOS
+XJOKOT	XJOKOT
+XJOLOB	XJOLOB
+XJOLOC	XJOLOC
+XJOLOD	XJOLOD
+XJOLOE	XJOLOE
+XJOLOG	XJOLOG
+XJOLOK	XJOLOK
+XJOLOM	XJOLOM
+XJOLON	XJOLON
+XJOLOQ	XJOLOQ
+XJOLOR	XJOLOR
+XJOLOS	XJOLOS
+XJOLOZ	XJOLOZ
+XJOMOA	XJOMOA
+XJOMOB	XJOMOB
+XJOMOC	XJOMOC
+XJOMOE	XJOMOE
+XJOMOJ	XJOMOJ
+XJOMOL	XJOMOL
+XJOMON	XJOMON
+XJOMOU	XJOMOU
+XJOMOV	XJOMOV
+XJOQOE	XJOQOE
+XJOQOX	XJOQOX
+XJOTOB	XJOTOB
+XJOUOA	XJOUOA
+XJOUOC	XJOUOC
+XJOUOD	XJOUOD
+XJOUOE	XJOUOE
+XJOUOG	XJOUOG
+XJOUOH	XJOUOH
+XJOUOI	XJOUOI
+XJOUOJ	XJOUOJ
+XJOUOK	XJOUOK
+XJOUOM	XJOUOM
+XJOUON	XJOUON
+XJR	
+XJT	
+XKO	S&P/ASX 300
+XLD	
+XMD	S&P/ASX Midcap 50
+XMJ	S&P/ASX 200 Materials
+XMM	S&P/ASX 300 Metals And Mining
+XNJ	S&P/ASX 200 Industrials
+XNT	
+XNV	
+XPD	Xpd Soccer Gear Group Limited
+XPE	Xped Limited
+XPJ	S&P/ASX 200 Property Trusts
+XPL	Xplore Wealth Limited
+XRE	S&P/ASX 200 Real Estate
+XRF	XRF Scientific Ltd
+XRO	Xero Limited
+XROKOA	Xero Limited
+XROKOB	Xero Limited
+XSJ	S&P/ASX 200 Consumer Staples
+XSO	S&P/ASX Small Ordinaries
+XST	Xstate Resources Ltd
+XSY	
+XTD	Xtd Ltd
+XTE	ASX Telecommunications
+XTJ	S&P/ASX 200 Telecommunication Services
+XTL	S&P/ASX 20
+XTO	S&P/ASX 100
+XUJ	S&P/ASX 200 Utilities
+XVI	
+XXJ	S&P/ASX 200 Financials x Property Trusts
+YAL	Yancoal Australia Limited
+YANK	Betashares Strong U.s. Dollar
+YBR	Yellow Brick Road Holdings Limited
+YMAX	Betashares Australian Top 20 Equity Yield Maximise
+YOJ	Yojee Limited
+YOW	Yowie Group Ltd
+YPB	Ypb Group Ltd
+YPBOA	Ypb Group Ltd
+YRL	Yandal Resources Limited
+YTMAGL	YTMAGL
+YTMANZ	YTMANZ
+YTMAP1	YTMAP1
+YTMAPA	YTMAPA
+YTMAS2	YTMAS2
+YTMAST	YTMAST
+YTMAZJ	YTMAZJ
+YTMBH1	YTMBH1
+YTMF07	YTMF07
+YTMF09	YTMF09
+YTMF10	YTMF10
+YTMF11	YTMF11
+YTMF13	YTMF13
+YTMF14	YTMF14
+YTMF15	YTMF15
+YTMF16	YTMF16
+YTMF17	YTMF17
+YTMGP1	YTMGP1
+YTMLL1	YTMLL1
+YTMMG2	YTMMG2
+YTMMGR	YTMMGR
+YTMMQG	YTMMQG
+YTMNA1	YTMNA1
+YTMQF1	YTMQF1
+YTMQF2	YTMQF2
+YTMQF3	YTMQF3
+YTMQF4	YTMQF4
+YTMTCL	YTMTCL
+YTMTL1	YTMTL1
+YTMTL2	YTMTL2
+YTMTLS	YTMTLS
+Z1P	Zip Co Limited.
+Z3RO	Z3RO
+ZCLKOA	ZCLKOA
+ZCLKOC	ZCLKOC
+ZCLKOD	ZCLKOD
+ZCLKOE	ZCLKOE
+ZCLKOF	ZCLKOF
+ZCLKOP	ZCLKOP
+ZCLKOQ	ZCLKOQ
+ZCLKOW	ZCLKOW
+ZCLKOY	ZCLKOY
+ZCLKOZ	ZCLKOZ
+ZCLMOQ	ZCLMOQ
+ZCLMOR	ZCLMOR
+ZEL	Zeolite Australia
+ZEN	Zenith Energy Limited
+ZER	Zeta Resources Limited
+ZEU	Zeus Resources Limited
+ZGCKOA	ZGCKOA
+ZGCKOB	ZGCKOB
+ZGCKOC	ZGCKOC
+ZGCKOD	ZGCKOD
+ZGCKOF	ZGCKOF
+ZGCKOH	ZGCKOH
+ZGCKOJ	ZGCKOJ
+ZGCKOK	ZGCKOK
+ZGCKOS	ZGCKOS
+ZGCKOT	ZGCKOT
+ZGL	Zicom Group Ltd
+ZHGKOB	ZHGKOB
+ZHGKOC	ZHGKOC
+ZHGKOE	ZHGKOE
+ZHGKOG	ZHGKOG
+ZHGKOI	ZHGKOI
+ZHGKOJ	ZHGKOJ
+ZHGKOP	ZHGKOP
+ZHGKOR	ZHGKOR
+ZHGKOS	ZHGKOS
+ZHGKOX	ZHGKOX
+ZIM	Zimbabwe Platinum Mines Ltd
+ZIP	Ziptel Limited
+ZIPOB	Ziptel Limited
+ZLD	Zelda Therapeutics Limited
+ZMI	Zinc Of Ireland Nl
+ZMIOC	Zinc Of Ireland Nl
+ZNC	Zinc Co Australia Ltd
+ZNO	Zoono Group Limited
+ZOZI	Anz Etfs S&p/asx 100
+ZSIKOA	ZSIKOA
+ZSIKOB	ZSIKOB
+ZSIKOC	ZSIKOC
+ZSIKOE	ZSIKOE
+ZSIKOR	ZSIKOR
+ZSIKOT	ZSIKOT
+ZSIKOU	ZSIKOU
+ZSIKOV	ZSIKOV
+ZTA	Zeta Petroleum Plc
+ZUSD	Anz Etfs Physical Us Dollar
+ZYAU	Anz Etfs S&p/asx 300 High Yield Plus
+ZYB	Zyber Holdings Ltd
+ZYUS	Anz Etfs S&p 500 High Yield Low Volatility

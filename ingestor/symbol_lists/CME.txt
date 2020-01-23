@@ -1,0 +1,2179 @@
+Symbol	Description
+A6	Australian Dollar
+A6.C	Australian Dollar Continuation
+A6F20	Australian Dollar {Jan 20}
+A6G20	Australian Dollar {Feb 20}
+A6H20	Australian Dollar {Mar 20}
+A6H21	Australian Dollar {Mar 21}
+A6H22	Australian Dollar {Mar 22}
+A6H23	Australian Dollar {Mar 23}
+A6H24	Australian Dollar {Mar 24}
+A6J20	Australian Dollar {Apr 20}
+A6K20	Australian Dollar {May 20}
+A6M20	Australian Dollar {Jun 20}
+A6M21	Australian Dollar {Jun 21}
+A6M22	Australian Dollar {Jun 22}
+A6M23	Australian Dollar {Jun 23}
+A6M24	Australian Dollar {Jun 24}
+A6U20	Australian Dollar {Sep 20}
+A6U21	Australian Dollar {Sep 21}
+A6U22	Australian Dollar {Sep 22}
+A6U23	Australian Dollar {Sep 23}
+A6U24	Australian Dollar {Sep 24}
+A6Z20	Australian Dollar {Dec 20}
+A6Z21	Australian Dollar {Dec 21}
+A6Z22	Australian Dollar {Dec 22}
+A6Z23	Australian Dollar {Dec 23}
+A6Z24	Australian Dollar {Dec 24}
+AD	Australian Dollar(P)
+AD.C	Australian Dollar(P) Continuation
+ADF20	Australian Dollar(P) {Jan 20}
+ADG20	Australian Dollar(P) {Feb 20}
+ADH20	Australian Dollar(P) {Mar 20}
+ADH21	Australian Dollar(P) {Mar 21}
+ADH22	Australian Dollar(P) {Mar 22}
+ADH23	Australian Dollar(P) {Mar 23}
+ADH24	Australian Dollar(P) {Mar 24}
+ADJ20	Australian Dollar(P) {Apr 20}
+ADK20	Australian Dollar(P) {May 20}
+ADM20	Australian Dollar(P) {Jun 20}
+ADM21	Australian Dollar(P) {Jun 21}
+ADM22	Australian Dollar(P) {Jun 22}
+ADM23	Australian Dollar(P) {Jun 23}
+ADM24	Australian Dollar(P) {Jun 24}
+ADU20	Australian Dollar(P) {Sep 20}
+ADU21	Australian Dollar(P) {Sep 21}
+ADU22	Australian Dollar(P) {Sep 22}
+ADU23	Australian Dollar(P) {Sep 23}
+ADU24	Australian Dollar(P) {Sep 24}
+ADZ20	Australian Dollar(P) {Dec 20}
+ADZ21	Australian Dollar(P) {Dec 21}
+ADZ22	Australian Dollar(P) {Dec 22}
+ADZ23	Australian Dollar(P) {Dec 23}
+ADZ24	Australian Dollar(P) {Dec 24}
+B6	British Pound
+B6.C	British Pound Continuation
+B6F20	British Pound {Jan 20}
+B6G20	British Pound {Feb 20}
+B6H20	British Pound {Mar 20}
+B6H21	British Pound {Mar 21}
+B6H22	British Pound {Mar 22}
+B6H23	British Pound {Mar 23}
+B6H24	British Pound {Mar 24}
+B6J20	British Pound {Apr 20}
+B6K20	British Pound {May 20}
+B6M20	British Pound {Jun 20}
+B6M21	British Pound {Jun 21}
+B6M22	British Pound {Jun 22}
+B6M23	British Pound {Jun 23}
+B6M24	British Pound {Jun 24}
+B6U20	British Pound {Sep 20}
+B6U21	British Pound {Sep 21}
+B6U22	British Pound {Sep 22}
+B6U23	British Pound {Sep 23}
+B6U24	British Pound {Sep 24}
+B6Z20	British Pound {Dec 20}
+B6Z21	British Pound {Dec 21}
+B6Z22	British Pound {Dec 22}
+B6Z23	British Pound {Dec 23}
+B6Z24	British Pound {Dec 24}
+BB.C	S&P 500 Comm Srvs Continuation
+BBH20	S&P 500 Comm Srvs {Mar 20}
+BBH21	S&P 500 Comm Srvs {Mar 21}
+BBM20	S&P 500 Comm Srvs {Jun 20}
+BBU20	S&P 500 Comm Srvs {Sep 20}
+BBZ20	S&P 500 Comm Srvs {Dec 20}
+BD	Butter Cash-Settled
+BD.C	Butter Cash-Settled Continuation
+BDF20	Butter Cash-Settled {Jan 20}
+BDF21	Butter Cash-Settled {Jan 21}
+BDG20	Butter Cash-Settled {Feb 20}
+BDG21	Butter Cash-Settled {Feb 21}
+BDH20	Butter Cash-Settled {Mar 20}
+BDH21	Butter Cash-Settled {Mar 21}
+BDJ20	Butter Cash-Settled {Apr 20}
+BDJ21	Butter Cash-Settled {Apr 21}
+BDK20	Butter Cash-Settled {May 20}
+BDK21	Butter Cash-Settled {May 21}
+BDM20	Butter Cash-Settled {Jun 20}
+BDM21	Butter Cash-Settled {Jun 21}
+BDN20	Butter Cash-Settled {Jul 20}
+BDN21	Butter Cash-Settled {Jul 21}
+BDQ20	Butter Cash-Settled {Aug 20}
+BDQ21	Butter Cash-Settled {Aug 21}
+BDU20	Butter Cash-Settled {Sep 20}
+BDU21	Butter Cash-Settled {Sep 21}
+BDV20	Butter Cash-Settled {Oct 20}
+BDV21	Butter Cash-Settled {Oct 21}
+BDX20	Butter Cash-Settled {Nov 20}
+BDX21	Butter Cash-Settled {Nov 21}
+BDZ19	Butter Cash-Settled {Dec 19}
+BDZ20	Butter Cash-Settled {Dec 20}
+BDZ21	Butter Cash-Settled {Dec 21}
+BG.C	Cheese Block Continuation
+BGF21	Cheese Block {Jan 21}
+BGF22	Cheese Block {Jan 22}
+BGG20	Cheese Block {Feb 20}
+BGG21	Cheese Block {Feb 21}
+BGH20	Cheese Block {Mar 20}
+BGH21	Cheese Block {Mar 21}
+BGJ20	Cheese Block {Apr 20}
+BGJ21	Cheese Block {Apr 21}
+BGK20	Cheese Block {May 20}
+BGK21	Cheese Block {May 21}
+BGM20	Cheese Block {Jun 20}
+BGM21	Cheese Block {Jun 21}
+BGN20	Cheese Block {Jul 20}
+BGN21	Cheese Block {Jul 21}
+BGQ20	Cheese Block {Aug 20}
+BGQ21	Cheese Block {Aug 21}
+BGU20	Cheese Block {Sep 20}
+BGU21	Cheese Block {Sep 21}
+BGV20	Cheese Block {Oct 20}
+BGV21	Cheese Block {Oct 21}
+BGX20	Cheese Block {Nov 20}
+BGX21	Cheese Block {Nov 21}
+BGZ20	Cheese Block {Dec 20}
+BGZ21	Cheese Block {Dec 21}
+BI	S&P 500 Cons Disc
+BI.C	S&P 500 Cons Disc Continuation
+BIH20	S&P 500 Cons Disc {Mar 20}
+BIH21	S&P 500 Cons Disc {Mar 21}
+BIM20	S&P 500 Cons Disc {Jun 20}
+BIU20	S&P 500 Cons Disc {Sep 20}
+BIZ20	S&P 500 Cons Disc {Dec 20}
+BJ.C	Cheese Cash-Settled Continuation
+BJF20	Cheese Cash-Settled {Jan 20}
+BJF21	Cheese Cash-Settled {Jan 21}
+BJG20	Cheese Cash-Settled {Feb 20}
+BJG21	Cheese Cash-Settled {Feb 21}
+BJH20	Cheese Cash-Settled {Mar 20}
+BJH21	Cheese Cash-Settled {Mar 21}
+BJJ20	Cheese Cash-Settled {Apr 20}
+BJJ21	Cheese Cash-Settled {Apr 21}
+BJK20	Cheese Cash-Settled {May 20}
+BJK21	Cheese Cash-Settled {May 21}
+BJM20	Cheese Cash-Settled {Jun 20}
+BJM21	Cheese Cash-Settled {Jun 21}
+BJN20	Cheese Cash-Settled {Jul 20}
+BJN21	Cheese Cash-Settled {Jul 21}
+BJQ20	Cheese Cash-Settled {Aug 20}
+BJQ21	Cheese Cash-Settled {Aug 21}
+BJU20	Cheese Cash-Settled {Sep 20}
+BJU21	Cheese Cash-Settled {Sep 21}
+BJV20	Cheese Cash-Settled {Oct 20}
+BJV21	Cheese Cash-Settled {Oct 21}
+BJX20	Cheese Cash-Settled {Nov 20}
+BJX21	Cheese Cash-Settled {Nov 21}
+BJZ19	Cheese Cash-Settled {Dec 19}
+BJZ20	Cheese Cash-Settled {Dec 20}
+BJZ21	Cheese Cash-Settled {Dec 21}
+BK	S&P 500 Real Estate
+BK.C	S&P 500 Real Estate Continuation
+BKH20	S&P 500 Real Estate {Mar 20}
+BKH21	S&P 500 Real Estate {Mar 21}
+BKM20	S&P 500 Real Estate {Jun 20}
+BKU20	S&P 500 Real Estate {Sep 20}
+BKZ20	S&P 500 Real Estate {Dec 20}
+BL	S&P 500 Cons Staples
+BL.C	S&P 500 Cons Staples Continuation
+BLH20	S&P 500 Cons Staples {Mar 20}
+BLH21	S&P 500 Cons Staples {Mar 21}
+BLM20	S&P 500 Cons Staples {Jun 20}
+BLU20	S&P 500 Cons Staples {Sep 20}
+BLZ20	S&P 500 Cons Staples {Dec 20}
+BM	S&P 500 Energy
+BM.C	S&P 500 Energy Continuation
+BMH20	S&P 500 Energy {Mar 20}
+BMH21	S&P 500 Energy {Mar 21}
+BMM20	S&P 500 Energy {Jun 20}
+BMU20	S&P 500 Energy {Sep 20}
+BMZ20	S&P 500 Energy {Dec 20}
+BN	S&P 500 Financials
+BN.C	S&P 500 Financials Continuation
+BNH20	S&P 500 Financials {Mar 20}
+BNH21	S&P 500 Financials {Mar 21}
+BNM20	S&P 500 Financials {Jun 20}
+BNU20	S&P 500 Financials {Sep 20}
+BNZ20	S&P 500 Financials {Dec 20}
+BP	British Pound (Pit)
+BP.C	British Pound (Pit) Continuation
+BPF20	British Pound (Pit) {Jan 20}
+BPG20	British Pound (Pit) {Feb 20}
+BPH20	British Pound (Pit) {Mar 20}
+BPH21	British Pound (Pit) {Mar 21}
+BPH22	British Pound (Pit) {Mar 22}
+BPH23	British Pound (Pit) {Mar 23}
+BPH24	British Pound (Pit) {Mar 24}
+BPJ20	British Pound (Pit) {Apr 20}
+BPK20	British Pound (Pit) {May 20}
+BPM20	British Pound (Pit) {Jun 20}
+BPM21	British Pound (Pit) {Jun 21}
+BPM22	British Pound (Pit) {Jun 22}
+BPM23	British Pound (Pit) {Jun 23}
+BPM24	British Pound (Pit) {Jun 24}
+BPU20	British Pound (Pit) {Sep 20}
+BPU21	British Pound (Pit) {Sep 21}
+BPU22	British Pound (Pit) {Sep 22}
+BPU23	British Pound (Pit) {Sep 23}
+BPU24	British Pound (Pit) {Sep 24}
+BPZ20	British Pound (Pit) {Dec 20}
+BPZ21	British Pound (Pit) {Dec 21}
+BPZ22	British Pound (Pit) {Dec 22}
+BPZ23	British Pound (Pit) {Dec 23}
+BPZ24	British Pound (Pit) {Dec 24}
+BR	Brazilian Real (Pit)
+BR.C	Brazilian Real (Pit) Continuation
+BRF20	Brazilian Real (Pit) {Jan 20}
+BRF21	Brazilian Real (Pit) {Jan 21}
+BRF22	Brazilian Real (Pit) {Jan 22}
+BRF23	Brazilian Real (Pit) {Jan 23}
+BRF24	Brazilian Real (Pit) {Jan 24}
+BRF25	Brazilian Real (Pit) {Jan 25}
+BRG20	Brazilian Real (Pit) {Feb 20}
+BRG21	Brazilian Real (Pit) {Feb 21}
+BRG22	Brazilian Real (Pit) {Feb 22}
+BRG23	Brazilian Real (Pit) {Feb 23}
+BRG24	Brazilian Real (Pit) {Feb 24}
+BRG25	Brazilian Real (Pit) {Feb 25}
+BRH20	Brazilian Real (Pit) {Mar 20}
+BRH21	Brazilian Real (Pit) {Mar 21}
+BRH22	Brazilian Real (Pit) {Mar 22}
+BRH23	Brazilian Real (Pit) {Mar 23}
+BRH24	Brazilian Real (Pit) {Mar 24}
+BRJ20	Brazilian Real (Pit) {Apr 20}
+BRJ21	Brazilian Real (Pit) {Apr 21}
+BRJ22	Brazilian Real (Pit) {Apr 22}
+BRJ23	Brazilian Real (Pit) {Apr 23}
+BRJ24	Brazilian Real (Pit) {Apr 24}
+BRK20	Brazilian Real (Pit) {May 20}
+BRK21	Brazilian Real (Pit) {May 21}
+BRK22	Brazilian Real (Pit) {May 22}
+BRK23	Brazilian Real (Pit) {May 23}
+BRK24	Brazilian Real (Pit) {May 24}
+BRM20	Brazilian Real (Pit) {Jun 20}
+BRM21	Brazilian Real (Pit) {Jun 21}
+BRM22	Brazilian Real (Pit) {Jun 22}
+BRM23	Brazilian Real (Pit) {Jun 23}
+BRM24	Brazilian Real (Pit) {Jun 24}
+BRN20	Brazilian Real (Pit) {Jul 20}
+BRN21	Brazilian Real (Pit) {Jul 21}
+BRN22	Brazilian Real (Pit) {Jul 22}
+BRN23	Brazilian Real (Pit) {Jul 23}
+BRN24	Brazilian Real (Pit) {Jul 24}
+BRQ20	Brazilian Real (Pit) {Aug 20}
+BRQ21	Brazilian Real (Pit) {Aug 21}
+BRQ22	Brazilian Real (Pit) {Aug 22}
+BRQ23	Brazilian Real (Pit) {Aug 23}
+BRQ24	Brazilian Real (Pit) {Aug 24}
+BRU20	Brazilian Real (Pit) {Sep 20}
+BRU21	Brazilian Real (Pit) {Sep 21}
+BRU22	Brazilian Real (Pit) {Sep 22}
+BRU23	Brazilian Real (Pit) {Sep 23}
+BRU24	Brazilian Real (Pit) {Sep 24}
+BRV20	Brazilian Real (Pit) {Oct 20}
+BRV21	Brazilian Real (Pit) {Oct 21}
+BRV22	Brazilian Real (Pit) {Oct 22}
+BRV23	Brazilian Real (Pit) {Oct 23}
+BRV24	Brazilian Real (Pit) {Oct 24}
+BRX20	Brazilian Real (Pit) {Nov 20}
+BRX21	Brazilian Real (Pit) {Nov 21}
+BRX22	Brazilian Real (Pit) {Nov 22}
+BRX23	Brazilian Real (Pit) {Nov 23}
+BRX24	Brazilian Real (Pit) {Nov 24}
+BRZ20	Brazilian Real (Pit) {Dec 20}
+BRZ21	Brazilian Real (Pit) {Dec 21}
+BRZ22	Brazilian Real (Pit) {Dec 22}
+BRZ23	Brazilian Real (Pit) {Dec 23}
+BRZ24	Brazilian Real (Pit) {Dec 24}
+BS	S&P 500 Health Care
+BS.C	S&P 500 Health Care Continuation
+BSH20	S&P 500 Health Care {Mar 20}
+BSH21	S&P 500 Health Care {Mar 21}
+BSM20	S&P 500 Health Care {Jun 20}
+BSU20	S&P 500 Health Care {Sep 20}
+BSZ20	S&P 500 Health Care {Dec 20}
+BT	Bitcoin CME Futures
+BT.C	Bitcoin CME Futures Continuation
+BTF20	Bitcoin CME Futures {Jan 20}
+BTG20	Bitcoin CME Futures {Feb 20}
+BTH20	Bitcoin CME Futures {Mar 20}
+BTJ20	Bitcoin CME Futures {Apr 20}
+BTK20	Bitcoin CME Futures {May 20}
+BTM20	Bitcoin CME Futures {Jun 20}
+BTN20	Bitcoin CME Futures {Jul 20}
+BTZ19	Bitcoin CME Futures {Dec 19}
+BTZ20	Bitcoin CME Futures {Dec 20}
+BTZ21	Bitcoin CME Futures {Dec 21}
+C2	Milk Grade A
+C3	Cheese Barrels
+C4	Cheese Blocks
+C5	Butter Grade AA
+CD	Canadian Dollar (Pit
+CD.C	Canadian Dollar (Pit Continuation
+CDF20	Canadian Dollar (Pit {Jan 20}
+CDG20	Canadian Dollar (Pit {Feb 20}
+CDH20	Canadian Dollar (Pit {Mar 20}
+CDH21	Canadian Dollar (Pit {Mar 21}
+CDH22	Canadian Dollar (Pit {Mar 22}
+CDH23	Canadian Dollar (Pit {Mar 23}
+CDH24	Canadian Dollar (Pit {Mar 24}
+CDJ20	Canadian Dollar (Pit {Apr 20}
+CDK20	Canadian Dollar (Pit {May 20}
+CDM20	Canadian Dollar (Pit {Jun 20}
+CDM21	Canadian Dollar (Pit {Jun 21}
+CDM22	Canadian Dollar (Pit {Jun 22}
+CDM23	Canadian Dollar (Pit {Jun 23}
+CDM24	Canadian Dollar (Pit {Jun 24}
+CDU20	Canadian Dollar (Pit {Sep 20}
+CDU21	Canadian Dollar (Pit {Sep 21}
+CDU22	Canadian Dollar (Pit {Sep 22}
+CDU23	Canadian Dollar (Pit {Sep 23}
+CDU24	Canadian Dollar (Pit {Sep 24}
+CDZ20	Canadian Dollar (Pit {Dec 20}
+CDZ21	Canadian Dollar (Pit {Dec 21}
+CDZ22	Canadian Dollar (Pit {Dec 22}
+CDZ23	Canadian Dollar (Pit {Dec 23}
+CDZ24	Canadian Dollar (Pit {Dec 24}
+CU.C	Crude Palm Oil Continuation
+CUF20	Crude Palm Oil {Jan 20}
+CUF21	Crude Palm Oil {Jan 21}
+CUF22	Crude Palm Oil {Jan 22}
+CUF23	Crude Palm Oil {Jan 23}
+CUG20	Crude Palm Oil {Feb 20}
+CUG21	Crude Palm Oil {Feb 21}
+CUG22	Crude Palm Oil {Feb 22}
+CUG23	Crude Palm Oil {Feb 23}
+CUH20	Crude Palm Oil {Mar 20}
+CUH21	Crude Palm Oil {Mar 21}
+CUH22	Crude Palm Oil {Mar 22}
+CUH23	Crude Palm Oil {Mar 23}
+CUJ20	Crude Palm Oil {Apr 20}
+CUJ21	Crude Palm Oil {Apr 21}
+CUJ22	Crude Palm Oil {Apr 22}
+CUJ23	Crude Palm Oil {Apr 23}
+CUK20	Crude Palm Oil {May 20}
+CUK21	Crude Palm Oil {May 21}
+CUK22	Crude Palm Oil {May 22}
+CUK23	Crude Palm Oil {May 23}
+CUM20	Crude Palm Oil {Jun 20}
+CUM21	Crude Palm Oil {Jun 21}
+CUM22	Crude Palm Oil {Jun 22}
+CUM23	Crude Palm Oil {Jun 23}
+CUN20	Crude Palm Oil {Jul 20}
+CUN21	Crude Palm Oil {Jul 21}
+CUN22	Crude Palm Oil {Jul 22}
+CUN23	Crude Palm Oil {Jul 23}
+CUQ20	Crude Palm Oil {Aug 20}
+CUQ21	Crude Palm Oil {Aug 21}
+CUQ22	Crude Palm Oil {Aug 22}
+CUQ23	Crude Palm Oil {Aug 23}
+CUU20	Crude Palm Oil {Sep 20}
+CUU21	Crude Palm Oil {Sep 21}
+CUU22	Crude Palm Oil {Sep 22}
+CUV20	Crude Palm Oil {Oct 20}
+CUV21	Crude Palm Oil {Oct 21}
+CUV22	Crude Palm Oil {Oct 22}
+CUX20	Crude Palm Oil {Nov 20}
+CUX21	Crude Palm Oil {Nov 21}
+CUX22	Crude Palm Oil {Nov 22}
+CUZ19	Crude Palm Oil {Dec 19}
+CUZ20	Crude Palm Oil {Dec 20}
+CUZ21	Crude Palm Oil {Dec 21}
+CUZ22	Crude Palm Oil {Dec 22}
+D6	Canadian Dollar
+D6.C	Canadian Dollar Continuation
+D6F20	Canadian Dollar {Jan 20}
+D6G20	Canadian Dollar {Feb 20}
+D6H20	Canadian Dollar {Mar 20}
+D6H21	Canadian Dollar {Mar 21}
+D6H22	Canadian Dollar {Mar 22}
+D6H23	Canadian Dollar {Mar 23}
+D6H24	Canadian Dollar {Mar 24}
+D6J20	Canadian Dollar {Apr 20}
+D6K20	Canadian Dollar {May 20}
+D6M20	Canadian Dollar {Jun 20}
+D6M21	Canadian Dollar {Jun 21}
+D6M22	Canadian Dollar {Jun 22}
+D6M23	Canadian Dollar {Jun 23}
+D6M24	Canadian Dollar {Jun 24}
+D6U20	Canadian Dollar {Sep 20}
+D6U21	Canadian Dollar {Sep 21}
+D6U22	Canadian Dollar {Sep 22}
+D6U23	Canadian Dollar {Sep 23}
+D6U24	Canadian Dollar {Sep 24}
+D6Z20	Canadian Dollar {Dec 20}
+D6Z21	Canadian Dollar {Dec 21}
+D6Z22	Canadian Dollar {Dec 22}
+D6Z23	Canadian Dollar {Dec 23}
+D6Z24	Canadian Dollar {Dec 24}
+DA	Class III Milk (Pit)
+DA.C	Class III Milk (Pit) Continuation
+DAF20	Class III Milk (Pit) {Jan 20}
+DAF21	Class III Milk (Pit) {Jan 21}
+DAG20	Class III Milk (Pit) {Feb 20}
+DAG21	Class III Milk (Pit) {Feb 21}
+DAH20	Class III Milk (Pit) {Mar 20}
+DAH21	Class III Milk (Pit) {Mar 21}
+DAJ20	Class III Milk (Pit) {Apr 20}
+DAJ21	Class III Milk (Pit) {Apr 21}
+DAK20	Class III Milk (Pit) {May 20}
+DAK21	Class III Milk (Pit) {May 21}
+DAM20	Class III Milk (Pit) {Jun 20}
+DAM21	Class III Milk (Pit) {Jun 21}
+DAN20	Class III Milk (Pit) {Jul 20}
+DAN21	Class III Milk (Pit) {Jul 21}
+DAQ20	Class III Milk (Pit) {Aug 20}
+DAQ21	Class III Milk (Pit) {Aug 21}
+DAU20	Class III Milk (Pit) {Sep 20}
+DAU21	Class III Milk (Pit) {Sep 21}
+DAV20	Class III Milk (Pit) {Oct 20}
+DAV21	Class III Milk (Pit) {Oct 21}
+DAX20	Class III Milk (Pit) {Nov 20}
+DAX21	Class III Milk (Pit) {Nov 21}
+DAZ19	Class III Milk (Pit) {Dec 19}
+DAZ20	Class III Milk (Pit) {Dec 20}
+DAZ21	Class III Milk (Pit) {Dec 21}
+DD.C	E-Mini Dev. Europe Continuation
+DDH20	E-Mini Dev. Europe {Mar 20}
+DDH21	E-Mini Dev. Europe {Mar 21}
+DDM20	E-Mini Dev. Europe {Jun 20}
+DDU20	E-Mini Dev. Europe {Sep 20}
+DDZ20	E-Mini Dev. Europe {Dec 20}
+DF	Nonfat Dry Milk
+DF.C	Nonfat Dry Milk Continuation
+DFF20	Nonfat Dry Milk {Jan 20}
+DFF21	Nonfat Dry Milk {Jan 21}
+DFG20	Nonfat Dry Milk {Feb 20}
+DFG21	Nonfat Dry Milk {Feb 21}
+DFH20	Nonfat Dry Milk {Mar 20}
+DFH21	Nonfat Dry Milk {Mar 21}
+DFJ20	Nonfat Dry Milk {Apr 20}
+DFJ21	Nonfat Dry Milk {Apr 21}
+DFK20	Nonfat Dry Milk {May 20}
+DFK21	Nonfat Dry Milk {May 21}
+DFM20	Nonfat Dry Milk {Jun 20}
+DFM21	Nonfat Dry Milk {Jun 21}
+DFN20	Nonfat Dry Milk {Jul 20}
+DFN21	Nonfat Dry Milk {Jul 21}
+DFQ20	Nonfat Dry Milk {Aug 20}
+DFQ21	Nonfat Dry Milk {Aug 21}
+DFU20	Nonfat Dry Milk {Sep 20}
+DFU21	Nonfat Dry Milk {Sep 21}
+DFV20	Nonfat Dry Milk {Oct 20}
+DFV21	Nonfat Dry Milk {Oct 21}
+DFX20	Nonfat Dry Milk {Nov 20}
+DFX21	Nonfat Dry Milk {Nov 21}
+DFZ19	Nonfat Dry Milk {Dec 19}
+DFZ20	Nonfat Dry Milk {Dec 20}
+DFZ21	Nonfat Dry Milk {Dec 21}
+DG	Dry Whey
+DG.C	Dry Whey Continuation
+DGF20	Dry Whey {Jan 20}
+DGF21	Dry Whey {Jan 21}
+DGG20	Dry Whey {Feb 20}
+DGG21	Dry Whey {Feb 21}
+DGH20	Dry Whey {Mar 20}
+DGH21	Dry Whey {Mar 21}
+DGJ20	Dry Whey {Apr 20}
+DGJ21	Dry Whey {Apr 21}
+DGK20	Dry Whey {May 20}
+DGK21	Dry Whey {May 21}
+DGM20	Dry Whey {Jun 20}
+DGM21	Dry Whey {Jun 21}
+DGN20	Dry Whey {Jul 20}
+DGN21	Dry Whey {Jul 21}
+DGQ20	Dry Whey {Aug 20}
+DGQ21	Dry Whey {Aug 21}
+DGU20	Dry Whey {Sep 20}
+DGU21	Dry Whey {Sep 21}
+DGV20	Dry Whey {Oct 20}
+DGV21	Dry Whey {Oct 21}
+DGX20	Dry Whey {Nov 20}
+DGX21	Dry Whey {Nov 21}
+DGZ19	Dry Whey {Dec 19}
+DGZ20	Dry Whey {Dec 20}
+DGZ21	Dry Whey {Dec 21}
+DK	Class IV Milk
+DK.C	Class IV Milk Continuation
+DKF20	Class IV Milk {Jan 20}
+DKF21	Class IV Milk {Jan 21}
+DKG20	Class IV Milk {Feb 20}
+DKG21	Class IV Milk {Feb 21}
+DKH20	Class IV Milk {Mar 20}
+DKH21	Class IV Milk {Mar 21}
+DKJ20	Class IV Milk {Apr 20}
+DKJ21	Class IV Milk {Apr 21}
+DKK20	Class IV Milk {May 20}
+DKK21	Class IV Milk {May 21}
+DKM20	Class IV Milk {Jun 20}
+DKM21	Class IV Milk {Jun 21}
+DKN20	Class IV Milk {Jul 20}
+DKN21	Class IV Milk {Jul 21}
+DKQ20	Class IV Milk {Aug 20}
+DKQ21	Class IV Milk {Aug 21}
+DKU20	Class IV Milk {Sep 20}
+DKU21	Class IV Milk {Sep 21}
+DKV20	Class IV Milk {Oct 20}
+DKV21	Class IV Milk {Oct 21}
+DKX20	Class IV Milk {Nov 20}
+DKX21	Class IV Milk {Nov 21}
+DKZ19	Class IV Milk {Dec 19}
+DKZ20	Class IV Milk {Dec 20}
+DKZ21	Class IV Milk {Dec 21}
+DL.C	Class III Milk Continuation
+DLF20	Class III Milk {Jan 20}
+DLF21	Class III Milk {Jan 21}
+DLG20	Class III Milk {Feb 20}
+DLG21	Class III Milk {Feb 21}
+DLH20	Class III Milk {Mar 20}
+DLH21	Class III Milk {Mar 21}
+DLJ20	Class III Milk {Apr 20}
+DLJ21	Class III Milk {Apr 21}
+DLK20	Class III Milk {May 20}
+DLK21	Class III Milk {May 21}
+DLM20	Class III Milk {Jun 20}
+DLM21	Class III Milk {Jun 21}
+DLN20	Class III Milk {Jul 20}
+DLN21	Class III Milk {Jul 21}
+DLQ20	Class III Milk {Aug 20}
+DLQ21	Class III Milk {Aug 21}
+DLU20	Class III Milk {Sep 20}
+DLU21	Class III Milk {Sep 21}
+DLV20	Class III Milk {Oct 20}
+DLV21	Class III Milk {Oct 21}
+DLX20	Class III Milk {Nov 20}
+DLX21	Class III Milk {Nov 21}
+DLZ19	Class III Milk {Dec 19}
+DLZ20	Class III Milk {Dec 20}
+DLZ21	Class III Milk {Dec 21}
+E3.C	Turkish Lira Continuation
+E3H20	Turkish Lira {Mar 20}
+E3H21	Turkish Lira {Mar 21}
+E3M20	Turkish Lira {Jun 20}
+E3M21	Turkish Lira {Jun 21}
+E3U20	Turkish Lira {Sep 20}
+E3Z20	Turkish Lira {Dec 20}
+E4	Turkish Lira
+E5	Euro/Turkish Lira
+E6	Euro FX
+E6.C	Euro FX Continuation
+E6F20	Euro FX {Jan 20}
+E6G20	Euro FX {Feb 20}
+E6H20	Euro FX {Mar 20}
+E6H21	Euro FX {Mar 21}
+E6H22	Euro FX {Mar 22}
+E6H23	Euro FX {Mar 23}
+E6H24	Euro FX {Mar 24}
+E6J20	Euro FX {Apr 20}
+E6K20	Euro FX {May 20}
+E6M20	Euro FX {Jun 20}
+E6M21	Euro FX {Jun 21}
+E6M22	Euro FX {Jun 22}
+E6M23	Euro FX {Jun 23}
+E6M24	Euro FX {Jun 24}
+E6U20	Euro FX {Sep 20}
+E6U21	Euro FX {Sep 21}
+E6U22	Euro FX {Sep 22}
+E6U23	Euro FX {Sep 23}
+E6U24	Euro FX {Sep 24}
+E6Z20	Euro FX {Dec 20}
+E6Z21	Euro FX {Dec 21}
+E6Z22	Euro FX {Dec 22}
+E6Z23	Euro FX {Dec 23}
+E6Z24	Euro FX {Dec 24}
+E7	E-Mini Euro FX
+E7.C	E-Mini Euro FX Continuation
+E7H20	E-Mini Euro FX {Mar 20}
+E7M20	E-Mini Euro FX {Jun 20}
+EC	Euro FX (Pit)
+EC.C	Euro FX (Pit) Continuation
+ECF20	Euro FX (Pit) {Jan 20}
+ECG20	Euro FX (Pit) {Feb 20}
+ECH20	Euro FX (Pit) {Mar 20}
+ECH21	Euro FX (Pit) {Mar 21}
+ECH22	Euro FX (Pit) {Mar 22}
+ECH23	Euro FX (Pit) {Mar 23}
+ECH24	Euro FX (Pit) {Mar 24}
+ECJ20	Euro FX (Pit) {Apr 20}
+ECK20	Euro FX (Pit) {May 20}
+ECM20	Euro FX (Pit) {Jun 20}
+ECM21	Euro FX (Pit) {Jun 21}
+ECM22	Euro FX (Pit) {Jun 22}
+ECM23	Euro FX (Pit) {Jun 23}
+ECM24	Euro FX (Pit) {Jun 24}
+ECU20	Euro FX (Pit) {Sep 20}
+ECU21	Euro FX (Pit) {Sep 21}
+ECU22	Euro FX (Pit) {Sep 22}
+ECU23	Euro FX (Pit) {Sep 23}
+ECU24	Euro FX (Pit) {Sep 24}
+ECZ20	Euro FX (Pit) {Dec 20}
+ECZ21	Euro FX (Pit) {Dec 21}
+ECZ22	Euro FX (Pit) {Dec 22}
+ECZ23	Euro FX (Pit) {Dec 23}
+ECZ24	Euro FX (Pit) {Dec 24}
+ED	Eurodollar (Pit)
+ED.C	Eurodollar (Pit) Continuation
+EDF20	Eurodollar (Pit) {Jan 20}
+EDG20	Eurodollar (Pit) {Feb 20}
+EDH20	Eurodollar (Pit) {Mar 20}
+EDH21	Eurodollar (Pit) {Mar 21}
+EDH22	Eurodollar (Pit) {Mar 22}
+EDH23	Eurodollar (Pit) {Mar 23}
+EDH24	Eurodollar (Pit) {Mar 24}
+EDH25	Eurodollar (Pit) {Mar 25}
+EDH26	Eurodollar (Pit) {Mar 26}
+EDH27	Eurodollar (Pit) {Mar 27}
+EDH28	Eurodollar (Pit) {Mar 28}
+EDH29	Eurodollar (Pit) {Mar 29}
+EDJ20	Eurodollar (Pit) {Apr 20}
+EDK20	Eurodollar (Pit) {May 20}
+EDM20	Eurodollar (Pit) {Jun 20}
+EDM21	Eurodollar (Pit) {Jun 21}
+EDM22	Eurodollar (Pit) {Jun 22}
+EDM23	Eurodollar (Pit) {Jun 23}
+EDM24	Eurodollar (Pit) {Jun 24}
+EDM25	Eurodollar (Pit) {Jun 25}
+EDM26	Eurodollar (Pit) {Jun 26}
+EDM27	Eurodollar (Pit) {Jun 27}
+EDM28	Eurodollar (Pit) {Jun 28}
+EDM29	Eurodollar (Pit) {Jun 29}
+EDN20	Eurodollar (Pit) {Jul 20}
+EDU20	Eurodollar (Pit) {Sep 20}
+EDU21	Eurodollar (Pit) {Sep 21}
+EDU22	Eurodollar (Pit) {Sep 22}
+EDU23	Eurodollar (Pit) {Sep 23}
+EDU24	Eurodollar (Pit) {Sep 24}
+EDU25	Eurodollar (Pit) {Sep 25}
+EDU26	Eurodollar (Pit) {Sep 26}
+EDU27	Eurodollar (Pit) {Sep 27}
+EDU28	Eurodollar (Pit) {Sep 28}
+EDU29	Eurodollar (Pit) {Sep 29}
+EDZ20	Eurodollar (Pit) {Dec 20}
+EDZ21	Eurodollar (Pit) {Dec 21}
+EDZ22	Eurodollar (Pit) {Dec 22}
+EDZ23	Eurodollar (Pit) {Dec 23}
+EDZ24	Eurodollar (Pit) {Dec 24}
+EDZ25	Eurodollar (Pit) {Dec 25}
+EDZ26	Eurodollar (Pit) {Dec 26}
+EDZ27	Eurodollar (Pit) {Dec 27}
+EDZ28	Eurodollar (Pit) {Dec 28}
+EDZ29	Eurodollar (Pit) {Dec 29}
+EI.C	E-Mini FTSE Emerging Continuation
+EIH20	E-Mini FTSE Emerging {Mar 20}
+EIH21	E-Mini FTSE Emerging {Mar 21}
+EIM20	E-Mini FTSE Emerging {Jun 20}
+EIU20	E-Mini FTSE Emerging {Sep 20}
+EIZ20	E-Mini FTSE Emerging {Dec 20}
+EM	1-Month Libor (Pit)
+EM.C	1-Month Libor (Pit) Continuation
+EMF20	1-Month Libor (Pit) {Jan 20}
+EMG20	1-Month Libor (Pit) {Feb 20}
+EMH20	1-Month Libor (Pit) {Mar 20}
+EMJ20	1-Month Libor (Pit) {Apr 20}
+EMK20	1-Month Libor (Pit) {May 20}
+EMM20	1-Month Libor (Pit) {Jun 20}
+EMN20	1-Month Libor (Pit) {Jul 20}
+EMQ20	1-Month Libor (Pit) {Aug 20}
+EMU20	1-Month Libor (Pit) {Sep 20}
+EMV20	1-Month Libor (Pit) {Oct 20}
+EMX20	1-Month Libor (Pit) {Nov 20}
+EMZ20	1-Month Libor (Pit) {Dec 20}
+ES	S&P 500 E-Mini
+ES.C	S&P 500 E-Mini Continuation
+ESH20	S&P 500 E-Mini {Mar 20}
+ESH21	S&P 500 E-Mini {Mar 21}
+ESM20	S&P 500 E-Mini {Jun 20}
+ESU20	S&P 500 E-Mini {Sep 20}
+ESZ20	S&P 500 E-Mini {Dec 20}
+ET.C	S&P 500 Micro Continuation
+ETH20	S&P 500 Micro {Mar 20}
+ETH21	S&P 500 Micro {Mar 21}
+ETM20	S&P 500 Micro {Jun 20}
+ETU20	S&P 500 Micro {Sep 20}
+ETZ20	S&P 500 Micro {Dec 20}
+EW	S&P Midcap E-Mini
+EW.C	S&P Midcap E-Mini Continuation
+EWH20	S&P Midcap E-Mini {Mar 20}
+EWH21	S&P Midcap E-Mini {Mar 21}
+EWM20	S&P Midcap E-Mini {Jun 20}
+EWU20	S&P Midcap E-Mini {Sep 20}
+EWZ20	S&P Midcap E-Mini {Dec 20}
+EY	S&P 500 ESG E-Mini
+EY.C	S&P 500 ESG E-Mini Continuation
+EYH20	S&P 500 ESG E-Mini {Mar 20}
+EYH21	S&P 500 ESG E-Mini {Mar 21}
+EYM20	S&P 500 ESG E-Mini {Jun 20}
+EYU20	S&P 500 ESG E-Mini {Sep 20}
+EYZ20	S&P 500 ESG E-Mini {Dec 20}
+FC	Feeder Cattle (Pit)
+FC.C	Feeder Cattle (Pit) Continuation
+FCF20	Feeder Cattle (Pit) {Jan 20}
+FCH20	Feeder Cattle (Pit) {Mar 20}
+FCJ20	Feeder Cattle (Pit) {Apr 20}
+FCK20	Feeder Cattle (Pit) {May 20}
+FCQ20	Feeder Cattle (Pit) {Aug 20}
+FCU20	Feeder Cattle (Pit) {Sep 20}
+FCV20	Feeder Cattle (Pit) {Oct 20}
+FCX20	Feeder Cattle (Pit) {Nov 20}
+FI.C	Palm Oil MY Swaps Continuation
+FIF20	Palm Oil MY Swaps {Jan 20}
+FIF21	Palm Oil MY Swaps {Jan 21}
+FIF22	Palm Oil MY Swaps {Jan 22}
+FIF23	Palm Oil MY Swaps {Jan 23}
+FIG20	Palm Oil MY Swaps {Feb 20}
+FIG21	Palm Oil MY Swaps {Feb 21}
+FIG22	Palm Oil MY Swaps {Feb 22}
+FIG23	Palm Oil MY Swaps {Feb 23}
+FIH20	Palm Oil MY Swaps {Mar 20}
+FIH21	Palm Oil MY Swaps {Mar 21}
+FIH22	Palm Oil MY Swaps {Mar 22}
+FIH23	Palm Oil MY Swaps {Mar 23}
+FIJ20	Palm Oil MY Swaps {Apr 20}
+FIJ21	Palm Oil MY Swaps {Apr 21}
+FIJ22	Palm Oil MY Swaps {Apr 22}
+FIJ23	Palm Oil MY Swaps {Apr 23}
+FIK20	Palm Oil MY Swaps {May 20}
+FIK21	Palm Oil MY Swaps {May 21}
+FIK22	Palm Oil MY Swaps {May 22}
+FIK23	Palm Oil MY Swaps {May 23}
+FIM20	Palm Oil MY Swaps {Jun 20}
+FIM21	Palm Oil MY Swaps {Jun 21}
+FIM22	Palm Oil MY Swaps {Jun 22}
+FIM23	Palm Oil MY Swaps {Jun 23}
+FIN20	Palm Oil MY Swaps {Jul 20}
+FIN21	Palm Oil MY Swaps {Jul 21}
+FIN22	Palm Oil MY Swaps {Jul 22}
+FIN23	Palm Oil MY Swaps {Jul 23}
+FIQ20	Palm Oil MY Swaps {Aug 20}
+FIQ21	Palm Oil MY Swaps {Aug 21}
+FIQ22	Palm Oil MY Swaps {Aug 22}
+FIQ23	Palm Oil MY Swaps {Aug 23}
+FIU20	Palm Oil MY Swaps {Sep 20}
+FIU21	Palm Oil MY Swaps {Sep 21}
+FIU22	Palm Oil MY Swaps {Sep 22}
+FIV20	Palm Oil MY Swaps {Oct 20}
+FIV21	Palm Oil MY Swaps {Oct 21}
+FIV22	Palm Oil MY Swaps {Oct 22}
+FIX20	Palm Oil MY Swaps {Nov 20}
+FIX21	Palm Oil MY Swaps {Nov 21}
+FIX22	Palm Oil MY Swaps {Nov 22}
+FIZ19	Palm Oil MY Swaps {Dec 19}
+FIZ20	Palm Oil MY Swaps {Dec 20}
+FIZ21	Palm Oil MY Swaps {Dec 21}
+FIZ22	Palm Oil MY Swaps {Dec 22}
+FW.C	Palm Olein MY Swaps Continuation
+FWF20	Palm Olein MY Swaps {Jan 20}
+FWF21	Palm Olein MY Swaps {Jan 21}
+FWG20	Palm Olein MY Swaps {Feb 20}
+FWG21	Palm Olein MY Swaps {Feb 21}
+FWH20	Palm Olein MY Swaps {Mar 20}
+FWH21	Palm Olein MY Swaps {Mar 21}
+FWJ20	Palm Olein MY Swaps {Apr 20}
+FWJ21	Palm Olein MY Swaps {Apr 21}
+FWK20	Palm Olein MY Swaps {May 20}
+FWK21	Palm Olein MY Swaps {May 21}
+FWM20	Palm Olein MY Swaps {Jun 20}
+FWM21	Palm Olein MY Swaps {Jun 21}
+FWN20	Palm Olein MY Swaps {Jul 20}
+FWN21	Palm Olein MY Swaps {Jul 21}
+FWQ20	Palm Olein MY Swaps {Aug 20}
+FWQ21	Palm Olein MY Swaps {Aug 21}
+FWU20	Palm Olein MY Swaps {Sep 20}
+FWU21	Palm Olein MY Swaps {Sep 21}
+FWV20	Palm Olein MY Swaps {Oct 20}
+FWV21	Palm Olein MY Swaps {Oct 21}
+FWX20	Palm Olein MY Swaps {Nov 20}
+FWX21	Palm Olein MY Swaps {Nov 21}
+FWZ19	Palm Olein MY Swaps {Dec 19}
+FWZ20	Palm Olein MY Swaps {Dec 20}
+G7	S&P GS Excess Index
+G7.C	S&P GS Excess Index Continuation
+G7F20	S&P GS Excess Index {Jan 20}
+G7G20	S&P GS Excess Index {Feb 20}
+G7H20	S&P GS Excess Index {Mar 20}
+G7J20	S&P GS Excess Index {Apr 20}
+G7K20	S&P GS Excess Index {May 20}
+GD	S&P GSCI
+GD.C	S&P GSCI Continuation
+GDF20	S&P GSCI {Jan 20}
+GDG20	S&P GSCI {Feb 20}
+GDH20	S&P GSCI {Mar 20}
+GDJ20	S&P GSCI {Apr 20}
+GE	Eurodollar
+GE.C	Eurodollar Continuation
+GEF20	Eurodollar {Jan 20}
+GEG20	Eurodollar {Feb 20}
+GEH20	Eurodollar {Mar 20}
+GEH21	Eurodollar {Mar 21}
+GEH22	Eurodollar {Mar 22}
+GEH23	Eurodollar {Mar 23}
+GEH24	Eurodollar {Mar 24}
+GEH25	Eurodollar {Mar 25}
+GEH26	Eurodollar {Mar 26}
+GEH27	Eurodollar {Mar 27}
+GEH28	Eurodollar {Mar 28}
+GEH29	Eurodollar {Mar 29}
+GEJ20	Eurodollar {Apr 20}
+GEK20	Eurodollar {May 20}
+GEM20	Eurodollar {Jun 20}
+GEM21	Eurodollar {Jun 21}
+GEM22	Eurodollar {Jun 22}
+GEM23	Eurodollar {Jun 23}
+GEM24	Eurodollar {Jun 24}
+GEM25	Eurodollar {Jun 25}
+GEM26	Eurodollar {Jun 26}
+GEM27	Eurodollar {Jun 27}
+GEM28	Eurodollar {Jun 28}
+GEM29	Eurodollar {Jun 29}
+GEN20	Eurodollar {Jul 20}
+GEU20	Eurodollar {Sep 20}
+GEU21	Eurodollar {Sep 21}
+GEU22	Eurodollar {Sep 22}
+GEU23	Eurodollar {Sep 23}
+GEU24	Eurodollar {Sep 24}
+GEU25	Eurodollar {Sep 25}
+GEU26	Eurodollar {Sep 26}
+GEU27	Eurodollar {Sep 27}
+GEU28	Eurodollar {Sep 28}
+GEU29	Eurodollar {Sep 29}
+GEZ20	Eurodollar {Dec 20}
+GEZ21	Eurodollar {Dec 21}
+GEZ22	Eurodollar {Dec 22}
+GEZ23	Eurodollar {Dec 23}
+GEZ24	Eurodollar {Dec 24}
+GEZ25	Eurodollar {Dec 25}
+GEZ26	Eurodollar {Dec 26}
+GEZ27	Eurodollar {Dec 27}
+GEZ28	Eurodollar {Dec 28}
+GEZ29	Eurodollar {Dec 29}
+GF	Feeder Cattle
+GF.C	Feeder Cattle Continuation
+GFF20	Feeder Cattle {Jan 20}
+GFH20	Feeder Cattle {Mar 20}
+GFJ20	Feeder Cattle {Apr 20}
+GFK20	Feeder Cattle {May 20}
+GFQ20	Feeder Cattle {Aug 20}
+GFU20	Feeder Cattle {Sep 20}
+GFV20	Feeder Cattle {Oct 20}
+GFX20	Feeder Cattle {Nov 20}
+GH.C	1-Month Libor Continuation
+GHF20	1-Month Libor {Jan 20}
+GHG20	1-Month Libor {Feb 20}
+GHH20	1-Month Libor {Mar 20}
+GHJ20	1-Month Libor {Apr 20}
+GHK20	1-Month Libor {May 20}
+GHM20	1-Month Libor {Jun 20}
+GHN20	1-Month Libor {Jul 20}
+GHQ20	1-Month Libor {Aug 20}
+GHU20	1-Month Libor {Sep 20}
+GHV20	1-Month Libor {Oct 20}
+GHX20	1-Month Libor {Nov 20}
+GHZ20	1-Month Libor {Dec 20}
+H3	Indian Rupee
+H3.C	Indian Rupee Continuation
+H3F20	Indian Rupee {Jan 20}
+H3F21	Indian Rupee {Jan 21}
+H3G20	Indian Rupee {Feb 20}
+H3H20	Indian Rupee {Mar 20}
+H3H21	Indian Rupee {Mar 21}
+H3J20	Indian Rupee {Apr 20}
+H3K20	Indian Rupee {May 20}
+H3M20	Indian Rupee {Jun 20}
+H3M21	Indian Rupee {Jun 21}
+H3N20	Indian Rupee {Jul 20}
+H3Q20	Indian Rupee {Aug 20}
+H3U20	Indian Rupee {Sep 20}
+H3U21	Indian Rupee {Sep 21}
+H3V20	Indian Rupee {Oct 20}
+H3X20	Indian Rupee {Nov 20}
+H3Z19	Indian Rupee {Dec 19}
+H3Z20	Indian Rupee {Dec 20}
+H3Z21	Indian Rupee {Dec 21}
+H4.C	E-Micro INR/USD Continuation
+H4F20	E-Micro INR/USD {Jan 20}
+H4F21	E-Micro INR/USD {Jan 21}
+H4G20	E-Micro INR/USD {Feb 20}
+H4H20	E-Micro INR/USD {Mar 20}
+H4J20	E-Micro INR/USD {Apr 20}
+H4K20	E-Micro INR/USD {May 20}
+H4M20	E-Micro INR/USD {Jun 20}
+H4N20	E-Micro INR/USD {Jul 20}
+H4Q20	E-Micro INR/USD {Aug 20}
+H4U20	E-Micro INR/USD {Sep 20}
+H4V20	E-Micro INR/USD {Oct 20}
+H4X20	E-Micro INR/USD {Nov 20}
+H4Z19	E-Micro INR/USD {Dec 19}
+H4Z20	E-Micro INR/USD {Dec 20}
+H5	USD/offshore RMB
+H5.C	USD/offshore RMB Continuation
+H5F20	USD/offshore RMB {Jan 20}
+H5F21	USD/offshore RMB {Jan 21}
+H5G20	USD/offshore RMB {Feb 20}
+H5G21	USD/offshore RMB {Feb 21}
+H5H20	USD/offshore RMB {Mar 20}
+H5H21	USD/offshore RMB {Mar 21}
+H5H22	USD/offshore RMB {Mar 22}
+H5J20	USD/offshore RMB {Apr 20}
+H5K20	USD/offshore RMB {May 20}
+H5M20	USD/offshore RMB {Jun 20}
+H5M21	USD/offshore RMB {Jun 21}
+H5M22	USD/offshore RMB {Jun 22}
+H5N20	USD/offshore RMB {Jul 20}
+H5Q20	USD/offshore RMB {Aug 20}
+H5U20	USD/offshore RMB {Sep 20}
+H5U21	USD/offshore RMB {Sep 21}
+H5U22	USD/offshore RMB {Sep 22}
+H5V20	USD/offshore RMB {Oct 20}
+H5X20	USD/offshore RMB {Nov 20}
+H5Z20	USD/offshore RMB {Dec 20}
+H5Z21	USD/offshore RMB {Dec 21}
+H5Z22	USD/offshore RMB {Dec 22}
+H6.C	E-Micro USD/CNH Continuation
+H6F20	E-Micro USD/CNH {Jan 20}
+H6F21	E-Micro USD/CNH {Jan 21}
+H6G20	E-Micro USD/CNH {Feb 20}
+H6H20	E-Micro USD/CNH {Mar 20}
+H6J20	E-Micro USD/CNH {Apr 20}
+H6K20	E-Micro USD/CNH {May 20}
+H6M20	E-Micro USD/CNH {Jun 20}
+H6N20	E-Micro USD/CNH {Jul 20}
+H6Q20	E-Micro USD/CNH {Aug 20}
+H6U20	E-Micro USD/CNH {Sep 20}
+H6V20	E-Micro USD/CNH {Oct 20}
+H6X20	E-Micro USD/CNH {Nov 20}
+H6Z20	E-Micro USD/CNH {Dec 20}
+HE	Lean Hogs
+HE.C	Lean Hogs Continuation
+HEG20	Lean Hogs {Feb 20}
+HEG21	Lean Hogs {Feb 21}
+HEJ20	Lean Hogs {Apr 20}
+HEJ21	Lean Hogs {Apr 21}
+HEK20	Lean Hogs {May 20}
+HEK21	Lean Hogs {May 21}
+HEM20	Lean Hogs {Jun 20}
+HEM21	Lean Hogs {Jun 21}
+HEN20	Lean Hogs {Jul 20}
+HEQ20	Lean Hogs {Aug 20}
+HEV20	Lean Hogs {Oct 20}
+HEZ20	Lean Hogs {Dec 20}
+I0	HPI Boston
+I0.C	HPI Boston Continuation
+I0G20	HPI Boston {Feb 20}
+I0G21	HPI Boston {Feb 21}
+I0K20	HPI Boston {May 20}
+I0K21	HPI Boston {May 21}
+I0K22	HPI Boston {May 22}
+I0Q20	HPI Boston {Aug 20}
+I0X20	HPI Boston {Nov 20}
+I0X21	HPI Boston {Nov 21}
+I0X22	HPI Boston {Nov 22}
+I0X23	HPI Boston {Nov 23}
+I0X24	HPI Boston {Nov 24}
+I1	HPI Chicago
+I1.C	HPI Chicago Continuation
+I1G20	HPI Chicago {Feb 20}
+I1G21	HPI Chicago {Feb 21}
+I1K20	HPI Chicago {May 20}
+I1K21	HPI Chicago {May 21}
+I1K22	HPI Chicago {May 22}
+I1Q20	HPI Chicago {Aug 20}
+I1X20	HPI Chicago {Nov 20}
+I1X21	HPI Chicago {Nov 21}
+I1X22	HPI Chicago {Nov 22}
+I1X23	HPI Chicago {Nov 23}
+I1X24	HPI Chicago {Nov 24}
+I2	HPI Denver
+I2.C	HPI Denver Continuation
+I2G20	HPI Denver {Feb 20}
+I2G21	HPI Denver {Feb 21}
+I2K20	HPI Denver {May 20}
+I2K21	HPI Denver {May 21}
+I2K22	HPI Denver {May 22}
+I2Q20	HPI Denver {Aug 20}
+I2X20	HPI Denver {Nov 20}
+I2X21	HPI Denver {Nov 21}
+I2X22	HPI Denver {Nov 22}
+I2X23	HPI Denver {Nov 23}
+I2X24	HPI Denver {Nov 24}
+I3	HPI Las Vegas
+I3.C	HPI Las Vegas Continuation
+I3G20	HPI Las Vegas {Feb 20}
+I3G21	HPI Las Vegas {Feb 21}
+I3K20	HPI Las Vegas {May 20}
+I3K21	HPI Las Vegas {May 21}
+I3K22	HPI Las Vegas {May 22}
+I3Q20	HPI Las Vegas {Aug 20}
+I3X20	HPI Las Vegas {Nov 20}
+I3X21	HPI Las Vegas {Nov 21}
+I3X22	HPI Las Vegas {Nov 22}
+I3X23	HPI Las Vegas {Nov 23}
+I3X24	HPI Las Vegas {Nov 24}
+I4	HPI Los Angeles
+I4.C	HPI Los Angeles Continuation
+I4G20	HPI Los Angeles {Feb 20}
+I4G21	HPI Los Angeles {Feb 21}
+I4K20	HPI Los Angeles {May 20}
+I4K21	HPI Los Angeles {May 21}
+I4K22	HPI Los Angeles {May 22}
+I4Q20	HPI Los Angeles {Aug 20}
+I4X20	HPI Los Angeles {Nov 20}
+I4X21	HPI Los Angeles {Nov 21}
+I4X22	HPI Los Angeles {Nov 22}
+I4X23	HPI Los Angeles {Nov 23}
+I4X24	HPI Los Angeles {Nov 24}
+I5	HPI Miami
+I5.C	HPI Miami Continuation
+I5G20	HPI Miami {Feb 20}
+I5G21	HPI Miami {Feb 21}
+I5K20	HPI Miami {May 20}
+I5K21	HPI Miami {May 21}
+I5K22	HPI Miami {May 22}
+I5Q20	HPI Miami {Aug 20}
+I5X20	HPI Miami {Nov 20}
+I5X21	HPI Miami {Nov 21}
+I5X22	HPI Miami {Nov 22}
+I5X23	HPI Miami {Nov 23}
+I5X24	HPI Miami {Nov 24}
+I6	HPI New York
+I6.C	HPI New York Continuation
+I6G20	HPI New York {Feb 20}
+I6G21	HPI New York {Feb 21}
+I6K20	HPI New York {May 20}
+I6K21	HPI New York {May 21}
+I6K22	HPI New York {May 22}
+I6Q20	HPI New York {Aug 20}
+I6X20	HPI New York {Nov 20}
+I6X21	HPI New York {Nov 21}
+I6X22	HPI New York {Nov 22}
+I6X23	HPI New York {Nov 23}
+I6X24	HPI New York {Nov 24}
+I7	HPI San Diego
+I7.C	HPI San Diego Continuation
+I7G20	HPI San Diego {Feb 20}
+I7G21	HPI San Diego {Feb 21}
+I7K20	HPI San Diego {May 20}
+I7K21	HPI San Diego {May 21}
+I7K22	HPI San Diego {May 22}
+I7Q20	HPI San Diego {Aug 20}
+I7X20	HPI San Diego {Nov 20}
+I7X21	HPI San Diego {Nov 21}
+I7X22	HPI San Diego {Nov 22}
+I7X23	HPI San Diego {Nov 23}
+I7X24	HPI San Diego {Nov 24}
+I8	HPI San Francisco
+I8.C	HPI San Francisco Continuation
+I8G20	HPI San Francisco {Feb 20}
+I8G21	HPI San Francisco {Feb 21}
+I8K20	HPI San Francisco {May 20}
+I8K21	HPI San Francisco {May 21}
+I8K22	HPI San Francisco {May 22}
+I8Q20	HPI San Francisco {Aug 20}
+I8X20	HPI San Francisco {Nov 20}
+I8X21	HPI San Francisco {Nov 21}
+I8X22	HPI San Francisco {Nov 22}
+I8X23	HPI San Francisco {Nov 23}
+I8X24	HPI San Francisco {Nov 24}
+I9	HPI Washington DC
+I9.C	HPI Washington DC Continuation
+I9G20	HPI Washington DC {Feb 20}
+I9G21	HPI Washington DC {Feb 21}
+I9K20	HPI Washington DC {May 20}
+I9K21	HPI Washington DC {May 21}
+I9K22	HPI Washington DC {May 22}
+I9Q20	HPI Washington DC {Aug 20}
+I9X20	HPI Washington DC {Nov 20}
+I9X21	HPI Washington DC {Nov 21}
+I9X22	HPI Washington DC {Nov 22}
+I9X23	HPI Washington DC {Nov 23}
+I9X24	HPI Washington DC {Nov 24}
+IF.C	Ibovespa USD Continuation
+IFG20	Ibovespa USD {Feb 20}
+IFJ20	Ibovespa USD {Apr 20}
+IFM20	Ibovespa USD {Jun 20}
+IFQ20	Ibovespa USD {Aug 20}
+J0	HPI Composite Index
+J0.C	HPI Composite Index Continuation
+J0G20	HPI Composite Index {Feb 20}
+J0G21	HPI Composite Index {Feb 21}
+J0K20	HPI Composite Index {May 20}
+J0K21	HPI Composite Index {May 21}
+J0K22	HPI Composite Index {May 22}
+J0Q20	HPI Composite Index {Aug 20}
+J0X20	HPI Composite Index {Nov 20}
+J0X21	HPI Composite Index {Nov 21}
+J0X22	HPI Composite Index {Nov 22}
+J0X23	HPI Composite Index {Nov 23}
+J0X24	HPI Composite Index {Nov 24}
+J6	Japanese Yen
+J6.C	Japanese Yen Continuation
+J6F20	Japanese Yen {Jan 20}
+J6G20	Japanese Yen {Feb 20}
+J6H20	Japanese Yen {Mar 20}
+J6H21	Japanese Yen {Mar 21}
+J6H22	Japanese Yen {Mar 22}
+J6H23	Japanese Yen {Mar 23}
+J6H24	Japanese Yen {Mar 24}
+J6J20	Japanese Yen {Apr 20}
+J6K20	Japanese Yen {May 20}
+J6M20	Japanese Yen {Jun 20}
+J6M21	Japanese Yen {Jun 21}
+J6M22	Japanese Yen {Jun 22}
+J6M23	Japanese Yen {Jun 23}
+J6M24	Japanese Yen {Jun 24}
+J6U20	Japanese Yen {Sep 20}
+J6U21	Japanese Yen {Sep 21}
+J6U22	Japanese Yen {Sep 22}
+J6U23	Japanese Yen {Sep 23}
+J6U24	Japanese Yen {Sep 24}
+J6Z20	Japanese Yen {Dec 20}
+J6Z21	Japanese Yen {Dec 21}
+J6Z22	Japanese Yen {Dec 22}
+J6Z23	Japanese Yen {Dec 23}
+J6Z24	Japanese Yen {Dec 24}
+J7	E-Mini Japanese Yen
+J7.C	E-Mini Japanese Yen Continuation
+J7H20	E-Mini Japanese Yen {Mar 20}
+J7M20	E-Mini Japanese Yen {Jun 20}
+JA	S&P 500 Materials
+JA.C	S&P 500 Materials Continuation
+JAH20	S&P 500 Materials {Mar 20}
+JAH21	S&P 500 Materials {Mar 21}
+JAM20	S&P 500 Materials {Jun 20}
+JAU20	S&P 500 Materials {Sep 20}
+JAZ20	S&P 500 Materials {Dec 20}
+JB	S&P 500 Info Tech
+JB.C	S&P 500 Info Tech Continuation
+JBH20	S&P 500 Info Tech {Mar 20}
+JBH21	S&P 500 Info Tech {Mar 21}
+JBM20	S&P 500 Info Tech {Jun 20}
+JBU20	S&P 500 Info Tech {Sep 20}
+JBZ20	S&P 500 Info Tech {Dec 20}
+JE	S&P 500 Utilities
+JE.C	S&P 500 Utilities Continuation
+JEH20	S&P 500 Utilities {Mar 20}
+JEH21	S&P 500 Utilities {Mar 21}
+JEM20	S&P 500 Utilities {Jun 20}
+JEU20	S&P 500 Utilities {Sep 20}
+JEZ20	S&P 500 Utilities {Dec 20}
+JG	S&P 500 Industrial
+JG.C	S&P 500 Industrial Continuation
+JGH20	S&P 500 Industrial {Mar 20}
+JGH21	S&P 500 Industrial {Mar 21}
+JGM20	S&P 500 Industrial {Jun 20}
+JGU20	S&P 500 Industrial {Sep 20}
+JGZ20	S&P 500 Industrial {Dec 20}
+JQ.C	Midsize Milk Options Continuation
+JQF20	Midsize Milk Options {Jan 20}
+JQF21	Midsize Milk Options {Jan 21}
+JQG20	Midsize Milk Options {Feb 20}
+JQG21	Midsize Milk Options {Feb 21}
+JQH20	Midsize Milk Options {Mar 20}
+JQH21	Midsize Milk Options {Mar 21}
+JQJ20	Midsize Milk Options {Apr 20}
+JQJ21	Midsize Milk Options {Apr 21}
+JQK20	Midsize Milk Options {May 20}
+JQK21	Midsize Milk Options {May 21}
+JQM20	Midsize Milk Options {Jun 20}
+JQM21	Midsize Milk Options {Jun 21}
+JQN20	Midsize Milk Options {Jul 20}
+JQN21	Midsize Milk Options {Jul 21}
+JQQ20	Midsize Milk Options {Aug 20}
+JQQ21	Midsize Milk Options {Aug 21}
+JQU20	Midsize Milk Options {Sep 20}
+JQU21	Midsize Milk Options {Sep 21}
+JQV20	Midsize Milk Options {Oct 20}
+JQV21	Midsize Milk Options {Oct 21}
+JQX20	Midsize Milk Options {Nov 20}
+JQX21	Midsize Milk Options {Nov 21}
+JQZ19	Midsize Milk Options {Dec 19}
+JQZ20	Midsize Milk Options {Dec 20}
+JQZ21	Midsize Milk Options {Dec 21}
+JY	Japanese Yen (Pit)
+JY.C	Japanese Yen (Pit) Continuation
+JYF20	Japanese Yen (Pit) {Jan 20}
+JYG20	Japanese Yen (Pit) {Feb 20}
+JYH20	Japanese Yen (Pit) {Mar 20}
+JYH21	Japanese Yen (Pit) {Mar 21}
+JYH22	Japanese Yen (Pit) {Mar 22}
+JYH23	Japanese Yen (Pit) {Mar 23}
+JYH24	Japanese Yen (Pit) {Mar 24}
+JYJ20	Japanese Yen (Pit) {Apr 20}
+JYK20	Japanese Yen (Pit) {May 20}
+JYM20	Japanese Yen (Pit) {Jun 20}
+JYM21	Japanese Yen (Pit) {Jun 21}
+JYM22	Japanese Yen (Pit) {Jun 22}
+JYM23	Japanese Yen (Pit) {Jun 23}
+JYM24	Japanese Yen (Pit) {Jun 24}
+JYU20	Japanese Yen (Pit) {Sep 20}
+JYU21	Japanese Yen (Pit) {Sep 21}
+JYU22	Japanese Yen (Pit) {Sep 22}
+JYU23	Japanese Yen (Pit) {Sep 23}
+JYU24	Japanese Yen (Pit) {Sep 24}
+JYZ20	Japanese Yen (Pit) {Dec 20}
+JYZ21	Japanese Yen (Pit) {Dec 21}
+JYZ22	Japanese Yen (Pit) {Dec 22}
+JYZ23	Japanese Yen (Pit) {Dec 23}
+JYZ24	Japanese Yen (Pit) {Dec 24}
+KZ.C	Korean Won Continuation
+KZF20	Korean Won {Jan 20}
+KZF21	Korean Won {Jan 21}
+KZG20	Korean Won {Feb 20}
+KZG21	Korean Won {Feb 21}
+KZH20	Korean Won {Mar 20}
+KZH21	Korean Won {Mar 21}
+KZJ20	Korean Won {Apr 20}
+KZK20	Korean Won {May 20}
+KZM20	Korean Won {Jun 20}
+KZM21	Korean Won {Jun 21}
+KZN20	Korean Won {Jul 20}
+KZQ20	Korean Won {Aug 20}
+KZU20	Korean Won {Sep 20}
+KZV20	Korean Won {Oct 20}
+KZX20	Korean Won {Nov 20}
+KZZ20	Korean Won {Dec 20}
+L6	Brazilian Real
+L6.C	Brazilian Real Continuation
+L6F20	Brazilian Real {Jan 20}
+L6F21	Brazilian Real {Jan 21}
+L6F22	Brazilian Real {Jan 22}
+L6F23	Brazilian Real {Jan 23}
+L6F24	Brazilian Real {Jan 24}
+L6F25	Brazilian Real {Jan 25}
+L6G20	Brazilian Real {Feb 20}
+L6G21	Brazilian Real {Feb 21}
+L6G22	Brazilian Real {Feb 22}
+L6G23	Brazilian Real {Feb 23}
+L6G24	Brazilian Real {Feb 24}
+L6G25	Brazilian Real {Feb 25}
+L6H20	Brazilian Real {Mar 20}
+L6H21	Brazilian Real {Mar 21}
+L6H22	Brazilian Real {Mar 22}
+L6H23	Brazilian Real {Mar 23}
+L6H24	Brazilian Real {Mar 24}
+L6J20	Brazilian Real {Apr 20}
+L6J21	Brazilian Real {Apr 21}
+L6J22	Brazilian Real {Apr 22}
+L6J23	Brazilian Real {Apr 23}
+L6J24	Brazilian Real {Apr 24}
+L6K20	Brazilian Real {May 20}
+L6K21	Brazilian Real {May 21}
+L6K22	Brazilian Real {May 22}
+L6K23	Brazilian Real {May 23}
+L6K24	Brazilian Real {May 24}
+L6M20	Brazilian Real {Jun 20}
+L6M21	Brazilian Real {Jun 21}
+L6M22	Brazilian Real {Jun 22}
+L6M23	Brazilian Real {Jun 23}
+L6M24	Brazilian Real {Jun 24}
+L6N20	Brazilian Real {Jul 20}
+L6N21	Brazilian Real {Jul 21}
+L6N22	Brazilian Real {Jul 22}
+L6N23	Brazilian Real {Jul 23}
+L6N24	Brazilian Real {Jul 24}
+L6Q20	Brazilian Real {Aug 20}
+L6Q21	Brazilian Real {Aug 21}
+L6Q22	Brazilian Real {Aug 22}
+L6Q23	Brazilian Real {Aug 23}
+L6Q24	Brazilian Real {Aug 24}
+L6U20	Brazilian Real {Sep 20}
+L6U21	Brazilian Real {Sep 21}
+L6U22	Brazilian Real {Sep 22}
+L6U23	Brazilian Real {Sep 23}
+L6U24	Brazilian Real {Sep 24}
+L6V20	Brazilian Real {Oct 20}
+L6V21	Brazilian Real {Oct 21}
+L6V22	Brazilian Real {Oct 22}
+L6V23	Brazilian Real {Oct 23}
+L6V24	Brazilian Real {Oct 24}
+L6X20	Brazilian Real {Nov 20}
+L6X21	Brazilian Real {Nov 21}
+L6X22	Brazilian Real {Nov 22}
+L6X23	Brazilian Real {Nov 23}
+L6X24	Brazilian Real {Nov 24}
+L6Z20	Brazilian Real {Dec 20}
+L6Z21	Brazilian Real {Dec 21}
+L6Z22	Brazilian Real {Dec 22}
+L6Z23	Brazilian Real {Dec 23}
+L6Z24	Brazilian Real {Dec 24}
+LB	Lumber (Pit)
+LB.C	Lumber (Pit) Continuation
+LBF20	Lumber (Pit) {Jan 20}
+LBF21	Lumber (Pit) {Jan 21}
+LBH20	Lumber (Pit) {Mar 20}
+LBH21	Lumber (Pit) {Mar 21}
+LBK20	Lumber (Pit) {May 20}
+LBN20	Lumber (Pit) {Jul 20}
+LBU20	Lumber (Pit) {Sep 20}
+LBX20	Lumber (Pit) {Nov 20}
+LC	Live Cattle (Pit)
+LC.C	Live Cattle (Pit) Continuation
+LCG20	Live Cattle (Pit) {Feb 20}
+LCG21	Live Cattle (Pit) {Feb 21}
+LCJ20	Live Cattle (Pit) {Apr 20}
+LCJ21	Live Cattle (Pit) {Apr 21}
+LCM20	Live Cattle (Pit) {Jun 20}
+LCM21	Live Cattle (Pit) {Jun 21}
+LCQ20	Live Cattle (Pit) {Aug 20}
+LCV20	Live Cattle (Pit) {Oct 20}
+LCZ19	Live Cattle (Pit) {Dec 19}
+LCZ20	Live Cattle (Pit) {Dec 20}
+LE	Live Cattle
+LE.C	Live Cattle Continuation
+LEG20	Live Cattle {Feb 20}
+LEG21	Live Cattle {Feb 21}
+LEJ20	Live Cattle {Apr 20}
+LEJ21	Live Cattle {Apr 21}
+LEM20	Live Cattle {Jun 20}
+LEM21	Live Cattle {Jun 21}
+LEQ20	Live Cattle {Aug 20}
+LEV20	Live Cattle {Oct 20}
+LEZ19	Live Cattle {Dec 19}
+LEZ20	Live Cattle {Dec 20}
+LH	Lean Hogs (Pit)
+LH.C	Lean Hogs (Pit) Continuation
+LHG20	Lean Hogs (Pit) {Feb 20}
+LHG21	Lean Hogs (Pit) {Feb 21}
+LHJ20	Lean Hogs (Pit) {Apr 20}
+LHJ21	Lean Hogs (Pit) {Apr 21}
+LHK20	Lean Hogs (Pit) {May 20}
+LHK21	Lean Hogs (Pit) {May 21}
+LHM20	Lean Hogs (Pit) {Jun 20}
+LHM21	Lean Hogs (Pit) {Jun 21}
+LHN20	Lean Hogs (Pit) {Jul 20}
+LHQ20	Lean Hogs (Pit) {Aug 20}
+LHV20	Lean Hogs (Pit) {Oct 20}
+LHZ20	Lean Hogs (Pit) {Dec 20}
+LS	Lumber
+LS.C	Lumber Continuation
+LSF20	Lumber {Jan 20}
+LSF21	Lumber {Jan 21}
+LSH20	Lumber {Mar 20}
+LSH21	Lumber {Mar 21}
+LSK20	Lumber {May 20}
+LSN20	Lumber {Jul 20}
+LSU20	Lumber {Sep 20}
+LSX20	Lumber {Nov 20}
+M6	Mexican Peso
+M6.C	Mexican Peso Continuation
+M6F20	Mexican Peso {Jan 20}
+M6F21	Mexican Peso {Jan 21}
+M6G20	Mexican Peso {Feb 20}
+M6G21	Mexican Peso {Feb 21}
+M6H20	Mexican Peso {Mar 20}
+M6H21	Mexican Peso {Mar 21}
+M6J20	Mexican Peso {Apr 20}
+M6K20	Mexican Peso {May 20}
+M6M20	Mexican Peso {Jun 20}
+M6M21	Mexican Peso {Jun 21}
+M6N20	Mexican Peso {Jul 20}
+M6Q20	Mexican Peso {Aug 20}
+M6U20	Mexican Peso {Sep 20}
+M6V20	Mexican Peso {Oct 20}
+M6X20	Mexican Peso {Nov 20}
+M6Z20	Mexican Peso {Dec 20}
+MA.C	MPC Sonia Continuation
+MAF20	MPC Sonia {Jan 20}
+MAH20	MPC Sonia {Mar 20}
+MAK20	MPC Sonia {May 20}
+MAM20	MPC Sonia {Jun 20}
+MAQ20	MPC Sonia {Aug 20}
+MAU20	MPC Sonia {Sep 20}
+MAX20	MPC Sonia {Nov 20}
+MAZ19	MPC Sonia {Dec 19}
+MB.C	E-Micro GBP/USD Continuation
+MBH20	E-Micro GBP/USD {Mar 20}
+MBM20	E-Micro GBP/USD {Jun 20}
+MC.C	E-Mini Nikkei Yen Continuation
+MCH20	E-Mini Nikkei Yen {Mar 20}
+MCM20	E-Mini Nikkei Yen {Jun 20}
+MCU20	E-Mini Nikkei Yen {Sep 20}
+MCZ20	E-Mini Nikkei Yen {Dec 20}
+MD	S&P Midcap 400
+MF.C	E-Micro EUR/USD Continuation
+MFH20	E-Micro EUR/USD {Mar 20}
+MFM20	E-Micro EUR/USD {Jun 20}
+MG.C	E-Micro AUD/USD Continuation
+MGH20	E-Micro AUD/USD {Mar 20}
+MGM20	E-Micro AUD/USD {Jun 20}
+MQ	Mexican Peso (Pit)
+MQ.C	Mexican Peso (Pit) Continuation
+MQF20	Mexican Peso (Pit) {Jan 20}
+MQF21	Mexican Peso (Pit) {Jan 21}
+MQG20	Mexican Peso (Pit) {Feb 20}
+MQG21	Mexican Peso (Pit) {Feb 21}
+MQH20	Mexican Peso (Pit) {Mar 20}
+MQH21	Mexican Peso (Pit) {Mar 21}
+MQJ20	Mexican Peso (Pit) {Apr 20}
+MQK20	Mexican Peso (Pit) {May 20}
+MQM20	Mexican Peso (Pit) {Jun 20}
+MQM21	Mexican Peso (Pit) {Jun 21}
+MQN20	Mexican Peso (Pit) {Jul 20}
+MQQ20	Mexican Peso (Pit) {Aug 20}
+MQU20	Mexican Peso (Pit) {Sep 20}
+MQV20	Mexican Peso (Pit) {Oct 20}
+MQX20	Mexican Peso (Pit) {Nov 20}
+MQZ20	Mexican Peso (Pit) {Dec 20}
+MZ.C	Quarterly IMM Sonia Continuation
+MZH20	Quarterly IMM Sonia {Mar 20}
+MZH21	Quarterly IMM Sonia {Mar 21}
+MZH22	Quarterly IMM Sonia {Mar 22}
+MZH23	Quarterly IMM Sonia {Mar 23}
+MZH24	Quarterly IMM Sonia {Mar 24}
+MZM20	Quarterly IMM Sonia {Jun 20}
+MZM21	Quarterly IMM Sonia {Jun 21}
+MZM22	Quarterly IMM Sonia {Jun 22}
+MZM23	Quarterly IMM Sonia {Jun 23}
+MZM24	Quarterly IMM Sonia {Jun 24}
+MZU20	Quarterly IMM Sonia {Sep 20}
+MZU21	Quarterly IMM Sonia {Sep 21}
+MZU22	Quarterly IMM Sonia {Sep 22}
+MZU23	Quarterly IMM Sonia {Sep 23}
+MZU24	Quarterly IMM Sonia {Sep 24}
+MZZ19	Quarterly IMM Sonia {Dec 19}
+MZZ20	Quarterly IMM Sonia {Dec 20}
+MZZ21	Quarterly IMM Sonia {Dec 21}
+MZZ22	Quarterly IMM Sonia {Dec 22}
+MZZ23	Quarterly IMM Sonia {Dec 23}
+N0	Chilean Peso/USD
+N0.C	Chilean Peso/USD Continuation
+N0F20	Chilean Peso/USD {Jan 20}
+N0F21	Chilean Peso/USD {Jan 21}
+N0G20	Chilean Peso/USD {Feb 20}
+N0G21	Chilean Peso/USD {Feb 21}
+N0H20	Chilean Peso/USD {Mar 20}
+N0H21	Chilean Peso/USD {Mar 21}
+N0J20	Chilean Peso/USD {Apr 20}
+N0K20	Chilean Peso/USD {May 20}
+N0M20	Chilean Peso/USD {Jun 20}
+N0M21	Chilean Peso/USD {Jun 21}
+N0N20	Chilean Peso/USD {Jul 20}
+N0Q20	Chilean Peso/USD {Aug 20}
+N0U20	Chilean Peso/USD {Sep 20}
+N0U21	Chilean Peso/USD {Sep 21}
+N0V20	Chilean Peso/USD {Oct 20}
+N0X20	Chilean Peso/USD {Nov 20}
+N0Z20	Chilean Peso/USD {Dec 20}
+N0Z21	Chilean Peso/USD {Dec 21}
+N5	Chilean Peso
+N5.C	Chilean Peso Continuation
+N5F20	Chilean Peso {Jan 20}
+N5F21	Chilean Peso {Jan 21}
+N5G20	Chilean Peso {Feb 20}
+N5G21	Chilean Peso {Feb 21}
+N5H20	Chilean Peso {Mar 20}
+N5H21	Chilean Peso {Mar 21}
+N5J20	Chilean Peso {Apr 20}
+N5K20	Chilean Peso {May 20}
+N5M20	Chilean Peso {Jun 20}
+N5M21	Chilean Peso {Jun 21}
+N5N20	Chilean Peso {Jul 20}
+N5Q20	Chilean Peso {Aug 20}
+N5U20	Chilean Peso {Sep 20}
+N5U21	Chilean Peso {Sep 21}
+N5V20	Chilean Peso {Oct 20}
+N5X20	Chilean Peso {Nov 20}
+N5Z20	Chilean Peso {Dec 20}
+N5Z21	Chilean Peso {Dec 21}
+N6	New Zealand Dollar
+N6.C	New Zealand Dollar Continuation
+N6H20	New Zealand Dollar {Mar 20}
+N6H21	New Zealand Dollar {Mar 21}
+N6M20	New Zealand Dollar {Jun 20}
+N6M21	New Zealand Dollar {Jun 21}
+N6U20	New Zealand Dollar {Sep 20}
+N6Z20	New Zealand Dollar {Dec 20}
+NB	Nasdaq Bio E-Mini
+NB.C	Nasdaq Bio E-Mini Continuation
+NBH20	Nasdaq Bio E-Mini {Mar 20}
+NBH21	Nasdaq Bio E-Mini {Mar 21}
+NBM20	Nasdaq Bio E-Mini {Jun 20}
+NBU20	Nasdaq Bio E-Mini {Sep 20}
+NBZ20	Nasdaq Bio E-Mini {Dec 20}
+NC	Nasdaq Comp E-Mini
+NC.C	Nasdaq Comp E-Mini Continuation
+NCH20	Nasdaq Comp E-Mini {Mar 20}
+NCM20	Nasdaq Comp E-Mini {Jun 20}
+ND	Nasdaq 100
+NE	New Zealand Doll.(P)
+NE.C	New Zealand Doll.(P) Continuation
+NEH20	New Zealand Doll.(P) {Mar 20}
+NEH21	New Zealand Doll.(P) {Mar 21}
+NEM20	New Zealand Doll.(P) {Jun 20}
+NEM21	New Zealand Doll.(P) {Jun 21}
+NEU20	New Zealand Doll.(P) {Sep 20}
+NEZ20	New Zealand Doll.(P) {Dec 20}
+NK	Nikkei 225 (Pit)
+NK.C	Nikkei 225 (Pit) Continuation
+NKH20	Nikkei 225 (Pit) {Mar 20}
+NKH21	Nikkei 225 (Pit) {Mar 21}
+NKH22	Nikkei 225 (Pit) {Mar 22}
+NKM20	Nikkei 225 (Pit) {Jun 20}
+NKM21	Nikkei 225 (Pit) {Jun 21}
+NKM22	Nikkei 225 (Pit) {Jun 22}
+NKU20	Nikkei 225 (Pit) {Sep 20}
+NKU21	Nikkei 225 (Pit) {Sep 21}
+NKU22	Nikkei 225 (Pit) {Sep 22}
+NKZ20	Nikkei 225 (Pit) {Dec 20}
+NKZ21	Nikkei 225 (Pit) {Dec 21}
+NKZ22	Nikkei 225 (Pit) {Dec 22}
+NKZ23	Nikkei 225 (Pit) {Dec 23}
+NKZ24	Nikkei 225 (Pit) {Dec 24}
+NKZ25	Nikkei 225 (Pit) {Dec 25}
+NL.C	Nikkei 225 Yen Continuation
+NLF20	Nikkei 225 Yen {Jan 20}
+NLG20	Nikkei 225 Yen {Feb 20}
+NLH20	Nikkei 225 Yen {Mar 20}
+NLH21	Nikkei 225 Yen {Mar 21}
+NLH22	Nikkei 225 Yen {Mar 22}
+NLJ20	Nikkei 225 Yen {Apr 20}
+NLK20	Nikkei 225 Yen {May 20}
+NLM20	Nikkei 225 Yen {Jun 20}
+NLM21	Nikkei 225 Yen {Jun 21}
+NLM22	Nikkei 225 Yen {Jun 22}
+NLU20	Nikkei 225 Yen {Sep 20}
+NLU21	Nikkei 225 Yen {Sep 21}
+NLU22	Nikkei 225 Yen {Sep 22}
+NLZ20	Nikkei 225 Yen {Dec 20}
+NLZ21	Nikkei 225 Yen {Dec 21}
+NLZ22	Nikkei 225 Yen {Dec 22}
+NLZ23	Nikkei 225 Yen {Dec 23}
+NLZ24	Nikkei 225 Yen {Dec 24}
+NLZ25	Nikkei 225 Yen {Dec 25}
+NM.C	Nasdaq 100 Micro Continuation
+NMH20	Nasdaq 100 Micro {Mar 20}
+NMH21	Nasdaq 100 Micro {Mar 21}
+NMM20	Nasdaq 100 Micro {Jun 20}
+NMU20	Nasdaq 100 Micro {Sep 20}
+NMZ20	Nasdaq 100 Micro {Dec 20}
+NQ	Nasdaq 100 E-Mini
+NQ.C	Nasdaq 100 E-Mini Continuation
+NQH20	Nasdaq 100 E-Mini {Mar 20}
+NQH21	Nasdaq 100 E-Mini {Mar 21}
+NQM20	Nasdaq 100 E-Mini {Jun 20}
+NQU20	Nasdaq 100 E-Mini {Sep 20}
+NQZ20	Nasdaq 100 E-Mini {Dec 20}
+NR	Norwegian Krone
+NR.C	Norwegian Krone Continuation
+NRH20	Norwegian Krone {Mar 20}
+NRH21	Norwegian Krone {Mar 21}
+NRM20	Norwegian Krone {Jun 20}
+NRM21	Norwegian Krone {Jun 21}
+NRU20	Norwegian Krone {Sep 20}
+NRZ20	Norwegian Krone {Dec 20}
+NY.C	Nikkei 225 Continuation
+NYH20	Nikkei 225 {Mar 20}
+NYH21	Nikkei 225 {Mar 21}
+NYH22	Nikkei 225 {Mar 22}
+NYM20	Nikkei 225 {Jun 20}
+NYM21	Nikkei 225 {Jun 21}
+NYM22	Nikkei 225 {Jun 22}
+NYU20	Nikkei 225 {Sep 20}
+NYU21	Nikkei 225 {Sep 21}
+NYU22	Nikkei 225 {Sep 22}
+NYZ20	Nikkei 225 {Dec 20}
+NYZ21	Nikkei 225 {Dec 21}
+NYZ22	Nikkei 225 {Dec 22}
+NYZ23	Nikkei 225 {Dec 23}
+NYZ24	Nikkei 225 {Dec 24}
+NYZ25	Nikkei 225 {Dec 25}
+OE	S&P 100 OEX
+OP	S&P 1000
+PC	S&P Smallcap E-Mini
+PC.C	S&P Smallcap E-Mini Continuation
+PCH20	S&P Smallcap E-Mini {Mar 20}
+PCH21	S&P Smallcap E-Mini {Mar 21}
+PCM20	S&P Smallcap E-Mini {Jun 20}
+PCU20	S&P Smallcap E-Mini {Sep 20}
+PCZ20	S&P Smallcap E-Mini {Dec 20}
+PH	S&P Smallcap 600
+PJ.C	E-Mini IPOX US Index Continuation
+PJH20	E-Mini IPOX US Index {Mar 20}
+PJH21	E-Mini IPOX US Index {Mar 21}
+PJM20	E-Mini IPOX US Index {Jun 20}
+PJU20	E-Mini IPOX US Index {Sep 20}
+PJZ20	E-Mini IPOX US Index {Dec 20}
+QF	Russell 2000 Growth
+QF.C	Russell 2000 Growth Continuation
+QFH20	Russell 2000 Growth {Mar 20}
+QFH21	Russell 2000 Growth {Mar 21}
+QFM20	Russell 2000 Growth {Jun 20}
+QFU20	Russell 2000 Growth {Sep 20}
+QFZ20	Russell 2000 Growth {Dec 20}
+QQ	Russell 2000 Value
+QQ.C	Russell 2000 Value Continuation
+QQH20	Russell 2000 Value {Mar 20}
+QQH21	Russell 2000 Value {Mar 21}
+QQM20	Russell 2000 Value {Jun 20}
+QQU20	Russell 2000 Value {Sep 20}
+QQZ20	Russell 2000 Value {Dec 20}
+QR	Russell 2000 E-Mini
+QR.C	Russell 2000 E-Mini Continuation
+QRH20	Russell 2000 E-Mini {Mar 20}
+QRH21	Russell 2000 E-Mini {Mar 21}
+QRM20	Russell 2000 E-Mini {Jun 20}
+QRU20	Russell 2000 E-Mini {Sep 20}
+QRZ20	Russell 2000 E-Mini {Dec 20}
+QT.C	Chinese Renminbi Continuation
+QTF20	Chinese Renminbi {Jan 20}
+QTF21	Chinese Renminbi {Jan 21}
+QTG20	Chinese Renminbi {Feb 20}
+QTG21	Chinese Renminbi {Feb 21}
+QTH20	Chinese Renminbi {Mar 20}
+QTH21	Chinese Renminbi {Mar 21}
+QTH22	Chinese Renminbi {Mar 22}
+QTJ20	Chinese Renminbi {Apr 20}
+QTK20	Chinese Renminbi {May 20}
+QTM20	Chinese Renminbi {Jun 20}
+QTM21	Chinese Renminbi {Jun 21}
+QTM22	Chinese Renminbi {Jun 22}
+QTN20	Chinese Renminbi {Jul 20}
+QTQ20	Chinese Renminbi {Aug 20}
+QTU20	Chinese Renminbi {Sep 20}
+QTU21	Chinese Renminbi {Sep 21}
+QTU22	Chinese Renminbi {Sep 22}
+QTV20	Chinese Renminbi {Oct 20}
+QTX20	Chinese Renminbi {Nov 20}
+QTZ20	Chinese Renminbi {Dec 20}
+QTZ21	Chinese Renminbi {Dec 21}
+QTZ22	Chinese Renminbi {Dec 22}
+QV	Renminbi/Euro
+QV.C	Renminbi/Euro Continuation
+QVF20	Renminbi/Euro {Jan 20}
+QVF21	Renminbi/Euro {Jan 21}
+QVG20	Renminbi/Euro {Feb 20}
+QVG21	Renminbi/Euro {Feb 21}
+QVH20	Renminbi/Euro {Mar 20}
+QVH21	Renminbi/Euro {Mar 21}
+QVJ20	Renminbi/Euro {Apr 20}
+QVK20	Renminbi/Euro {May 20}
+QVM20	Renminbi/Euro {Jun 20}
+QVM21	Renminbi/Euro {Jun 21}
+QVN20	Renminbi/Euro {Jul 20}
+QVQ20	Renminbi/Euro {Aug 20}
+QVU20	Renminbi/Euro {Sep 20}
+QVV20	Renminbi/Euro {Oct 20}
+QVX20	Renminbi/Euro {Nov 20}
+QVZ20	Renminbi/Euro {Dec 20}
+R6	Russian Ruble
+R6.C	Russian Ruble Continuation
+R6F20	Russian Ruble {Jan 20}
+R6F21	Russian Ruble {Jan 21}
+R6G20	Russian Ruble {Feb 20}
+R6H20	Russian Ruble {Mar 20}
+R6H21	Russian Ruble {Mar 21}
+R6H22	Russian Ruble {Mar 22}
+R6H23	Russian Ruble {Mar 23}
+R6H24	Russian Ruble {Mar 24}
+R6J20	Russian Ruble {Apr 20}
+R6K20	Russian Ruble {May 20}
+R6M20	Russian Ruble {Jun 20}
+R6M21	Russian Ruble {Jun 21}
+R6M22	Russian Ruble {Jun 22}
+R6M23	Russian Ruble {Jun 23}
+R6M24	Russian Ruble {Jun 24}
+R6N20	Russian Ruble {Jul 20}
+R6Q20	Russian Ruble {Aug 20}
+R6U20	Russian Ruble {Sep 20}
+R6U21	Russian Ruble {Sep 21}
+R6U22	Russian Ruble {Sep 22}
+R6U23	Russian Ruble {Sep 23}
+R6U24	Russian Ruble {Sep 24}
+R6V20	Russian Ruble {Oct 20}
+R6X20	Russian Ruble {Nov 20}
+R6Z20	Russian Ruble {Dec 20}
+R6Z21	Russian Ruble {Dec 21}
+R6Z22	Russian Ruble {Dec 22}
+R6Z23	Russian Ruble {Dec 23}
+R6Z24	Russian Ruble {Dec 24}
+RA	South African (Pit)
+RA.C	South African (Pit) Continuation
+RAF20	South African (Pit) {Jan 20}
+RAF21	South African (Pit) {Jan 21}
+RAG20	South African (Pit) {Feb 20}
+RAG21	South African (Pit) {Feb 21}
+RAH20	South African (Pit) {Mar 20}
+RAH21	South African (Pit) {Mar 21}
+RAJ20	South African (Pit) {Apr 20}
+RAK20	South African (Pit) {May 20}
+RAM20	South African (Pit) {Jun 20}
+RAM21	South African (Pit) {Jun 21}
+RAN20	South African (Pit) {Jul 20}
+RAQ20	South African (Pit) {Aug 20}
+RAU20	South African (Pit) {Sep 20}
+RAU21	South African (Pit) {Sep 21}
+RAV20	South African (Pit) {Oct 20}
+RAX20	South African (Pit) {Nov 20}
+RAZ20	South African (Pit) {Dec 20}
+RAZ21	South African (Pit) {Dec 21}
+RF	Euro/Swiss
+RF.C	Euro/Swiss Continuation
+RFH20	Euro/Swiss {Mar 20}
+RFH21	Euro/Swiss {Mar 21}
+RFM20	Euro/Swiss {Jun 20}
+RFM21	Euro/Swiss {Jun 21}
+RFU20	Euro/Swiss {Sep 20}
+RFZ20	Euro/Swiss {Dec 20}
+RL	Russell 1000 E-Mini
+RL.C	Russell 1000 E-Mini Continuation
+RLH20	Russell 1000 E-Mini {Mar 20}
+RLH21	Russell 1000 E-Mini {Mar 21}
+RLM20	Russell 1000 E-Mini {Jun 20}
+RLU20	Russell 1000 E-Mini {Sep 20}
+RLZ20	Russell 1000 E-Mini {Dec 20}
+RP	Euro/Pound
+RP.C	Euro/Pound Continuation
+RPF20	Euro/Pound {Jan 20}
+RPG20	Euro/Pound {Feb 20}
+RPH20	Euro/Pound {Mar 20}
+RPH21	Euro/Pound {Mar 21}
+RPJ20	Euro/Pound {Apr 20}
+RPK20	Euro/Pound {May 20}
+RPM20	Euro/Pound {Jun 20}
+RPM21	Euro/Pound {Jun 21}
+RPU20	Euro/Pound {Sep 20}
+RPZ20	Euro/Pound {Dec 20}
+RU	Russian Ruble (Pit)
+RU.C	Russian Ruble (Pit) Continuation
+RUF20	Russian Ruble (Pit) {Jan 20}
+RUF21	Russian Ruble (Pit) {Jan 21}
+RUG20	Russian Ruble (Pit) {Feb 20}
+RUH20	Russian Ruble (Pit) {Mar 20}
+RUH21	Russian Ruble (Pit) {Mar 21}
+RUH22	Russian Ruble (Pit) {Mar 22}
+RUH23	Russian Ruble (Pit) {Mar 23}
+RUH24	Russian Ruble (Pit) {Mar 24}
+RUJ20	Russian Ruble (Pit) {Apr 20}
+RUK20	Russian Ruble (Pit) {May 20}
+RUM20	Russian Ruble (Pit) {Jun 20}
+RUM21	Russian Ruble (Pit) {Jun 21}
+RUM22	Russian Ruble (Pit) {Jun 22}
+RUM23	Russian Ruble (Pit) {Jun 23}
+RUM24	Russian Ruble (Pit) {Jun 24}
+RUN20	Russian Ruble (Pit) {Jul 20}
+RUQ20	Russian Ruble (Pit) {Aug 20}
+RUU20	Russian Ruble (Pit) {Sep 20}
+RUU21	Russian Ruble (Pit) {Sep 21}
+RUU22	Russian Ruble (Pit) {Sep 22}
+RUU23	Russian Ruble (Pit) {Sep 23}
+RUU24	Russian Ruble (Pit) {Sep 24}
+RUV20	Russian Ruble (Pit) {Oct 20}
+RUX20	Russian Ruble (Pit) {Nov 20}
+RUZ20	Russian Ruble (Pit) {Dec 20}
+RUZ21	Russian Ruble (Pit) {Dec 21}
+RUZ22	Russian Ruble (Pit) {Dec 22}
+RUZ23	Russian Ruble (Pit) {Dec 23}
+RUZ24	Russian Ruble (Pit) {Dec 24}
+RX.C	Russell 2000 Micro Continuation
+RXH20	Russell 2000 Micro {Mar 20}
+RXH21	Russell 2000 Micro {Mar 21}
+RXM20	Russell 2000 Micro {Jun 20}
+RXU20	Russell 2000 Micro {Sep 20}
+RXZ20	Russell 2000 Micro {Dec 20}
+RY	Euro/Yen
+RY.C	Euro/Yen Continuation
+RYH20	Euro/Yen {Mar 20}
+RYH21	Euro/Yen {Mar 21}
+RYM20	Euro/Yen {Jun 20}
+RYM21	Euro/Yen {Jun 21}
+RYU20	Euro/Yen {Sep 20}
+RYZ20	Euro/Yen {Dec 20}
+S6	Swiss Franc
+S6.C	Swiss Franc Continuation
+S6H20	Swiss Franc {Mar 20}
+S6H21	Swiss Franc {Mar 21}
+S6H22	Swiss Franc {Mar 22}
+S6H23	Swiss Franc {Mar 23}
+S6H24	Swiss Franc {Mar 24}
+S6M20	Swiss Franc {Jun 20}
+S6M21	Swiss Franc {Jun 21}
+S6M22	Swiss Franc {Jun 22}
+S6M23	Swiss Franc {Jun 23}
+S6M24	Swiss Franc {Jun 24}
+S6U20	Swiss Franc {Sep 20}
+S6U21	Swiss Franc {Sep 21}
+S6U22	Swiss Franc {Sep 22}
+S6U23	Swiss Franc {Sep 23}
+S6U24	Swiss Franc {Sep 24}
+S6Z20	Swiss Franc {Dec 20}
+S6Z21	Swiss Franc {Dec 21}
+S6Z22	Swiss Franc {Dec 22}
+S6Z23	Swiss Franc {Dec 23}
+S6Z24	Swiss Franc {Dec 24}
+SE.C	S&P MLP Total Return Continuation
+SEH20	S&P MLP Total Return {Mar 20}
+SEH21	S&P MLP Total Return {Mar 21}
+SEM20	S&P MLP Total Return {Jun 20}
+SEU20	S&P MLP Total Return {Sep 20}
+SEZ20	S&P MLP Total Return {Dec 20}
+SF	Swiss Franc (Pit)
+SF.C	Swiss Franc (Pit) Continuation
+SFH20	Swiss Franc (Pit) {Mar 20}
+SFH21	Swiss Franc (Pit) {Mar 21}
+SFH22	Swiss Franc (Pit) {Mar 22}
+SFH23	Swiss Franc (Pit) {Mar 23}
+SFH24	Swiss Franc (Pit) {Mar 24}
+SFM20	Swiss Franc (Pit) {Jun 20}
+SFM21	Swiss Franc (Pit) {Jun 21}
+SFM22	Swiss Franc (Pit) {Jun 22}
+SFM23	Swiss Franc (Pit) {Jun 23}
+SFM24	Swiss Franc (Pit) {Jun 24}
+SFU20	Swiss Franc (Pit) {Sep 20}
+SFU21	Swiss Franc (Pit) {Sep 21}
+SFU22	Swiss Franc (Pit) {Sep 22}
+SFU23	Swiss Franc (Pit) {Sep 23}
+SFU24	Swiss Franc (Pit) {Sep 24}
+SFZ20	Swiss Franc (Pit) {Dec 20}
+SFZ21	Swiss Franc (Pit) {Dec 21}
+SFZ22	Swiss Franc (Pit) {Dec 22}
+SFZ23	Swiss Franc (Pit) {Dec 23}
+SFZ24	Swiss Franc (Pit) {Dec 24}
+SG	S&P 500 Growth Index
+SG.C	S&P 500 Growth Index Continuation
+SGH20	S&P 500 Growth Index {Mar 20}
+SGM20	S&P 500 Growth Index {Jun 20}
+SK	Swedish Krona
+SK.C	Swedish Krona Continuation
+SKH20	Swedish Krona {Mar 20}
+SKH21	Swedish Krona {Mar 21}
+SKM20	Swedish Krona {Jun 20}
+SKM21	Swedish Krona {Jun 21}
+SKU20	Swedish Krona {Sep 20}
+SKZ20	Swedish Krona {Dec 20}
+SL.C	1-Month SOFR Continuation
+SLF20	1-Month SOFR {Jan 20}
+SLF21	1-Month SOFR {Jan 21}
+SLG20	1-Month SOFR {Feb 20}
+SLH20	1-Month SOFR {Mar 20}
+SLJ20	1-Month SOFR {Apr 20}
+SLK20	1-Month SOFR {May 20}
+SLM20	1-Month SOFR {Jun 20}
+SLN20	1-Month SOFR {Jul 20}
+SLQ20	1-Month SOFR {Aug 20}
+SLU20	1-Month SOFR {Sep 20}
+SLV20	1-Month SOFR {Oct 20}
+SLX20	1-Month SOFR {Nov 20}
+SLZ19	1-Month SOFR {Dec 19}
+SLZ20	1-Month SOFR {Dec 20}
+SP	S&P 500 Index
+SP.C	S&P 500 Index Continuation
+SPH20	S&P 500 Index {Mar 20}
+SPH21	S&P 500 Index {Mar 21}
+SPM20	S&P 500 Index {Jun 20}
+SPM21	S&P 500 Index {Jun 21}
+SPU20	S&P 500 Index {Sep 20}
+SPU21	S&P 500 Index {Sep 21}
+SPZ20	S&P 500 Index {Dec 20}
+SPZ21	S&P 500 Index {Dec 21}
+SPZ22	S&P 500 Index {Dec 22}
+SPZ23	S&P 500 Index {Dec 23}
+SPZ24	S&P 500 Index {Dec 24}
+SQ	3-Month SOFR
+SQ.C	3-Month SOFR Continuation
+SQH20	3-Month SOFR {Mar 20}
+SQH21	3-Month SOFR {Mar 21}
+SQH22	3-Month SOFR {Mar 22}
+SQH23	3-Month SOFR {Mar 23}
+SQH24	3-Month SOFR {Mar 24}
+SQH25	3-Month SOFR {Mar 25}
+SQH26	3-Month SOFR {Mar 26}
+SQH27	3-Month SOFR {Mar 27}
+SQH28	3-Month SOFR {Mar 28}
+SQH29	3-Month SOFR {Mar 29}
+SQM20	3-Month SOFR {Jun 20}
+SQM21	3-Month SOFR {Jun 21}
+SQM22	3-Month SOFR {Jun 22}
+SQM23	3-Month SOFR {Jun 23}
+SQM24	3-Month SOFR {Jun 24}
+SQM25	3-Month SOFR {Jun 25}
+SQM26	3-Month SOFR {Jun 26}
+SQM27	3-Month SOFR {Jun 27}
+SQM28	3-Month SOFR {Jun 28}
+SQM29	3-Month SOFR {Jun 29}
+SQU20	3-Month SOFR {Sep 20}
+SQU21	3-Month SOFR {Sep 21}
+SQU22	3-Month SOFR {Sep 22}
+SQU23	3-Month SOFR {Sep 23}
+SQU24	3-Month SOFR {Sep 24}
+SQU25	3-Month SOFR {Sep 25}
+SQU26	3-Month SOFR {Sep 26}
+SQU27	3-Month SOFR {Sep 27}
+SQU28	3-Month SOFR {Sep 28}
+SQZ19	3-Month SOFR {Dec 19}
+SQZ20	3-Month SOFR {Dec 20}
+SQZ21	3-Month SOFR {Dec 21}
+SQZ22	3-Month SOFR {Dec 22}
+SQZ23	3-Month SOFR {Dec 23}
+SQZ24	3-Month SOFR {Dec 24}
+SQZ25	3-Month SOFR {Dec 25}
+SQZ26	3-Month SOFR {Dec 26}
+SQZ27	3-Month SOFR {Dec 27}
+SQZ28	3-Month SOFR {Dec 28}
+SU	S&P 500 Value Index
+SU.C	S&P 500 Value Index Continuation
+SUH20	S&P 500 Value Index {Mar 20}
+SUM20	S&P 500 Value Index {Jun 20}
+T2.C	S&P 500 Dividend Continuation
+T2Z20	S&P 500 Dividend {Dec 20}
+T2Z21	S&P 500 Dividend {Dec 21}
+T2Z22	S&P 500 Dividend {Dec 22}
+T2Z23	S&P 500 Dividend {Dec 23}
+T2Z24	S&P 500 Dividend {Dec 24}
+T2Z25	S&P 500 Dividend {Dec 25}
+T2Z26	S&P 500 Dividend {Dec 26}
+T2Z27	S&P 500 Dividend {Dec 27}
+T2Z28	S&P 500 Dividend {Dec 28}
+T2Z29	S&P 500 Dividend {Dec 29}
+T2Z30	S&P 500 Dividend {Dec 30}
+T3.C	USD/ZAR Continuation
+T3F20	USD/ZAR {Jan 20}
+T3F21	USD/ZAR {Jan 21}
+T3G20	USD/ZAR {Feb 20}
+T3G21	USD/ZAR {Feb 21}
+T3H20	USD/ZAR {Mar 20}
+T3H21	USD/ZAR {Mar 21}
+T3J20	USD/ZAR {Apr 20}
+T3K20	USD/ZAR {May 20}
+T3M20	USD/ZAR {Jun 20}
+T3M21	USD/ZAR {Jun 21}
+T3N20	USD/ZAR {Jul 20}
+T3Q20	USD/ZAR {Aug 20}
+T3U20	USD/ZAR {Sep 20}
+T3U21	USD/ZAR {Sep 21}
+T3V20	USD/ZAR {Oct 20}
+T3X20	USD/ZAR {Nov 20}
+T3Z20	USD/ZAR {Dec 20}
+T3Z21	USD/ZAR {Dec 21}
+T6	South African Rand
+T6.C	South African Rand Continuation
+T6F20	South African Rand {Jan 20}
+T6F21	South African Rand {Jan 21}
+T6G20	South African Rand {Feb 20}
+T6G21	South African Rand {Feb 21}
+T6H20	South African Rand {Mar 20}
+T6H21	South African Rand {Mar 21}
+T6J20	South African Rand {Apr 20}
+T6K20	South African Rand {May 20}
+T6M20	South African Rand {Jun 20}
+T6M21	South African Rand {Jun 21}
+T6N20	South African Rand {Jul 20}
+T6Q20	South African Rand {Aug 20}
+T6U20	South African Rand {Sep 20}
+T6U21	South African Rand {Sep 21}
+T6V20	South African Rand {Oct 20}
+T6X20	South African Rand {Nov 20}
+T6Z20	South African Rand {Dec 20}
+T6Z21	South African Rand {Dec 21}
+TB	13-Week T-Bill Rate
+TC.C	S&P 500 Total Return Continuation
+TCF20	S&P 500 Total Return {Jan 20}
+TCG20	S&P 500 Total Return {Feb 20}
+TCH20	S&P 500 Total Return {Mar 20}
+TCH21	S&P 500 Total Return {Mar 21}
+TCH22	S&P 500 Total Return {Mar 22}
+TCH23	S&P 500 Total Return {Mar 23}
+TCJ20	S&P 500 Total Return {Apr 20}
+TCK20	S&P 500 Total Return {May 20}
+TCM20	S&P 500 Total Return {Jun 20}
+TCM21	S&P 500 Total Return {Jun 21}
+TCM22	S&P 500 Total Return {Jun 22}
+TCN20	S&P 500 Total Return {Jul 20}
+TCU20	S&P 500 Total Return {Sep 20}
+TCU21	S&P 500 Total Return {Sep 21}
+TCU22	S&P 500 Total Return {Sep 22}
+TCZ20	S&P 500 Total Return {Dec 20}
+TCZ21	S&P 500 Total Return {Dec 21}
+TCZ22	S&P 500 Total Return {Dec 22}
+TCZ23	S&P 500 Total Return {Dec 23}
+TCZ24	S&P 500 Total Return {Dec 24}
+TCZ25	S&P 500 Total Return {Dec 25}
+TCZ26	S&P 500 Total Return {Dec 26}
+TK.C	Russell 1000 Growth Continuation
+TKH20	Russell 1000 Growth {Mar 20}
+TKH21	Russell 1000 Growth {Mar 21}
+TKM20	Russell 1000 Growth {Jun 20}
+TKU20	Russell 1000 Growth {Sep 20}
+TKZ20	Russell 1000 Growth {Dec 20}
+TX.C	Russell 1000 Value Continuation
+TXH20	Russell 1000 Value {Mar 20}
+TXH21	Russell 1000 Value {Mar 21}
+TXM20	Russell 1000 Value {Jun 20}
+TXU20	Russell 1000 Value {Sep 20}
+TXZ20	Russell 1000 Value {Dec 20}
+UA	Euro/Krona
+UA.C	Euro/Krona Continuation
+UAH20	Euro/Krona {Mar 20}
+UAH21	Euro/Krona {Mar 21}
+UAM20	Euro/Krona {Jun 20}
+UAM21	Euro/Krona {Jun 21}
+UAU20	Euro/Krona {Sep 20}
+UAZ20	Euro/Krona {Dec 20}
+UB	Euro/Krone
+UB.C	Euro/Krone Continuation
+UBH20	Euro/Krone {Mar 20}
+UBH21	Euro/Krone {Mar 21}
+UBM20	Euro/Krone {Jun 20}
+UBM21	Euro/Krone {Jun 21}
+UBU20	Euro/Krone {Sep 20}
+UBZ20	Euro/Krone {Dec 20}
+UC	Euro/Australian
+UC.C	Euro/Australian Continuation
+UCH20	Euro/Australian {Mar 20}
+UCH21	Euro/Australian {Mar 21}
+UCM20	Euro/Australian {Jun 20}
+UCM21	Euro/Australian {Jun 21}
+UCU20	Euro/Australian {Sep 20}
+UCZ20	Euro/Australian {Dec 20}
+UE	Euro/Canadian
+UE.C	Euro/Canadian Continuation
+UEH20	Euro/Canadian {Mar 20}
+UEH21	Euro/Canadian {Mar 21}
+UEM20	Euro/Canadian {Jun 20}
+UEM21	Euro/Canadian {Jun 21}
+UEU20	Euro/Canadian {Sep 20}
+UEZ20	Euro/Canadian {Dec 20}
+UF	Canadian/Yen
+UF.C	Canadian/Yen Continuation
+UFH20	Canadian/Yen {Mar 20}
+UFH21	Canadian/Yen {Mar 21}
+UFM20	Canadian/Yen {Jun 20}
+UFM21	Canadian/Yen {Jun 21}
+UFU20	Canadian/Yen {Sep 20}
+UFZ20	Canadian/Yen {Dec 20}
+UG	Australian/Canadian
+UG.C	Australian/Canadian Continuation
+UGH20	Australian/Canadian {Mar 20}
+UGH21	Australian/Canadian {Mar 21}
+UGM20	Australian/Canadian {Jun 20}
+UGM21	Australian/Canadian {Jun 21}
+UGU20	Australian/Canadian {Sep 20}
+UGZ20	Australian/Canadian {Dec 20}
+UI	Australian/N.Zealand
+UI.C	Australian/N.Zealand Continuation
+UIH20	Australian/N.Zealand {Mar 20}
+UIH21	Australian/N.Zealand {Mar 21}
+UIM20	Australian/N.Zealand {Jun 20}
+UIM21	Australian/N.Zealand {Jun 21}
+UIU20	Australian/N.Zealand {Sep 20}
+UIZ20	Australian/N.Zealand {Dec 20}
+UK	Australian/Yen
+UK.C	Australian/Yen Continuation
+UKH20	Australian/Yen {Mar 20}
+UKH21	Australian/Yen {Mar 21}
+UKM20	Australian/Yen {Jun 20}
+UKM21	Australian/Yen {Jun 21}
+UKU20	Australian/Yen {Sep 20}
+UKZ20	Australian/Yen {Dec 20}
+UN	British/Swiss Franc
+UN.C	British/Swiss Franc Continuation
+UNH20	British/Swiss Franc {Mar 20}
+UNH21	British/Swiss Franc {Mar 21}
+UNM20	British/Swiss Franc {Jun 20}
+UNM21	British/Swiss Franc {Jun 21}
+UNU20	British/Swiss Franc {Sep 20}
+UNZ20	British/Swiss Franc {Dec 20}
+UP	Swiss Franc/Yen
+UP.C	Swiss Franc/Yen Continuation
+UPH20	Swiss Franc/Yen {Mar 20}
+UPH21	Swiss Franc/Yen {Mar 21}
+UPM20	Swiss Franc/Yen {Jun 20}
+UPM21	Swiss Franc/Yen {Jun 21}
+UPU20	Swiss Franc/Yen {Sep 20}
+UPZ20	Swiss Franc/Yen {Dec 20}
+UR	British/Yen
+UR.C	British/Yen Continuation
+URH20	British/Yen {Mar 20}
+URH21	British/Yen {Mar 21}
+URM20	British/Yen {Jun 20}
+URM21	British/Yen {Jun 21}
+URU20	British/Yen {Sep 20}
+URZ20	British/Yen {Dec 20}
+UT.C	E-Mini FTSE China 50 Continuation
+UTH20	E-Mini FTSE China 50 {Mar 20}
+UTH21	E-Mini FTSE China 50 {Mar 21}
+UTM20	E-Mini FTSE China 50 {Jun 20}
+UTU20	E-Mini FTSE China 50 {Sep 20}
+UTZ20	E-Mini FTSE China 50 {Dec 20}
+UU.C	E-Mini FTSE 100 USD Continuation
+UUH20	E-Mini FTSE 100 USD {Mar 20}
+UUH21	E-Mini FTSE 100 USD {Mar 21}
+UUM20	E-Mini FTSE 100 USD {Jun 20}
+UUU20	E-Mini FTSE 100 USD {Sep 20}
+UUZ20	E-Mini FTSE 100 USD {Dec 20}
+UV.C	E-Mini FTSE 100 GBP Continuation
+UVH20	E-Mini FTSE 100 GBP {Mar 20}
+UVH21	E-Mini FTSE 100 GBP {Mar 21}
+UVM20	E-Mini FTSE 100 GBP {Jun 20}
+UVU20	E-Mini FTSE 100 GBP {Sep 20}
+UVZ20	E-Mini FTSE 100 GBP {Dec 20}
+WC.C	Czech Koruna Continuation
+WCH20	Czech Koruna {Mar 20}
+WCH21	Czech Koruna {Mar 21}
+WCM20	Czech Koruna {Jun 20}
+WCM21	Czech Koruna {Jun 21}
+WCU20	Czech Koruna {Sep 20}
+WCZ20	Czech Koruna {Dec 20}
+WE.C	Euro/Czech Koruna Continuation
+WEH20	Euro/Czech Koruna {Mar 20}
+WEH21	Euro/Czech Koruna {Mar 21}
+WEM20	Euro/Czech Koruna {Jun 20}
+WEM21	Euro/Czech Koruna {Jun 21}
+WEU20	Euro/Czech Koruna {Sep 20}
+WEZ20	Euro/Czech Koruna {Dec 20}
+WH	Hungarian Forint
+WH.C	Hungarian Forint Continuation
+WHH20	Hungarian Forint {Mar 20}
+WHH21	Hungarian Forint {Mar 21}
+WHM20	Hungarian Forint {Jun 20}
+WHM21	Hungarian Forint {Jun 21}
+WHU20	Hungarian Forint {Sep 20}
+WHZ20	Hungarian Forint {Dec 20}
+WK.C	E-Micro CAD/USD Continuation
+WKH20	E-Micro CAD/USD {Mar 20}
+WKM20	E-Micro CAD/USD {Jun 20}
+WM.C	E-Micro JPY/USD Continuation
+WMH20	E-Micro JPY/USD {Mar 20}
+WMM20	E-Micro JPY/USD {Jun 20}
+WN.C	E-Micro CHF/USD Continuation
+WNH20	E-Micro CHF/USD {Mar 20}
+WNM20	E-Micro CHF/USD {Jun 20}
+WP	Polish Zloty
+WP.C	Polish Zloty Continuation
+WPH20	Polish Zloty {Mar 20}
+WPH21	Polish Zloty {Mar 21}
+WPM20	Polish Zloty {Jun 20}
+WPM21	Polish Zloty {Jun 21}
+WPU20	Polish Zloty {Sep 20}
+WPZ20	Polish Zloty {Dec 20}
+WU	Euro/Hungary Forint
+WU.C	Euro/Hungary Forint Continuation
+WUH20	Euro/Hungary Forint {Mar 20}
+WUH21	Euro/Hungary Forint {Mar 21}
+WUM20	Euro/Hungary Forint {Jun 20}
+WUM21	Euro/Hungary Forint {Jun 21}
+WUU20	Euro/Hungary Forint {Sep 20}
+WUZ20	Euro/Hungary Forint {Dec 20}
+WY	Israeli Shekel
+WY.C	Israeli Shekel Continuation
+WYH20	Israeli Shekel {Mar 20}
+WYH21	Israeli Shekel {Mar 21}
+WYM20	Israeli Shekel {Jun 20}
+WYM21	Israeli Shekel {Jun 21}
+WYU20	Israeli Shekel {Sep 20}
+WYZ20	Israeli Shekel {Dec 20}
+WZ	Euro/Polish Zloty
+WZ.C	Euro/Polish Zloty Continuation
+WZH20	Euro/Polish Zloty {Mar 20}
+WZH21	Euro/Polish Zloty {Mar 21}
+WZM20	Euro/Polish Zloty {Jun 20}
+WZM21	Euro/Polish Zloty {Jun 21}
+WZU20	Euro/Polish Zloty {Sep 20}
+WZZ20	Euro/Polish Zloty {Dec 20}
+X1	NYSE Tick
+X2	NYSE Trin
+YX.C	Topix Yen Continuation
+YXH20	Topix Yen {Mar 20}
+YXH21	Topix Yen {Mar 21}
+YXM20	Topix Yen {Jun 20}
+YXU20	Topix Yen {Sep 20}
+YXZ20	Topix Yen {Dec 20}

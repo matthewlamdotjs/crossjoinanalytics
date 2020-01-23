@@ -1,0 +1,495 @@
+Symbol	Description
+A5	ATX Index
+A5.C	ATX Index Continuation
+A5H20	ATX Index {Mar 20}
+A5M20	ATX Index {Jun 20}
+A5U20	ATX Index {Sep 20}
+AC.C	MSCI World Index Continuation
+ACH20	MSCI World Index {Mar 20}
+ACH21	MSCI World Index {Mar 21}
+ACH22	MSCI World Index {Mar 22}
+ACM20	MSCI World Index {Jun 20}
+ACM21	MSCI World Index {Jun 21}
+ACM22	MSCI World Index {Jun 22}
+ACU20	MSCI World Index {Sep 20}
+ACU21	MSCI World Index {Sep 21}
+ACU22	MSCI World Index {Sep 22}
+ACZ20	MSCI World Index {Dec 20}
+ACZ21	MSCI World Index {Dec 21}
+ACZ22	MSCI World Index {Dec 22}
+AI.C	DivDAX Futures Continuation
+AIH20	DivDAX Futures {Mar 20}
+AIM20	DivDAX Futures {Jun 20}
+AIU20	DivDAX Futures {Sep 20}
+AQ.C	Stoxx Dividend 30 Continuation
+AQH20	Stoxx Dividend 30 {Mar 20}
+AQM20	Stoxx Dividend 30 {Jun 20}
+AQU20	Stoxx Dividend 30 {Sep 20}
+C1.C	Euro Stoxx Chemicals Continuation
+C1H20	Euro Stoxx Chemicals {Mar 20}
+C1M20	Euro Stoxx Chemicals {Jun 20}
+C1U20	Euro Stoxx Chemicals {Sep 20}
+CF.C	Eurex Conf 10-Year Continuation
+CFH20	Eurex Conf 10-Year {Mar 20}
+CFM20	Eurex Conf 10-Year {Jun 20}
+CFU20	Eurex Conf 10-Year {Sep 20}
+D0.C	IPD UK Property Idx Continuation
+D0H20	IPD UK Property Idx {Mar 20}
+D0M20	IPD UK Property Idx {Jun 20}
+D0U20	IPD UK Property Idx {Sep 20}
+D9.C	Euro Stoxx Oil & Gas Continuation
+D9H20	Euro Stoxx Oil & Gas {Mar 20}
+D9M20	Euro Stoxx Oil & Gas {Jun 20}
+D9U20	Euro Stoxx Oil & Gas {Sep 20}
+DM	MDAX Index
+DM.C	MDAX Index Continuation
+DMH20	MDAX Index {Mar 20}
+DMM20	MDAX Index {Jun 20}
+DMU20	MDAX Index {Sep 20}
+DO.C	Euro Stoxx Dividend Continuation
+DOZ20	Euro Stoxx Dividend {Dec 20}
+DOZ21	Euro Stoxx Dividend {Dec 21}
+DOZ22	Euro Stoxx Dividend {Dec 22}
+DOZ23	Euro Stoxx Dividend {Dec 23}
+DOZ24	Euro Stoxx Dividend {Dec 24}
+DOZ25	Euro Stoxx Dividend {Dec 25}
+DOZ26	Euro Stoxx Dividend {Dec 26}
+DOZ27	Euro Stoxx Dividend {Dec 27}
+DOZ28	Euro Stoxx Dividend {Dec 28}
+DOZ29	Euro Stoxx Dividend {Dec 29}
+DV	VSTOXX Mini
+DV.C	VSTOXX Mini Continuation
+DVF20	VSTOXX Mini {Jan 20}
+DVG20	VSTOXX Mini {Feb 20}
+DVH20	VSTOXX Mini {Mar 20}
+DVJ20	VSTOXX Mini {Apr 20}
+DVK20	VSTOXX Mini {May 20}
+DVM20	VSTOXX Mini {Jun 20}
+DVN20	VSTOXX Mini {Jul 20}
+DVQ20	VSTOXX Mini {Aug 20}
+DY	DAX Index
+DY.C	DAX Index Continuation
+DYH20	DAX Index {Mar 20}
+DYM20	DAX Index {Jun 20}
+DYU20	DAX Index {Sep 20}
+DZ.C	TECDAX Index Continuation
+DZH20	TECDAX Index {Mar 20}
+DZM20	TECDAX Index {Jun 20}
+DZU20	TECDAX Index {Sep 20}
+FA.C	Euro Stoxx Banks 600 Continuation
+FAH20	Euro Stoxx Banks 600 {Mar 20}
+FAM20	Euro Stoxx Banks 600 {Jun 20}
+FAU20	Euro Stoxx Banks 600 {Sep 20}
+FB.C	Stoxx Banks 600 Continuation
+FBH20	Stoxx Banks 600 {Mar 20}
+FBM20	Stoxx Banks 600 {Jun 20}
+FBU20	Stoxx Banks 600 {Sep 20}
+FM.C	Stoxx Mid 200 Continuation
+FMH20	Stoxx Mid 200 {Mar 20}
+FMM20	Stoxx Mid 200 {Jun 20}
+FMU20	Stoxx Mid 200 {Sep 20}
+FN.C	Euro OAT Continuation
+FNH20	Euro OAT {Mar 20}
+FNM20	Euro OAT {Jun 20}
+FNU20	Euro OAT {Sep 20}
+FO.C	Eurex 1Month EONIA Continuation
+FOF20	Eurex 1Month EONIA {Jan 20}
+FOH20	Eurex 1Month EONIA {Mar 20}
+FOK20	Eurex 1Month EONIA {May 20}
+FOM20	Eurex 1Month EONIA {Jun 20}
+FON20	Eurex 1Month EONIA {Jul 20}
+FP.C	OMX Helsinki 25 Continuation
+FPH20	OMX Helsinki 25 {Mar 20}
+FPM20	OMX Helsinki 25 {Jun 20}
+FPU20	OMX Helsinki 25 {Sep 20}
+FS.C	Stoxx 50 Continuation
+FSH20	Stoxx 50 {Mar 20}
+FSM20	Stoxx 50 {Jun 20}
+FSU20	Stoxx 50 {Sep 20}
+FU.C	Euro Stoxx 50 TR Continuation
+FUH20	Euro Stoxx 50 TR {Mar 20}
+FUH21	Euro Stoxx 50 TR {Mar 21}
+FUH22	Euro Stoxx 50 TR {Mar 22}
+FUH23	Euro Stoxx 50 TR {Mar 23}
+FUH24	Euro Stoxx 50 TR {Mar 24}
+FUH25	Euro Stoxx 50 TR {Mar 25}
+FUM20	Euro Stoxx 50 TR {Jun 20}
+FUM21	Euro Stoxx 50 TR {Jun 21}
+FUM22	Euro Stoxx 50 TR {Jun 22}
+FUM23	Euro Stoxx 50 TR {Jun 23}
+FUM24	Euro Stoxx 50 TR {Jun 24}
+FUU20	Euro Stoxx 50 TR {Sep 20}
+FUU21	Euro Stoxx 50 TR {Sep 21}
+FUU22	Euro Stoxx 50 TR {Sep 22}
+FUU23	Euro Stoxx 50 TR {Sep 23}
+FUU24	Euro Stoxx 50 TR {Sep 24}
+FUZ20	Euro Stoxx 50 TR {Dec 20}
+FUZ21	Euro Stoxx 50 TR {Dec 21}
+FUZ22	Euro Stoxx 50 TR {Dec 22}
+FUZ23	Euro Stoxx 50 TR {Dec 23}
+FUZ24	Euro Stoxx 50 TR {Dec 24}
+FUZ25	Euro Stoxx 50 TR {Dec 25}
+FUZ26	Euro Stoxx 50 TR {Dec 26}
+FUZ27	Euro Stoxx 50 TR {Dec 27}
+FUZ28	Euro Stoxx 50 TR {Dec 28}
+FUZ29	Euro Stoxx 50 TR {Dec 29}
+FX	Euro Stoxx 50
+FX.C	Euro Stoxx 50 Continuation
+FXH20	Euro Stoxx 50 {Mar 20}
+FXH21	Euro Stoxx 50 {Mar 21}
+FXM20	Euro Stoxx 50 {Jun 20}
+FXM21	Euro Stoxx 50 {Jun 21}
+FXU20	Euro Stoxx 50 {Sep 20}
+FXU21	Euro Stoxx 50 {Sep 21}
+FXZ20	Euro Stoxx 50 {Dec 20}
+FXZ21	Euro Stoxx 50 {Dec 21}
+FY.C	Stoxx 600 Continuation
+FYH20	Stoxx 600 {Mar 20}
+FYM20	Stoxx 600 {Jun 20}
+FYU20	Stoxx 600 {Sep 20}
+GG.C	Euro Bund Continuation
+GGH20	Euro Bund {Mar 20}
+GGM20	Euro Bund {Jun 20}
+GGU20	Euro Bund {Sep 20}
+GT.C	Euro OAT Medium-Term Continuation
+GTH20	Euro OAT Medium-Term {Mar 20}
+GTM20	Euro OAT Medium-Term {Jun 20}
+GTU20	Euro OAT Medium-Term {Sep 20}
+GX.C	Euro Buxl Continuation
+GXH20	Euro Buxl {Mar 20}
+GXM20	Euro Buxl {Jun 20}
+GXU20	Euro Buxl {Sep 20}
+HF.C	Euro Schatz Continuation
+HFH20	Euro Schatz {Mar 20}
+HFM20	Euro Schatz {Jun 20}
+HFU20	Euro Schatz {Sep 20}
+HR.C	Euro Bobl Continuation
+HRH20	Euro Bobl {Mar 20}
+HRM20	Euro Bobl {Jun 20}
+HRU20	Euro Bobl {Sep 20}
+IA.C	Euro BTP Short-Term Continuation
+IAH20	Euro BTP Short-Term {Mar 20}
+IAM20	Euro BTP Short-Term {Jun 20}
+IAU20	Euro BTP Short-Term {Sep 20}
+IEH20	Euro Stoxx Utilities {Mar 20}
+IEM20	Euro Stoxx Utilities {Jun 20}
+IEU20	Euro Stoxx Utilities {Sep 20}
+II.C	Euro BTP Long-Term Continuation
+IIH20	Euro BTP Long-Term {Mar 20}
+IIM20	Euro BTP Long-Term {Jun 20}
+IIU20	Euro BTP Long-Term {Sep 20}
+IZ.C	Euro Bono Long-Term Continuation
+IZH20	Euro Bono Long-Term {Mar 20}
+IZM20	Euro Bono Long-Term {Jun 20}
+IZU20	Euro Bono Long-Term {Sep 20}
+J3.C	Stoxx Euro600 Travel Continuation
+J3H20	Stoxx Euro600 Travel {Mar 20}
+J3M20	Stoxx Euro600 Travel {Jun 20}
+J3U20	Stoxx Euro600 Travel {Sep 20}
+J4.C	Stoxx Euro600 Utilit Continuation
+J4H20	Stoxx Euro600 Utilit {Mar 20}
+J4M20	Stoxx Euro600 Utilit {Jun 20}
+J4U20	Stoxx Euro600 Utilit {Sep 20}
+J5.C	Stoxx Euro600 Telcom Continuation
+J5H20	Stoxx Euro600 Telcom {Mar 20}
+J5M20	Stoxx Euro600 Telcom {Jun 20}
+J5U20	Stoxx Euro600 Telcom {Sep 20}
+JD.C	MSCI Europe Index Continuation
+JDH20	MSCI Europe Index {Mar 20}
+JDH21	MSCI Europe Index {Mar 21}
+JDH22	MSCI Europe Index {Mar 22}
+JDM20	MSCI Europe Index {Jun 20}
+JDM21	MSCI Europe Index {Jun 21}
+JDM22	MSCI Europe Index {Jun 22}
+JDU20	MSCI Europe Index {Sep 20}
+JDU21	MSCI Europe Index {Sep 21}
+JDU22	MSCI Europe Index {Sep 22}
+JDZ20	MSCI Europe Index {Dec 20}
+JDZ21	MSCI Europe Index {Dec 21}
+JDZ22	MSCI Europe Index {Dec 22}
+JT.C	Euro BTP Medium-Term Continuation
+JTH20	Euro BTP Medium-Term {Mar 20}
+JTM20	Euro BTP Medium-Term {Jun 20}
+JTU20	Euro BTP Medium-Term {Sep 20}
+L9.C	Euro Stoxx Telcom Continuation
+L9H20	Euro Stoxx Telcom {Mar 20}
+L9M20	Euro Stoxx Telcom {Jun 20}
+L9U20	Euro Stoxx Telcom {Sep 20}
+LI.C	DJ-UBS Agriculture Continuation
+LIF20	DJ-UBS Agriculture {Jan 20}
+LIG20	DJ-UBS Agriculture {Feb 20}
+LIH20	DJ-UBS Agriculture {Mar 20}
+LIM20	DJ-UBS Agriculture {Jun 20}
+LIM21	DJ-UBS Agriculture {Jun 21}
+LIM22	DJ-UBS Agriculture {Jun 22}
+LIU20	DJ-UBS Agriculture {Sep 20}
+LIZ20	DJ-UBS Agriculture {Dec 20}
+LIZ21	DJ-UBS Agriculture {Dec 21}
+LIZ22	DJ-UBS Agriculture {Dec 22}
+LIZ23	DJ-UBS Agriculture {Dec 23}
+LIZ24	DJ-UBS Agriculture {Dec 24}
+LJ.C	DJ-UBS Commodity Continuation
+LJF20	DJ-UBS Commodity {Jan 20}
+LJG20	DJ-UBS Commodity {Feb 20}
+LJH20	DJ-UBS Commodity {Mar 20}
+LJM20	DJ-UBS Commodity {Jun 20}
+LJM21	DJ-UBS Commodity {Jun 21}
+LJM22	DJ-UBS Commodity {Jun 22}
+LJU20	DJ-UBS Commodity {Sep 20}
+LJZ20	DJ-UBS Commodity {Dec 20}
+LJZ21	DJ-UBS Commodity {Dec 21}
+LJZ22	DJ-UBS Commodity {Dec 22}
+LJZ23	DJ-UBS Commodity {Dec 23}
+LJZ24	DJ-UBS Commodity {Dec 24}
+LK.C	DJ-UBS Energy Continuation
+LKF20	DJ-UBS Energy {Jan 20}
+LKG20	DJ-UBS Energy {Feb 20}
+LKH20	DJ-UBS Energy {Mar 20}
+LKM20	DJ-UBS Energy {Jun 20}
+LKM21	DJ-UBS Energy {Jun 21}
+LKM22	DJ-UBS Energy {Jun 22}
+LKU20	DJ-UBS Energy {Sep 20}
+LKZ20	DJ-UBS Energy {Dec 20}
+LKZ21	DJ-UBS Energy {Dec 21}
+LKZ22	DJ-UBS Energy {Dec 22}
+LKZ23	DJ-UBS Energy {Dec 23}
+LKZ24	DJ-UBS Energy {Dec 24}
+LZ.C	DJ-UBS Industrial Continuation
+LZF20	DJ-UBS Industrial {Jan 20}
+LZG20	DJ-UBS Industrial {Feb 20}
+LZH20	DJ-UBS Industrial {Mar 20}
+LZM20	DJ-UBS Industrial {Jun 20}
+LZM21	DJ-UBS Industrial {Jun 21}
+LZM22	DJ-UBS Industrial {Jun 22}
+LZU20	DJ-UBS Industrial {Sep 20}
+LZZ20	DJ-UBS Industrial {Dec 20}
+LZZ21	DJ-UBS Industrial {Dec 21}
+LZZ22	DJ-UBS Industrial {Dec 22}
+LZZ23	DJ-UBS Industrial {Dec 23}
+LZZ24	DJ-UBS Industrial {Dec 24}
+M4.C	Stoxx Euro600 RealEs Continuation
+M4H20	Stoxx Euro600 RealEs {Mar 20}
+M4M20	Stoxx Euro600 RealEs {Jun 20}
+M4U20	Stoxx Euro600 RealEs {Sep 20}
+NA.C	MSCI China Index Continuation
+NAH20	MSCI China Index {Mar 20}
+NAH21	MSCI China Index {Mar 21}
+NAH22	MSCI China Index {Mar 22}
+NAM20	MSCI China Index {Jun 20}
+NAM21	MSCI China Index {Jun 21}
+NAM22	MSCI China Index {Jun 22}
+NAU20	MSCI China Index {Sep 20}
+NAU21	MSCI China Index {Sep 21}
+NAU22	MSCI China Index {Sep 22}
+NAZ20	MSCI China Index {Dec 20}
+NAZ21	MSCI China Index {Dec 21}
+NAZ22	MSCI China Index {Dec 22}
+O1.C	Eurex RDX USD Index Continuation
+O1H20	Eurex RDX USD Index {Mar 20}
+O1M20	Eurex RDX USD Index {Jun 20}
+O1M21	Eurex RDX USD Index {Jun 21}
+O1M22	Eurex RDX USD Index {Jun 22}
+O1U20	Eurex RDX USD Index {Sep 20}
+O1Z20	Eurex RDX USD Index {Dec 20}
+O1Z21	Eurex RDX USD Index {Dec 21}
+O1Z22	Eurex RDX USD Index {Dec 22}
+O1Z23	Eurex RDX USD Index {Dec 23}
+O1Z24	Eurex RDX USD Index {Dec 24}
+OA.C	Stoxx Basic Resource Continuation
+OAH20	Stoxx Basic Resource {Mar 20}
+OAM20	Stoxx Basic Resource {Jun 20}
+OAU20	Stoxx Basic Resource {Sep 20}
+PE.C	Euro Stoxx Index Continuation
+PEH20	Euro Stoxx Index {Mar 20}
+PEM20	Euro Stoxx Index {Jun 20}
+PEU20	Euro Stoxx Index {Sep 20}
+PF.C	Euro Stoxx Large Continuation
+PFH20	Euro Stoxx Large {Mar 20}
+PFM20	Euro Stoxx Large {Jun 20}
+PFU20	Euro Stoxx Large {Sep 20}
+PG.C	Euro Stoxx Mid Continuation
+PGH20	Euro Stoxx Mid {Mar 20}
+PGM20	Euro Stoxx Mid {Jun 20}
+PGU20	Euro Stoxx Mid {Sep 20}
+PI.C	Euro Stoxx Small Continuation
+PIH20	Euro Stoxx Small {Mar 20}
+PIM20	Euro Stoxx Small {Jun 20}
+PIU20	Euro Stoxx Small {Sep 20}
+PM.C	DJ-UBS Metals Continuation
+PMF20	DJ-UBS Metals {Jan 20}
+PMG20	DJ-UBS Metals {Feb 20}
+PMH20	DJ-UBS Metals {Mar 20}
+PMM20	DJ-UBS Metals {Jun 20}
+PMM21	DJ-UBS Metals {Jun 21}
+PMM22	DJ-UBS Metals {Jun 22}
+PMU20	DJ-UBS Metals {Sep 20}
+PMZ20	DJ-UBS Metals {Dec 20}
+PMZ21	DJ-UBS Metals {Dec 21}
+PMZ22	DJ-UBS Metals {Dec 22}
+PMZ23	DJ-UBS Metals {Dec 23}
+PMZ24	DJ-UBS Metals {Dec 24}
+PO.C	Stoxx Eur Large 200 Continuation
+POH20	Stoxx Eur Large 200 {Mar 20}
+POM20	Stoxx Eur Large 200 {Jun 20}
+POU20	Stoxx Eur Large 200 {Sep 20}
+PT.C	Stoxx Eur Small 200 Continuation
+PTH20	Stoxx Eur Small 200 {Mar 20}
+PTM20	Stoxx Eur Small 200 {Jun 20}
+PTU20	Stoxx Eur Small 200 {Sep 20}
+PU.C	DJ-UBS Softs Continuation
+PUF20	DJ-UBS Softs {Jan 20}
+PUG20	DJ-UBS Softs {Feb 20}
+PUH20	DJ-UBS Softs {Mar 20}
+PUM20	DJ-UBS Softs {Jun 20}
+PUM21	DJ-UBS Softs {Jun 21}
+PUM22	DJ-UBS Softs {Jun 22}
+PUU20	DJ-UBS Softs {Sep 20}
+PUZ20	DJ-UBS Softs {Dec 20}
+PUZ21	DJ-UBS Softs {Dec 21}
+PUZ22	DJ-UBS Softs {Dec 22}
+PUZ23	DJ-UBS Softs {Dec 23}
+PUZ24	DJ-UBS Softs {Dec 24}
+Q5.C	Stoxx Real Estate Continuation
+Q5H20	Stoxx Real Estate {Mar 20}
+Q5M20	Stoxx Real Estate {Jun 20}
+Q5U20	Stoxx Real Estate {Sep 20}
+QJ.C	DJ-UBS Petroleum Continuation
+QJF20	DJ-UBS Petroleum {Jan 20}
+QJG20	DJ-UBS Petroleum {Feb 20}
+QJH20	DJ-UBS Petroleum {Mar 20}
+QJM20	DJ-UBS Petroleum {Jun 20}
+QJM21	DJ-UBS Petroleum {Jun 21}
+QJM22	DJ-UBS Petroleum {Jun 22}
+QJU20	DJ-UBS Petroleum {Sep 20}
+QJZ20	DJ-UBS Petroleum {Dec 20}
+QJZ21	DJ-UBS Petroleum {Dec 21}
+QJZ22	DJ-UBS Petroleum {Dec 22}
+QJZ23	DJ-UBS Petroleum {Dec 23}
+QJZ24	DJ-UBS Petroleum {Dec 24}
+QK.C	DJ-UBS Livestock Continuation
+QKF20	DJ-UBS Livestock {Jan 20}
+QKG20	DJ-UBS Livestock {Feb 20}
+QKH20	DJ-UBS Livestock {Mar 20}
+QKM20	DJ-UBS Livestock {Jun 20}
+QKM21	DJ-UBS Livestock {Jun 21}
+QKM22	DJ-UBS Livestock {Jun 22}
+QKU20	DJ-UBS Livestock {Sep 20}
+QKZ20	DJ-UBS Livestock {Dec 20}
+QKZ21	DJ-UBS Livestock {Dec 21}
+QKZ22	DJ-UBS Livestock {Dec 22}
+QKZ23	DJ-UBS Livestock {Dec 23}
+QKZ24	DJ-UBS Livestock {Dec 24}
+QN.C	DJ-UBS Grains Continuation
+QNF20	DJ-UBS Grains {Jan 20}
+QNG20	DJ-UBS Grains {Feb 20}
+QNH20	DJ-UBS Grains {Mar 20}
+QNM20	DJ-UBS Grains {Jun 20}
+QNM21	DJ-UBS Grains {Jun 21}
+QNM22	DJ-UBS Grains {Jun 22}
+QNU20	DJ-UBS Grains {Sep 20}
+QNZ20	DJ-UBS Grains {Dec 20}
+QNZ21	DJ-UBS Grains {Dec 21}
+QNZ22	DJ-UBS Grains {Dec 22}
+QNZ23	DJ-UBS Grains {Dec 23}
+QNZ24	DJ-UBS Grains {Dec 24}
+QP.C	DJ-UBS Ex Energy Continuation
+QPF20	DJ-UBS Ex Energy {Jan 20}
+QPG20	DJ-UBS Ex Energy {Feb 20}
+QPH20	DJ-UBS Ex Energy {Mar 20}
+QPM20	DJ-UBS Ex Energy {Jun 20}
+QPM21	DJ-UBS Ex Energy {Jun 21}
+QPM22	DJ-UBS Ex Energy {Jun 22}
+QPU20	DJ-UBS Ex Energy {Sep 20}
+QPZ20	DJ-UBS Ex Energy {Dec 20}
+QPZ21	DJ-UBS Ex Energy {Dec 21}
+QPZ22	DJ-UBS Ex Energy {Dec 22}
+QPZ23	DJ-UBS Ex Energy {Dec 23}
+QPZ24	DJ-UBS Ex Energy {Dec 24}
+S5.C	Stoxx Euro600 Auto Continuation
+S5H20	Stoxx Euro600 Auto {Mar 20}
+S5M20	Stoxx Euro600 Auto {Jun 20}
+S5U20	Stoxx Euro600 Auto {Sep 20}
+SH.C	Swiss Midcap Index Continuation
+SHH20	Swiss Midcap Index {Mar 20}
+SHM20	Swiss Midcap Index {Jun 20}
+SHU20	Swiss Midcap Index {Sep 20}
+ST.C	Swiss Leader Index Continuation
+STH20	Swiss Leader Index {Mar 20}
+STM20	Swiss Leader Index {Jun 20}
+STU20	Swiss Leader Index {Sep 20}
+SZ	Swiss Market Index
+SZ.C	Swiss Market Index Continuation
+SZH20	Swiss Market Index {Mar 20}
+SZM20	Swiss Market Index {Jun 20}
+SZU20	Swiss Market Index {Sep 20}
+TM.C	Mini DAX Index Continuation
+TMH20	Mini DAX Index {Mar 20}
+TMM20	Mini DAX Index {Jun 20}
+TMU20	Mini DAX Index {Sep 20}
+TQ.C	MSCI Russia Index Continuation
+TQH20	MSCI Russia Index {Mar 20}
+TQH21	MSCI Russia Index {Mar 21}
+TQH22	MSCI Russia Index {Mar 22}
+TQM20	MSCI Russia Index {Jun 20}
+TQM21	MSCI Russia Index {Jun 21}
+TQM22	MSCI Russia Index {Jun 22}
+TQU20	MSCI Russia Index {Sep 20}
+TQU21	MSCI Russia Index {Sep 21}
+TQU22	MSCI Russia Index {Sep 22}
+TQZ20	MSCI Russia Index {Dec 20}
+TQZ21	MSCI Russia Index {Dec 21}
+TQZ22	MSCI Russia Index {Dec 22}
+TV.C	Eurex 3Month EuriBor Continuation
+TVF20	Eurex 3Month EuriBor {Jan 20}
+TVG20	Eurex 3Month EuriBor {Feb 20}
+TVH20	Eurex 3Month EuriBor {Mar 20}
+TVH21	Eurex 3Month EuriBor {Mar 21}
+TVH22	Eurex 3Month EuriBor {Mar 22}
+TVH23	Eurex 3Month EuriBor {Mar 23}
+TVH24	Eurex 3Month EuriBor {Mar 24}
+TVH25	Eurex 3Month EuriBor {Mar 25}
+TVJ20	Eurex 3Month EuriBor {Apr 20}
+TVK20	Eurex 3Month EuriBor {May 20}
+TVM20	Eurex 3Month EuriBor {Jun 20}
+TVM21	Eurex 3Month EuriBor {Jun 21}
+TVM22	Eurex 3Month EuriBor {Jun 22}
+TVM23	Eurex 3Month EuriBor {Jun 23}
+TVM24	Eurex 3Month EuriBor {Jun 24}
+TVM25	Eurex 3Month EuriBor {Jun 25}
+TVN20	Eurex 3Month EuriBor {Jul 20}
+TVU20	Eurex 3Month EuriBor {Sep 20}
+TVU21	Eurex 3Month EuriBor {Sep 21}
+TVU22	Eurex 3Month EuriBor {Sep 22}
+TVU23	Eurex 3Month EuriBor {Sep 23}
+TVU24	Eurex 3Month EuriBor {Sep 24}
+TVU25	Eurex 3Month EuriBor {Sep 25}
+TVZ20	Eurex 3Month EuriBor {Dec 20}
+TVZ21	Eurex 3Month EuriBor {Dec 21}
+TVZ22	Eurex 3Month EuriBor {Dec 22}
+TVZ23	Eurex 3Month EuriBor {Dec 23}
+TVZ24	Eurex 3Month EuriBor {Dec 24}
+TVZ25	Eurex 3Month EuriBor {Dec 25}
+UH.C	Stoxx E600 Oil & Gas Continuation
+UHH20	Stoxx E600 Oil & Gas {Mar 20}
+UHM20	Stoxx E600 Oil & Gas {Jun 20}
+UHU20	Stoxx E600 Oil & Gas {Sep 20}
+UJ.C	Stoxx E600 Basic Res Continuation
+UJH20	Stoxx E600 Basic Res {Mar 20}
+UJM20	Stoxx E600 Basic Res {Jun 20}
+UJU20	Stoxx E600 Basic Res {Sep 20}
+UO.C	Stoxx E600 Technolog Continuation
+UOH20	Stoxx E600 Technolog {Mar 20}
+UOM20	Stoxx E600 Technolog {Jun 20}
+UOU20	Stoxx E600 Technolog {Sep 20}
+UQ.C	Stoxx E600 Media Continuation
+UQH20	Stoxx E600 Media {Mar 20}
+UQM20	Stoxx E600 Media {Jun 20}
+UQU20	Stoxx E600 Media {Sep 20}
+Y7.C	ATX 5 Index Continuation
+Y7H20	ATX 5 Index {Mar 20}
+Y7M20	ATX 5 Index {Jun 20}
+Y7U20	ATX 5 Index {Sep 20}
+YS.C	Stoxx Euro600 Health Continuation
+YSH20	Stoxx Euro600 Health {Mar 20}
+YSM20	Stoxx Euro600 Health {Jun 20}
+YSU20	Stoxx Euro600 Health {Sep 20}

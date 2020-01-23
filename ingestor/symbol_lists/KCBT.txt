@@ -1,0 +1,31 @@
+Symbol	Description
+KE	Hard Red Wheat
+KE.C	Hard Red Wheat Continuation
+KEH20	Hard Red Wheat {Mar 20}
+KEH21	Hard Red Wheat {Mar 21}
+KEH22	Hard Red Wheat {Mar 22}
+KEK20	Hard Red Wheat {May 20}
+KEK21	Hard Red Wheat {May 21}
+KEK22	Hard Red Wheat {May 22}
+KEN20	Hard Red Wheat {Jul 20}
+KEN21	Hard Red Wheat {Jul 21}
+KEN22	Hard Red Wheat {Jul 22}
+KEU20	Hard Red Wheat {Sep 20}
+KEU21	Hard Red Wheat {Sep 21}
+KEZ20	Hard Red Wheat {Dec 20}
+KEZ21	Hard Red Wheat {Dec 21}
+KW	Hard Red Wheat (Pit)
+KW.C	Hard Red Wheat (Pit) Continuation
+KWH20	Hard Red Wheat (Pit) {Mar 20}
+KWH21	Hard Red Wheat (Pit) {Mar 21}
+KWH22	Hard Red Wheat (Pit) {Mar 22}
+KWK20	Hard Red Wheat (Pit) {May 20}
+KWK21	Hard Red Wheat (Pit) {May 21}
+KWK22	Hard Red Wheat (Pit) {May 22}
+KWN20	Hard Red Wheat (Pit) {Jul 20}
+KWN21	Hard Red Wheat (Pit) {Jul 21}
+KWN22	Hard Red Wheat (Pit) {Jul 22}
+KWU20	Hard Red Wheat (Pit) {Sep 20}
+KWU21	Hard Red Wheat (Pit) {Sep 21}
+KWZ20	Hard Red Wheat (Pit) {Dec 20}
+KWZ21	Hard Red Wheat (Pit) {Dec 21}
