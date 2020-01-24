@@ -6,75 +6,98 @@ import re
 import csv
 import time
 import json
+import psycopg2
 
 # grab API key from env
 try:
     API_KEY = os.environ['ALPHA_VANTAGE_API_KEY']
+    DB_URL = os.environ['CJ_DB_URL']
+    DB_PORT = os.environ['CJ_DB_PORT']
+    DB_USER = os.environ['CJ_DB_UN']
+    DB_PASS = os.environ['CJ_DB_PW']
 except:
-    print("Missing API key. Please set environment variable as ALPHA_VANTAGE_API_KEY.")
+    print('Missing credentials. Please set environment variables appropriately.')
     exit()
 
 # get filenames
 onlyfiles = [f for f in listdir('symbol_lists/') if isfile(join('symbol_lists/', f))]
 
-output = 'symbol,name,type,region,marketOpen,marketClose,timezone,currency\n'
+# setup db connection
+try:
 
-# parse files
-for file_name in onlyfiles:
-    with open('symbol_lists/' + file_name, 'r') as csvfile:
-        
-        csv_array = []
-        
-        csvfilereader = csv.reader(csvfile, delimiter='\t', quotechar='"')
-        
-        for row in csvfilereader:
-            csv_array.append(row)
-        
-        input_headers = csv_array.pop(0)
-        symbol_index = input_headers.index('Symbol')
-        description_index = input_headers.index('Description')
-        
-        # url = ('https://www.alphavantage.co/query?'+
-        #     'function=TIME_SERIES_DAILY'	+ '&' +
-        #     'symbol=AHT'						+ '&' +
-        #     'outputsize=full'				+ '&' +
-        #     'apikey=' + API_KEY)
+    connection = psycopg2.connect(user = DB_USER,
+                                  password = DB_PASS,
+                                  host = DB_URL,
+                                  port = DB_PORT,
+                                  database = 'postgres')
+    connection.autocommit = True
+    cursor = connection.cursor()
 
-        for row in csv_array:
-            #print(output)
+    # cursor.execute("SELECT * FROM symbol_master_tbl;")
+    # record = cursor.fetchone()
+    # print(record[0])
 
-            eod_symbol = row[symbol_index]
+    # parse files
+    for file_name in onlyfiles:
+        with open('symbol_lists/' + file_name, 'r') as csvfile:
+            
+            csv_array = []
+            
+            csvfilereader = csv.reader(csvfile, delimiter='\t', quotechar='"')
+            
+            for row in csvfilereader:
+                csv_array.append(row)
+            
+            input_headers = csv_array.pop(0)
+            symbol_index = input_headers.index('Symbol')
+            description_index = input_headers.index('Description')
 
-            url = ('https://www.alphavantage.co/query?'+
-                'function=SYMBOL_SEARCH'	+ '&' +
-                'keywords='+ eod_symbol		+ '&' +
-                'apikey=' + API_KEY)
+            for row in csv_array:
 
-            response = requests.get(url = url).content
+                eod_symbol = row[symbol_index]
 
-            try:
-                if len(json.loads(response)['bestMatches']) > 0:
+                url = ('https://www.alphavantage.co/query?'+
+                    'function=SYMBOL_SEARCH'	+ '&' +
+                    'keywords='+ eod_symbol		+ '&' +
+                    'apikey=' + API_KEY)
 
-                    for match in json.loads(response)['bestMatches']:
+                response = requests.get(url = url).content
 
-                        output = (output +
-                            match['1. symbol'] + ',' +
-                            match['2. name'] + ',' +
-                            match['3. type'] + ',' +
-                            match['4. region'] + ',' +
-                            match['5. marketOpen'] + ',' +
-                            match['6. marketClose'] + ',' +
-                            match['7. timezone'] + ',' +
-                            match['8. currency'] + '\n')
-            except:
-                print('no results for ' + eod_symbol)
-                
-            # 5 requests per minute api limit
-            time.sleep(0.5)
+                try:
+                    if len(json.loads(response)['bestMatches']) > 0:
 
-# write output
-f = open('output.csv', 'w')
-f.write(output)
-f.close()
+                        for match in json.loads(response)['bestMatches']:
+
+                            # output = (output +
+                            #     match['1. symbol'] + ',' +
+                            #     match['2. name'] + ',' +
+                            #     match['3. type'] + ',' +
+                            #     match['4. region'] + ',' +
+                            #     match['7. timezone'] + ',' +
+                            #     match['8. currency'] + '\n')
+
+                            query_string = ('CALL "addSymbol"(\''+
+                                match['1. symbol'] +'\',\''+
+                                match['2. name'] +'\',\''+
+                                match['3. type'] +'\',\''+
+                                match['4. region'] +'\',\''+
+                                match['7. timezone'] +'\',\''+
+                                 match['8. currency'] +'\');')
+                            
+                            print(query_string)
+                            cursor.execute(query_string)
+                except:
+                    print('no matches for '+eod_symbol)
+
+                # 5 requests per minute api limit
+                time.sleep(0.5)
 
 
+except (Exception, psycopg2.Error) as error :
+    print ("Error while connecting to PostgreSQL", error)
+finally:
+    #closing database connection.
+    if(connection):
+        cursor.close()
+        connection.close()
+        print("PostgreSQL connection is closed")
