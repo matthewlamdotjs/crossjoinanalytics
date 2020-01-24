@@ -1,12 +1,23 @@
 from kafka import KafkaProducer
 from kafka.errors import KafkaError
 import time
+import requests
 
 producer = KafkaProducer(bootstrap_servers=['localhost:9092'])
 
-counter = 0
+cont = True
 
-while(True):
-    producer.send('test', b'message '+ str(counter))
-    counter = counter + 1
+while(cont):
+    # url = ('https://www.alphavantage.co/query?'+
+    #                 'function=SYMBOL_SEARCH'	+ '&' +
+    #                 'keywords='+ eod_symbol		+ '&' +
+    #                 'apikey=' + API_KEY)
+
+    # response = requests.get(url = url).content
+
+    response = open('example.json', 'r').read()
+
+    producer.send('test', b''+response)
+    
+    cont = false;
     time.sleep(0.5)
