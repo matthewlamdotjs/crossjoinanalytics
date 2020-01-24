@@ -3,4 +3,8 @@ from kafka.errors import KafkaError
 
 producer = KafkaProducer(bootstrap_servers=['localhost:9092'])
 
-producer.send('test', b'hellolololol')
+counter = 0
+
+while(True):
+    producer.send('test', b'message '+ counter)
+    counter++

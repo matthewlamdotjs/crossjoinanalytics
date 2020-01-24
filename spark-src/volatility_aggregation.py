@@ -6,6 +6,7 @@ import pyspark.sql.functions._
 # grab API key from env
 try:
     DB_URL = os.environ['CJ_DB_URL']
+    DB_PORT = os.environ['CJ_DB_PORT']
     DB_USER = os.environ['CJ_DB_UN']
     DB_PASS = os.environ['CJ_DB_PW']
 except:
@@ -20,7 +21,7 @@ spark = SparkSession.builder \
 
 symbolDF = spark.read \
     .format('jdbc') \
-    .option('url', DB_URL) \
+    .option('url', DB_URL+':'+DB_PORT) \
     .option('dbtable', 'public.symbol_master_tbl') \
     .option('user', DB_USER) \
     .option('password', DB_PASS) \
@@ -42,6 +43,11 @@ def aggregateDeviation(row):
     sqlDF = spark.sql('SELECT TOP 14 FROM prices WHERE symbol = ' + row.symbol)
     sqlDF.select(mean(sqlDF('close'))).show()
     return row
+
+
+# cursor.execute("SELECT * FROM symbol_master_tbl;")
+# record = cursor.fetchone()
+# print(record[0])
 
 # run the aggregation per company in parallel
 symbolDF.rdd.map(aggregateDeviation)

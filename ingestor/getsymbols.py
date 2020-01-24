@@ -33,10 +33,6 @@ try:
     connection.autocommit = True
     cursor = connection.cursor()
 
-    # cursor.execute("SELECT * FROM symbol_master_tbl;")
-    # record = cursor.fetchone()
-    # print(record[0])
-
     # parse files
     for file_name in onlyfiles:
         with open('symbol_lists/' + file_name, 'r') as csvfile:
@@ -67,14 +63,6 @@ try:
                     if len(json.loads(response)['bestMatches']) > 0:
 
                         for match in json.loads(response)['bestMatches']:
-
-                            # output = (output +
-                            #     match['1. symbol'] + ',' +
-                            #     match['2. name'] + ',' +
-                            #     match['3. type'] + ',' +
-                            #     match['4. region'] + ',' +
-                            #     match['7. timezone'] + ',' +
-                            #     match['8. currency'] + '\n')
 
                             query_string = ('CALL "addSymbol"(\''+
                                 match['1. symbol'] +'\',\''+
