@@ -7,4 +7,4 @@ counter = 0
 
 while(True):
     producer.send('test', b'message '+ counter)
-    counter++
+    counter = counter + 1
