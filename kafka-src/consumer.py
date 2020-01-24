@@ -3,10 +3,10 @@ import json
 
 # To consume latest messages and auto-commit offsets
 consumer = KafkaConsumer('test',
-                         bootstrap_servers=['localhost:9092'],
-                         value_deserializer=lambda m: json.loads(m.decode('ascii')))
+                         bootstrap_servers=['localhost:9092'])#,
+                         #value_deserializer=lambda m: json.loads(m.decode('ascii')))
 
 for message in consumer:
-    response = message.value
+    response = message.value.decode('utf-8')
     print(response);
     
