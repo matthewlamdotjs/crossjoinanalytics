@@ -45,8 +45,9 @@ try:
                     ppd['3. low'] +'\',\''+
                     ppd['1. open'] +'\',\''+
                     ppd['4. close'] +'\');')
-                    
-                cursor.execute(query_string)
+
+                print(query_string)    
+                #cursor.execute(query_string)
         except:
             print('Invalid JSON')
 
