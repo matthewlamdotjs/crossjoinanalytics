@@ -7,6 +7,7 @@ import os
 
 
 try:
+    API_KEY = os.environ['ALPHA_VANTAGE_API_KEY']
     DB_URL = os.environ['CJ_DB_URL']
     DB_PORT = os.environ['CJ_DB_PORT']
     DB_USER = os.environ['CJ_DB_UN']
@@ -32,33 +33,27 @@ try:
         'SELECT symbol FROM symbol_master_tbl;'
     )
 
-    symbols = cursor.fetchall()
+    rows = cursor.fetchall()
 
     cursor.close()
     connection.close()
 
-    cont = True
+    while(True):
 
-    while(cont):
+        for row in rows:
 
-        for symbol in symbols:
+            symbol = row[0]
 
-            print(symbol[0])
+            url = ('https://www.alphavantage.co/query?'+
+                            'function=TIME_SERIES_DAILY'+ '&' +
+                            'symbol='+ symbol	    	+ '&' +
+                            'apikey=' + API_KEY)
 
-            # url = ('https://www.alphavantage.co/query?'+
-            #                 'function=SYMBOL_SEARCH'	+ '&' +
-            #                 'keywords='+ eod_symbol		+ '&' +
-            #                 'apikey=' + API_KEY)
+            response = requests.get(url = url).content
 
-            # response = requests.get(url = url).content
+            producer.send('test', b''+response)
 
-            # response = open('example.json', 'r').read()
-
-            # producer.send('test', b''+response)
-
-            # time.sleep(0.5)
-        
-        cont = False;
+            time.sleep(0.5)
 
 except (Exception, psycopg2.Error) as error :
     print ('Error while connecting to PostgreSQL', error)
