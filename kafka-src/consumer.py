@@ -1,6 +1,7 @@
 from kafka import KafkaConsumer
 import json
 import psycopg2
+import os
 
 try:
     DB_URL = os.environ['CJ_DB_URL']
