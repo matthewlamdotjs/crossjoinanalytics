@@ -43,7 +43,7 @@ try:
 
         for symbol in symbols:
 
-            print(symbol)
+            print(symbol[0])
 
             # url = ('https://www.alphavantage.co/query?'+
             #                 'function=SYMBOL_SEARCH'	+ '&' +
