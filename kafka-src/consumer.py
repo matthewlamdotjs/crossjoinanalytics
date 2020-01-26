@@ -29,7 +29,7 @@ try:
         response = message.value.decode('utf-8')
 
         try:
-            js_payload = json.loads(response):
+            js_payload = json.loads(response)
 
             symbol = js_payload['Meta Data']['2. Symbol']
             ts = js_payload['Time Series (Daily)']
