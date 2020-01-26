@@ -2,6 +2,15 @@ from kafka import KafkaConsumer
 import json
 import psycopg2
 
+try:
+    DB_URL = os.environ['CJ_DB_URL']
+    DB_PORT = os.environ['CJ_DB_PORT']
+    DB_USER = os.environ['CJ_DB_UN']
+    DB_PASS = os.environ['CJ_DB_PW']
+except:
+    print('Missing credentials. Please set environment variables appropriately.')
+    exit()
+
 # To consume latest messages and auto-commit offsets
 consumer = KafkaConsumer('test',
                          bootstrap_servers=['localhost:9092'])

@@ -19,5 +19,5 @@ while(cont):
 
     producer.send('test', b''+response)
     
-    cont = false;
+    cont = False;
     time.sleep(0.5)
