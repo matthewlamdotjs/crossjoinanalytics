@@ -41,7 +41,7 @@ try:
 
     while(cont):
 
-        for symbol in symbols
+        for symbol in symbols:
 
             print(symbol)
 
