@@ -48,7 +48,7 @@ try:
                     ppd['4. close'] +'\');')
 
                 # print(query_string)    
-                cursor.execute(query_string)
+                cursor.callproc('consumeRawData',[symbol, key, ppd['2. high'], ppd['3. low'], ppd['1. open'], ppd['4. close']])
         except:
             print('Invalid JSON')
 
