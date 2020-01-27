@@ -17,6 +17,7 @@ except:
 spark = SparkSession.builder \
     .master('local') \
     .appName('volatility_aggregation') \
+    .config('spark.jars', '/usr/local/postgresql-42.2.9.jar') \
     .getOrCreate()
 
 symbolDF = spark.read \
