@@ -19,20 +19,11 @@ spark = SparkSession.builder \
     .appName('volatility_aggregation') \
     .config('spark.jars', '/usr/local/postgresql-42.2.9.jar') \
     .getOrCreate()
-
-symbolDF = spark.read \
-    .format('jdbc') \
-    .option('url', DB_URL+':'+DB_PORT) \
-    .option('dbtable', 'symbol_master_tbl') \
-    .option('user', DB_USER) \
-    .option('password', DB_PASS) \
-    .option('driver', 'org.postgresql.Driver') \
-    .load()
     
 # read in data
 rawDF = spark.read \
     .format('jdbc') \
-    .option('url', DB_URL) \
+    .option('url', 'jdbc:postgresql://'DB_URL+':'+DB_PORT+'/postgres') \
     .option('dbtable', 'daily_prices_temp_tbl') \
     .option('user', DB_USER) \
     .option('password', DB_PASS) \
