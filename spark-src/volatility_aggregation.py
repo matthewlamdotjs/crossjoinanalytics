@@ -39,8 +39,8 @@ rawDF = spark.read \
 # make table available from sparksql
 rawDF.createOrReplaceTempView('prices')
 
-start_date = date.today().strftime('%Y-%m-%d')
-end_date = (date.today() - timedelta(days=14)).strftime('%Y-%m-%d')
+start_date = (date.today() - timedelta(days=1)).strftime('%Y-%m-%d')
+end_date = (date.today() - timedelta(days=15)).strftime('%Y-%m-%d')
 
 sqlDF = spark.sql("""
     SELECT
