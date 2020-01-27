@@ -1,7 +1,7 @@
 import os
 import time
 from pyspark.sql import SparkSession
-import pyspark.sql.functions._
+from datetime import datetime, timedelta
 
 # grab API key from env
 try:
@@ -36,18 +36,27 @@ rawDF = spark.read \
     .option('password', DB_PASS) \
     .load()
 
+# make table available from sparksql
 rawDF.createOrReplaceTempView('prices')
 
-# function to run std dev's with map function
-def aggregateDeviation(row):
-    sqlDF = spark.sql('SELECT TOP 14 FROM prices WHERE symbol = ' + row.symbol)
-    sqlDF.select(mean(sqlDF('close'))).show()
-    return row
+start_date = date.today().strftime('%Y-%m-%d')
+end_date = (date.today() - timedelta(days=14)).strftime('%Y-%m-%d')
 
-
-# cursor.execute("SELECT * FROM symbol_master_tbl;")
-# record = cursor.fetchone()
-# print(record[0])
-
-# run the aggregation per company in parallel
-symbolDF.rdd.map(aggregateDeviation)
+sqlDF = spark.sql("""
+    SELECT
+        symbol,
+        '"""+ start_date +"""' AS start_date,
+        '"""+ end_date +"""' AS end_date,
+        stddev(price_close) AS price_deviation,
+        avg(price_close) AS average_price
+    FROM
+        daily_prices_temp_tbl
+    WHERE
+        CAST(date AS INT)
+        BETWEEN unix_timestamp('"""+ start_date +"""', 'yyyy-MM-dd HH:mm:ss')
+        AND unix_timestamp('"""+ end_date +"""', 'yyyy-MM-dd HH:mm:ss')
+    GROUP BY
+        symbol
+    ORDER BY
+        symbol;
+""")

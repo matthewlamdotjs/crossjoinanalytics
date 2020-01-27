@@ -29,6 +29,7 @@ try:
     connection.autocommit = True
     cursor = connection.cursor()
 
+    # Get symbols
     cursor.execute(
         'SELECT symbol FROM symbol_master_tbl;'
     )
@@ -49,10 +50,13 @@ try:
                             'symbol='+ symbol	    	+ '&' +
                             'apikey=' + API_KEY)
 
+            
             response = requests.get(url = url).content
 
-            producer.send('test', b''+response)
+            # send message payload to queue
+            producer.send('stock-prices', b''+response)
 
+            # wait for API limit
             time.sleep(0.5)
 
 except (Exception, psycopg2.Error) as error :

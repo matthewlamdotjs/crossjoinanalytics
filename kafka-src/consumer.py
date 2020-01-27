@@ -12,11 +12,11 @@ except:
     print('Missing credentials. Please set environment variables appropriately.')
     exit()
 
-# To consume latest messages and auto-commit offsets
-consumer = KafkaConsumer('test',
-                         bootstrap_servers=['localhost:9092'])
-
 try:
+
+    # To consume latest messages and auto-commit offsets
+    consumer = KafkaConsumer('stock-prices',
+                            bootstrap_servers=['localhost:9092'])
 
     connection = psycopg2.connect(user = DB_USER,
                                   password = DB_PASS,
