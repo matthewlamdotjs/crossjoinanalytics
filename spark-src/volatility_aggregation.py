@@ -23,7 +23,7 @@ spark = SparkSession.builder \
 symbolDF = spark.read \
     .format('jdbc') \
     .option('url', DB_URL+':'+DB_PORT) \
-    .option('dbtable', 'public.symbol_master_tbl') \
+    .option('dbtable', 'symbol_master_tbl') \
     .option('user', DB_USER) \
     .option('password', DB_PASS) \
     .option('driver', 'org.postgresql.Driver') \
@@ -33,7 +33,7 @@ symbolDF = spark.read \
 rawDF = spark.read \
     .format('jdbc') \
     .option('url', DB_URL) \
-    .option('dbtable', 'public.daily_prices_temp_tbl') \
+    .option('dbtable', 'daily_prices_temp_tbl') \
     .option('user', DB_USER) \
     .option('password', DB_PASS) \
     .option('driver', 'org.postgresql.Driver') \
