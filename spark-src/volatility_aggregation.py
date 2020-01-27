@@ -25,6 +25,7 @@ symbolDF = spark.read \
     .option('dbtable', 'public.symbol_master_tbl') \
     .option('user', DB_USER) \
     .option('password', DB_PASS) \
+    .option('driver', 'org.postgresql.Driver') \
     .load()
     
 # read in data
@@ -34,6 +35,7 @@ rawDF = spark.read \
     .option('dbtable', 'public.daily_prices_temp_tbl') \
     .option('user', DB_USER) \
     .option('password', DB_PASS) \
+    .option('driver', 'org.postgresql.Driver') \
     .load()
 
 # make table available from sparksql
