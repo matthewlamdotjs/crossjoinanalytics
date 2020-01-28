@@ -1,7 +1,7 @@
 import os
 import time
 from pyspark.sql import SparkSession
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 
 # grab API key from env
 try:
