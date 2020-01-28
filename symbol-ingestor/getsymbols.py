@@ -8,7 +8,7 @@ import time
 import json
 import psycopg2
 
-# grab API key from env
+# grab API key and db cnx props from env
 try:
     API_KEY = os.environ['ALPHA_VANTAGE_API_KEY']
     DB_URL = os.environ['CJ_DB_URL']
@@ -19,7 +19,7 @@ except:
     print('Missing credentials. Please set environment variables appropriately.')
     exit()
 
-# get filenames
+# get filenames for symbol lists
 onlyfiles = [f for f in listdir('symbol_lists/') if isfile(join('symbol_lists/', f))]
 
 # setup db connection

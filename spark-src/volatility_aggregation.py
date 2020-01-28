@@ -33,9 +33,11 @@ rawDF = spark.read \
 # make table available from sparksql
 rawDF.createOrReplaceTempView('prices')
 
+# define moving window frame
 start_date = (date.today() - timedelta(days=1)).strftime('%Y-%m-%d')
 end_date = (date.today() - timedelta(days=15)).strftime('%Y-%m-%d')
 
+# aggregate data using std dev and mean for each window
 sqlDF = spark.sql("""
     SELECT
         symbol,
@@ -54,3 +56,4 @@ sqlDF = spark.sql("""
     ORDER BY
         symbol;
 """)
+
