@@ -69,7 +69,7 @@ sqlDF.write.mode('append') \
 
 # truncate old data (2yrs >)
 
-five_years_ago = (date.today() - timedelta(years=5)).strftime('%Y-%m-%d')
+#five_years_ago = (date.today() - timedelta(days=5*365)).strftime('%Y-%m-%d')
 
 sqlDF = spark.sql("""
     SELECT
