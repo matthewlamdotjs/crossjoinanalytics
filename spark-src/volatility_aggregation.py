@@ -57,8 +57,7 @@ sqlDF = spark.sql("""
         symbol
 """)
 
-sqlDF.show()
-
+# write results to db
 sqlDF.write.mode('append') \
     .format('jdbc') \
     .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
