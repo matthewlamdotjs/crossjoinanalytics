@@ -35,7 +35,7 @@ rawDF = spark.read \
 rawDF.createOrReplaceTempView('prices')
 
 # define moving window frame
-start_date = (date.today() - timedelta(days=15)).strftime('%Y-%m-%d')
+start_date = (date.today() - timedelta(days=14)).strftime('%Y-%m-%d')
 end_date = (date.today() - timedelta(days=1)).strftime('%Y-%m-%d')
 
 # aggregate data using std dev and mean for each window
