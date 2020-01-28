@@ -83,7 +83,7 @@ sqlDF = spark.sql("""
 sqlDF.write.mode('overwrite') \
     .format('jdbc') \
     .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
-    .option('dbtable', 'volatility_aggregation_tbl') \
+    .option('dbtable', 'daily_prices_temp_tbl') \
     .option('user', DB_USER) \
     .option('password', DB_PASS) \
     .option('driver', 'org.postgresql.Driver') \
