@@ -67,5 +67,27 @@ sqlDF.write.mode('append') \
     .option('driver', 'org.postgresql.Driver') \
     .save()
 
+# truncate old data (2yrs >)
+
+five_years_ago = (date.today() - timedelta(years=5)).strftime('%Y-%m-%d')
+
+sqlDF = spark.sql("""
+    SELECT
+        *
+    FROM
+        prices
+    WHERE
+        date >= cast('"""+ start_date +"""' as date)
+""")
+
+sqlDF.write.mode('overwrite') \
+    .format('jdbc') \
+    .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
+    .option('dbtable', 'volatility_aggregation_tbl') \
+    .option('user', DB_USER) \
+    .option('password', DB_PASS) \
+    .option('driver', 'org.postgresql.Driver') \
+    .save()
+
 # end session
 spark.stop()
