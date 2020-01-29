@@ -67,23 +67,5 @@ sqlDF.write.mode('append') \
     .option('driver', 'org.postgresql.Driver') \
     .save()
 
-# truncate old data (2yrs >)
-
-#five_years_ago = (date.today() - timedelta(days=5*365)).strftime('%Y-%m-%d')
-
-
-rawDF.filter('date >= cast(\''+ start_date +'\' as date)').show()
-
-rawDF.show()
-
-# sqlDF.write.mode('overwrite') \
-#     .format('jdbc') \
-#     .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
-#     .option('dbtable', 'daily_prices_temp_tbl') \
-#     .option('user', DB_USER) \
-#     .option('password', DB_PASS) \
-#     .option('driver', 'org.postgresql.Driver') \
-#     .save()
-
 # end session
 spark.stop()
