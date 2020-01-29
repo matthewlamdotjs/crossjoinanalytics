@@ -39,25 +39,23 @@ try:
     cursor.close()
     connection.close()
 
-    while(True):
+    for row in rows:
 
-        for row in rows:
+        symbol = row[0]
 
-            symbol = row[0]
+        url = ('https://www.alphavantage.co/query?'+
+                        'function=TIME_SERIES_DAILY'+ '&' +
+                        'symbol='+ symbol	    	+ '&' +
+                        'apikey=' + API_KEY)
 
-            url = ('https://www.alphavantage.co/query?'+
-                            'function=TIME_SERIES_DAILY'+ '&' +
-                            'symbol='+ symbol	    	+ '&' +
-                            'apikey=' + API_KEY)
+        
+        response = requests.get(url = url).content
 
-            
-            response = requests.get(url = url).content
+        # send message payload to queue
+        producer.send('stock-prices', b''+response)
 
-            # send message payload to queue
-            producer.send('stock-prices', b''+response)
-
-            # wait for API limit
-            time.sleep(0.5)
+        # wait for API limit
+        time.sleep(0.5)
 
 except (Exception, psycopg2.Error) as error :
     print ('Error while connecting to PostgreSQL', error)
