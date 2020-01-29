@@ -71,16 +71,10 @@ sqlDF.write.mode('append') \
 
 #five_years_ago = (date.today() - timedelta(days=5*365)).strftime('%Y-%m-%d')
 
-sqlDF2 = spark.sql("""
-    SELECT
-        *
-    FROM
-        prices
-    WHERE
-        date >= cast('"""+ start_date +"""' as date)
-""")
 
-sqlDF2.show()
+rawDF.filter('date >= cast(\''+ start_date +'\' as date)').show()
+
+rawDF.show()
 
 # sqlDF.write.mode('overwrite') \
 #     .format('jdbc') \
