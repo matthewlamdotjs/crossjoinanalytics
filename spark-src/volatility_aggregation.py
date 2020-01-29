@@ -55,7 +55,7 @@ sqlDF = spark.sql("""
         symbol
     ORDER BY
         symbol
-""")
+""").filter('price_deviation IS NOT NULL')
 
 # write results to db
 sqlDF.write.mode('append') \
