@@ -71,7 +71,7 @@ sqlDF.write.mode('append') \
 
 #five_years_ago = (date.today() - timedelta(days=5*365)).strftime('%Y-%m-%d')
 
-sqlDF = spark.sql("""
+sqlDF2 = spark.sql("""
     SELECT
         *
     FROM
@@ -80,7 +80,7 @@ sqlDF = spark.sql("""
         date >= cast('"""+ start_date +"""' as date)
 """)
 
-sqlDF.show()
+sqlDF2.show()
 
 # sqlDF.write.mode('overwrite') \
 #     .format('jdbc') \
