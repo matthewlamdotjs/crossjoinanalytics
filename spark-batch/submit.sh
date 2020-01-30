@@ -5,3 +5,4 @@
   --master spark://localhost:7077 \
   ~/crossjoinanalytics/spark-src/volatility_aggregation.py \
   1000
+  
