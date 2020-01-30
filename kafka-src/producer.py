@@ -1,5 +1,6 @@
 from kafka import KafkaProducer
 from kafka.errors import KafkaError
+import multiprocessing
 import time
 import requests
 import psycopg2
@@ -39,6 +40,17 @@ try:
     cursor.close()
     connection.close()
 
+    # threadpool of size # of cpu cores
+    pool = multiprocessing.Pool(multiprocessing.cpu_count() - 1)
+    
+    # callback for threads
+    def send_message(r):
+        response = r.content
+
+        # send message payload to queue
+        producer.send('stock-prices', b''+response)
+
+    # add symbol queries to threadpool
     for row in rows:
 
         symbol = row[0]
@@ -48,12 +60,9 @@ try:
                         'symbol='+ symbol	    	+ '&' +
                         'apikey=' + API_KEY)
 
+        # throw into threadpool
+        pool.apply_async(requests.get, args=[url], callback=send_message)
         
-        response = requests.get(url = url).content
-
-        # send message payload to queue
-        producer.send('stock-prices', b''+response)
-
         # wait for API limit
         time.sleep(0.5)
 
