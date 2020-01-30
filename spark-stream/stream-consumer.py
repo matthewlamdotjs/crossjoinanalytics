@@ -10,6 +10,7 @@ try:
     DB_PORT = os.environ['CJ_DB_PORT']
     DB_USER = os.environ['CJ_DB_UN']
     DB_PASS = os.environ['CJ_DB_PW']
+    SERVERS = os.environ['K_SERVERS']
     DRIVER_PATH = os.environ['PG_JDBC_DRIVER']
 except:
     print('Missing credentials. Please set environment variables appropriately.')
@@ -23,11 +24,7 @@ spark = SparkSession.builder \
     .getOrCreate()
 
 # get kafka servers
-servers = []
-with open('kafka-servers.txt', 'r') as myfile:
-    contents = ''.join(myfile.readlines())
-    contents = contents.lstrip().rstrip()
-    servers = contents.split(',')
+servers = SERVERS.split(',')
 
 # create kafka stream
 directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
@@ -51,7 +48,7 @@ for message in directKafkaStream:
             map(normalize, list(map(list, ts.items())))
         )
 
-        # read in existing data
+        # read in existing data for symbol
         rawDF = spark.read \
             .format('jdbc') \
             .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
@@ -59,7 +56,8 @@ for message in directKafkaStream:
             .option('user', DB_USER) \
             .option('password', DB_PASS) \
             .option('driver', 'org.postgresql.Driver') \
-            .load()
+            .load() \
+            .filter('symbol = \'' + symbol + '\'')
 
         # create dataframe from payload
         newDF = spark.createDataFrame(thelist, [
@@ -89,10 +87,10 @@ for message in directKafkaStream:
             FROM
                 new_prices
             WHERE
-                new_prices.symbol + date_format(new_prices.date,'yyyy-MM-dd') NOT IN
+                new_prices.date NOT IN
                 (
                     SELECT
-                        current_prices.symbol + date_format(current_prices.date,'yyyy-MM-dd')
+                        current_prices.date
                     FROM
                         current_prices
                 )
