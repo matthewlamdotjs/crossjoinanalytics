@@ -19,7 +19,7 @@ except:
     exit()
 
 # create spark stream
-sc = SparkContext('spark://localhost:7077', 'kafka-in')
+sc = SparkContext('local', 'kafka-in')
 ssc = StreamingContext(sc, 0.5)
 
 # get kafka servers
