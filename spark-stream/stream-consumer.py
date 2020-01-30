@@ -33,7 +33,7 @@ directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
 #     .config('spark.jars', DRIVER_PATH) \
 #     .getOrCreate()
 
-directKafkaStream.foreachRDD(lambda x: print(x))
+directKafkaStream.foreachRDD(lambda x: x.foreach(lambda y: print(y)))
 ssc.start()
 ssc.awaitTermination() 
 
