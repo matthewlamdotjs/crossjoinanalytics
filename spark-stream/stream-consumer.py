@@ -3,6 +3,8 @@ import os
 import time
 from pyspark.sql import SparkSession
 from datetime import date, datetime, timedelta
+from pyspark import SparkContext
+from pyspark.streaming import StreamingContext
 
 # grab API key from env
 try:
@@ -16,12 +18,9 @@ except:
     print('Missing credentials. Please set environment variables appropriately.')
     exit()
 
-# create spark session
-spark = SparkSession.builder \
-    .master('local') \
-    .appName('stream-consumer') \
-    .config('spark.jars', DRIVER_PATH) \
-    .getOrCreate()
+# create spark stream
+sc = SparkContext('spark://localhost:7077', 'kafka-in')
+ssc = StreamingContext(sc, 0.5)
 
 # get kafka servers
 servers = SERVERS.split(',')
@@ -30,6 +29,14 @@ servers = SERVERS.split(',')
 directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
     {'bootstrap.servers': servers})
 
+# create spark session
+spark = SparkSession.builder \
+    .master('local') \
+    .appName('stream-consumer') \
+    .config('spark.jars', DRIVER_PATH) \
+    .getOrCreate()
+
+# consume messages from kafka
 for message in directKafkaStream:
 
     response = message.value.decode('utf-8')
