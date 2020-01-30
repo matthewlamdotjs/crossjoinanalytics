@@ -22,12 +22,9 @@ except:
 sc = SparkContext('local', 'kafka-in')
 ssc = StreamingContext(sc, 0.5)
 
-# get kafka servers
-servers = SERVERS.split(',')
-
 # create kafka stream
 directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
-    {'bootstrap.servers': servers})
+    {'bootstrap.servers': SERVERS})
 
 # create spark session
 spark = SparkSession.builder \
