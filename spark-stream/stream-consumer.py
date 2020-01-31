@@ -34,13 +34,9 @@ directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
 #     .getOrCreate()
 
 def takeAndPrint(time, rdd):
-    taken = rdd.take(10)
-    print("-------------------------------------------")
-    print("Time: %s" % time)
-    print("-------------------------------------------")
+    taken = rdd.take(1)
     for record in taken:
-        print(record)
-    print("")
+        print(record[1])
 
 directKafkaStream.foreachRDD(takeAndPrint)
 
