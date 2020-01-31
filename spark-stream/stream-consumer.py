@@ -32,20 +32,11 @@ directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
 #     .appName('stream-consumer') \
 #     .config('spark.jars', DRIVER_PATH) \
 #     .getOrCreate()
-offsetRanges = []
 
-def storeOffsetRanges(rdd):
-    global offsetRanges
-    offsetRanges = rdd.offsetRanges()
-    return rdd
+result = directKafkaStream.collect()
 
-def printOffsetRanges(rdd):
-    for o in offsetRanges:
-        print "%s %s" % (o.topic, o.value)
-
-directKafkaStream\
-    .transform(storeOffsetRanges)\
-    .foreachRDD(printOffsetRanges)
+for message in result:
+    print(message.value)
 
 ssc.start()
 ssc.awaitTermination() 
