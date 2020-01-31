@@ -33,10 +33,18 @@ directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
 #     .config('spark.jars', DRIVER_PATH) \
 #     .getOrCreate()
 
-result = directKafkaStream.collect()
+def takeAndPrint(time, rdd):
+    taken = rdd.take(num + 1)
+    print("-------------------------------------------")
+    print("Time: %s" % time)
+    print("-------------------------------------------")
+    for record in taken[:num]:
+        print(record)
+    if len(taken) > num:
+        print("...")
+    print("")
 
-for message in result:
-    print(message.value)
+directKafkaStream.foreachRDD(takeAndPrint)
 
 ssc.start()
 ssc.awaitTermination() 
