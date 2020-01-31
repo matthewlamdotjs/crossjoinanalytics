@@ -41,12 +41,12 @@ def storeOffsetRanges(rdd):
 
 def printOffsetRanges(rdd):
     for o in offsetRanges:
-        print "%s %s %s %s" % (o.topic, o.partition, o.fromOffset, o.untilOffset)
+        print "%s %s" % (o.topic, o.value)
 
 directKafkaStream\
     .transform(storeOffsetRanges)\
     .foreachRDD(printOffsetRanges)
-    
+
 ssc.start()
 ssc.awaitTermination() 
 
