@@ -27,101 +27,103 @@ directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
     {'bootstrap.servers': SERVERS})
 
 # create spark session
-# spark = SparkSession.builder \
-#     .master('local') \
-#     .appName('stream-consumer') \
-#     .config('spark.jars', DRIVER_PATH) \
-#     .getOrCreate()
+spark = SparkSession.builder \
+    .master('local') \
+    .appName('stream-consumer') \
+    .config('spark.jars', DRIVER_PATH) \
+    .getOrCreate()
 
-def takeAndPrint(time, rdd):
+# function to apply to each streamed item
+def processStream(time, rdd):
+
+    # grab next off of message queue
     taken = rdd.take(1)
     for record in taken:
-        print(record[1])
 
-directKafkaStream.foreachRDD(takeAndPrint)
-
-ssc.start()
-ssc.awaitTermination() 
-
-# consume messages from kafka
-# for message in directKafkaStream:
-
-#     response = message.value.decode('utf-8')
+        # get message value
+        response = record[1]
     
-#     try:
-#         js_payload = json.loads(response)
-#         symbol = js_payload['Meta Data']['2. Symbol']
-#         ts = js_payload['Time Series (Daily)']
+        try:
+            # parse json
+            js_payload = json.loads(response)
+            symbol = js_payload['Meta Data']['2. Symbol']
+            ts = js_payload['Time Series (Daily)']
 
-#         # aggregates response into a dataframe-convertable format
-#         def normalize(row):
-#             nested = row[1]
-#             return [symbol, row[0], nested['2. high'], nested['3. low'], nested['1. open'], nested['4. close'], datetime.today()]
+            # aggregate response into a dataframe-convertable format
+            def normalize(row):
+                nested = row[1]
+                return [symbol, row[0], nested['2. high'], nested['3. low'], nested['1. open'], nested['4. close'], time]
+            
+            thelist = list(
+                map(normalize, list(map(list, ts.items())))
+            )
 
-#         thelist = list(
-#             map(normalize, list(map(list, ts.items())))
-#         )
+            # read in existing data for symbol
+            rawDF = spark.read \
+                .format('jdbc') \
+                .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
+                .option('dbtable', 'daily_prices_temp_tbl') \
+                .option('user', DB_USER) \
+                .option('password', DB_PASS) \
+                .option('driver', 'org.postgresql.Driver') \
+                .load() \
+                .filter('symbol = \'' + symbol + '\'')
 
-#         # read in existing data for symbol
-#         rawDF = spark.read \
-#             .format('jdbc') \
-#             .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
-#             .option('dbtable', 'daily_prices_temp_tbl') \
-#             .option('user', DB_USER) \
-#             .option('password', DB_PASS) \
-#             .option('driver', 'org.postgresql.Driver') \
-#             .load() \
-#             .filter('symbol = \'' + symbol + '\'')
+            # create dataframe from payload
+            newDF = spark.createDataFrame(thelist, [
+                'symbol',
+                'date',
+                'price_high',
+                'price_low',
+                'price_open',
+                'price_close',
+                'timestamp'
+            ])
 
-#         # create dataframe from payload
-#         newDF = spark.createDataFrame(thelist, [
-#             'symbol',
-#             'date',
-#             'price_high',
-#             'price_low',
-#             'price_open',
-#             'price_close',
-#             'timestamp'
-#         ])
+            # make tables available from sparksql
+            rawDF.createOrReplaceTempView('current_prices')
+            newDF.createOrReplaceTempView('new_prices')
 
-#         # make tables available from sparksql
-#         rawDF.createOrReplaceTempView('current_prices')
-#         newDF.createOrReplaceTempView('new_prices')
+            # left anti join on composite key to remove duplicates
+            sqlDF = spark.sql("""
+                SELECT
+                    symbol,
+                    date,
+                    price_high,
+                    price_low,
+                    price_open,
+                    price_close,
+                    timestamp
+                FROM
+                    new_prices
+                WHERE
+                    new_prices.date NOT IN
+                    (
+                        SELECT
+                            current_prices.date
+                        FROM
+                            current_prices
+                    )
+            """)
 
-#         # left anti join on composite key to remove duplicates
-#         sqlDF = spark.sql("""
-#             SELECT
-#                 symbol,
-#                 date,
-#                 price_high,
-#                 price_low,
-#                 price_open,
-#                 price_close,
-#                 timestamp
-#             FROM
-#                 new_prices
-#             WHERE
-#                 new_prices.date NOT IN
-#                 (
-#                     SELECT
-#                         current_prices.date
-#                     FROM
-#                         current_prices
-#                 )
-#         """)
+            # write results to db
+            sqlDF.write.mode('append') \
+                .format('jdbc') \
+                .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
+                .option('dbtable', 'daily_prices_temp_tbl') \
+                .option('user', DB_USER) \
+                .option('password', DB_PASS) \
+                .option('driver', 'org.postgresql.Driver') \
+                .save()
 
-#         # write results to db
-#         sqlDF.write.mode('append') \
-#             .format('jdbc') \
-#             .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
-#             .option('dbtable', 'daily_prices_temp_tbl') \
-#             .option('user', DB_USER) \
-#             .option('password', DB_PASS) \
-#             .option('driver', 'org.postgresql.Driver') \
-#             .save()
+        except (Exception) as error :
+            print(error)
 
-#     except (Exception) as error :
-#         print(error)
+directKafkaStream.foreachRDD(processStream)
 
-# # end session
-# spark.stop()
+# start stream
+ssc.start()
+ssc.awaitTermination()
+
+# end spark session
+spark.stop()
