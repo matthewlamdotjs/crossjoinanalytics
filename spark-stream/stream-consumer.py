@@ -94,7 +94,7 @@ def processStream(time, rdd):
                     cast(price_low as decimal(8,4)),
                     cast(price_open as decimal(8,4)),
                     cast(price_close as decimal(8,4)),
-                    cast(timestamp as datetime)
+                    cast(timestamp as timestamp)
                 FROM
                     new_prices
                 WHERE
