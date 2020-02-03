@@ -81,8 +81,6 @@ def processStream(time, rdd):
                 'timestamp'
             ])
 
-            newDF.show()
-
             # make tables available from sparksql
             rawDF.createOrReplaceTempView('current_prices')
             newDF.createOrReplaceTempView('new_prices')
@@ -91,7 +89,7 @@ def processStream(time, rdd):
             sqlDF = spark.sql("""
                 SELECT
                     symbol,
-                    date,
+                    cast(date as date),
                     price_high,
                     price_low,
                     price_open,
@@ -108,7 +106,8 @@ def processStream(time, rdd):
                             current_prices
                     )
             """)
-            
+
+            print('Inserting new rows: ')
             sqlDF.show()
 
             # # write results to db
