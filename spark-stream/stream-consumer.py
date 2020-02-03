@@ -90,11 +90,11 @@ def processStream(time, rdd):
                 SELECT
                     symbol,
                     cast(date as date),
-                    price_high,
-                    price_low,
-                    price_open,
-                    price_close,
-                    timestamp
+                    cast(price_high as decimal(8,4)),
+                    cast(price_low as decimal(8,4)),
+                    cast(price_open as decimal(8,4)),
+                    cast(price_close as decimal(8,4)),
+                    cast(timestamp as datetime)
                 FROM
                     new_prices
                 WHERE
