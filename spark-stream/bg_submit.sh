@@ -1,3 +1,3 @@
 #!/bin/bash
 
-nohup ./submit.sh &
+nohup ~/crossjoinanalytics/spark-stream/submit.sh &
