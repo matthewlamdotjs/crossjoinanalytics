@@ -58,6 +58,8 @@ def processStream(time, rdd):
                 map(normalize, list(map(list, ts.items())))
             )
 
+            print(thelist)
+            
             # read in existing data for symbol
             # rawDF = spark.read \
             #     .format('jdbc') \
