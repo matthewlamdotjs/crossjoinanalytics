@@ -112,14 +112,14 @@ def processStream(time, rdd):
             sqlDF.show()
 
             # # write results to db
-            # sqlDF.write.mode('append') \
-            #     .format('jdbc') \
-            #     .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
-            #     .option('dbtable', 'daily_prices_temp_tbl') \
-            #     .option('user', DB_USER) \
-            #     .option('password', DB_PASS) \
-            #     .option('driver', 'org.postgresql.Driver') \
-            #     .save()
+            sqlDF.write.mode('append') \
+                .format('jdbc') \
+                .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
+                .option('dbtable', 'daily_prices_temp_tbl') \
+                .option('user', DB_USER) \
+                .option('password', DB_PASS) \
+                .option('driver', 'org.postgresql.Driver') \
+                .save()
 
         except (Exception) as error :
             print(error)
