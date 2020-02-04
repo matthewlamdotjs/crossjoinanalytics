@@ -71,7 +71,7 @@ while(counter < 7300):
         .option('driver', 'org.postgresql.Driver') \
         .save()
 
-    counter = counter + 14
+    counter = counter + 7
 
 # end session
 spark.stop()
