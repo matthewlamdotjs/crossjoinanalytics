@@ -35,8 +35,9 @@ rawDF = spark.read \
 rawDF.createOrReplaceTempView('prices')
 
 # define moving window frame
-start_date = (date.today() - timedelta(days=14)).strftime('%Y-%m-%d')
-end_date = (date.today() - timedelta(days=1)).strftime('%Y-%m-%d')
+# job runs every sunday at midnight so start window from prior monday to sync with historical job
+start_date = (date.today() - timedelta(days=19)).strftime('%Y-%m-%d')
+end_date = (date.today() - timedelta(days=6)).strftime('%Y-%m-%d')
 
 # aggregate data using std dev and mean for each window
 sqlDF = spark.sql("""
