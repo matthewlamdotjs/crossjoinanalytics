@@ -7,7 +7,7 @@ from datetime import date, datetime, timedelta
 from pyspark import SparkContext
 from pyspark.streaming import StreamingContext
 
-# grab API key from env
+# load env vars
 try:
     DB_URL = os.environ['CJ_DB_URL']
     DB_PORT = os.environ['CJ_DB_PORT']

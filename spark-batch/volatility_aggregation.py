@@ -3,7 +3,7 @@ import time
 from pyspark.sql import SparkSession
 from datetime import date, datetime, timedelta
 
-# grab API key from env
+# load env vars
 try:
     DB_URL = os.environ['CJ_DB_URL']
     DB_PORT = os.environ['CJ_DB_PORT']

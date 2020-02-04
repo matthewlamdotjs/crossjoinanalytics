@@ -70,7 +70,7 @@ try:
                                 match['3. type'] +'\',\''+
                                 match['4. region'] +'\',\''+
                                 match['7. timezone'] +'\',\''+
-                                 match['8. currency'] +'\');')
+                                match['8. currency'] +'\');')
                             
                             print(query_string)
                             cursor.execute(query_string)
