@@ -35,7 +35,8 @@ rawDF = spark.read \
 rawDF.createOrReplaceTempView('prices')
 
 # Start window today and move back 20 years * 365 days = 7300 days
-counter = 1
+# Start 3 days ago to ensure end date is a saturday when running today (tuesday)
+counter = 3
 while(counter < 7300):
 
     # define moving window frame
