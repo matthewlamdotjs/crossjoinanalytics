@@ -37,11 +37,12 @@ rawDF.createOrReplaceTempView('prices')
 # Start window today and move back 20 years * 365 days = 7300 days
 # Start 3 days ago to ensure end date is a saturday when running today (tuesday)
 counter = 3
+current_date = date.today()
 while(counter < 7300):
 
     # define moving window frame
-    start_date = (date.today() - timedelta(days=counter + 13)).strftime('%Y-%m-%d')
-    end_date = (date.today() - timedelta(days=counter)).strftime('%Y-%m-%d')
+    start_date = (current_date - timedelta(days=counter + 13)).strftime('%Y-%m-%d')
+    end_date = (current_date - timedelta(days=counter)).strftime('%Y-%m-%d')
 
     # aggregate data using std dev and mean for each window
     sqlDF = spark.sql("""
