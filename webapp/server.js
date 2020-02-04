@@ -5,6 +5,7 @@ const redisStore = require('connect-redis')(session);
 const bodyParser = require('body-parser');
 const bcrypt = require('bcrypt');
 const pg = require('pg');
+const path = require('path'); 
 
 // Init App and Router and redisClient
 const router = express.Router();
