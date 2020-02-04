@@ -50,7 +50,7 @@ sqlDF = spark.sql("""
         prices
     WHERE
         date >= cast('"""+ start_date +"""' as date) AND
-        date < cast('"""+ end_date +"""' as date)
+        date <= cast('"""+ end_date +"""' as date)
     GROUP BY
         symbol
     ORDER BY
