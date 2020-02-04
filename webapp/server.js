@@ -151,6 +151,7 @@ router.get('/logout',function(req,res){
 
 app.use('/', router);
 app.use(express.static(path.join(__dirname, 'src')));
+app.engine('html', require('ejs').renderFile);
 
 // HTTP
 app.listen(process.env.PORT || 80,() => {
