@@ -19,7 +19,7 @@ const DB_UN = process.env['CJ_DB_UN'];
 const DB_PW = process.env['CJ_DB_PW'];
 const SESSION_SECRET = process.env['SESSION_SECRET'];
 
-if (!(DB_URL || DB_PORT || DB_UN || DB_PW || SESSION_SECRET)) {
+if (!DB_URL || !DB_PORT || !DB_UN || !DB_PW || !SESSION_SECRET) {
     console.log('Invalid Credentials. Check ENV Variables');
     process.exit(1);
 }
