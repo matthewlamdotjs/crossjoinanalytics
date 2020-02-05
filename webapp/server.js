@@ -64,12 +64,19 @@ app.use(bodyParser.urlencoded({extended: true}));
 /* ROUTER */
 
 router.get('/',function(req,res){
+    if(req.session.key) {
+        res.render('dashboard.html', {
+            username : req.session.key['username']
+        });
+    }
     res.render('index.html');
 });
 
 router.get('/dashboard',function(req,res){
     if(req.session.key) {
-        res.render('dashboard.html',{ email : req.session.key['username']});
+        res.render('dashboard.html', {
+            username : req.session.key['username']
+        });
     } else {
         res.redirect('/login');
     }
@@ -93,10 +100,7 @@ router.post('/login',function(req, res){
                     req.session.key = {
                         username: result.rows[0].username
                     };
-                    return res.json({
-                        status: 1,
-                        message: 'Success.'
-                    });
+                    req.redirect('/dashboard');
                 }
                 else{
                     return res.json({
@@ -147,10 +151,10 @@ router.post('/register', async function(req,res){
                         message: error
                     });
                 } else {
-                    return res.json({
-                        status: 1,
-                        message: `Success, user ${username} created.`
-                    });     
+                    req.session.key = {
+                        username: username
+                    };
+                    req.redirect('/dashboard');   
                 }
             });            
         }
