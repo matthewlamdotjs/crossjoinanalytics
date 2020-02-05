@@ -10,6 +10,8 @@ const path = require('path');
 // Init App and Router and redisClient
 const router = express.Router();
 const app = express();
+app.use(express.static(path.join(__dirname, 'views')));
+app.engine('html', require('ejs').renderFile);
 const client  = redis.createClient();
 
 /* ENV Config */
@@ -88,8 +90,8 @@ router.get('/login', function(req,res){
 
 router.post('/login',function(req, res){
     // grab credentials
-    let username = req.params.username;
-    let password = req.params.password;
+    let username = req.body.username;
+    let password = req.body.password;
 
     db.query('SELECT id, username, password, type FROM users WHERE username=$1', [username], (error, result) => {
         if(result.rows.length > 0) {
@@ -132,8 +134,8 @@ router.get('/register', function(req,res){
 
 router.post('/register', async function(req,res){
     
-    let username = req.params.username;
-    let password = await bcrypt.hash(req.params.password, 5);
+    let username = req.body.username;
+    let password = await bcrypt.hash(req.body.password, 5);
 
     db.query('SELECT 1 FROM users WHERE username=$1;', [username], (error, result) => {
         if(result.rows.length > 0) {
@@ -178,8 +180,6 @@ router.get('/logout',function(req,res){
 });
 
 app.use('/', router);
-app.use(express.static(path.join(__dirname, 'views')));
-app.engine('html', require('ejs').renderFile);
 
 // HTTP
 app.listen(process.env.PORT || 80,() => {
