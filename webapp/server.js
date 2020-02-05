@@ -100,7 +100,10 @@ router.post('/login',function(req, res){
                     req.session.key = {
                         username: result.rows[0].username
                     };
-                    req.redirect('/dashboard');
+                    return res.json({
+                        status: 1,
+                        message: 'Success.'
+                    });
                 }
                 else{
                     return res.json({
@@ -154,7 +157,10 @@ router.post('/register', async function(req,res){
                     req.session.key = {
                         username: username
                     };
-                    req.redirect('/dashboard');   
+                    return res.json({
+                        status: 1,
+                        message: `Success, user ${username} created.`
+                    });     
                 }
             });            
         }
