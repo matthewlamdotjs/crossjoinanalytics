@@ -178,7 +178,7 @@ router.get('/logout',function(req,res){
 });
 
 app.use('/', router);
-app.use(express.static(path.join(__dirname, 'src')));
+app.use(express.static(path.join(__dirname, 'views')));
 app.engine('html', require('ejs').renderFile);
 
 // HTTP
