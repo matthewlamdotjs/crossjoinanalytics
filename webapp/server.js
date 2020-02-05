@@ -100,7 +100,7 @@ router.post('/login',function(req, res){
     console.log(req.body);
 
     console.log('param;');
-    console.log(req.param);
+    console.log(req.body);
 
     db.query('SELECT id, username, password, type FROM users WHERE username=$1', [username], (error, result) => {
         if(result.rows.length > 0) {
