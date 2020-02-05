@@ -47,7 +47,7 @@ db.on('error', function (err) {
 /* AUTH/SESH CONFIG */
 
 app.use(session({
-    secret: 'ssshhhhh',
+    secret: SESSION_SECRET,
     store: new redisStore({
         host: 'localhost',
         port: 6379,
@@ -123,20 +123,49 @@ router.get('/register', function(req,res){
     res.render('register.html');
 });
 
-router.post('/register',function(req,res){
+router.post('/register', async function(req,res){
     
+    let username = req.param('username');
+    let password = await bcrypt.hash(req.param('password'), 5);
+
+    db.query('SELECT 1 FROM users WHERE username=$1;', [username], (error, result) => {
+        if(result.rows.length > 0) {
+            return res.json({
+                status: 0,
+                message: 'Username already exists.'
+            });
+        } else if(error){
+            return res.json({
+                status: 0,
+                message: error
+            });
+        } else {
+            db.query('INSERT INTO users(username, password) VALUES ($1, $2);', [username, password], (error, result) => {
+                if(error){
+                    return res.json({
+                        status: 0,
+                        message: error
+                    });
+                } else {
+                    return res.json({
+                        status: 1,
+                        message: `Success, user ${username} created.`
+                    });     
+                }
+            });            
+        }
+    });
 });
 
 router.get('/logout',function(req,res){
     if(req.session.key) {
         req.session.destroy(function(){
-        res.redirect('/');
+            res.redirect('/');
         });
     } else {
         res.redirect('/');
     }
 });
-
 
 app.use('/', router);
 app.use(express.static(path.join(__dirname, 'src')));
