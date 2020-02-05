@@ -81,8 +81,8 @@ router.get('/login', function(req,res){
 
 router.post('/login',function(req, res){
     // grab credentials
-    let username = req.param('username');
-    let password = req.param('password');
+    let username = req.params.username;
+    let password = req.params.password;
 
     db.query('SELECT id, username, password, type FROM users WHERE username=$1', [username], (error, result) => {
         if(result.rows.length > 0) {
@@ -125,8 +125,8 @@ router.get('/register', function(req,res){
 
 router.post('/register', async function(req,res){
     
-    let username = req.param('username');
-    let password = await bcrypt.hash(req.param('password'), 5);
+    let username = req.params.username;
+    let password = await bcrypt.hash(req.params.password, 5);
 
     db.query('SELECT 1 FROM users WHERE username=$1;', [username], (error, result) => {
         if(result.rows.length > 0) {
