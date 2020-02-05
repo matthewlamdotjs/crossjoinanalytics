@@ -10,13 +10,13 @@
     <meta name="author" content="Matthew Lam">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
-    <link rel="stylesheet" href="main.css" />
+    <link rel="stylesheet" type="text/css" href="main.css" />
 </head>
 
 <body>
     <div class="ui container" style='padding-top: 200px !important;'>
         <h1 class="ui center aligned header">Register</h1>
-        <form class="ui form" method="POST" action="/register">
+        <div class="ui form">
             <center>
                 <div id="error-msg" style="max-width: 300px;"></div>
                 <div class="field" style="max-width: 300px;">
@@ -34,7 +34,7 @@
                     Back to <a href="/">homepage</a>
                 </h4>
             </center>
-        </form>
+        </div>
     </div>
     <script src="main.js"></script>
 </body>
