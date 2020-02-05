@@ -202,6 +202,12 @@ function drawGraphs(rows) {
             return [new Date(element.end_date), element.price_deviation];
         })));
 
+        console.log([
+            ['Date', 'Price Deviation']
+        ].concat(rows.map((element) => {
+            return [new Date(element.end_date), element.price_deviation];
+        })));
+        
         const avgData = google.visualization.arrayToDataTable([
             ['Date', 'Average Price']
         ].concat(rows.map((element) => {
