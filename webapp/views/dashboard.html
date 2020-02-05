@@ -1,21 +1,44 @@
 <!doctype html>
 
 <html lang="en">
-<head>
-  <meta charset="utf-8">
 
-  <title>Crossjoin Analytics</title>
-  <meta name="description" content="Crossjoin Analytics Dashboard">
-  <meta name="author" content="Matthew Lam">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
-  <link rel="stylesheet" href="main.css" />
-  <script src="main.js"></script>
+<head>
+    <meta charset="utf-8">
+
+    <title>Crossjoin Analytics</title>
+    <meta name="description" content="Crossjoin Analytics Dashboard">
+    <meta name="author" content="Matthew Lam">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+    <link rel="stylesheet" href="main.css" />
+    <script src="main.js"></script>
 </head>
 
 <body>
-    <div class="ui container" style='padding-top: 200px !important;'>
-      DASHBOARDD
+    <div class="ui container" style='padding-top: 50px !important;'>
+        <div class="ui grid">
+            <div class="ten wide column">
+                <table class="ui celled table">
+                    <thead>
+                        <tr>
+                            <th>Symbol</th>
+                            <th>Company</th>
+                            <th>Type</th>
+                            <th>Region</th>
+                            <th>Currency</th>
+                            <th>Volatility</th>
+                        </tr>
+                    </thead>
+                    <tbody id="ranking-table"></tbody>
+                </table>
+            </div>
+            <div class="six wide column">
+                <div id="v-graph"></div>
+                <br>
+                <div id="a-graph"></div>
+            </div>
+        </div>
     </div>
 </body>
+
 </html>

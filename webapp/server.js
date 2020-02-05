@@ -222,7 +222,7 @@ router.post('/ranking', function (req, res) {
             LEFT JOIN
                 symbol_master_tbl AS STbl
             ON
-                STbl.symbol = VTbl.symbol
+                STbl.symbol = VTbl.symbol;
         `, [], (error, result) => {
             if (result.rows.length > 0) {
                 return res.json({
@@ -240,6 +240,63 @@ router.post('/ranking', function (req, res) {
                     message: 'No results available.'
                 });
             }
+        });
+    } else {
+        res.redirect('/login');
+    }
+});
+
+router.post('/graphData', function (req, res) {
+
+    // ranking window defaults
+    let years = req.body.years || 1;
+    let months = req.body.months || 0;
+    let days = req.body.days || 0;
+    let symbol = req.body.symbol;
+
+    if (req.session.key && symbol) {
+        db.query(`
+            SELECT
+                symbol,
+                start_date,
+                end_date,
+                price_deviation,
+                average_price
+            FROM
+                volatility_aggregation_tbl
+            WHERE
+                end_date <= current_date AND
+                start_date > (
+                    current_date
+                    - interval '${years} year'
+                    - interval '${months} month'
+                    - interval '${days} day'
+                ) AND
+                symbol=$1
+            ORDER BY
+                end_date DESC;
+            `, [symbol], (error, result) => {
+            if (result.rows.length > 0) {
+                return res.json({
+                    status: 1,
+                    rows: result.rows
+                });
+            } else if (error) {
+                return res.json({
+                    status: 0,
+                    message: error
+                });
+            } else {
+                return res.json({
+                    status: 0,
+                    message: 'No results available.'
+                });
+            }
+        });
+    } else if (!symbol) {
+        return res.json({
+            status: 0,
+            message: 'Please provide symbol.'
         });
     } else {
         res.redirect('/login');
