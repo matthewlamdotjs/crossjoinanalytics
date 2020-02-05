@@ -1,34 +1,42 @@
 <!doctype html>
 
 <html lang="en">
-<head>
-  <meta charset="utf-8">
 
-  <title>Crossjoin Analytics</title>
-  <meta name="description" content="Crossjoin Analytics Dashboard">
-  <meta name="author" content="Matthew Lam">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+<head>
+    <meta charset="utf-8">
+
+    <title>Crossjoin Analytics</title>
+    <meta name="description" content="Crossjoin Analytics Dashboard">
+    <meta name="author" content="Matthew Lam">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+    <link rel="stylesheet" href="main.css" />
 </head>
 
 <body>
     <div class="ui container" style='padding-top: 200px !important;'>
         <h1 class="ui center aligned header">Login</h1>
-        <form class="ui form" method="POST" action="/login">
+        <form class="ui form">
             <center>
-            <div class="field" style="max-width: 300px;">
-              <label style="text-align: left !important;">Username</label>
-              <input type="text" name="username" placeholder="Username">
-            </div>
-            <div class="field" style="max-width: 300px;">
-              <label style="text-align: left !important;">Password</label>
-              <input type="text" name="password" placeholder="Password">
-            </div>
-            <button class="ui button" type="submit">Login</button>
-            <br><br>
-            <p>Don't have an account? Register <a href="/register">here</a>.</p>
+                <div id="error-msg" style="max-width: 300px;"></div>
+                <div class="field" style="max-width: 300px;">
+                    <label style="text-align: left !important;">Username</label>
+                    <input type="text" id="username" name="username" placeholder="Username">
+                </div>
+                <div class="field" style="max-width: 300px;">
+                    <label style="text-align: left !important;">Password</label>
+                    <input type="password" id="password" name="password" placeholder="Password">
+                </div>
+                <button class="ui button" onclick="login()">Login</button>
+                <br><br>
+                <p>Don't have an account? Register <a href="/register">here</a>.</p>
+                <h4 class="ui center aligned header">
+                    Back to <a href="/">homepage</a>
+                </h4>
             </center>
         </form>
     </div>
+    <script src="main.js"></script>
 </body>
+
 </html>
