@@ -1,13 +1,10 @@
 // Example POST method implementation:
 // Modified from https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 async function postData(url = '', data = {}) {
-    // set headers so API can parse body
-    let headers = new Headers();
-    headers.append('Content-Type', 'application/json');
 
     // Default options are marked with *
     const response = await fetch(url, {
-        headers: headers,
+        headers: {'Content-Type': 'application/json'},
         method: 'POST', // *GET, POST, PUT, DELETE, etc.
         mode: 'no-cors', // no-cors, *cors, same-origin
         cache: 'no-cache', // *default, no-cache, reload, force-cache, only-if-cached
