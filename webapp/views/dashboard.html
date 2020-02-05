@@ -12,12 +12,23 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
     <link rel="stylesheet" href="main.css" />
     <script src="main.js"></script>
+
+    <!-- G charts -->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 </head>
 
 <body>
     <div class="ui container" style='padding-top: 50px !important;'>
         <div class="ui grid">
+            <div class="six wide column">
+                <img class="ui medium image"  src='logo.png'>
+            </div>
             <div class="ten wide column">
+                <div id="options"></div>
+            </div>
+        </div>
+        <div class="ui grid">
+            <div class="eight wide column">
                 <table class="ui celled table">
                     <thead>
                         <tr>
@@ -32,7 +43,7 @@
                     <tbody id="ranking-table"></tbody>
                 </table>
             </div>
-            <div class="six wide column">
+            <div class="eight wide column">
                 <div id="v-graph"></div>
                 <br>
                 <div id="a-graph"></div>

@@ -168,7 +168,7 @@ function getGraph(id) {
     const days = document.getElementById('days').value || 0;
     const symbol = id;
 
-    postData('/ranking', {
+    postData('/graphData', {
         years: years,
         months: months,
         days: days,
@@ -185,14 +185,53 @@ function getGraph(id) {
 
 // draws the graphs
 function drawGraphs(rows) {
-    console.log(rows)
+
+    // clear previous charts if any
+    let volGraph = document.getElementById('v-graph');
+    let avgGraph = document.getElementById('a-graph');
+    volGraph.innerHTML = '';
+    avgGraph.innerHTML = '';
+
+    google.charts.load('current', { 'packages': ['corechart'] });
+    google.charts.setOnLoadCallback(drawCharts);
+
+    function drawCharts() {
+        const volData = google.visualization.arrayToDataTable([
+            ['Date', 'Price Deviation']
+        ].concat(rows.map((element) => {
+            return [element.end_date, element.price_deviation];
+        })));
+
+        const avgData = google.visualization.arrayToDataTable([
+            ['Date', 'Average Price']
+        ].concat(rows.map((element) => {
+            return [element.end_date, element.average_price];
+        })));
+
+        const volOptions = {
+            title: 'Volatility (2 week window)',
+            curveType: 'function',
+            legend: { position: 'bottom' }
+        };
+        const avgOptions = {
+            title: 'Average Price (2 week window)',
+            curveType: 'function',
+            legend: { position: 'bottom' }
+        };
+
+        const volChart = new google.visualization.LineChart(volGraph);
+        const avgChart = new google.visualization.LineChart(avgGraph);
+
+        volChart.draw(volData, volOptions);
+        avgChart.draw(avgData, avgOptions);
+    }
 }
 
 document.addEventListener("DOMContentLoaded", function (event) {
 
     // load data
-    if(window.location.pathname.indexOf('/dashboard') > -1){
-        ranking()
+    if (window.location.pathname.indexOf('/dashboard') > -1) {
+        ranking();
     }
 
 });
