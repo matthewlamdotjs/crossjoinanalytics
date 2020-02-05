@@ -20,11 +20,43 @@
 <body>
     <div class="ui container" style='padding-top: 50px !important;'>
         <div class="ui grid">
-            <div class="six wide column">
-                <img class="ui medium image"  src='logo.png'>
+            <div class="four wide column">
+                <img class="ui medium image" src='logo.png'>
             </div>
-            <div class="ten wide column">
-                <div id="options"></div>
+            <div class="twelve wide column">
+                <br>
+                <div class="ui form">
+                    <label>Lookback Window Parameters</label>
+                    <div class="fields">
+
+                        <div class="field">
+                            <label># Years ago</label>
+                            <input type="number" id="years" value="1">
+                        </div>
+
+                        <div class="field">
+                            <label># Months ago</label>
+                            <input type="number" id="months" value="0">
+                        </div>
+
+                        <div class="field">
+                            <label># Days ago</label>
+                            <input type="number" id="days" value="0">
+                        </div>
+
+                        <div class="field">
+                            <label>Limit</label>
+                            <input type="number" id="limit" value="100">
+                        </div>
+
+                        <div class="field">
+                            <!-- lazy spacing -->
+                            <label style="opacity: 0;"> .</label> 
+                            <button class="ui button" onclick="ranking()">Submit</button>
+                        </div>
+
+                    </div>
+                </div>
             </div>
         </div>
         <div class="ui grid">
