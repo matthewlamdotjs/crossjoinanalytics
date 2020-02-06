@@ -130,3 +130,4 @@ dmypy.json
 
 spark-stream/kafka-servers.txt
 webapp/dump.rdb
+webapp/nohup.out
