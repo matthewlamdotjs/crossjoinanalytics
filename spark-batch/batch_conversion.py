@@ -1,11 +1,8 @@
-from pyspark.streaming.kafka import KafkaUtils
 import os
 import time
 import json
 from pyspark.sql import SparkSession
-from datetime import date, datetime, timedelta
 from pyspark import SparkContext
-from pyspark.streaming import StreamingContext
 from currency_converter import CurrencyConverter # pip install currencyconverter
 import pyspark.sql.functions as F
 from pyspark.sql.types import FloatType
@@ -56,8 +53,7 @@ rawDF = spark.read \
     .option('user', DB_USER) \
     .option('password', DB_PASS) \
     .option('driver', 'org.postgresql.Driver') \
-    .load() \
-    .filter('symbol = \'' + symbol + '\'')
+    .load()
 
 # make table available from sparksql
 rawDF.createOrReplaceTempView('new_prices')
