@@ -197,28 +197,27 @@ router.post('/ranking', function (req, res) {
                 STbl.type,
                 STbl.region,
                 STbl.currency,
-                CAST(VTbl.volatility AS numeric(8,2))
+                VTbl.volatility
             FROM
-                (
-                    SELECT
-                        symbol,
-                        AVG(price_deviation) AS volatility
-                    FROM
-                        volatility_aggregation_tbl AS VTbl
-                    WHERE
-                        end_date <= current_date AND
-                        start_date > (
-                            current_date
-                            - interval '${years} year'
-                            - interval '${months} month'
-                            - interval '${days} day'
-                        )
-                    GROUP BY
-                        VTbl.symbol
-                    ORDER BY
-                        volatility DESC
-                    LIMIT ${limit}
-                ) AS VTbl
+                (SELECT
+                    symbol,
+                    CAST(AVG(price_deviation) AS decimal(8,4)) AS volatility
+                FROM
+                    volatility_aggregation_tbl AS VTbl
+                WHERE
+                    end_date <= current_date AND
+                    start_date > (
+                        current_date
+                        - interval '${years} year'
+                        - interval '${months} month'
+                        - interval '${days} day'
+                    )
+                GROUP BY
+                    symbol
+                ORDER BY
+                    volatility DESC
+                LIMIT ${limit}
+            ) AS VTbl
             LEFT JOIN
                 symbol_master_tbl AS STbl
             ON
@@ -230,7 +229,9 @@ router.post('/ranking', function (req, res) {
                     - interval '${months} month'
                     - interval '${days} day'
                 ) AND VTbl.symbol = symbol
-            );
+            )
+            ORDER BY
+                VTbl.volatility DESC;
         `, [], (error, result) => {
             if (result.rows.length > 0) {
                 return res.json({

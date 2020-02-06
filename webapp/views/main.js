@@ -183,6 +183,8 @@ function getGraph(id) {
     .then((data) => {
         if (data.status == 0) {
             setError(data.message);
+            // end dimmer
+            document.getElementById('loading-dimmer').classList.remove('active');
         } else {
             drawGraphs(data.rows);
         }
