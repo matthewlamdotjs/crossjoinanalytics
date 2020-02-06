@@ -76,6 +76,9 @@ function login() {
 // get ranking from API
 function ranking() {
 
+    // start dimmer
+    document.getElementById('loading-dimmer').classList.add('active');
+
     const years = document.getElementById('years').value || 1;
     const months = document.getElementById('months').value || 0;
     const days = document.getElementById('days').value || 0;
@@ -87,13 +90,13 @@ function ranking() {
         days: days,
         limit: limit
     })
-        .then((data) => {
-            if (data.status == 0) {
-                setError(data.message);
-            } else {
-                setRankTable(data.rows);
-            }
-        });
+    .then((data) => {
+        if (data.status == 0) {
+            setError(data.message);
+        } else {
+            setRankTable(data.rows);
+        }
+    });
 
 }
 
@@ -152,6 +155,9 @@ function createRow(rowData) {
 // get graph data
 function getGraph(id) {
 
+    // start dimmer
+    document.getElementById('loading-dimmer').classList.add('active');
+
     // unselect previous
     let allRows = document.getElementsByClassName('row-element');
     for (let i = 0; i < allRows.length; i++) {
@@ -174,13 +180,13 @@ function getGraph(id) {
         days: days,
         symbol: symbol
     })
-        .then((data) => {
-            if (data.status == 0) {
-                setError(data.message);
-            } else {
-                drawGraphs(data.rows);
-            }
-        });
+    .then((data) => {
+        if (data.status == 0) {
+            setError(data.message);
+        } else {
+            drawGraphs(data.rows);
+        }
+    });
 }
 
 // draws the graphs
@@ -230,6 +236,9 @@ function drawGraphs(rows) {
 
         volChart.draw(volData, volOptions);
         avgChart.draw(avgData, avgOptions);
+
+        // end dimmer
+        document.getElementById('loading-dimmer').classList.remove('active');
     }
 }
 

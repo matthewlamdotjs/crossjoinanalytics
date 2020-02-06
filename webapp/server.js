@@ -1,6 +1,6 @@
 const express = require('express');
 const session = require('express-session');
-const redis = require("redis");
+const redis = require('redis');
 const redisStore = require('connect-redis')(session);
 const bodyParser = require('body-parser');
 const bcrypt = require('bcrypt');
