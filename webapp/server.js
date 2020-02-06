@@ -222,7 +222,15 @@ router.post('/ranking', function (req, res) {
             LEFT JOIN
                 symbol_master_tbl AS STbl
             ON
-                STbl.symbol = VTbl.symbol;
+                STbl.symbol = VTbl.symbol
+            WHERE EXISTS (
+                SELECT 1 FROM volatility_aggregation_tbl WHERE start_date <= (
+                    current_date
+                    - interval '${years} year'
+                    - interval '${months} month'
+                    - interval '${days} day'
+                ) AND VTbl.symbol = symbol
+            );
         `, [], (error, result) => {
             if (result.rows.length > 0) {
                 return res.json({
