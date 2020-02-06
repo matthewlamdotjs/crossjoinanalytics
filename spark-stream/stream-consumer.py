@@ -6,6 +6,10 @@ from pyspark.sql import SparkSession
 from datetime import date, datetime, timedelta
 from pyspark import SparkContext
 from pyspark.streaming import StreamingContext
+from currency_converter import CurrencyConverter # pip install currencyconverter
+import pyspark.sql.functions as F
+from pyspark.sql.types import FloatType
+
 
 # load env vars
 try:
@@ -33,6 +37,24 @@ spark = SparkSession.builder \
     .appName('stream-consumer') \
     .config('spark.jars', DRIVER_PATH) \
     .getOrCreate()
+
+# create currency converter with
+# https://stackoverflow.com/questions/52659955/pyspark-currency-converter
+c = CurrencyConverter()
+convert_curr = F.udf(lambda x,y : c.convert(x, y, 'USD'), FloatType())
+
+# read in existing data for symbol
+symbolDF = spark.read \
+    .format('jdbc') \
+    .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
+    .option('dbtable', 'symbol_master_tbl') \
+    .option('user', DB_USER) \
+    .option('password', DB_PASS) \
+    .option('driver', 'org.postgresql.Driver') \
+    .load()
+
+# make table available from sparksql
+symbolDF.createOrReplaceTempView('symbol_master_tbl')
 
 # function to apply to each streamed item
 def processStream(time, rdd):
@@ -81,7 +103,29 @@ def processStream(time, rdd):
                 'timestamp'
             ])
 
-            # make tables available from sparksql
+            # make table available from sparksql
+            newDF.createOrReplaceTempView('new_prices')
+
+            # add currency join for conversion
+            newDF = spark.sql("""
+                SELECT
+                    new_prices.symbol,
+                    symbol_master_tbl.currency,
+                    cast(new_prices.date as date),
+                    cast(new_prices.price_high as decimal(8,4)),
+                    cast(new_prices.price_low as decimal(8,4)),
+                    cast(new_prices.price_open as decimal(8,4)),
+                    cast(new_prices.price_close as decimal(8,4)),
+                    cast(new_prices.timestamp as timestamp)
+                FROM
+                    new_prices
+                LEFT JOIN
+                    symbol_master_tbl
+                ON
+                    new_prices.symbol = symbol_master_tbl.symbol
+            """).withColumn('price_usd', convert_curr('price_close', 'currency'))
+
+            # remake views and add current prices
             rawDF.createOrReplaceTempView('current_prices')
             newDF.createOrReplaceTempView('new_prices')
 
@@ -94,6 +138,7 @@ def processStream(time, rdd):
                     cast(price_low as decimal(8,4)),
                     cast(price_open as decimal(8,4)),
                     cast(price_close as decimal(8,4)),
+                    cast(price_usd as decimal(8,4)),
                     cast(timestamp as timestamp)
                 FROM
                     new_prices

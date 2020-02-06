@@ -44,8 +44,8 @@ sqlDF = spark.sql("""
         symbol,
         cast('"""+ start_date +"""' as date) AS start_date,
         cast('"""+ end_date +"""' as date) AS end_date,
-        cast(stddev(price_close) as decimal(8,4)) AS price_deviation,
-        cast(avg(price_close) as decimal(8,4)) AS average_price
+        cast(stddev(price_usd) as decimal(8,4)) AS price_deviation,
+        cast(avg(price_usd) as decimal(8,4)) AS average_price
     FROM
         prices
     WHERE
