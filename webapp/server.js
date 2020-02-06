@@ -251,7 +251,10 @@ router.post('/ranking', function (req, res) {
             }
         });
     } else {
-        res.redirect('/login');
+        return res.json({
+            status: 0,
+            message: 'Your login session has expired. Please login again.'
+        });
     }
 });
 
@@ -308,7 +311,10 @@ router.post('/graphData', function (req, res) {
             message: 'Please provide symbol.'
         });
     } else {
-        res.redirect('/login');
+        return res.json({
+            status: 0,
+            message: 'Your login session has expired. Please login again.'
+        });
     }
 });
 
