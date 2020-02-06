@@ -209,14 +209,20 @@ function drawGraphs(rows) {
         })));
 
         const volOptions = {
-            title: 'Volatility (2 week window)',
+            title: 'Volatility (2 week standard deviation window)',
             curveType: 'function',
-            legend: { position: 'bottom' }
+            legend: { position: 'bottom' },
+            series: {
+                0: { color: '#e2431e' },
+            }
         };
         const avgOptions = {
-            title: 'Average Price (2 week window)',
+            title: 'Average Price (2 week window average)',
             curveType: 'function',
-            legend: { position: 'bottom' }
+            legend: { position: 'bottom' },
+            series: {
+                0: { color: '#1c91c0' },
+            }
         };
 
         const volChart = new google.visualization.LineChart(volGraph);
