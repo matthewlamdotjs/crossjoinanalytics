@@ -125,6 +125,9 @@ def processStream(time, rdd):
                     new_prices.symbol = symbol_master_tbl.symbol
             """).withColumn('price_usd', convert_curr('price_close', 'currency'))
 
+            print('adjusted_price_df')
+            newDF.show()
+
             # remake views and add current prices
             rawDF.createOrReplaceTempView('current_prices')
             newDF.createOrReplaceTempView('new_prices')
