@@ -216,7 +216,6 @@ router.post('/ranking', function (req, res) {
                     symbol
                 ORDER BY
                     volatility DESC
-                LIMIT ${limit}
             ) AS VTbl
             LEFT JOIN
                 symbol_master_tbl AS STbl
@@ -231,7 +230,8 @@ router.post('/ranking', function (req, res) {
                 ) AND VTbl.symbol = symbol
             )
             ORDER BY
-                VTbl.volatility DESC;
+                VTbl.volatility DESC
+            LIMIT ${limit};
         `, [], (error, result) => {
             if (result.rows.length > 0) {
                 return res.json({
