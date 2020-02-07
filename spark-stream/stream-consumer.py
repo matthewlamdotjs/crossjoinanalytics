@@ -52,9 +52,6 @@ def processStream(time, rdd):
                 map(normalize, list(map(list, ts.items())))
             )
 
-            # create currency converter
-            c = CurrencyConverter() # c.convert(x, y, 'USD')
-
             # Connect DB
             connection = psycopg2.connect(user = DB_USER,
                                             password = DB_PASS,
@@ -71,7 +68,10 @@ def processStream(time, rdd):
             )
             currency = cursor.fetchone()[0]
 
-            print('currency: '+ currency)
+            # create currency converter
+            c = CurrencyConverter() # c.convert(x, y, 'USD')
+            def convert_usd(price_close):
+                return c.convert(price_close, currency, 'USD')
             
             # get exisiting data
             datesDF = psql.read_sql("""
@@ -86,13 +86,17 @@ def processStream(time, rdd):
             # make DF from new data
             newDF = pd.DataFrame(thelist, columns =['symbol','date','price_high','price_low','price_open','price_close'])
 
-            print(newDF.head())
-
             # subtract old data
             key_diff = set(newDF.date).difference(datesDF.date)
             where_diff = newDF.date.isin(key_diff)
 
-            print(newDF[where_diff].head())
+            to_insert = newDF[where_diff]
+            to_insert['price'] = to_insert['price_close'].apply(convert_usd)
+
+            print(to_insert.head())
+
+            # write to postgres
+            # newDF[where_diff].to_sql('daily_prices_temp_tbl', connection, if_exists='append')
 
         except (Exception) as error :
             print('PySparkError: ' + str(error))
