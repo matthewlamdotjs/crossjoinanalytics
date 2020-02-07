@@ -57,9 +57,8 @@ symbolDF.createOrReplaceTempView('symbol_master_tbl')
 # function to apply to each streamed item
 def processStream(time, rdd):
 
-    # grab next off of message queue
-    taken = rdd.take(1)
-    for record in taken:
+
+    def processMessage(record):
 
         # get message value
         response = record[1]
@@ -145,6 +144,10 @@ def processStream(time, rdd):
 
         except (Exception) as error :
             print('PySparkError: ' + str(error))
+
+        return record
+
+    rdd.map(processMessage)
 
 directKafkaStream.foreachRDD(processStream)
 
