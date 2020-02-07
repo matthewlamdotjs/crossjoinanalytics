@@ -1,14 +1,12 @@
 from pyspark.streaming.kafka import KafkaUtils
 import os
-import time
 import json
-from pyspark.sql import SparkSession
-from datetime import date, datetime, timedelta
 from pyspark import SparkContext
 from pyspark.streaming import StreamingContext
 from currency_converter import CurrencyConverter # pip install currencyconverter
-import pyspark.sql.functions as F
-from pyspark.sql.types import FloatType
+import psycopg2 as pg
+import pandas.io.sql as psql
+import pandas as pd 
 
 
 # load env vars
@@ -31,28 +29,16 @@ ssc = StreamingContext(sc, 0.5)
 directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
     {'bootstrap.servers': SERVERS})
 
-# create spark session
-spark = SparkSession.builder \
-    .appName('stream-consumer') \
-    .config('spark.jars', DRIVER_PATH) \
-    .getOrCreate()
-
 # create currency converter
-c = CurrencyConverter()
-spark.udf.register('convert_to_usd', lambda x,y : c.convert(x, y, 'USD'))
+c = CurrencyConverter() # c.convert(x, y, 'USD')
 
-# read in existing data for symbol
-symbolDF = spark.read \
-    .format('jdbc') \
-    .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
-    .option('dbtable', 'symbol_master_tbl') \
-    .option('user', DB_USER) \
-    .option('password', DB_PASS) \
-    .option('driver', 'org.postgresql.Driver') \
-    .load()
-
-# make table available from sparksql
-symbolDF.createOrReplaceTempView('symbol_master_tbl')
+# Connect DB
+connection = psycopg2.connect(user = DB_USER,
+                                password = DB_PASS,
+                                host = DB_URL,
+                                port = DB_PORT,
+                                database = 'postgres')
+connection.autocommit = True
 
 # function to apply to each streamed item
 def processStream(time, rdd):
@@ -71,13 +57,30 @@ def processStream(time, rdd):
             # aggregate response into a dataframe-convertable format
             def normalize(row):
                 nested = row[1]
-                return [symbol, row[0], nested['2. high'], nested['3. low'], nested['1. open'], nested['4. close'], time]
+                return [symbol, row[0], nested['2. high'], nested['3. low'], nested['1. open'], nested['4. close']]
             
             thelist = list(
                 map(normalize, list(map(list, ts.items())))
             )
             
-            print(thelist)
+            # get exisiting data
+            datesDF = psql.frame_query("""
+                SELECT
+                    date
+                FROM
+                    daily_prices_temp_tbl
+                WHERE
+                    symbol = '"""+symbol+"""';
+            """, connection)
+
+            # make DF from new data
+            newDF = pd.DataFrame(thelist, columns =['symbol','date','price_high','price_low','price_open','price_close'])
+
+            # subtract old data
+            key_diff = set(newDF.date).difference(datesDF.date)
+            where_diff = newDF.date.isin(key_diff)
+
+            newDF[where_diff].head()
 
         except (Exception) as error :
             print('PySparkError: ' + str(error))
