@@ -97,7 +97,25 @@ def processStream(time, rdd):
             print(to_insert.head())
 
             # write to postgres
-            psql.write_frame(to_insert, 'daily_prices_temp_tbl', connection, flavor='sqlite')
+            # psql.write_frame(to_insert, 'daily_prices_temp_tbl', connection, flavor='sqlite')
+
+            def _write_postgresql(frame, table, names, cur):
+                bracketed_names = ['"' + column + '"' for column in names]
+                col_names = ','.join(bracketed_names)
+                wildcards = ','.join([r'%s'] * len(names))
+                insert_query = 'INSERT INTO public.%s (%s) VALUES (%s)' % (
+                    table, col_names, wildcards)
+                data = [tuple(x) for x in frame.values]
+                print insert_query
+                print data
+                cur.executemany(insert_query, data)
+
+            _write_postgresql(
+                to_insert,
+                'daily_prices_temp_tbl',
+                [s.replace(' ', '_').strip() for s in frame.columns],
+                cursor
+            )
 
         except (Exception) as error :
             print('PySparkError: ' + str(error))
