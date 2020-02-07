@@ -36,7 +36,7 @@ rawDF.createOrReplaceTempView('prices')
 
 # Start window today and move back 20 years * 365 days = 7300 days
 # Start 3 days ago to ensure end date is a saturday when running today (tuesday)
-counter = 4
+counter = 7
 current_date = date.today()
 while(counter < 7300):
 

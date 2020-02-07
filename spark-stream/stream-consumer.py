@@ -99,15 +99,15 @@ def processStream(time, rdd):
                 'price_high',
                 'price_low',
                 'price_open',
-                'price_close',
-                'timestamp'
+                'price_close'
             ])
 
             # make table available from sparksql
             newDF.createOrReplaceTempView('new_prices')
+            rawDF.createOrReplaceTempView('current_prices')
 
             # add currency join for conversion
-            newDF = spark.sql("""
+            sqlDF = spark.sql("""
                 SELECT
                     new_prices.symbol,
                     symbol_master_tbl.currency,
@@ -115,36 +115,13 @@ def processStream(time, rdd):
                     cast(new_prices.price_high as decimal(8,4)),
                     cast(new_prices.price_low as decimal(8,4)),
                     cast(new_prices.price_open as decimal(8,4)),
-                    cast(new_prices.price_close as decimal(8,4)),
-                    cast(new_prices.timestamp as timestamp)
+                    cast(new_prices.price_close as decimal(8,4))
                 FROM
                     new_prices
                 LEFT JOIN
                     symbol_master_tbl
                 ON
                     new_prices.symbol = symbol_master_tbl.symbol
-            """).withColumn('price_usd', convert_curr('price_close', 'currency'))
-
-            print('adjusted_price_df')
-            newDF.show()
-
-            # remake views and add current prices
-            rawDF.createOrReplaceTempView('current_prices')
-            newDF.createOrReplaceTempView('new_prices')
-
-            # left anti join on composite key to remove duplicates
-            sqlDF = spark.sql("""
-                SELECT
-                    symbol,
-                    cast(date as date),
-                    cast(price_high as decimal(8,4)),
-                    cast(price_low as decimal(8,4)),
-                    cast(price_open as decimal(8,4)),
-                    cast(price_close as decimal(8,4)),
-                    cast(price_usd as decimal(8,4)),
-                    cast(timestamp as timestamp)
-                FROM
-                    new_prices
                 WHERE
                     new_prices.date NOT IN
                     (
@@ -153,12 +130,9 @@ def processStream(time, rdd):
                         FROM
                             current_prices
                     )
-            """)
+            """).withColumn('price_usd', convert_curr('price_close', 'currency'))
 
-            print('Inserting new rows: ')
-            sqlDF.show()
-
-            # # write results to db
+            # write results to db
             sqlDF.write.mode('append') \
                 .format('jdbc') \
                 .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
