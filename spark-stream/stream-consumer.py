@@ -124,9 +124,13 @@ def processStream(time, rdd):
             except (Exception) as error :
                 print('PySparkError: ' + str(error))
 
-        partition.foreach(processMessage)
+            return 1
 
-    rdd.foreachPartition(rddProcess)
+        partition.map(processMessage)
+
+        return 1
+
+    print(rdd.mapPartitions(rddProcess).collect())
 
 directKafkaStream.foreachRDD(processStream)
 
