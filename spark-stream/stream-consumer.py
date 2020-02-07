@@ -62,6 +62,16 @@ def processStream(time, rdd):
                                             port = DB_PORT,
                                             database = 'postgres')
             connection.autocommit = True
+
+            cursor = connection.cursor()
+
+            # Get symbol currency
+            cursor.execute(
+                'SELECT currency FROM symbol_master_tbl where symbol = \''+symbol+'\';'
+            )
+            currency = cursor.fetchone()[0]
+
+            print('currency: '+ currency)
             
             # get exisiting data
             datesDF = psql.read_sql("""
@@ -82,7 +92,7 @@ def processStream(time, rdd):
             key_diff = set(newDF.date).difference(datesDF.date)
             where_diff = newDF.date.isin(key_diff)
 
-            newDF[where_diff].head()
+            print(newDF[where_diff].head())
 
         except (Exception) as error :
             print('PySparkError: ' + str(error))
