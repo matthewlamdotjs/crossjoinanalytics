@@ -252,27 +252,27 @@ document.addEventListener("DOMContentLoaded", function (event) {
     if (window.location.pathname.indexOf('/dashboard') > -1) {
         ranking();
     } else if(window.location.pathname.indexOf('/login') > -1){
-        document.getElementById('username').onkeydown(function(event) {
+        document.getElementById('username').onkeydown = function(event) {
             if (event.keyCode === 13) {
                 login();
             }
-        });
-        document.getElementById('password').onkeydown(function(event) {
+        };
+        document.getElementById('password').onkeydown = function(event) {
             if (event.keyCode === 13) {
                 login();
             }
-        });
+        };
     } else if(window.location.pathname.indexOf('/register') > -1){
-        document.getElementById('username').onkeydown(function(event) {
+        document.getElementById('username').onkeydown = function(event) {
             if (event.keyCode === 13) {
                 register();
             }
-        });
-        document.getElementById('password').onkeydown(function(event) {
+        };
+        document.getElementById('password').onkeydown = function(event) {
             if (event.keyCode === 13) {
                 register();
             }
-        });
+        };
     }
 
 });
