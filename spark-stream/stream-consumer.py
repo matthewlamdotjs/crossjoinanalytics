@@ -33,7 +33,7 @@ directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
 
 # create spark session
 spark = SparkSession.builder \
-    .master('local') \
+    .master('spark://localhost:7077') \
     .appName('stream-consumer') \
     .config('spark.jars', DRIVER_PATH) \
     .getOrCreate()

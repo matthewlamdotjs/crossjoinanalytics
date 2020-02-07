@@ -16,7 +16,7 @@ except:
 
 # create spark session
 spark = SparkSession.builder \
-    .master('local') \
+    .master('spark://localhost:7077') \
     .appName('volatility_aggregation') \
     .config('spark.jars', DRIVER_PATH) \
     .getOrCreate()
