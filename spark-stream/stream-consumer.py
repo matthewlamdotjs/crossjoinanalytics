@@ -91,8 +91,9 @@ def processStream(time, rdd):
             where_diff = newDF.date.isin(key_diff)
 
             to_insert = newDF[where_diff]
-            to_insert['price'] = to_insert['price_close'].apply(convert_usd)
+            to_insert['price_usd'] = to_insert['price_close'].apply(convert_usd)
 
+            print(currency)
             print(to_insert.head())
 
             # write to postgres
