@@ -77,69 +77,7 @@ def processStream(time, rdd):
                 map(normalize, list(map(list, ts.items())))
             )
             
-            # read in existing data for symbol
-            rawDF = spark.read \
-                .format('jdbc') \
-                .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
-                .option('dbtable', 'daily_prices_temp_tbl') \
-                .option('user', DB_USER) \
-                .option('password', DB_PASS) \
-                .option('driver', 'org.postgresql.Driver') \
-                .load() \
-                .filter('symbol = \'' + symbol + '\'')
-
-            # create dataframe from payload
-            newDF = spark.createDataFrame(thelist, [
-                'symbol',
-                'date',
-                'price_high',
-                'price_low',
-                'price_open',
-                'price_close'
-            ])
-
-            # make table available from sparksql
-            newDF.createOrReplaceTempView('new_prices')
-            rawDF.createOrReplaceTempView('current_prices')
-
-            # add currency join for conversion
-            sqlDF = spark.sql("""
-                SELECT
-                    new_prices.symbol,
-                    cast(new_prices.date as date),
-                    cast(new_prices.price_high as decimal(8,4)),
-                    cast(new_prices.price_low as decimal(8,4)),
-                    cast(new_prices.price_open as decimal(8,4)),
-                    cast(new_prices.price_close as decimal(8,4)),
-                    cast(convert_to_usd(
-                        new_prices.price_close, symbol_master_tbl.currency
-                    )
-                    as decimal(8,4)) as price_usd
-                FROM
-                    new_prices
-                LEFT JOIN
-                    symbol_master_tbl
-                ON
-                    new_prices.symbol = symbol_master_tbl.symbol
-                WHERE
-                    new_prices.date NOT IN
-                    (
-                        SELECT
-                            current_prices.date
-                        FROM
-                            current_prices
-                    )
-            """)
-
-            # write results to db
-            sqlDF.write.mode('append') \
-                .format('jdbc') \
-                .option('url', 'jdbc:postgresql://'+DB_URL+':'+DB_PORT+'/postgres') \
-                .option('dbtable', 'daily_prices_temp_tbl') \
-                .option('user', DB_USER) \
-                .option('password', DB_PASS) \
-                .option('driver', 'org.postgresql.Driver') \
-                .save()
+            print(thelist)
 
         except (Exception) as error :
             print('PySparkError: ' + str(error))
