@@ -29,17 +29,6 @@ ssc = StreamingContext(sc, 0.5)
 directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
     {'bootstrap.servers': SERVERS})
 
-# create currency converter
-c = CurrencyConverter() # c.convert(x, y, 'USD')
-
-# Connect DB
-connection = psycopg2.connect(user = DB_USER,
-                                password = DB_PASS,
-                                host = DB_URL,
-                                port = DB_PORT,
-                                database = 'postgres')
-connection.autocommit = True
-
 # function to apply to each streamed item
 def processStream(time, rdd):
 
@@ -62,9 +51,20 @@ def processStream(time, rdd):
             thelist = list(
                 map(normalize, list(map(list, ts.items())))
             )
+
+            # create currency converter
+            c = CurrencyConverter() # c.convert(x, y, 'USD')
+
+            # Connect DB
+            connection = psycopg2.connect(user = DB_USER,
+                                            password = DB_PASS,
+                                            host = DB_URL,
+                                            port = DB_PORT,
+                                            database = 'postgres')
+            connection.autocommit = True
             
             # get exisiting data
-            datesDF = psql.frame_query("""
+            datesDF = psql.read_sql("""
                 SELECT
                     date
                 FROM
@@ -75,6 +75,8 @@ def processStream(time, rdd):
 
             # make DF from new data
             newDF = pd.DataFrame(thelist, columns =['symbol','date','price_high','price_low','price_open','price_close'])
+
+            print(newDF.head())
 
             # subtract old data
             key_diff = set(newDF.date).difference(datesDF.date)
