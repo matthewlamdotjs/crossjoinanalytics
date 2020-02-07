@@ -97,7 +97,7 @@ def processStream(time, rdd):
             print(to_insert.head())
 
             # write to postgres
-            newDF[where_diff].to_sql('daily_prices_temp_tbl', connection, if_exists='append')
+            psql.write_frame(to_insert, 'daily_prices_temp_tbl', connection, flavor='postgresql')
 
         except (Exception) as error :
             print('PySparkError: ' + str(error))
