@@ -4,7 +4,7 @@ import json
 from pyspark import SparkContext
 from pyspark.streaming import StreamingContext
 from currency_converter import CurrencyConverter # pip install currencyconverter
-import psycopg2 as pg
+import psycopg2
 import pandas.io.sql as psql
 import pandas as pd 
 
