@@ -38,10 +38,9 @@ spark = SparkSession.builder \
     .config('spark.jars', DRIVER_PATH) \
     .getOrCreate()
 
-# create currency converter with
-# https://stackoverflow.com/questions/52659955/pyspark-currency-converter
+# create currency converter
 c = CurrencyConverter()
-convert_curr = F.udf(lambda x,y : c.convert(x, y, 'USD'), FloatType())
+spark.udf.register('convert_to_usd', lambda x,y : c.convert(x, y, 'USD'))
 
 # read in existing data for symbol
 symbolDF = spark.read \
@@ -110,12 +109,15 @@ def processStream(time, rdd):
             sqlDF = spark.sql("""
                 SELECT
                     new_prices.symbol,
-                    symbol_master_tbl.currency,
                     cast(new_prices.date as date),
                     cast(new_prices.price_high as decimal(8,4)),
                     cast(new_prices.price_low as decimal(8,4)),
                     cast(new_prices.price_open as decimal(8,4)),
-                    cast(new_prices.price_close as decimal(8,4))
+                    cast(new_prices.price_close as decimal(8,4)),
+                    cast(convert_to_usd(
+                        new_prices.price_close, symbol_master_tbl.currency
+                    )
+                    as decimal(8,4))
                 FROM
                     new_prices
                 LEFT JOIN
@@ -130,7 +132,9 @@ def processStream(time, rdd):
                         FROM
                             current_prices
                     )
-            """).withColumn('price_usd', convert_curr('price_close', 'currency'))
+            """)
+
+            sqlDF.show()
 
             # write results to db
             sqlDF.write.mode('append') \
