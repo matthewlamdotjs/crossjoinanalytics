@@ -60,6 +60,9 @@ def processStream(time, rdd):
 
     def processMessage(record):
 
+        print('record:')
+        print(record)
+
         # get message value
         response = record[1]
     
