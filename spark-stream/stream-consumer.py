@@ -113,7 +113,7 @@ def processStream(time, rdd):
             _write_postgresql(
                 to_insert,
                 'daily_prices_temp_tbl',
-                [s.replace(' ', '_').strip() for s in frame.columns],
+                [s.replace(' ', '_').strip() for s in to_insert.columns],
                 cursor
             )
 
