@@ -97,7 +97,7 @@ def processStream(time, rdd):
             print(to_insert.head())
 
             # write to postgres
-            psql.write_frame(to_insert, 'daily_prices_temp_tbl', connection, flavor='postgresql')
+            psql.write_frame(to_insert, 'daily_prices_temp_tbl', connection, flavor='sqlite')
 
         except (Exception) as error :
             print('PySparkError: ' + str(error))
