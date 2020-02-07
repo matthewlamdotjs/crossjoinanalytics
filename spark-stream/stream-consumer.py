@@ -97,8 +97,8 @@ def processStream(time, rdd):
             print(to_insert.head())
 
             # write to postgres
-            # psql.write_frame(to_insert, 'daily_prices_temp_tbl', connection, flavor='sqlite')
-
+            # pandas.io.sql patched function
+            # https://gist.github.com/jorisvandenbossche/10841234
             def _write_postgresql(frame, table, names, cur):
                 bracketed_names = ['"' + column + '"' for column in names]
                 col_names = ','.join(bracketed_names)
