@@ -145,7 +145,7 @@ def processStream(time, rdd):
                 .save()
 
         except (Exception) as error :
-            print('Error: ' + error)
+            print('PySparkError: ' + str(error))
 
 directKafkaStream.foreachRDD(processStream)
 
