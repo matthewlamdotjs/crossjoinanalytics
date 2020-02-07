@@ -123,12 +123,11 @@ def processStream(time, rdd):
 
             except (Exception) as error :
                 print('PySparkError: ' + str(error))
+                return (symbol, 0)
 
-            return 1
+            return (symbol, 1)
 
-        partition.map(processMessage)
-
-        return 1
+        return partition.map(processMessage)
 
     print(rdd.mapPartitions(rddProcess).collect())
 
