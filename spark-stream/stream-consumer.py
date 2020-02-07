@@ -116,8 +116,8 @@ def processStream(time, rdd):
                     cast(new_prices.price_close as decimal(8,4)),
                     cast(convert_to_usd(
                         new_prices.price_close, symbol_master_tbl.currency
-                    ) as price_usd
-                    as decimal(8,4))
+                    )
+                    as decimal(8,4)) as price_usd
                 FROM
                     new_prices
                 LEFT JOIN
@@ -134,8 +134,6 @@ def processStream(time, rdd):
                     )
             """)
 
-            sqlDF.show()
-
             # write results to db
             sqlDF.write.mode('append') \
                 .format('jdbc') \
@@ -147,7 +145,7 @@ def processStream(time, rdd):
                 .save()
 
         except (Exception) as error :
-            print(error)
+            print('Error: ' + error)
 
 directKafkaStream.foreachRDD(processStream)
 
