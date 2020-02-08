@@ -178,8 +178,7 @@ def processStream(time, rdd):
 
             return (symbol, 1)
 
-        for message in partition:
-            processMessage(message)
+        map(processMessage,partition)
 
     print(rdd.mapPartitions(rddProcess).collect())
 
