@@ -111,6 +111,8 @@ def processStream(time, rdd):
                 symbol = js_payload['Meta Data']['2. Symbol']
                 ts = js_payload['Time Series (Daily)']
 
+                print('parsed_json')
+
                 # aggregate response into a dataframe-convertable format
                 def normalize(row):
                     nested = row[1]
@@ -120,10 +122,16 @@ def processStream(time, rdd):
                     map(normalize, list(map(list, ts.items())))
                 )
 
+
+                print('made list')
+
                 # Get symbol currency
                 cursor.execute(
                     'SELECT currency FROM symbol_master_tbl where symbol = \''+symbol+'\';'
                 )
+
+                print('execd_cursor')
+
                 currency = cursor.fetchone()[0]
 
                 print('currency: '+currency)
