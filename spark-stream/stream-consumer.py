@@ -25,43 +25,8 @@ except:
 
 # create spark stream
 sc = SparkContext(appName = 'pyspark-kstream-consumer')
-ssc = StreamingContext(sc, 4)
+ssc = StreamingContext(sc, 1)
 
-# zookeeper instance + saving kafka offsets
-# https://stackoverflow.com/a/50363519/10817625
-# def get_zookeeper_instance():
-#     from kazoo.client import KazooClient
-
-#     if 'KazooSingletonInstance' not in globals():
-#         globals()['KazooSingletonInstance'] = KazooClient(ZOOKEEPER)
-#         globals()['KazooSingletonInstance'].start()
-#     return globals()['KazooSingletonInstance']
-
-# def read_offsets(zk, topics):
-#     from pyspark.streaming.kafka import TopicAndPartition
-
-#     from_offsets = {}
-#     for topic in topics:
-#         for partition in zk.get_children('/consumers/'+topic):
-#             topic_partion = TopicAndPartition(topic, int(partition))
-#             offset = int(zk.get('/consumers/'+topic+'/'+partition)[0])
-#             from_offsets[topic_partion] = offset
-#     return from_offsets
-
-# def save_offsets(rdd):
-#     zk = get_zookeeper_instance()
-#     for offset in rdd.offsetRanges():
-#         path = '/consumers/'+offset.topic+'/'+offset.partition
-#         zk.ensure_path(path)
-#         zk.set(path, str(offset.untilOffset).encode())
-
-
-# # create kafka stream with offsets
-# zk = get_zookeeper_instance()
-# from_offsets = read_offsets(zk, ['stock-prices'])
-
-# directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
-#     {'bootstrap.servers': SERVERS}, fromOffsets=from_offsets)
 directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
     {'bootstrap.servers': SERVERS})
 
@@ -128,7 +93,7 @@ def processStream(time, rdd):
                 c = CurrencyConverter() # c.convert(x, y, 'USD')
                 def convert_usd(price_close):
                     return c.convert(price_close, currency, 'USD')
-                    
+
                 # get exisiting data
                 datesDF = psql.read_sql("""
                     SELECT
@@ -169,9 +134,6 @@ def processStream(time, rdd):
         return map(processMessage, partition)
 
     print(rdd.mapPartitions(rddProcess).collect())
-
-    # save_offsets
-    # save_offsets(rdd)
 
 directKafkaStream.foreachRDD(processStream)
 
