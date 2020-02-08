@@ -125,6 +125,8 @@ def processStream(time, rdd):
                     'SELECT currency FROM symbol_master_tbl where symbol = \''+symbol+'\';'
                 )
                 currency = cursor.fetchone()[0]
+
+                print('currency: '+currency)
                 
                 # get exisiting data
                 datesDF = psql.read_sql("""
@@ -135,6 +137,10 @@ def processStream(time, rdd):
                     WHERE
                         symbol = '"""+symbol+"""';
                 """, connection)
+
+
+                print('dates')
+                print(datesDF.head())
 
                 # make DF from new data
                 newDF = pd.DataFrame(thelist, columns =['symbol','date','price_high','price_low','price_open','price_close'])
