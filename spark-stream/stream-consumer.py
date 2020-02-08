@@ -16,18 +16,51 @@ try:
     DB_USER = os.environ['CJ_DB_UN']
     DB_PASS = os.environ['CJ_DB_PW']
     SERVERS = os.environ['K_SERVERS']
+    ZOOKEEPER = os.environ['Z_SERVER']
     DRIVER_PATH = os.environ['PG_JDBC_DRIVER']
 except:
     print('Missing credentials. Please set environment variables appropriately.')
     exit()
 
 # create spark stream
-sc = SparkContext('local', 'kafka-in')
-ssc = StreamingContext(sc, 0.5)
+sc = SparkContext(appName = 'pyspark-kstream-consumer')
+ssc = StreamingContext(sc, 1)
 
-# create kafka stream
+# zookeeper instance + saving kafka offsets
+# https://stackoverflow.com/a/50363519/10817625
+def get_zookeeper_instance():
+    from kazoo.client import KazooClient
+
+    if 'KazooSingletonInstance' not in globals():
+        globals()['KazooSingletonInstance'] = KazooClient(ZOOKEEPER_SERVERS)
+        globals()['KazooSingletonInstance'].start()
+    return globals()['KazooSingletonInstance']
+
+def read_offsets(zk, topics):
+    from pyspark.streaming.kafka import TopicAndPartition
+
+    from_offsets = {}
+    for topic in topics:
+        for partition in zk.get_children(f'/consumers/{topic}'):
+            topic_partion = TopicAndPartition(topic, int(partition))
+            offset = int(zk.get(f'/consumers/{topic}/{partition}')[0])
+            from_offsets[topic_partion] = offset
+    return from_offsets
+    
+def save_offsets(rdd):
+    zk = get_zookeeper_instance()
+    for offset in rdd.offsetRanges():
+        path = f"/consumers/{offset.topic}/{offset.partition}"
+        zk.ensure_path(path)
+        zk.set(path, str(offset.untilOffset).encode())
+
+
+# create kafka stream with offsets
+zk = get_zookeeper_instance()
+from_offsets = read_offsets(zk, ['stock-prices'])
+
 directKafkaStream = KafkaUtils.createDirectStream(ssc, ['stock-prices'],
-    {'bootstrap.servers': SERVERS})
+    {'bootstrap.servers': SERVERS}, fromOffsets=from_offsets)
 
 
 # function to apply to each streamed RDD
@@ -130,6 +163,9 @@ def processStream(time, rdd):
         return partition.map(processMessage)
 
     print(rdd.mapPartitions(rddProcess).collect())
+
+    # save_offsets
+    save_offsets(rdd)
 
 directKafkaStream.foreachRDD(processStream)
 
