@@ -41,16 +41,16 @@ def read_offsets(zk, topics):
 
     from_offsets = {}
     for topic in topics:
-        for partition in zk.get_children(f'/consumers/{topic}'):
+        for partition in zk.get_children('/consumers/'+topic):
             topic_partion = TopicAndPartition(topic, int(partition))
-            offset = int(zk.get(f'/consumers/{topic}/{partition}')[0])
+            offset = int(zk.get('/consumers/'+topic'/'+partition)[0])
             from_offsets[topic_partion] = offset
     return from_offsets
-    
+
 def save_offsets(rdd):
     zk = get_zookeeper_instance()
     for offset in rdd.offsetRanges():
-        path = f"/consumers/{offset.topic}/{offset.partition}"
+        path = '/consumers/'+offset.topic+'/'+offset.partition
         zk.ensure_path(path)
         zk.set(path, str(offset.untilOffset).encode())
 
