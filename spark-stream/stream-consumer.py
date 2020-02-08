@@ -25,7 +25,7 @@ except:
 
 # create spark stream
 sc = SparkContext(appName = 'pyspark-kstream-consumer')
-ssc = StreamingContext(sc, 1)
+ssc = StreamingContext(sc, 4)
 
 # zookeeper instance + saving kafka offsets
 # https://stackoverflow.com/a/50363519/10817625
