@@ -7,6 +7,7 @@ from currency_converter import CurrencyConverter # pip install currencyconverter
 import psycopg2
 import pandas.io.sql as psql
 import pandas as pd 
+import multiprocessing
 
 
 # load env vars
@@ -161,7 +162,7 @@ def processStream(time, rdd):
 
             return (symbol, 1)
 
-        return partition.map(processMessage)
+        return map(processMessage, partition)
 
     print(rdd.mapPartitions(rddProcess).collect())
 
