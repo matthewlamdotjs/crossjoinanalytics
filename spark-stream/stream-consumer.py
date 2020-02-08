@@ -43,7 +43,7 @@ def read_offsets(zk, topics):
     for topic in topics:
         for partition in zk.get_children('/consumers/'+topic):
             topic_partion = TopicAndPartition(topic, int(partition))
-            offset = int(zk.get('/consumers/'+topic'/'+partition)[0])
+            offset = int(zk.get('/consumers/'+topic+'/'+partition)[0])
             from_offsets[topic_partion] = offset
     return from_offsets
 
