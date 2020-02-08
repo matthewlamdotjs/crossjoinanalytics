@@ -32,7 +32,7 @@ def get_zookeeper_instance():
     from kazoo.client import KazooClient
 
     if 'KazooSingletonInstance' not in globals():
-        globals()['KazooSingletonInstance'] = KazooClient(ZOOKEEPER_SERVERS)
+        globals()['KazooSingletonInstance'] = KazooClient(ZOOKEEPER)
         globals()['KazooSingletonInstance'].start()
     return globals()['KazooSingletonInstance']
 
