@@ -81,11 +81,6 @@ def processStream(time, rdd):
 
         cursor = connection.cursor()
 
-        # create currency converter
-        c = CurrencyConverter() # c.convert(x, y, 'USD')
-        def convert_usd(price_close):
-            return c.convert(price_close, currency, 'USD')
-
         # DF to postgres function
         # pandas.io.sql patched function from source
         # https://gist.github.com/jorisvandenbossche/10841234
@@ -127,12 +122,13 @@ def processStream(time, rdd):
                     'SELECT currency FROM symbol_master_tbl where symbol = \''+symbol+'\';'
                 )
 
-                print('execd_cursor')
-
                 currency = cursor.fetchone()[0]
 
-                print('currency: '+currency)
-                
+                # create currency converter
+                c = CurrencyConverter() # c.convert(x, y, 'USD')
+                def convert_usd(price_close):
+                    return c.convert(price_close, currency, 'USD')
+                    
                 # get exisiting data
                 datesDF = psql.read_sql("""
                     SELECT
