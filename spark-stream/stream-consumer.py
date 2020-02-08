@@ -120,50 +120,50 @@ def processStream(time, rdd):
                 nested = row[1]
                 return [symbol, row[0], nested['2. high'], nested['3. low'], nested['1. open'], nested['4. close']]
             
-            thelist = list(
-                map(normalize, list(map(list, ts.items())))
-            )
+            # thelist = list(
+            #     map(normalize, list(map(list, ts.items())))
+            # )
 
 
-            print('made list')
+            # print('made list')
 
-            # Get symbol currency
-            cursor.execute(
-                'SELECT currency FROM symbol_master_tbl where symbol = \''+symbol+'\';'
-            )
+            # # Get symbol currency
+            # cursor.execute(
+            #     'SELECT currency FROM symbol_master_tbl where symbol = \''+symbol+'\';'
+            # )
 
-            print('execd_cursor')
+            # print('execd_cursor')
 
-            currency = cursor.fetchone()[0]
+            # currency = cursor.fetchone()[0]
 
-            print('currency: '+currency)
+            # print('currency: '+currency)
             
-            # get exisiting data
-            datesDF = psql.read_sql("""
-                SELECT
-                    date
-                FROM
-                    daily_prices_temp_tbl
-                WHERE
-                    symbol = '"""+symbol+"""';
-            """, connection)
+            # # get exisiting data
+            # datesDF = psql.read_sql("""
+            #     SELECT
+            #         date
+            #     FROM
+            #         daily_prices_temp_tbl
+            #     WHERE
+            #         symbol = '"""+symbol+"""';
+            # """, connection)
 
 
-            print('dates')
-            print(datesDF.head())
+            # print('dates')
+            # print(datesDF.head())
 
-            # make DF from new data
-            newDF = pd.DataFrame(thelist, columns =['symbol','date','price_high','price_low','price_open','price_close'])
+            # # make DF from new data
+            # newDF = pd.DataFrame(thelist, columns =['symbol','date','price_high','price_low','price_open','price_close'])
 
-            # subtract old data
-            key_diff = set(newDF.date).difference(datesDF.date)
-            where_diff = newDF.date.isin(key_diff)
+            # # subtract old data
+            # key_diff = set(newDF.date).difference(datesDF.date)
+            # where_diff = newDF.date.isin(key_diff)
 
-            to_insert = newDF[where_diff]
-            to_insert['price_usd'] = to_insert['price_close'].apply(convert_usd)
+            # to_insert = newDF[where_diff]
+            # to_insert['price_usd'] = to_insert['price_close'].apply(convert_usd)
 
-            print(currency)
-            print(to_insert.head())
+            # print(currency)
+            # print(to_insert.head())
 
             # _write_postgresql(
             #     to_insert,
@@ -178,7 +178,7 @@ def processStream(time, rdd):
 
             return (symbol, 1)
 
-        map(processMessage,partition)
+        map(processMessage, partition)
 
     print(rdd.mapPartitions(rddProcess).collect())
 
