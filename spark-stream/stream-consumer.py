@@ -105,6 +105,8 @@ def processStream(time, rdd):
             # get message value
             response = record[1]
 
+            symbol = 'error'
+
             try:
                 # parse json
                 js_payload = json.loads(response)
