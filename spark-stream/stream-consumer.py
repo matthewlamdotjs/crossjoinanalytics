@@ -113,11 +113,6 @@ def processStream(time, rdd):
                 symbol = js_payload['Meta Data']['2. Symbol']
                 ts = js_payload['Time Series (Daily)']
 
-            except (Exception) as error :
-                print('JSON error: ' + str(error))
-                return (symbol, -2)
-
-            try:
                 # aggregate response into a dataframe-convertable format
                 def normalize(row):
                     nested = row[1]
@@ -127,11 +122,6 @@ def processStream(time, rdd):
                     map(normalize, list(map(list, ts.items())))
                 )
 
-            except (Exception) as error :
-                print('Parse error: ' + str(error))
-                return (symbol, -1)
-
-            try:
                 # Get symbol currency
                 cursor.execute(
                     'SELECT currency FROM symbol_master_tbl where symbol = \''+symbol+'\';'
@@ -176,7 +166,7 @@ def processStream(time, rdd):
 
             except (Exception) as error :
                 print('PG Error: ' + str(error))
-                return (symbol, 0)
+                return (symbol, str(error))
 
             return (symbol, 1)
 
