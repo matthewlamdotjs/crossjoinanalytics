@@ -2,7 +2,7 @@ from kafka import KafkaProducer
 from kafka.errors import KafkaError
 import multiprocessing
 import time
-import date
+from datetime import date
 import requests
 import psycopg2
 import os
