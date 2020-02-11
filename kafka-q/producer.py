@@ -2,9 +2,12 @@ from kafka import KafkaProducer
 from kafka.errors import KafkaError
 import multiprocessing
 import time
+import date
 import requests
 import psycopg2
 import os
+
+print('Starting AV API pull ' + date.today().strftime('%Y-%m-%d'))
 
 # load env vars
 try:
