@@ -272,7 +272,7 @@ router.post('/graphData', function (req, res) {
                 symbol,
                 start_date,
                 end_date,
-                end_date - interval '7 day' as median_date
+                (end_date - interval '7 day') as median_date,
                 price_deviation,
                 average_price
             FROM
