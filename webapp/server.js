@@ -206,7 +206,7 @@ router.post('/ranking', function (req, res) {
                     volatility_aggregation_tbl AS VTbl
                 WHERE
                     end_date <= current_date AND
-                    start_date > (
+                    end_date > (
                         current_date
                         - interval '${parseInt(years)} year'
                         - interval '${parseInt(months)} month'
@@ -222,7 +222,7 @@ router.post('/ranking', function (req, res) {
             ON
                 STbl.symbol = VTbl.symbol
             WHERE EXISTS (
-                SELECT 1 FROM volatility_aggregation_tbl WHERE start_date <= (
+                SELECT 1 FROM volatility_aggregation_tbl WHERE end_date <= (
                     current_date
                     - interval '${parseInt(years)} year'
                     - interval '${parseInt(months)} month'
@@ -272,13 +272,14 @@ router.post('/graphData', function (req, res) {
                 symbol,
                 start_date,
                 end_date,
+                end_date - interval '7 day' as median_date
                 price_deviation,
                 average_price
             FROM
                 volatility_aggregation_tbl
             WHERE
                 end_date <= current_date AND
-                start_date > (
+                end_date > (
                     current_date
                     - interval '${parseInt(years)} year'
                     - interval '${parseInt(months)} month'

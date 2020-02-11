@@ -209,13 +209,13 @@ function drawGraphs(rows) {
         const volData = google.visualization.arrayToDataTable([
             ['Date', 'Price Deviation']
         ].concat(rows.map((element) => {
-            return [new Date(element.end_date), parseFloat(element.price_deviation)];
+            return [new Date(element.median_date), parseFloat(element.price_deviation)];
         })));
 
         const avgData = google.visualization.arrayToDataTable([
             ['Date', 'Average Price']
         ].concat(rows.map((element) => {
-            return [new Date(element.end_date), parseFloat(element.average_price)];
+            return [new Date(element.median_date), parseFloat(element.average_price)];
         })));
 
         const volOptions = {
