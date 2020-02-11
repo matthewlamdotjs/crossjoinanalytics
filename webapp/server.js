@@ -208,9 +208,9 @@ router.post('/ranking', function (req, res) {
                     end_date <= current_date AND
                     start_date > (
                         current_date
-                        - interval '${years} year'
-                        - interval '${months} month'
-                        - interval '${days} day'
+                        - interval '${parseInt(years)} year'
+                        - interval '${parseInt(months)} month'
+                        - interval '${parseInt(days)} day'
                     )
                 GROUP BY
                     symbol
@@ -224,14 +224,14 @@ router.post('/ranking', function (req, res) {
             WHERE EXISTS (
                 SELECT 1 FROM volatility_aggregation_tbl WHERE start_date <= (
                     current_date
-                    - interval '${years} year'
-                    - interval '${months} month'
-                    - interval '${days} day'
+                    - interval '${parseInt(years)} year'
+                    - interval '${parseInt(months)} month'
+                    - interval '${parseInt(days)} day'
                 ) AND VTbl.symbol = symbol
             )
             ORDER BY
                 VTbl.volatility DESC
-            LIMIT ${limit};
+            LIMIT ${parseInt(limit)};
         `, [], (error, result) => {
             if (result.rows.length > 0) {
                 return res.json({
@@ -280,9 +280,9 @@ router.post('/graphData', function (req, res) {
                 end_date <= current_date AND
                 start_date > (
                     current_date
-                    - interval '${years} year'
-                    - interval '${months} month'
-                    - interval '${days} day'
+                    - interval '${parseInt(years)} year'
+                    - interval '${parseInt(months)} month'
+                    - interval '${parseInt(days)} day'
                 ) AND
                 symbol=$1
             ORDER BY
