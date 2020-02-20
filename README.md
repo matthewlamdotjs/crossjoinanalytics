@@ -10,31 +10,35 @@ View the google slides presentation for this project [HERE](https://docs.google.
 
 ## Table of Contents
 * Introduction
-* Architecture
-* Dataset
-* Engineering challenges
-* Trade-offs
+* Dataset / Architecture
+* Engineering Challenges / Trade-offs
 * Installation and Setup
 
 <hr/>
 
 ## Introduction
 
-<hr/>
+In options trading, some leverage the power of strategies such as straddles, which don’t rely on a stock going up in price but rather that its price move in either direction, up or down, with enough magnitude to turn a profit. In order to maximize profits when choosing options contracts to buy, it’s safe to assume that it would be in one’s best interest to know which stocks were the most volatile.
 
-## Architecture
+The primary challenge is that although it may be simple to apply a volatility heuristic to the price history of a single asset, combining data from all assets across the world to create a live global ranking of volatility isn’t as simple due to the sheer number of publicly traded companies that exist across different markets and currencies.
 
-<hr/>
-
-## Dataset
+My project Hedge Master is a live analytics dashboard for options trading that aims to tackle this problem. I developed this application over the course of 4 weeks as a fellow at Insight Data Engineering under the mock startup name Crossjoin Analytics. The project features a data pipeline that streams in stock prices from around the world and calculates a moving standard deviation window to see how the volatility changes over time. With this aggregated data, users of my dashboard are able to view a ranking based on the average value of the moving standard deviation window over time with user defined look-back parameters.
 
 <hr/>
 
-## Engineering challenges
+## Dataset / Architecture
+
+<img src='misc/pipeline_diagram.png'>
+
+My data comes from an API supplied by Alpha Vantage which has live updating ticker prices in addition to 20 years of historical daily ticker prices. Each API call returns a JSON payload which is queued up in a kafka distributed queue. Messages are consumed off the queue by a Spark cluster running Spark Streaming to transform the data and write it to a PostGres DB.
+
+Since my volatility analysis consists of a two week wide window moving in week-long intervals, the actual volatility aggregation happens as a weekly batch process scheduled as a cron job and leverages the power of sparkSQL for the distributed calculations. Both of these processes occur twice in the pipeline, one for the streaming data and one for historical. The process is identical except for that the volatility aggregation happens for multiple windows from 20 years ago till now and the api is called with the full output parameter which dumps a json payload of 20 years of stock data for a chosen symbol. Finally my dashboard is a simple NodeJS application with session management handled by a redis server keystore.
 
 <hr/>
 
-## Trade-offs
+## Engineering Challenges / Trade-offs
+
+One of my data engineering challenges was optimizing the stream processor. The processor had three requirements: Parse JSON and extract keyed values, determine which data is new and which are duplicates, and convert currency to USD for meaningful comparison. Originally, I wanted to combine the powers of Spark Streaming and Spark SQL which by themselves both achieve parallelism. However once attempting to implement a solution using the two, I quickly realized that it was not possible in the way I wanted to do it. I had intended to use Spark SQL to determine which were duplicate data points as well as register the python Currency Converter as a UDF to use as a Spark SQL function. However, this meant that the Streaming Job could not be parallelized because it used a Spark function inside of Spark Streaming’s parallelization at the RDD partition level. In order to utilize partition level parallelism with spark streaming, the function to process each partition must be serializable, which Spark SQL could not be since it runs as a distributed process. Since in the average use case, each message contains 100 data points instead of the 20+years of data, I decided that partition-level parallelism was more important than parallelizing the SQL statement. So I converted my Spark DF logic to pandas which is usually installed by default with python and is serializable. However this sprung a new problem as I was using postgres to save costs but panda’s dataframe to sql conversion functions didn’t have support for postgres like spark dataframe writes do. I was able to find a workaround that was a modified version of the pandas.io.sql package. After inspecting the source code, it was revealed that what pandas was really doing under the hood with DF writes was to take in an existing cursor object that could execute a query string and to simply build the string as a long SQL INSERT statement from the dataframe and execute it with the cursor object. Once I knew this to be true, it meant that I could simply re-use the postgres-formatted string building logic without worrying about special libraries or database connection dependencies with the same efficiency as the native pandas dataframe to JDBC writes.
 
 <hr/>
 
@@ -56,8 +60,7 @@ To run the application you must clone this repo to the spark master node, one of
 
 The following is a manifest of environment variables needed to be set in `~/.bash_profile` on the machines specified as well as dependencies to install.
 
-<hr/>
-
+~~~~
 Machines: all spark cluster nodes, kafka producer node, webapp server
 
 Linux Dependencies (install using apt install): libpq-dev
@@ -66,27 +69,23 @@ Python Libraries (install using pip): psycopg2
 
 Environment variables:
 
-~~~~
 CJ_DB_URL=<YOUR_DATABASE_URL_HERE>
 CJ_DB_PORT=<YOUR_DATABASE_PORT_HERE>
 CJ_DB_UN=<YOUR_DATABASE_USERNAME_HERE>
 CJ_DB_PW=<YOUR_DATABASE_PASSWORD_HERE>
 ~~~~
 
-<hr/>
-
+~~~~
 Machines: kafka producer node
 
 Python Libraries (install using pip): requests
 
 Environment variables:
 
-~~~~
 ALPHA_VANTAGE_API_KEY=<YOUR_API_KEY_HERE>
 ~~~~
 
-<hr/>
-
+~~~~
 Machines: all spark cluster nodes
 
 Python Libraries (install using pip): pyspark
@@ -96,21 +95,18 @@ Jars: postgresql-42.2.9.jar, spark-streaming-kafka-0-8-assembly_2.11-2.4.0.jar<b
 
 Environment variables:
 
-~~~~
 K_SERVERS=<COMMA_SEPARATED_LIST_OF_KAFKA_CLUSTER_NODE_IP_ADDRESSES>
 Z_SERVER=<IP_ADDRESS_OF_ZOOKEEPER_SERVER_ON_KAFKA_NODE>
 PG_JDBC_DRIVER=<PATH_TO_postgresql-42.2.9.jar>
 ~~~~
 
-<hr/>
-
+~~~~
 Machines: webapp server
 
 Linux Dependencies: redis-server, node/npm
 
 Environment variables:
 
-~~~~
 SESSION_SECRET=<CHOOSEN_OR_GENERATED_SECRET_STRING> # to be used for session management
 ~~~~
 
