@@ -1,3 +1,5 @@
+const e = require("express");
+
 // Example POST method implementation:
 // Modified from https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 async function postData(url = '', data = {}) {
@@ -98,14 +100,21 @@ function ranking() {
             // end dimmer
             document.getElementById('loading-dimmer').classList.remove('active');
         } else {
-            setRankTable(data.rows);
+            setRankTable(data.rows, er);
         }
     });
 
 }
 
 // set table ranking
-function setRankTable(data) {
+function setRankTable(data, isEr) {
+
+    let rankColumn = document.getElementById('rank-column')
+    if(isER){
+        rankColumn.innerHTML = 'ER Influence'
+    } else {
+        rankColumn.innerHTML = 'Volatility'
+    }
 
     let table = document.getElementById('ranking-table');
 
