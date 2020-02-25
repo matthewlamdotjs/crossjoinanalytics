@@ -1,5 +1,3 @@
-const e = require("express");
-
 // Example POST method implementation:
 // Modified from https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 async function postData(url = '', data = {}) {
