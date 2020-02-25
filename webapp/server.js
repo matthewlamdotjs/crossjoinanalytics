@@ -194,7 +194,7 @@ router.post('/ranking', function (req, res) {
         let innerSelect = er ? `
         SELECT
             symbol,
-            (1 + (sum_er_vals / count_er_vals)) -
+            (1 + (sum_er_vals / count_er_vals)) /
             (1 + (sum_non_er_vals / count_non_er_vals))
             AS volatility
         FROM
