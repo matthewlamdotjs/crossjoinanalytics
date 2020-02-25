@@ -203,35 +203,51 @@ router.post('/ranking', function (req, res) {
                 symbol,
                 SUM(
                         CASE WHEN
-                            extract(month from end_date) = 1 OR
-                            extract(month from end_date) = 4 OR
-                            extract(month from end_date) = 7 OR
-                            extract(month from end_date) = 10
+                            (extract(month from end_date) = 1 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 12 AND extract(day from end_date) > 15) OR
+                            (extract(month from end_date) = 4 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 3 AND extract(day from end_date) > 15) OR
+                            (extract(month from end_date) = 7 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 6 AND extract(day from end_date) > 15) OR
+                            (extract(month from end_date) = 10 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 9 AND extract(day from end_date) > 15)
                         THEN price_deviation ELSE 0 END
                 ) AS sum_er_vals,
                 SUM(
                         CASE WHEN
-                            extract(month from end_date) = 1 OR
-                            extract(month from end_date) = 4 OR
-                            extract(month from end_date) = 7 OR
-                            extract(month from end_date) = 10
+                            (extract(month from end_date) = 1 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 12 AND extract(day from end_date) > 15) OR
+                            (extract(month from end_date) = 4 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 3 AND extract(day from end_date) > 15) OR
+                            (extract(month from end_date) = 7 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 6 AND extract(day from end_date) > 15) OR
+                            (extract(month from end_date) = 10 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 9 AND extract(day from end_date) > 15)
                         THEN 1 ELSE 0 END
                 ) AS count_er_vals,
                 SUM(
                         CASE WHEN
-                            extract(month from end_date) != 1 AND
-                            extract(month from end_date) != 4 AND
-                            extract(month from end_date) != 7 AND
-                            extract(month from end_date) != 10
-                        THEN price_deviation ELSE 0 END
+                            (extract(month from end_date) = 1 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 12 AND extract(day from end_date) > 15) OR
+                            (extract(month from end_date) = 4 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 3 AND extract(day from end_date) > 15) OR
+                            (extract(month from end_date) = 7 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 6 AND extract(day from end_date) > 15) OR
+                            (extract(month from end_date) = 10 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 9 AND extract(day from end_date) > 15)
+                        THEN 0 ELSE price_deviation END
                 ) AS sum_non_er_vals,
                 SUM(
                         CASE WHEN
-                            extract(month from end_date) != 1 AND
-                            extract(month from end_date) != 4 AND
-                            extract(month from end_date) != 7 AND
-                            extract(month from end_date) != 10
-                        THEN 1 ELSE 0 END
+                            (extract(month from end_date) = 1 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 12 AND extract(day from end_date) > 15) OR
+                            (extract(month from end_date) = 4 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 3 AND extract(day from end_date) > 15) OR
+                            (extract(month from end_date) = 7 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 6 AND extract(day from end_date) > 15) OR
+                            (extract(month from end_date) = 10 AND extract(day from end_date) <= 15) OR
+                            (extract(month from end_date) = 9 AND extract(day from end_date) > 15)
+                        THEN 0 ELSE 1 END
                 ) AS count_non_er_vals
             FROM
                 volatility_aggregation_tbl AS VTbl
