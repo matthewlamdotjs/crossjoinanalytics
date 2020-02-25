@@ -108,7 +108,7 @@ function ranking() {
 function setRankTable(data, isEr) {
 
     let rankColumn = document.getElementById('rank-column')
-    if(isER){
+    if(isEr){
         rankColumn.innerHTML = 'ER Influence'
     } else {
         rankColumn.innerHTML = 'Volatility'
