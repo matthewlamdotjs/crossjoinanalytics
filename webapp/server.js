@@ -285,12 +285,12 @@ router.post('/ranking', function (req, res) {
             ON
                 STbl.symbol = VTbl.symbol
             WHERE EXISTS (
-                SELECT 1 FROM volatility_aggregation_tbl WHERE end_date <= (
+                SELECT 1 FROM volatility_aggregation_tbl WHERE ((
                     current_date
                     - interval '${parseInt(years)} year'
                     - interval '${parseInt(months)} month'
                     - interval '${parseInt(days)} day'
-                ) AND VTbl.symbol = symbol
+                ) BETWEEN start_date AND end_date) AND VTbl.symbol = symbol
             )
             ORDER BY
                 VTbl.volatility DESC
