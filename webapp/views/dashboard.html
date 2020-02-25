@@ -26,7 +26,21 @@
             <div class="twelve wide column">
                 <br>
                 <div class="ui form">
-                    <label>Lookback Window Parameters</label>
+                    <div class="inline fields">
+                        <label>Ranking Method</label>
+                        <div class="field">
+                          <div class="ui radio checkbox">
+                            <input type="radio" name="ranking_method" checked="checked">
+                            <label>Average Total Volatility</label>
+                          </div>
+                        </div>
+                        <div class="field">
+                          <div class="ui radio checkbox">
+                            <input id='er' type="radio" name="ranking_method">
+                            <label>Earnings Season Influence</label>
+                          </div>
+                        </div>
+                    </div>
                     <div class="fields">
 
                         <div class="field">
@@ -55,6 +69,7 @@
                         </div>
 
                     </div>
+                    
                 </div>
             </div>
         </div>

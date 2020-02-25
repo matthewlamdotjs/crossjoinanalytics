@@ -83,12 +83,14 @@ function ranking() {
     const months = document.getElementById('months').value || 0;
     const days = document.getElementById('days').value || 0;
     const limit = document.getElementById('limit').value || 100;
+    const er = document.getElementById('er').checked || false;
 
     postData('/ranking', {
         years: years,
         months: months,
         days: days,
-        limit: limit
+        limit: limit,
+        er: er
     })
     .then((data) => {
         if (data.status == 0) {

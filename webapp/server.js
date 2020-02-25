@@ -185,11 +185,91 @@ router.post('/ranking', function (req, res) {
     let years = req.body.years || 1;
     let months = req.body.months || 0;
     let days = req.body.days || 0;
+    let er = req.body.er || false;
 
     // default result limit to 100
     let limit = req.body.limit || 100;
 
     if (req.session.key) {
+        let innerSelect = er ? `
+        SELECT
+            symbol,
+            (sum_er_vals / count_er_vals) -
+            (sum_non_er_vals / count_non_er_vals)
+            AS volatility
+        FROM
+        (
+            SELECT
+                symbol,
+                SUM(
+                        CASE WHEN
+                            extract(month from end_date) = 1 OR
+                            extract(month from end_date) = 4 OR
+                            extract(month from end_date) = 7 OR
+                            extract(month from end_date) = 10
+                        THEN price_deviation ELSE 0 END
+                ) AS sum_er_vals,
+                SUM(
+                        CASE WHEN
+                            extract(month from end_date) = 1 OR
+                            extract(month from end_date) = 4 OR
+                            extract(month from end_date) = 7 OR
+                            extract(month from end_date) = 10
+                        THEN 1 ELSE 0 END
+                ) AS count_er_vals,
+                SUM(
+                        CASE WHEN
+                            extract(month from end_date) != 1 AND
+                            extract(month from end_date) != 4 AND
+                            extract(month from end_date) != 7 AND
+                            extract(month from end_date) != 10
+                        THEN price_deviation ELSE 0 END
+                ) AS sum_non_er_vals,
+                SUM(
+                        CASE WHEN
+                            extract(month from end_date) != 1 AND
+                            extract(month from end_date) != 4 AND
+                            extract(month from end_date) != 7 AND
+                            extract(month from end_date) != 10
+                        THEN 1 ELSE 0 END
+                ) AS count_non_er_vals
+            FROM
+                volatility_aggregation_tbl AS VTbl
+            WHERE
+                end_date <= current_date AND
+                end_date > (
+                    current_date
+                    - interval '${parseInt(years)} year'
+                    - interval '${parseInt(months)} month'
+                    - interval '${parseInt(days)} day'
+                )
+            GROUP BY
+                symbol
+        ) AS raw_totals
+        WHERE
+            count_er_vals > 0 AND
+            count_non_er_vals > 0
+        ORDER BY
+            volatility DESC
+        ` : `
+        SELECT
+            symbol,
+            CAST(AVG(price_deviation) AS decimal(8,4)) AS volatility
+        FROM
+            volatility_aggregation_tbl AS VTbl
+        WHERE
+            end_date <= current_date AND
+            end_date > (
+                current_date
+                - interval '${parseInt(years)} year'
+                - interval '${parseInt(months)} month'
+                - interval '${parseInt(days)} day'
+            )
+        GROUP BY
+            symbol
+        ORDER BY
+            volatility DESC
+        `
         db.query(`
             SELECT
                 VTbl.symbol,
@@ -199,24 +279,7 @@ router.post('/ranking', function (req, res) {
                 STbl.currency,
                 VTbl.volatility
             FROM
-                (SELECT
-                    symbol,
-                    CAST(AVG(price_deviation) AS decimal(8,4)) AS volatility
-                FROM
-                    volatility_aggregation_tbl AS VTbl
-                WHERE
-                    end_date <= current_date AND
-                    end_date > (
-                        current_date
-                        - interval '${parseInt(years)} year'
-                        - interval '${parseInt(months)} month'
-                        - interval '${parseInt(days)} day'
-                    )
-                GROUP BY
-                    symbol
-                ORDER BY
-                    volatility DESC
-            ) AS VTbl
+                (${innerSelect}) AS VTbl
             LEFT JOIN
                 symbol_master_tbl AS STbl
             ON
