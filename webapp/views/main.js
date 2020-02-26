@@ -235,7 +235,7 @@ function drawGraphs(rows) {
         const volData = new google.visualization.DataTable();
         volData.addColumn('date', 'Date');
         volData.addColumn('number', 'Price Deviation');
-        volData.addColumn('number', 'Area');
+        volData.addColumn('number', 'Earnings Season');
 
         rows.map((element) => {
             return [new Date(element.median_date), parseFloat(element.price_deviation),
@@ -257,7 +257,7 @@ function drawGraphs(rows) {
             },
             series: {
                 0: { color: '#e2431e', type: 'line' },
-                1: { color: '#00e600', type: 'area' }
+                1: { color: '#FFD700', type: 'area' }
             }
         };
         
