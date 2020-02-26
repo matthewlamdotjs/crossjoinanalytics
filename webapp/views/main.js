@@ -215,9 +215,9 @@ function drawGraphs(rows) {
     google.charts.setOnLoadCallback(drawCharts);
 
     // Find ER Dates
-    function erd(start_date, end_date){
-        if(([12, 3, 6, 9].indexOf(start_date.getMonth()) > -1 && start_date.getDay() > 15) ||
-            ([1, 4, 7, 10].indexOf(end_date.getMonth()) > -1 && end_date.getDay() <= 15)){
+    function erd(date){
+        if(([12, 3, 6, 9].indexOf(date.getMonth()) > -1 && date.getDay() > 15) ||
+            ([1, 4, 7, 10].indexOf(date.getMonth()) > -1 && date.getDay() <= 15)){
             return true;
         }
         return false;
@@ -239,7 +239,7 @@ function drawGraphs(rows) {
 
         rows.map((element) => {
             return [new Date(element.median_date), parseFloat(element.price_deviation),
-                erd(new Date(element.start_date), new Date(element.end_date)) ? parseFloat(maxDev) + 500 : null]
+                erd(new Date(element.median_date)) ? parseFloat(maxDev) + 500 : null]
         }).forEach((row) => {
             volData.addRow(row);
         })
