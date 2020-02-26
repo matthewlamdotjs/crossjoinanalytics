@@ -220,7 +220,8 @@ function drawGraphs(rows) {
             ([1, 4, 7, 10].indexOf(date.getMonth() + 1) > -1 && date.getDate() <= 15)){
             return true;
         } else {
-        return false;
+            return false;
+        }
     }
 
     function drawCharts() {
