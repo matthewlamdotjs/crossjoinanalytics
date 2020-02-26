@@ -214,37 +214,68 @@ function drawGraphs(rows) {
     google.charts.load('current', { 'packages': ['corechart'] });
     google.charts.setOnLoadCallback(drawCharts);
 
-    function drawCharts() {
-        const volData = google.visualization.arrayToDataTable([
-            ['Date', 'Price Deviation']
-        ].concat(rows.map((element) => {
-            return [new Date(element.median_date), parseFloat(element.price_deviation)];
-        })));
+    // Find ER Dates
+    function erd(start_date, end_date){
+        if(([12, 3, 6, 9].indexOf(start_date.getMonth()) > -1 && start_date.getDay() > 15) ||
+            ([1, 4, 7, 10].indexOf(end_date.getMonth()) > -1 && end_date.getDay() <= 15)){
+            return true;
+        }
+        return false;
+    }
 
-        const avgData = google.visualization.arrayToDataTable([
-            ['Date', 'Average Price']
-        ].concat(rows.map((element) => {
-            return [new Date(element.median_date), parseFloat(element.average_price)];
-        })));
+    function drawCharts() {
+        let maxDev = 0;
+        // find max
+        rows.forEach((element) => {
+            if(parseFloat(element.price_deviation) > maxDev){
+                maxDev = element.price_deviation;
+            }
+        });
+
+        const volData = new google.visualization.DataTable();
+        volData.addColumn('date', 'Date');
+        volData.addColumn('number', 'Price Deviation');
+        volData.addColumn('number', 'Area');
+
+        rows.map((element) => {
+            return [new Date(element.median_date), parseFloat(element.price_deviation),
+                erd(new Date(element.start_date), new Date(element.end_date)) ? parseFloat(maxDev) + 500 : null]
+        }).forEach((row) => {
+            volData.addRow(row);
+        })
 
         const volOptions = {
             title: 'Volatility (2 week standard deviation window)',
             curveType: 'function',
             legend: { position: 'bottom' },
+            vAxis: {
+                viewWindowMode:'explicit',
+                viewWindow: {
+                    max: parseFloat(maxDev) + 500,
+                    min: -500
+                }
+            },
             series: {
-                0: { color: '#e2431e' },
+                0: { color: '#e2431e', type: 'line' },
+                1: { color: '#00e600', type: 'area' }
             }
         };
+        
+        const avgData = google.visualization.arrayToDataTable([
+            ['Date', 'Average Price']
+        ].concat(rows.map((element) => {
+            return [new Date(element.median_date), parseFloat(element.average_price)];
+        })));
         const avgOptions = {
             title: 'Average Price (2 week window average)',
             curveType: 'function',
             legend: { position: 'bottom' },
             series: {
-                0: { color: '#1c91c0' },
+                0: { color: '#1c91c0' }
             }
         };
 
-        const volChart = new google.visualization.LineChart(volGraph);
+        const volChart = new google.visualization.ComboChart(volGraph);
         const avgChart = new google.visualization.LineChart(avgGraph);
 
         volChart.draw(volData, volOptions);
