@@ -216,10 +216,10 @@ function drawGraphs(rows) {
 
     // Find ER Dates
     function erd(date){
-        if(([12, 3, 6, 9].indexOf(date.getMonth()) > -1 && date.getDay() > 15) ||
-            ([1, 4, 7, 10].indexOf(date.getMonth()) > -1 && date.getDay() <= 15)){
+        if(([12, 3, 6, 9].indexOf(date.getMonth() + 1) > -1 && date.getDate() > 15) ||
+            ([1, 4, 7, 10].indexOf(date.getMonth() + 1) > -1 && date.getDate() <= 15)){
             return true;
-        }
+        } else {
         return false;
     }
 
