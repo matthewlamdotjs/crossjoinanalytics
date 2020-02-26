@@ -240,7 +240,7 @@ function drawGraphs(rows) {
 
         rows.map((element) => {
             return [new Date(element.median_date), parseFloat(element.price_deviation),
-                erd(new Date(element.median_date)) ? parseFloat(maxDev) + 500 : null]
+                erd(new Date(element.median_date)) ? parseFloat(maxDev) * 1.15 : null]
         }).forEach((row) => {
             volData.addRow(row);
         })
@@ -252,8 +252,8 @@ function drawGraphs(rows) {
             vAxis: {
                 viewWindowMode:'explicit',
                 viewWindow: {
-                    max: parseFloat(maxDev) + 500,
-                    min: -500
+                    max: parseFloat(maxDev) * 1.15,
+                    min: -parseFloat(maxDev) * 0.15
                 }
             },
             series: {
