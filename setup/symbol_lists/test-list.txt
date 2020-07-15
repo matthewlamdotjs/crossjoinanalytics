@@ -1,0 +1,240 @@
+Symbol	Description
+CTPPO	Central ME Pwr 6 Pfd
+EMLC	Emrg Mkts Local Curr Bond ETF Vaneck
+HMCD	HSBC ETFS Plc
+IWVU	Ishares IV Plc
+VHYL	Vanguard Funds Plc
+A	Agilent Technologies
+AA	Alcoa Corp
+AAN	Aaron's Inc
+AAP	Advance Auto Parts Inc
+AAT	American Assets Trust
+AB	Alliancebernstein Holding LP
+ABB	Abb Ltd
+ABBV	Abbvie Inc
+ABC	Amerisourcebergen Corp
+ABEV	Ambev S.A.
+ABG	Asbury Automotive Group Inc
+ABM	ABM Industries Incorporated
+ABR	Arbor Realty Trust
+ABR-A	Arbor Rlty TR Inc [Abr/Pa]
+ABR-B	Arbor Rlty TR Inc [Abr/Pb]
+ABR-C	Arbor Rlty TR Inc [Abr/Pc]
+ABT	Abbott Laboratories
+AC	Associated Capital Group Inc
+ACA	Arcosa Inc
+ACB	Aurora Cannabis Inc
+ACC	American Campus Communities Inc
+ACCO	Acco Brands Corp
+ACE.W	Accel Entmt Inc [Acel/W]
+ACEL	Accel Entertainment Inc.
+ACH	Aluminum Corp of China Ltd
+ACM	Aecom Technology Corp
+ACN	Accenture Plc
+ACP	Avenue Income Credit Strategies
+ACRE	Ares Commercial Real Estate Cor
+ACV	Allianzgi Diversified Income &
+ADC	Agree Realty Corp
+ADM	Archer Daniels Midland
+ADNT	Adient Plc
+ADS	Alliance Data Systems Corp
+ADSW	Advanced Disposal Services Inc
+ADT	ADT Inc
+ADX	Adams Express Company
+AEB	Aegon N.V. Perp Cap Secs Floating Rate [Ne]
+AEE	Ameren Corp
+AEFC	Aegon Funding Company Llc 5.10% Subordinated Not
+AEG	Aegon N.V.
+AEL	American Equity Investment Life
+AEL-A	American Equity Investment Life Holding CO 5.95%
+AEM	Agnico-Eagle Mines Ltd
+AEO	American Eagle Outfitters
+AEP	American Electric Power Company
+AEP-B	American Elec Pwr Co. Inc [Aep/Pb]
+AER	Aercap Holdings N.V.
+AES	The Aes Corp
+AFB	Alliance National Municipal
+AFC	Allied Capital Corp
+AFG	American Financial Group
+AFGB	American Financial Group Inc 5.875% Subordinat
+AFGC	American Financial Group Inc 5.125% Subordinate
+AFGH	American Financial Group Inc
+AFI	Armstrong Flooring Inc
+AFL	Aflac Incorporated
+AFT	Apollo Senior Floating Rate Fund Inc
+AG	First Majestic Silver
+AGCO	Agco Corp
+AGD	Alpine Global Dynamic Dividend Fund
+AGI	Alamos Gold Inc
+AGM	Federal Agricultural Mortgage Corp
+AGM-A	Federal Agricultural Mortgage Corp [Agm/Pa]
+AGM-C	Federal Agricultural Mortc [Aht/Pf]
+AHT-G	Ashford Hospitality TR Inc [Aht/Pg]
+AHT-H	Ashford Hospitality TR Inc [Aht/Ph]
+AHT-I	Ashford Hospitality TR Inc [Aht/Pi]
+AI	Arlington Asset Investment Corp
+AI-B	Arlington Asset Investment Corp [Ai/Pb]
+AI-C	Arlington Asset Investment Corp [Ai/Pc]
+AIC	Arlington Asset Investment Cor
+AIF	Apollo Tactical Income FundCor
+AIZ	Assurant Inc
+AIZP	Assurant Inc 6.50% Series D Mandatory Converti
+AJG	Arthur J. Gallagher & Company
+AJRD	Aerojet Rocketdyne Holdings
+AJX	Great Ajax Corp
+AJXA	Great Ajax Corp 7.25% Convertible Senior Notes
+AKO.A	Embotell Andina Sa Cl A
+AKO.B	Embotell Andna Sa Cl B
+AKR	Acadia Realty Trust
+AKS	AK Steel Holding Corp
+AL	Air Lease Corp Cl A
+AL-A	Air Lease Corp [Al/Pa]
+ALB	Albemarle Corp
+ALC	Alcon Inc
+ALE	Allete Inc
+ALEX	Alexander and Baldwin Inc
+ALG	Alamo Group
+ALK	Alaska Air Group
+ALL	Allstate Corp
+ALL-A	Allstate Corp [All/
+ALP-Q	Alabama Power Co. [Alp/Pq]
+ALSN	Allison Transmission Holdings
+ALU.U	Alussa Energy Acquisition Corp [Alus.U]
+ALUS	Alussa Energy Acquisition Corp Cl A
+ALV	Autoliv Inc
+ALX	Alexander's Inc
+AM	Antero Midstream Corp
+AMC	Amc Entertainment Holdings Inc
+AMH-H	American Homes 4 Rent [Amh/Ph]
+AMK	Assetmark Financial Holdings Inc
+AMN	Amn Healthcare Services Inc
+AMOV	America Movil A ADR
+AMP	Ameriprise Financial Services
+AMPY	Amplify Energy Corp
+AMRC	Ameresco Inc
+AMRX	Amneal Pharmaceuticals Inc
+AMT	American Tower Corp
+AMX	America Movil S.A.B. DE C.V.
+AN	Autonation Inc
+ANET	Arista Networks Inc
+ANF	Abercrombie & Fitch Company
+ANH	Anworth Mortgage Asset Corp
+ANH-A	Anworth Mortgage Asset Cp [Anh/Pa]
+ANH-B	Anworth Mortgage Asset Cp [Anh/Pb]
+ANH-C	Anworth Mortgage Asset Cp [Anh/Pc]
+ANTM	Anthem Inc
+AOD	Alpine Total Dynamic Dividend
+AON	AON Plc
+AOS	Smith [A.O.] Corp
+AP	Ampco-Pittsburgh Corp
+APO	Apollo Global Management Llc C
+APO-A	Apollo Global Mgmt Inc [Apo/Pa]
+APO-B	Apollo Global Mgmt Inc [Apo/Pb]
+APRN	Blue Apron Holdings Inc
+APTS	Preferred Apartment Communities
+APTV	Aptiv Plc
+APY	Apergy Corp
+AQN	Algonquin Pwr & Util
+AQNA	Algonquin Power & Utilities Corp
+AQNB	Algonquin Power & Utilities Corp 6.20% Fixed-To
+AQUA	Evoqua Water Technologies Corp
+AR	Antero Resources Corp
+ARA	American Renal Associates
+ARC	American Reprographics Company
+ARCH	Arch Coal Inc
+ARCO	Arcos Dorados Holdings Inc
+ARD	Ardagh Group S.A.
+ARDC	Ares Dynamic Credit Allocation
+ARE	Alexandria Real Estate Equities
+ARE-A	Ares Management Corp [Ares/Pa]
+ARES	Ares Management LP
+ARGD	Argo Grp Itl Snr NTS
+ARGO	Argo Group Intl Hlds
+ARI	Apollo Commercial Real Estate
+ARL	American Realty Investors
+ARLO	Arlo Technologies Inc
+ARMK	Aramark Holdings Corp
+ARNC	Arconic Inc
+AROC	Archrock Inc
+ASB-D	Associated Banc-Corp [Asb/Pd]
+ASB-E	Associated Banc-Corp [Asb/Pe]
+ASC	Ardmore Shipping Corp
+ASG	Liberty All-Star Growth Fund
+ASGN	On Assignment
+ASH	Ashland Global Holdings Inc
+ASIX	Advansix Inc
+ASPN	Aspen Aerogels Inc
+ASR	Grupo Aeroportuario Del Sureste
+ATI	Allegheny Technologies Inc
+ATKR	Atkore International Group
+ATO	Atmos Energy Corp
+ATR	Aptargroup
+ATTO	Atento S.A.
+ATUS	Altice USA Inc Cl A
+ATV	Acorn International
+AU	Anglogold Ashanti Ltd
+AUY	Yamana Gold
+AVA	Avista Corp
+e Club Holdings Inc
+BK	Bank of New York Mellon Corp
+BK-C	Bank of New York Mellon Corp [Bk/Pc]
+BKD	Brookdale Senior Living Inc
+BKE	Buckle Inc
+BKH	Black Hills Corp
+BKI	Black Knight Inc
+BKK	Blackrock Muni 2020 Trust
+BKN	Blackrock Investment Quality Municipal
+BKR	Baker Hughes A Ge Co. Cl A
+BKT	Blackrock Income Trust Inc
+BKU	BankUnited Inc
+BLD	Topbuild Corp
+BLE	Blackrock Muni Income Trust II
+BLK	Blackrock
+BLL	Ball Corp
+BLW	Blackrock Ltd Duration Income Trust
+BLX	Banco Latinoamericano DE Comercio
+BMA	Banco Macro S.A.
+BME	Blackrock Health Sciences Trust
+BMI	Badger Meter
+BML-G	Bank of America Corp [Bml/Pg]
+BML-H	Bank of America Corp [Bml/Ph]
+BML-J	Bank of America Corp
+CBL-E	Cbl & Assoc Pptys Inc [Cbl/Pe]
+CBPX	Continental Building Products
+CBRE	CBRE Group Inc
+CBT	Cabot Corp
+CBU	Community Bank System
+CBZ	Cbiz Inc
+CC	Chemours Company
+CCC	Clarivate Analytics Plc
+CCEP	Coca Cola European Partners
+CCH	Collier Creek Holdings Cl A
+CCH.U	Collier Creek Holdings
+CCH.W	Collier Creek Holdings WT [Cch/W]
+CCI	Crown Castle International Corp
+CCI-A	Crown Castle Intl Corp [Cci/Pa]
+CCJ	Cameco Corp
+CCK	Crown Cork & Seal Company
+CCL	Carnival Corp
+CCM	Concord Medical Services
+CCO	Clear Channel Outdoor Holdings
+CCR	Consol Coal Resources LP
+CCS	Century Communities Inc
+CCU	Compania Cervecerias Unidas S.A.
+CCX	Churchill Capital Corp II
+CCX.U	Churchill Capital Corp II
+CCX.W	Churchill Cap Corp II WT [Ccx/W]
+CCZ	Comcast Corp
+DPZ	Domino's Pizza Inc
+DQ	Daqo New Energy
+DRD	Drdgold Ltd
+DRE	Duke Realty Corp
+DRH	Diamondrock Hospitality Company
+DRI	Darden Restaurants
+DRQ	Dril-Quip
+DRUA	Dominion Resources Inc
+DS	Drive Shack Inc
+DS-B	Drive Shack Inc [Ds/Pb]
+DS-C	Drive Shack Inc [Ds/Pc]
+DS-D	Drive Shack Inc [Ds/Pd]
+DSE	Duff & Phelps Select Energy ML

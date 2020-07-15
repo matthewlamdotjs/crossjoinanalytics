@@ -10,11 +10,11 @@ import psycopg2
 
 # grab API key and db cnx props from env
 try:
-    API_KEY = os.environ['ALPHA_VANTAGE_API_KEY']
-    DB_URL = os.environ['CJ_DB_URL']
-    DB_PORT = os.environ['CJ_DB_PORT']
-    DB_USER = os.environ['CJ_DB_UN']
-    DB_PASS = os.environ['CJ_DB_PW']
+    API_KEY = os.environ['ALPHA_VANTAGE_API_KEY_DEV']
+    DB_URL = 'localhost'
+    DB_PORT = '5432'
+    DB_USER = 'postgres'
+    DB_PASS = os.environ['LOCAL_DB_PW']
 except:
     print('Missing credentials. Please set environment variables appropriately.')
     exit()
@@ -29,7 +29,7 @@ try:
                                   password = DB_PASS,
                                   host = DB_URL,
                                   port = DB_PORT,
-                                  database = 'postgres')
+                                  database = 'hedgemaster')
     connection.autocommit = True
     cursor = connection.cursor()
 
@@ -78,7 +78,7 @@ try:
                     print('no matches for '+eod_symbol)
 
                 # 5 requests per minute api limit
-                time.sleep(0.5)
+                time.sleep(12)
 
 
 except (Exception, psycopg2.Error) as error :

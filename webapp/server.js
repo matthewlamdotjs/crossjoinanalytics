@@ -16,10 +16,10 @@ const client = redis.createClient();
 
 /* ENV Config */
 
-const DB_URL = process.env['CJ_DB_URL'];
-const DB_PORT = process.env['CJ_DB_PORT'];
-const DB_UN = process.env['CJ_DB_UN'];
-const DB_PW = process.env['CJ_DB_PW'];
+const DB_URL = 'localhost';
+const DB_PORT = '5432';
+const DB_UN = 'postgres';
+const DB_PW = process.env['LOCAL_DB_PW'];
 const SESSION_SECRET = process.env['SESSION_SECRET'];
 
 if (!DB_URL || !DB_PORT || !DB_UN || !DB_PW || !SESSION_SECRET) {
@@ -32,7 +32,7 @@ if (!DB_URL || !DB_PORT || !DB_UN || !DB_PW || !SESSION_SECRET) {
 const dbConfig = {
     user: DB_UN,
     password: DB_PW,
-    database: 'postgres',
+    database: 'hedgemaster',
     host: DB_URL,
     port: DB_PORT,
     max: 100, // 100 clients at a any given time

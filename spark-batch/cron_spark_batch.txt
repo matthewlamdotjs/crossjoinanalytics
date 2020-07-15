@@ -1,3 +1,0 @@
-# batch every sunday
-
-0 0 * * 0 ~/crossjoinanalytics/spark-batch/submit.sh > joblog.txt
